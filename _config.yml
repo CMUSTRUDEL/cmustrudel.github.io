@@ -1,0 +1,278 @@
+### GENERAL SETTINGS ###
+
+# Site settings
+title: STRUDEL
+description: "The Socio-Technical Research Using Data Excavation Lab at Carnegie Mellon University"
+analytics: #Google analytics code in the format XX-nnnnnnnn-n
+baseurl: "" #important: start with /
+url: "http://yourdomain.com"
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title
+excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
+
+colors:  #in hex code if not noted else
+  primary: "#DC2624" #"#00b3fe" #"#F70031"
+  primary_rgb: "220,38,36" #"0,179,254" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.
+  secondary: "#384452" #"#33004D"
+  link: "#96302E" #"#384452" #"#428bca"
+  link_hover: "#DC2624" #"#01b2fe"
+  footer_heading: "#ffffff"
+  footer_content: "#bfc9d3"
+
+# Making projects separate from posts
+collections:
+  projects:
+    output: true
+    permalink: /projects/:title/
+  questions:
+    output: true
+    permalink: /questions/:title/
+
+### CONTACT SETTINGS ###
+
+# Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
+social:
+#  - title: dribbble
+#    url:
+  - title: facebook
+    url: https://www.facebook.com/cmustrudel/
+  - title: twitter
+    url: https://twitter.com/cmustrudel
+  - title: github
+    url: https://github.com/cmustrudel
+#  - title: tumblr
+#    url:
+
+# Postal address (add as many lines as necessary). Shown in footer and on Contact page.
+address:
+  - lines:
+    - Wean Hall 5115, Institute for Software Research
+    - School of Computer Science, Carnegie Mellon University
+    - 5000 Forbes Ave
+    - Pittsburgh, PA, 15213 USA
+email: hello@solidtheme.com
+tel: +1 412-2681048
+
+
+### GENERAL DATA FOR VARIOUS LOCATIONS ###
+
+# Members information. Shown on People page.
+faculty:
+  - name: Bogdan Vasilescu
+    position: Director
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    web: http://bvasiles.github.io
+    img: bogdan.jpg
+    strudel: sour cherry
+    social:
+      - title: envelope #use for email address
+        url: mailto:vasilescu@cmu.edu
+      - title: twitter
+        url: http://twitter.com/b_vasilescu
+      - title: link
+        url: http://bvasiles.github.io
+
+affilfaculty:
+  - name: Claire Le Goues
+    position: CMU, ISR
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    web: https://clairelegoues.com
+    img: claire.jpg
+    social:
+#      - title: envelope #use for email address
+#        url: mailto:name@domain.com
+      - title: twitter
+        url: https://twitter.com/clegoues
+      - title: link
+        url: https://clairelegoues.com
+  - name: Christian Kaestner
+    position: CMU, ISR
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    web: https://www.cs.cmu.edu/~ckaestne/
+    img: christian2.jpg
+    social:
+#      - title: envelope #use for email address
+#        url: mailto:name@domain.com
+      - title: twitter
+        url: https://twitter.com/p0nk
+      - title: link
+        url: https://www.cs.cmu.edu/~ckaestne/
+  - name: Graham Neubig
+    position: CMU, LTI
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    web: http://phontron.com
+    img: graham.jpg
+    social:
+#      - title: envelope #use for email address
+#        url: mailto:name@domain.com
+      - title: twitter
+        url: https://twitter.com/gneubig
+      - title: link
+        url: http://phontron.com
+  - name: Jim Herbsleb
+    position: CMU, ISR
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    web: http://herbsleb.org
+    img: jim.jpg
+    social:
+#      - title: envelope #use for email address
+#        url: mailto:name@domain.com
+      - title: twitter
+        url: https://twitter.com/jherbsleb
+      - title: link
+        url: http://herbsleb.org
+
+                        
+grads:
+  - name: Huilian (Sophie) Qiu
+    position: Societal Computing, 2017-
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    img: sophie.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:huilianq@andrew.cmu.edu
+#      - title: twitter
+#        url: http://twitter.com/handle
+  - name: David Widder
+    position: Software Engineering, 2017-
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    img: david.jpg
+    social:
+#      - title: envelope #use for email address
+#        url: mailto:x@cmu.edu
+#      - title: twitter
+#        url: http://twitter.com/handle
+
+undergrads:
+  - name: Raunak Agnihotri
+    position: CMU, ECE
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    img: raunak.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:raunak@cmu.edu
+#      - title: twitter
+#        url: http://twitter.com/handle
+  - name: Anita Brown, REU 2017
+    position: CS
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    img: anita.jpg
+    social:
+#      - title: envelope #use for email address
+#        url: mailto:name@domain.com
+#      - title: twitter
+#        url: http://twitter.com/handle
+  - name: Jacob Hoffman
+    position: CMU, CS, REU 2017
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    img: jacob.jpg
+    social:
+#      - title: envelope #use for email address
+#        url: mailto:name@domain.com
+#      - title: twitter
+#        url: http://twitter.com/handle
+  - name: Alan Jaffe
+    position: CMU, CS
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    img: alan.jpg
+    social:
+#      - title: envelope #use for email address
+#        url: mailto:name@domain.com
+#      - title: twitter
+#        url: http://twitter.com/handle
+  - name: Kyle Kovacs
+    position: UC Berkeley, EECS
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    img: kyle.jpg
+    social:
+#      - title: envelope #use for email address
+#        url: mailto:name@domain.com
+#      - title: twitter
+#        url: http://twitter.com/handle
+  - name: Asher Trockman, REU 2017
+    position: CS
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    img: asher.jpg
+    social:
+#      - title: envelope #use for email address
+#        url: mailto:name@domain.com
+#      - title: twitter
+#        url: http://twitter.com/handle
+
+visitors:
+  - name: Fabio Calefato
+    position: Asst. Professor, University of Bari
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    img: fabio.jpg
+    web: http://collab.di.uniba.it/fabio/
+    social:
+      - title: envelope #use for email address
+        url: mailto:name@domain.com
+      - title: twitter
+        url: http://twitter.com/handle
+        
+                
+# Clients information. Shown on Home and About pages.
+#clients:
+#  - name: dribbble
+#    img: client01.png
+#  - name: Code is Poetry
+#    img: client02.png
+#  - name: Vimeo
+#    img: client03.png
+#  - name: VimeoPro
+#    img: client04.png
+
+# Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
+about: "We study complex socio-technical systems such as GitHub and Stack Overflow using data science methods."
+
+# Testimonial content. Shown on Home and About page.
+testimonial:
+    message: "fff"
+    author: Marcel Newman
+    position: WEB DESIGNER - BLACKTIE.CO
+
+gems: ['jekyll/scholar']
+
+# Custom vars
+scholar:
+  style: assets/my-acm-sigchi-proceedings.csl
+  locale: en
+
+  sort_by: year
+  order: descending
+
+  source: ./_bibliography
+  bibliography: publications.bib
+  bibliography_template: bib
+  
+  bibliography_list_tag: 'div'
+  bibliography_item_tag: 'span'
+  
+  bibliography_list_attributes:
+    reversed: "reversed"  
+
+  replace_strings: true
+  join_strings:    true
+
+  #details_dir:    bibliography
+  #details_layout: bibtex.html
+  #details_link:   Details
+
+  query: "@*"
+
+#safe: false
+#lsi: false
+#pygments: true
+
+exclude:
+  - README.md
+  - Rakefile
+  - Gemfile
+  - Gemfile.lock
+  - changelog.md
+  - "*.Rmd"
+  - vendor
+  - .travis.yml

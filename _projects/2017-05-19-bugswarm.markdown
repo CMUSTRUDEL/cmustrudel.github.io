@@ -1,0 +1,37 @@
+---
+layout: project
+title:  "BugSwarm"
+date:   2016-10-01 16:54:46
+author: Bogdan Vasilescu
+categories:
+- project
+img: portfolio/portfolio.001.jpeg
+thumb: thumb02.jpg
+carousel:
+- bs.001.jpeg
+tagged: GitHub, Bugs, TravisCI
+website: http://bugswarm.github.io
+---
+
+### BugSwarm
+
+Improving software quality is a central priority of our time.
+Approaches to understand, diagnose, localize, and fix software defects 
+are usually empirically grounded in datasets of past defects/repairs.
+A few such datasets are available; however, these datasets are
+difficult to create, and are typically not of the size, scale, and
+diversity that is representative of the software in use. 
+
+The goal of **BugSwarm** is to create a **large-scale repository of
+replicable defects, tests, and patches** by drawing from the recorded 
+history of defects in [GitHub](http://www.github.com) open-source projects.
+BugSwarm exploits **continuous integration records of build and
+test attempts**, including those that result in build and/or test
+failures, and subsequent repairs.
+
+Upon construction, BugSwarm will include **complete virtual machines** to 
+reproduce real test failures and bug fixes in thousands of open-source 
+projects.
+This will facilitate experimentation and avoid the duplication of a 
+tremendous amount of work among researchers in programming languages 
+and software engineering.

@@ -1,0 +1,26 @@
+---
+---
+<div class="refs-row">
+<table style="width:100%">
+  <p><tr>
+    <td width="120" valign="top"><span class="abbrv">{{entry.abbrv}}</span></td>
+    <td><div class="reference">
+<!-- {{ reference }} -->
+<!-- <abbr>[{{key}}]</abbr>{{reference}} -->
+{{ reference | replace_first: 'Vasilescu, B.', '<u class="ref">Vasilescu, B.</u>' }}
+</div>
+  <span class="refs-link"><a href="javascript:void(0)" onclick="$('#bibtex-entry-{{key}}').slideToggle();">BibTeX</a></span>
+  {% if entry.doi %} &middot; <span class="refs-link"><a href="{{entry.doi}}">DOI</a></span> {% endif %}
+  {% if entry.pdf %} &middot; <span class="refs-link"><a href="{{entry.pdf}}">PDF</a></span> {% endif %}
+  {% if entry.slides %} &middot; <span class="refs-link"><a href="{{entry.slides}}">Slides</a></span> {% endif %}
+  {% if entry.poster %} &middot; <span class="refs-link"><a href="{{entry.poster}}">Poster</a></span> {% endif %}
+  {% if entry.data %} &middot; <span class="refs-link"><a href="{{entry.data}}">Data</a></span> {% endif %}
+  {% if entry.tool %} &middot; <span class="refs-link"><a href="{{entry.tool}}">Tool</a></span> {% endif %}
+<!--   {% if entry.acceptance %} &middot; <span class="refs-acceptance">Acceptance rate: {{entry.acceptance}}</span> {% endif %} -->
+  <div class="bibtex noshow" style="width:600px;overflow:auto">
+  	<pre class="bibtex-entry" id="bibtex-entry-{{key}}" style="display: none;">{{ entry.bibtex }}</pre>
+  </div></td>
+  </tr></p>
+</table>
+
+</div>

@@ -1,0 +1,70 @@
+---
+layout: index
+title: Home
+permalink: /
+---
+
+<div id="service">
+    <div class="container">
+        <div class="row centered">
+            <div class="col-md-5">
+                <i class="fa fa-flask" aria-hidden="true"></i>
+                <span class="sr-only">Research</span>
+                <h4 style="padding: 0px; margin: 0px;">Mission</h4>
+                <p><b>Software is being developed by increasingly distributed 
+                and increasingly diverse teams</b>. 
+								How can we empower distributed teams to develop software effectively and 
+								productively? How can technology help software teams do more with less? 
+								What effects does team composition have on productivity and code quality?</p>
+								<p>We are engaged in <b>interdisciplinary research</b> to offer 
+								<b>data-driven</b> answers to these questions. 
+								Our work draws from empirical software engineering, social computing, 
+								and computer-supported cooperative work.
+								<!-- 
+<p>We collect <i>Big Data</i> from open source software, which are widely used and, 
+								with the advent of social coding platforms like <a href="http://github.com">GitHub</a>, 
+								extremely popular. 
+								We analyze these data using <i>mixed research methods</i> from computer science 
+								and the social sciences (e.g., statistical analysis, grounded theory) to develop 
+								or validate theories about software engineering processes and outcomes.
+ --></p>
+<!--                 <p><br/><a href="#" class="btn btn-theme">More Info</a></p> -->
+            </div>
+            
+            <div class="col-md-3">
+                <i class="fa fa-users" aria-hidden="true"></i>
+                <span class="sr-only">Prospective Students</span>
+                <h4 style="padding: 0px; margin: 0px;">Join Us</h4>
+                <p>We’re always looking for talented, motivated people to join us. 
+                If you’re interested in the things we do and you’d like to join us, 
+                or visit our lab, please contact <a href="/contact">Bogdan Vasilescu</a>.</p>
+<!--                 <p><br/><a href="/contact" class="btn btn-theme">More Info</a></p> -->
+            </div>            
+            
+            <div class="col-md-4">
+	                <i class="fa fa-rss" aria-hidden="true"></i>
+  	              <span class="sr-only">News Feed</span>
+    	            <h4 style="padding: 0px; margin: 0px;">News</h4>
+  	  		  	      {% for post in site.posts limit:5 %}
+<!--   	  		  	      <p><csmall>{{ post.date | date: "%b %-d, %Y" }}. | By: {{ post.author }}</csmall></p> -->
+    	    	        <p><csmall>{{ post.date | date: "%b %-d, %Y" }}. </csmall><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}.</a></p>
+      	      			{% endfor %}
+      	      			<p><br/><a href="/blog" class="btn btn-theme">More</a></p>
+            </div>
+            
+        </div>
+    </div>
+</div>
+
+<div id="service">
+    <div class="container-0">
+        <div class="row centered">
+            <div class="col-md-12">
+                <i class="fa fa-briefcase" aria-hidden="true"></i>
+<!--                 <span class="sr-only">Projects</span> -->
+                <h4 style="padding: 0px; margin: 0px;">Recent Projects</h4>
+</div></div></div></div>
+{% include portfolio.html limit=10 %}
+
+
+ 

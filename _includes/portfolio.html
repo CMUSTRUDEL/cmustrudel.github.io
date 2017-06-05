@@ -1,0 +1,27 @@
+<div id="portfoliowrap">
+    <div class="portfolio-centered">
+    {% if include.title %}<h3 style="padding: 10px; margin: 0px;">{{ include.title }}</h3>{% endif %}
+    <div class="container">
+    <div class="row row-centered">
+    <div class="recentitems portfolio">
+    {% for project in site.projects limit:include.limit %}
+                <div class="portfolio-item graphic-design">
+                    <div class="he-wrap tpl6">
+                    <img src="{{ "/assets/img/project/" | prepend: site.baseurl }}{{ project.img }}" alt="">
+                        <div class="he-view">
+                            <div class="bg a0" data-animate="fadeIn">
+                                <h3 class="a1" data-animate="fadeInDown">{{ project.title }}</h3>
+<!--                                 <a data-rel="prettyPhoto" href="{{ "/assets/img/project/" | prepend: site.baseurl }}{{ project.img }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-search"></i></a> -->
+                                <a href="{{  project.url | prepend: site.baseurl }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-search"></i></a>
+                                {% if project.website %}
+                                <a href="{{  project.website }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
+                                {% endif %}
+                            </div><!~~ he bg ~~>
+                        </div><!~~ he view ~~>
+                    </div><!~~ he wrap ~~>
+                </div><!~~ end col-12 ~~>
+            {% endfor %}
+        </div><!-- portfolio -->
+        </div></div>
+    </div><!-- portfolio container -->
+</div><!--/Portfoliowrap -->

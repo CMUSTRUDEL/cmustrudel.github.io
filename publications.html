@@ -1,0 +1,17 @@
+---
+layout: portfolio
+title: Publications
+permalink: /publications/
+---
+
+<div class="container mtb-0">
+    <div class="row">
+        <div class="col-lg-8 col-lg-offset-2">
+            {% bibliography --query @inproceedings[pubcls=2 || pubcls=1] || @article[pubcls=0] %}
+						</br>
+        </div>
+    </div>
+</div>
+
+
+

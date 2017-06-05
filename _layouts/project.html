@@ -1,0 +1,57 @@
+---
+layout: default
+---
+
+{% include wrap.html %}
+
+<div class="container mt">
+    <div class="row">
+
+        {% include carousel.html %}
+
+        <div class="col-lg-5 col-lg-offset-1">
+            <div class="spacing"></div>
+
+            {{ content }}
+
+        </div>
+        <div class="col-lg-4 col-lg-offset-1">
+            <div class="spacing"></div>
+            
+            {% if page.website %}
+            <h4>Website</h4>
+            <div class="hline"></div>
+            <p><a href="{{ page.website }}">{{ page.website }}</a></p>
+            <div class="spacing"></div>
+            {% endif %}
+            
+            {% if page.pubs %}
+            <h4>Related Publications</h4>
+            <div class="hline"></div>
+<!--             <div class="row"> -->
+			        {% for pub in page.pubs %}
+			        <li><b>{{ pub.key }}</b>: <i><a href="{{ pub.url }}">{{ pub.title }}</a></i><!-- {% if product.nested-products %} -->
+<!-- 
+    					<ul>
+					    	{% for nestedproduct in product.nested-products %}  <li>{{ nestedproduct.nested }}: {{ nestedproduct.sub-arbitrary }}</li>
+					    	{% endfor %}
+					    </ul>
+ -->
+<!-- 						  {% endif %} -->
+						  </li>
+<!--       		  	<p><a href="{{ pub.pub }}">{{ pub.pub }}</a>: {{ pub.desc }}</p> -->
+<!--         	<a href="{{ pub.url }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-{{ entry.title }}"></i></a> -->
+              {% endfor %}	
+            {% endif %}
+<!--     				</div><! ~~/row ~~> -->
+<!--             <p><b>Date:</b> {{ page.date | date: "%b %-d, %Y" }}</p> -->
+<!--             <p><b>Author:</b> {{ page.author }}</p> -->
+<!--             <p><b>Categories:</b> {{ page.categories }}</p> -->
+<!--             <p><b>Tagged:</b> {{ page.tagged }}</p> -->
+<!--             <p><b>Client:</b> {{ page.client }}</p> -->
+<!--             <p><b>Website:</b> <a href="{{ page.website }}">{{ page.website }}</a></p> -->
+        </div>
+    </div><! --/row -->
+</div><! --/container -->
+	 
+{% include portfolio.html title="Related Projects" limit=5 %}
