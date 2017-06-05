@@ -1,5 +1,4 @@
 language: ruby
-
 rvm:
 - 2.1.1
 before_install:
@@ -9,7 +8,7 @@ install:
 - bundle install
 branches:
   only:
-  - develop
+  - devel
 script:
 - bundle exec rake deploy
 notifications:
