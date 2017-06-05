@@ -8,7 +8,7 @@ install:
 - bundle install
 branches:
   only:
-  - devel
+  - develop
 script:
 - bundle exec rake deploy
 notifications:
