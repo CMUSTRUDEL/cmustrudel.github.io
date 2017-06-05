@@ -3,9 +3,20 @@
 # Site settings
 title: STRUDEL
 description: "The Socio-Technical Research Using Data Excavation Lab at Carnegie Mellon University"
-analytics: #Google analytics code in the format XX-nnnnnnnn-n
+analytics: UA-28938909-3 #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
-url: "http://yourdomain.com"
+url: "http://cmustrudel.github.io"
+
+# Settings for deploy rake task
+# Username and repo of Github repo, e.g.
+# https://github.com/USERNAME/REPO.git
+# username defaults to ENV['GIT_NAME'] used by Travis
+# repo defaults to USERNAME.github.io
+# Branch defaults to "source" for USERNAME.github.io
+# or "master" otherwise
+username: bvasiles
+repo: cmustrudel.github.io
+branch: master
 
 # Build settings
 markdown: kramdown
