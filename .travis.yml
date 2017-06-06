@@ -10,7 +10,7 @@ branches:
   only:
   - develop
 script:
-- bundle exec rake deploy
+- bundle exec rake deploy_github
 notifications:
   email: false
 env:
