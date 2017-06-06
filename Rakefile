@@ -1,8 +1,3 @@
-# require 'rake-jekyll'
-# 
-Rake::Jekyll::GitDeployTask.new(:deploy_github)
-# 
-
 # coding: utf-8
 task :default => :preview
 
