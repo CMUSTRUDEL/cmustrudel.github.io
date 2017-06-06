@@ -61,7 +61,7 @@ load '_rake_configuration.rb' if File.exist?('_rake_configuration.rb')
 $post_ext ||= ".textile"
 $post_dir ||= "_posts/"
 $git_check ||= false
-$git_autopush ||= false
+$git_autopush ||= true
 
 #
 # Tasks start here
