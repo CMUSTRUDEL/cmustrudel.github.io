@@ -56,6 +56,6 @@ Rake::Jekyll::GitDeployTask.new(:deploy) do |t|
   }
   # Path of the private SSH key to be used for communication with the
   # repository defined by remote_url.
-  t.ssh_key_file = '.deploy_key'
+  # t.ssh_key_file = '.deploy_key'
 end
 
