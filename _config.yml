@@ -15,7 +15,7 @@ url: "http://cmustrudel.github.io"
 # Branch defaults to "source" for USERNAME.github.io
 # or "master" otherwise
 username: bvasiles
-repo: cmustrudel.github.io
+repo: https://github.com/CMUSTRUDEL/cmustrudel.github.io.git
 branch: master
 
 # Build settings
