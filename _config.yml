@@ -16,7 +16,7 @@ url: "http://cmustrudel.github.io"
 # or "master" otherwise
 username: bvasiles
 repo: https://github.com/CMUSTRUDEL/cmustrudel.github.io.git
-branch: master
+branch: develop
 
 # Build settings
 markdown: kramdown
