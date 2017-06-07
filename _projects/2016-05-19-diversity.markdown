@@ -10,16 +10,16 @@ thumb: thumb02.jpg
 pubs:
  - key: CHI 2015
    title: "Gender and tenure diversity in GitHub teams."
-   url: http://bvasiles.github.io/papers/chi15.pdf
+   url: ../../papers/chi15.pdf
  - key: CHASE 2015
    title: "Perceptions of Diversity on GitHub: A User Survey."
-   url: http://bvasiles.github.io/papers/chase15.pdf
+   url: ../../papers/chase15.pdf
  - key: MSR 2015
    title: "A Data Set for Social Diversity Studies of GitHub Teams."
-   url: http://bvasiles.github.io/papers/msr_data15.pdf
+   url: ../../papers/msr_data15.pdf
  - key: IWC 2014
    title: "Gender, representation and online participation: A quantitative study."
-   url: http://bvasiles.github.io/papers/iwc13.pdf
+   url: ../../papers/iwc13.pdf
 carousel:
 - diversity/diversity.001.jpeg
 - diversity/diversity.002.jpeg

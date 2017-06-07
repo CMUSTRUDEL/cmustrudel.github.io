@@ -8,7 +8,7 @@ categories:
 pubs:
  - key: ICSE 2016
    title: "The Sky is Not the Limit: Multitasking across GitHub Projects."
-   url: http://bvasiles.github.io/papers/icse16focus.pdf
+   url: ../../papers/icse16focus.pdf
 img: portfolio/portfolio.002.jpeg
 thumb: thumb02.jpg
 carousel:

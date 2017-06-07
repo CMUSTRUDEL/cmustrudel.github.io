@@ -7,6 +7,10 @@ categories:
 - project
 img: portfolio/portfolio.003.jpeg
 thumb: thumb02.jpg
+pubs:
+ - key: ESEC/FSE 2017
+   title: "Recovering Clear, Natural Identifiers from Obfuscated JavaScript Names."
+   url: ../../papers/fse17jsnaughty.pdf
 carousel:
 - jsnaughty/jsnaughty.001.jpeg
 - jsnaughty/jsnaughty.002.jpeg
