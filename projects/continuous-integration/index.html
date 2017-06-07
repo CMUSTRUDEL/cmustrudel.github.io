@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <link rel="shortcut icon" href="/assets/ico/favicon.ico">
 
-    <title>STRUDEL - JSNaughty</title>
+    <title>STRUDEL - Continuous Integration</title>
 
     <!-- Bootstrap core CSS -->
     <link href="/assets/css/bootstrap.css" rel="stylesheet">
@@ -61,7 +61,7 @@
             <div id="blue">
     <div class="container" style="max-height: 10px;">
         <div class="row">
-            <h3 style="padding: 0px; margin: 0px;">JSNaughty</h3>
+            <h3 style="padding: 0px; margin: 0px;">Continuous Integration</h3>
         </div><!-- /row -->
     </div> <!-- /container -->
 </div><!-- /blue -->
@@ -94,16 +94,16 @@
         <div class="carousel-inner">
             
                 <div class="item active">
-                    <img src="/assets/img/project/carousel/jsnaughty/jsnaughty.001.jpeg" alt="">
+                    <img src="/assets/img/project/carousel/ci/ci.001.jpeg" alt="">
                 </div>
             
             
                 <div class="item">
-                    <img src="/assets/img/project/carousel/jsnaughty/jsnaughty.002.jpeg" alt="">
+                    <img src="/assets/img/project/carousel/ci/ci.002.jpeg" alt="">
                 </div>
             
                 <div class="item">
-                    <img src="/assets/img/project/carousel/jsnaughty/jsnaughty.003.jpeg" alt="">
+                    <img src="/assets/img/project/carousel/ci/ci.003.jpeg" alt="">
                 </div>
             
         </div>
@@ -115,26 +115,30 @@
         <div class="col-lg-5 col-lg-offset-1">
             <div class="spacing"></div>
 
-            <p>Well-chosen variable names are critical to source code <strong>readability, reusability, 
-and maintainability</strong>. Unfortunately, in deployed <strong>JavaScript</strong> code (which is 
-ubiquitous on the web) the identifier names are frequently <strong>minified</strong> and 
-overloaded. This is done both for efficiency and also to protect potentially 
-proprietary intellectual property.</p>
+            <h3 id="continuous-integration-in-github">Continuous Integration in GitHub</h3>
 
-<p>We developed an approach based on <strong>statistical machine translation</strong> (SMT) that 
-recovers some of the original names from the JavaScript programs minified by 
-the very popular <a href="https://github.com/mishoo/UglifyJS2">UglifyJS</a>. 
-Our tool uses the <a href="http://www.statmt.org/moses/">Moses statistical machine translation framework</a> 
-to perform the translation, along with some pre and post processing to
-handle code-specific considerations.</p>
+<p>Software processes comprise many steps; coding is followed by building, 
+integration testing, system testing, deployment, operations, among others. 
+Software <strong>process integration and automation</strong> have been areas of key concern 
+in software engineering, ever since the pioneering work of Osterweil; 
+market pressures for Agility, and open, decentralized, software development 
+have provided additional pressures for progress in this area.</p>
 
-<p>This simple tool, Autonym, performs comparably to the best currently available 
-de-obfuscator for JavaScript, <a href="http://jsnice.org">JSNice</a>, which uses more 
-sophisticated static analysis. In fact, Autonym is quite complementary to JSNice, 
-performing well when it does not, and vice versa.</p>
+<p>But <strong>do these innovations actually help projects</strong>? Given the numerous 
+confounding factors that can influence project performance, it can be a 
+challenge to discern the effects of process integration and automation.</p>
 
-<p>We also introduce a new tool which blends SMT and JSNice, and significantly 
-outperforms both at identifier name recovery. Try out our tool <a href="http://jsnaughty.org">at JSNaughty.org</a>.</p>
+<p>Software project ecosystems such as GitHub provide a new opportunity in 
+this regard: one can readily find large numbers of projects in various stages 
+of process integration and automation, and gather data on various influencing 
+factors as well as productivity and quality outcomes. 
+We use large, <strong>historical data on process metrics and outcomes</strong> in 
+GitHub projects to discern the effects of one specific innovation in process 
+automation: <strong>continuous integration</strong>.</p>
+
+<p>Our main finding is that continuous integration improves the productivity 
+of project teams, who can integrate more outside contributions, without an 
+observable diminishment in code quality.</p>
 
 
 
@@ -143,31 +147,32 @@ outperforms both at identifier name recovery. Try out our tool <a href="http://j
             <div class="spacing"></div>
             
             
-            <h4>Website</h4>
-            <div class="hline"></div>
-            <p><a href="http://jsnaughty.org">http://jsnaughty.org</a></p>
-            <div class="spacing"></div>
-            
             
             
             <h4>Related Publications</h4>
             <div class="hline"></div>
 			        
 
-			        </br><li><b>ESEC/FSE 2017</b>: <i><a href="../../papers/fse17jsnaughty.pdf">Recovering Clear, Natural Identifiers from Obfuscated JavaScript Names.</a></i><!--  -->
+			        </br><li><b>ESEC/FSE 2015</b>: <i><a href="../../papers/fse15ci.pdf">Quality and Productivity Outcomes Relating to Continuous Integration in GitHub.</a></i><!--  -->
 						  </li>
 <!--       		  	<p><a href=""></a>: </p> -->
-<!--         	<a href="../../papers/fse17jsnaughty.pdf" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-"></i></a> -->
+<!--         	<a href="../../papers/fse15ci.pdf" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-"></i></a> -->
+              
+
+			        </br><li><b>MSR 2015</b>: <i><a href="../../papers/msr15.pdf">Wait For It: Determinants of Pull Request Evaluation Latency on GitHub.</a></i><!--  -->
+						  </li>
+<!--       		  	<p><a href=""></a>: </p> -->
+<!--         	<a href="../../papers/msr15.pdf" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-"></i></a> -->
               	
 
             
 <!--     				</div><! ~~/row ~~> -->
-<!--             <p><b>Date:</b> May 20, 2017</p> -->
+<!--             <p><b>Date:</b> Mar 25, 2017</p> -->
 <!--             <p><b>Author:</b> </p> -->
 <!--             <p><b>Categories:</b> project</p> -->
-<!--             <p><b>Tagged:</b> JavaScript, deobfuscation, GitHub, machine translation</p> -->
+<!--             <p><b>Tagged:</b> Continuous Integration, DevOps, GitHub</p> -->
 <!--             <p><b>Client:</b> </p> -->
-<!--             <p><b>Website:</b> <a href="http://jsnaughty.org">http://jsnaughty.org</a></p> -->
+<!--             <p><b>Website:</b> <a href=""></a></p> -->
         </div>
     </div><! --/row -->
 </div><! --/container -->
