@@ -1,5 +1,6 @@
 require 'rake-jekyll'
 
+
 Rake::Jekyll::GitDeployTask.new(:deploy) do |t|
 
   # Description of the rake task.
