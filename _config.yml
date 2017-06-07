@@ -53,9 +53,9 @@ social:
     url: https://twitter.com/cmustrudel
   - title: github
     url: https://github.com/cmustrudel
-#  - title: tumblr
-#    url:
-
+  - title: slack
+    url: https://strudel-team.slack.com/messages/general/
+ 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines:
