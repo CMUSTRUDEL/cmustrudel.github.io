@@ -26,10 +26,11 @@ Rake::Jekyll::GitDeployTask.new(:deploy) do |t|
   # Deploy the built site into remote branch named 'gh-pages', or 'master' if
   # the remote repository URL matches `#{gh_user}.github.io.git`.
   # It will be automatically created if not exist yet.
-  t.deploy_branch = -> {
-    gh_user = ENV['TRAVIS_REPO_SLUG'].to_s.split('/').first
-    remote_url.match(/[:\/]#{gh_user}\.github\.io\.git$/) ? 'master' : 'master'
-  }
+  t.deploy_branch = 'master'
+  # -> {
+#     gh_user = ENV['TRAVIS_REPO_SLUG'].to_s.split('/').first
+#     remote_url.match(/[:\/]#{gh_user}\.github\.io\.git$/) ? 'master' : 'master'
+#   }
   # Run this command to build the site.
   t.build_script = ->(dest_dir) {
     puts "\nRunning Jekyll..."
