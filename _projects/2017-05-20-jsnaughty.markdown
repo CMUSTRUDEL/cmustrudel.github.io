@@ -2,7 +2,6 @@
 layout: project
 title:  "JSNaughty"
 date:   2017-05-20 16:54:46
-author: Marcel Newman
 categories:
 - project
 img: portfolio/portfolio.003.jpeg
@@ -15,8 +14,7 @@ carousel:
 - jsnaughty/jsnaughty.001.jpeg
 - jsnaughty/jsnaughty.002.jpeg
 - jsnaughty/jsnaughty.003.jpeg
-tagged: Flat, UI, Development
-client: Wonder Corp.
+tagged: JavaScript, deobfuscation, GitHub, machine translation
 website: http://jsnaughty.org
 ---
 
@@ -42,11 +40,4 @@ performing well when it does not, and vice versa.
 We also introduce a new tool which blends SMT and JSNice, and significantly 
 outperforms both at identifier name recovery. Try out our tool [at JSNaughty.org](http://jsnaughty.org).
 
-
-<!-- 
-pubs:
- - key: ESEC/FSE 2017
-   title: ""
-   url:
- -->
 

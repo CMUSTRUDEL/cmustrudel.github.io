@@ -28,9 +28,9 @@ layout: default
             {% if page.pubs %}
             <h4>Related Publications</h4>
             <div class="hline"></div>
-<!--             <div class="row"> -->
 			        {% for pub in page.pubs %}
-			        <li><b>{{ pub.key }}</b>: <i><a href="{{ pub.url }}">{{ pub.title }}</a></i><!-- {% if product.nested-products %} -->
+
+			        </br><li><b>{{ pub.key }}</b>: <i><a href="{{ pub.url }}">{{ pub.title }}</a></i><!-- {% if product.nested-products %} -->
 <!-- 
     					<ul>
 					    	{% for nestedproduct in product.nested-products %}  <li>{{ nestedproduct.nested }}: {{ nestedproduct.sub-arbitrary }}</li>
@@ -42,6 +42,7 @@ layout: default
 <!--       		  	<p><a href="{{ pub.pub }}">{{ pub.pub }}</a>: {{ pub.desc }}</p> -->
 <!--         	<a href="{{ pub.url }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-{{ entry.title }}"></i></a> -->
               {% endfor %}	
+
             {% endif %}
 <!--     				</div><! ~~/row ~~> -->
 <!--             <p><b>Date:</b> {{ page.date | date: "%b %-d, %Y" }}</p> -->

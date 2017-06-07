@@ -2,7 +2,6 @@
 layout: project
 title:  "Multitasking"
 date:   2017-04-25 16:54:46
-author: Marcel Newman
 categories:
 - project
 pubs:
@@ -15,8 +14,7 @@ carousel:
 - multitasking/multitasking.001.jpeg
 - multitasking/multitasking.002.jpeg
 - multitasking/multitasking.003.jpeg
-tagged: Flat, UI, Development
-client: Wonder Corp.
+tagged: GitHub, multitasking
 website: 
 ---
 
