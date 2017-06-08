@@ -182,12 +182,15 @@ undergrads:
   - name: Jacob Hoffman
     position: CMU, CS, REU 2017
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: jacob.jpg
+    img: jacob.png
+    strudel: strawberry & cream
     social:
 #      - title: envelope #use for email address
 #        url: mailto:name@domain.com
 #      - title: twitter
 #        url: http://twitter.com/handle
+       - title: link
+         url: http://jacobhoffmanportfolio.tk
   - name: Alan Jaffe
     position: CMU, CS
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
