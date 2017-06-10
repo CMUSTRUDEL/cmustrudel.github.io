@@ -128,6 +128,7 @@ affilfaculty:
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     web: http://herbsleb.org
     img: jim.jpg
+    strudel: sour cherry
     social:
 #      - title: envelope #use for email address
 #        url: mailto:name@domain.com
@@ -195,6 +196,7 @@ undergrads:
     position: CMU, CS
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     img: alan.jpg
+    strudel: poppy seeds
     social:
 #      - title: envelope #use for email address
 #        url: mailto:name@domain.com
