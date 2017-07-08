@@ -1,10 +1,15 @@
 *.ini
 
 *.picasa.ini
-*/.picasaoriginals/*
 _site/*
 
 assets/img/members/.picasaoriginals/*
 assets/img/members/.picasa.ini
+
+_site/feed.xml
+
+assets/img/members/.picasa.ini
+
+assets/img/members/.picasaoriginals/.picasa.ini
 
 _site/feed.xml
