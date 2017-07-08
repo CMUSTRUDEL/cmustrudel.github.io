@@ -1,2 +1,14 @@
+*.ini
+
 *.picasa.ini
 */.picasaoriginals/*
+_site/*
+
+assets/img/members/.picasa.ini
+
+
+assets/img/members/.picasaoriginals/.picasa.ini
+
+assets/img/members/.picasaoriginals/anita.JPG
+
+assets/img/members/.picasaoriginals/asher.jpg
