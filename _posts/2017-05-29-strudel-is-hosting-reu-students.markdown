@@ -6,7 +6,7 @@ author: Bogdan
 categories: 
 - REU
 #img: strudel.png
-thumb: strudel-square-002.jpg
+thumb: strudel-square-003.jpg
 ---
 
 We are thrilled to announce the arrival of 3 students participating in the

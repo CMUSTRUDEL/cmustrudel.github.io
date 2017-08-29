@@ -7,7 +7,7 @@ categories:
 - blog
 - Web-Design
 img: strudel.png
-thumb: strudel-square-002.jpg
+thumb: strudel-square-003.jpg
 ---
 
 Thanks to [Josh Quicksall](http://mse.isri.cmu.edu/software-engineering/Staff/quicksall-josh.html)'s

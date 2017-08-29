@@ -6,7 +6,7 @@ author: Bogdan
 categories: 
 - Announcement
 #img: strudel.png
-thumb: strudel-square-002.jpg
+thumb: strudel-square-003.jpg
 ---
 
 We just had a paper accepted at [ESEC/FSE 2017](http://esec-fse17.uni-paderborn.de)!
