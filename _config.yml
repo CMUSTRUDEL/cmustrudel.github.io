@@ -242,6 +242,7 @@ visitors:
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     img: fabio.jpg
     web: http://collab.di.uniba.it/fabio/
+    strudel: apple
     social:
       - title: envelope #use for email address
         url: mailto:fabio.calefato@uniba.it
