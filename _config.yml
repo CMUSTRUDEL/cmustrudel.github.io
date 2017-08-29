@@ -140,7 +140,7 @@ affilfaculty:
                         
 grads:
   - name: Huilian (Sophie) Qiu
-    position: Societal Computing, 2017-
+    position: PhD Societal Computing, 2017-
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     img: sophie.jpg
     social:
@@ -149,7 +149,7 @@ grads:
 #      - title: twitter
 #        url: http://twitter.com/handle
   - name: David Widder
-    position: Software Engineering, 2017-
+    position: PhD Software Engineering, 2017-
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     img: david.jpg
     strudel: cream cheese & strawberry
@@ -176,8 +176,8 @@ undergrads:
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     img: anita.jpg
     social:
-#      - title: envelope #use for email address
-#        url: mailto:name@domain.com
+      - title: envelope #use for email address
+        url: mailto:anitab1046@gmail.com
 #      - title: twitter
 #        url: http://twitter.com/handle
   - name: Jacob Hoffman
@@ -186,8 +186,8 @@ undergrads:
     img: jacob.jpg
     strudel: strawberry & cream
     social:
-#      - title: envelope #use for email address
-#        url: mailto:name@domain.com
+       - title: envelope #use for email address
+         url: mailto:jhoffma1@andrew.cmu.edu
 #      - title: twitter
 #        url: http://twitter.com/handle
        - title: link
@@ -198,8 +198,8 @@ undergrads:
     img: alan.jpg
     strudel: poppy seeds
     social:
-#      - title: envelope #use for email address
-#        url: mailto:name@domain.com
+      - title: envelope #use for email address
+        url: mailto:apjaffe@andrew.cmu.edu
 #      - title: twitter
 #        url: http://twitter.com/handle
   - name: Kyle Kovacs
@@ -208,20 +208,34 @@ undergrads:
     img: kyle.jpg
     strudel: apple-cinnamon
     social:
-#      - title: envelope #use for email address
-#        url: mailto:name@domain.com
+      - title: envelope #use for email address
+        url: mailto:kylekovacs@berkeley.edu
 #      - title: twitter
 #        url: http://twitter.com/handle
   - name: Asher Trockman, REU 2017
     position: CS
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     img: asher.jpg
+    strudel: sour cherry
     social:
-#      - title: envelope #use for email address
-#        url: mailto:name@domain.com
+      - title: envelope #use for email address
+        url: mailto:asher.trockman@gmail.com
 #      - title: twitter
 #        url: http://twitter.com/handle
 
+postdocs:
+  - name: Alex Nolte
+    position: Postdoc U. of Pittsburgh / CMU
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    img: alex.jpg
+    strudel: apple
+    web: http://anolte.com/
+    social:
+      - title: envelope #use for email address
+        url: mailto:aun@andrew.cmu.edu
+      - title: link
+        url: http://anolte.com/
+        
 visitors:
   - name: Fabio Calefato
     position: Asst. Professor, University of Bari
@@ -230,9 +244,11 @@ visitors:
     web: http://collab.di.uniba.it/fabio/
     social:
       - title: envelope #use for email address
-        url: mailto:name@domain.com
+        url: mailto:fabio.calefato@uniba.it
       - title: twitter
-        url: http://twitter.com/handle
+        url: https://twitter.com/fcalefato
+      - title: link
+        url: http://collab.di.uniba.it/fabio/
         
                 
 # Clients information. Shown on Home and About pages.
