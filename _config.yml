@@ -172,6 +172,18 @@ grads:
       #  url: http://twitter.com/davidthewid
       #- title: link
       #  url: http://davidwidder.me
+  - name: Marat Valiev
+    position: PhD Societal Computing, 2016- (<a href="http://herbsleb.org/index.html">Herbsleb group</a>)
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    img: marat.jpg
+    strudel: 
+    social:
+      #- title: envelope #use for email address
+      #  url: mailto:jlacomis@cmu.edu
+      #- title: twitter
+      #  url: http://twitter.com/davidthewid
+      #- title: link
+      #  url: http://davidwidder.me
         
 undergrads:
   - name: Raunak Agnihotri
