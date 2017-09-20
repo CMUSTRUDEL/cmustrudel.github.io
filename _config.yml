@@ -55,7 +55,7 @@ social:
     url: https://github.com/cmustrudel
   - title: slack
     url: https://strudel-team.slack.com/messages/general/
- 
+
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines:
@@ -137,7 +137,7 @@ affilfaculty:
       - title: link
         url: http://herbsleb.org
 
-                        
+
 grads:
   - name: Huilian (Sophie) Qiu
     position: PhD Societal Computing, 2017-
@@ -154,8 +154,8 @@ grads:
     img: david.jpg
     strudel: cream cheese & strawberry
     social:
-#      - title: envelope #use for email address
-#        url: mailto:x@cmu.edu
+     - title: envelope #use for email address
+       url: mailto:dwidder@cmu.edu
       - title: twitter
         url: http://twitter.com/davidthewid
       - title: link
@@ -235,7 +235,7 @@ postdocs:
         url: mailto:aun@andrew.cmu.edu
       - title: link
         url: http://anolte.com/
-        
+
 visitors:
   - name: Fabio Calefato
     position: Asst. Professor, University of Bari
@@ -250,8 +250,8 @@ visitors:
         url: https://twitter.com/fcalefato
       - title: link
         url: http://collab.di.uniba.it/fabio/
-        
-                
+
+
 # Clients information. Shown on Home and About pages.
 #clients:
 #  - name: dribbble
@@ -285,12 +285,12 @@ scholar:
   source: ./_bibliography
   bibliography: publications.bib
   bibliography_template: bib
-  
+
   bibliography_list_tag: 'div'
   bibliography_item_tag: 'span'
-  
+
   bibliography_list_attributes:
-    reversed: "reversed"  
+    reversed: "reversed"
 
   replace_strings: true
   join_strings:    true
