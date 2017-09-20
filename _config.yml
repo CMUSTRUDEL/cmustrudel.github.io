@@ -154,7 +154,7 @@ grads:
     img: david.jpg
     strudel: cream cheese & strawberry
     social:
-     - title: envelope #use for email address
+      - title: envelope #use for email address
        url: mailto:dwidder@cmu.edu
       - title: twitter
         url: http://twitter.com/davidthewid
