@@ -275,13 +275,6 @@ visitors:
       - title: link
         url: http://collab.di.uniba.it/fabio/
 
-<<<<<<< HEAD
-
-=======
-# alumni:
-        
-                
->>>>>>> a6b809c30e6e9b1e52052925275714ff818a4d17
 # Clients information. Shown on Home and About pages.
 #clients:
 #  - name: dribbble
