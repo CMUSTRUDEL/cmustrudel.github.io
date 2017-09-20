@@ -160,7 +160,31 @@ grads:
         url: http://twitter.com/davidthewid
       - title: link
         url: http://davidwidder.me
-
+  - name: Jeremy Lacomis
+    position: PhD Software Engineering, 2017- (also <a href="https://squareslab.github.io/">SquaresLab</a>)
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    img: jeremy.jpg
+    strudel: apple
+    social:
+      - title: envelope #use for email address
+        url: mailto:jlacomis@cmu.edu
+      #- title: twitter
+      #  url: http://twitter.com/davidthewid
+      #- title: link
+      #  url: http://davidwidder.me
+  - name: Marat Valiev
+    position: PhD Societal Computing, 2016- (<a href="http://herbsleb.org/index.html">Herbsleb group</a>)
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    img: marat.jpg
+    strudel: 
+    social:
+      #- title: envelope #use for email address
+      #  url: mailto:jlacomis@cmu.edu
+      #- title: twitter
+      #  url: http://twitter.com/davidthewid
+      #- title: link
+      #  url: http://davidwidder.me
+        
 undergrads:
   - name: Raunak Agnihotri
     position: CMU, ECE
@@ -171,8 +195,8 @@ undergrads:
         url: mailto:raunak@cmu.edu
 #      - title: twitter
 #        url: http://twitter.com/handle
-  - name: Anita Brown, REU 2017
-    position: CS
+  - name: Anita Brown
+    position: CS, REU 2017
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     img: anita.jpg
     social:
@@ -212,8 +236,8 @@ undergrads:
         url: mailto:kylekovacs@berkeley.edu
 #      - title: twitter
 #        url: http://twitter.com/handle
-  - name: Asher Trockman, REU 2017
-    position: CS
+  - name: Asher Trockman
+    position: CS, REU 2017
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     img: asher.jpg
     strudel: sour cherry
@@ -225,7 +249,7 @@ undergrads:
 
 postdocs:
   - name: Alex Nolte
-    position: Postdoc U. of Pittsburgh / CMU
+    position: Postdoc U. of Pittsburgh / CMU (<a href="http://herbsleb.org/index.html">Herbsleb group</a>)
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     img: alex.jpg
     strudel: apple
@@ -251,7 +275,13 @@ visitors:
       - title: link
         url: http://collab.di.uniba.it/fabio/
 
+<<<<<<< HEAD
 
+=======
+# alumni:
+        
+                
+>>>>>>> a6b809c30e6e9b1e52052925275714ff818a4d17
 # Clients information. Shown on Home and About pages.
 #clients:
 #  - name: dribbble
