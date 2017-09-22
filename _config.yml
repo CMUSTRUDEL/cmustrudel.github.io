@@ -116,6 +116,7 @@ affilfaculty:
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     web: http://phontron.com
     img: graham.jpg
+    strudel: cherry
     social:
 #      - title: envelope #use for email address
 #        url: mailto:name@domain.com
