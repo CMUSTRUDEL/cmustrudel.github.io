@@ -8,3 +8,5 @@ assets/img/members/.picasa.ini
 
 _site/feed.xml
 
+.DS_Store
+.icloud
