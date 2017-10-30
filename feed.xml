@@ -5,16 +5,115 @@
     <description>The Socio-Technical Research Using Data Excavation Lab at Carnegie Mellon University</description>
     <link>http://cmustrudel.github.io/</link>
     <atom:link href="http://cmustrudel.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 30 Oct 2017 02:55:23 +0000</pubDate>
-    <lastBuildDate>Mon, 30 Oct 2017 02:55:23 +0000</lastBuildDate>
+    <pubDate>Mon, 30 Oct 2017 03:39:53 +0000</pubDate>
+    <lastBuildDate>Mon, 30 Oct 2017 03:39:53 +0000</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>Blog: STRUDEL Reading Group - Simultaneously Uncovering the Patterns of Brain Regions Involved in Different Story Reading Subprocesses</title>
+        <description>&lt;p&gt;Sophie Qiu presented the paper &lt;a href=&quot;http://www.cs.cmu.edu/~fmri/plosone/files/hp_PLOS_ONE.pdf&quot;&gt;Simultaneously
+Uncovering the Patterns of
+Brain Regions Involved in Different Story
+Reading Subprocesses&lt;/a&gt; Wehbe et al. PLoS ONE 9(11) (2014). 
+The researchers scanned participants brains while they were reading
+the ninth chapter of &lt;i&gt;Harry Potter and the Sorcerer’s Stone&lt;/i&gt;. They
+then trained a classifier that can distinguish which short passage the
+participants were reading based on the neural activity. The choice of
+this paper was to present group members another machine learning
+classifier that can process fMRI results.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 17 Oct 2017 23:21:49 +0000</pubDate>
+        <link>http://cmustrudel.github.io/blog/sophie-harry-potter</link>
+        <guid isPermaLink="true">http://cmustrudel.github.io/blog/sophie-harry-potter</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Blog: STRUDEL Reading Group - Simultaneously Uncovering the Patterns of Brain Regions Involved in Different Story Reading Subprocesses</title>
+        <description>&lt;p&gt;Sophie Qiu presented the paper &lt;a href=&quot;http://www.cs.cmu.edu/~fmri/plosone/files/hp_PLOS_ONE.pdf&quot;&gt;Simultaneously
+Uncovering the Patterns of
+Brain Regions Involved in Different Story
+Reading Subprocesses&lt;/a&gt; Wehbe et al. PLoS ONE 9(11) (2014). 
+The researchers scanned participants brains while they were reading
+the ninth chapter of &lt;i&gt;Harry Potter and the Sorcerer’s Stone&lt;/i&gt;. They
+then trained a classifier that can distinguish which short passage the
+participants were reading based on the neural activity. The choice of
+this paper was to present group members another machine learning
+classifier that can process fMRI results.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 17 Oct 2017 23:21:49 +0000</pubDate>
+        <link>http://cmustrudel.github.io/blog/Sophie-harry-potter</link>
+        <guid isPermaLink="true">http://cmustrudel.github.io/blog/Sophie-harry-potter</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Blog: STRUDEL Reading Group - Romantic partnerships and the dispersion of social ties: a network analysis of relationship status on facebook</title>
+        <description>&lt;p&gt;Marat Valiev presented the paper &lt;a href=&quot;http://delivery.acm.org/10.1145/2540000/2531642/p831-backstrom.pdf?ip=24.238.13.130&amp;amp;id=2531642&amp;amp;acc=OA&amp;amp;key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E528920FC4509E774&amp;amp;CFID=993659916&amp;amp;CFTOKEN=60398709&amp;amp;__acm__=1509333674_18432c45ea35e7515bb15ff9492d27f0&quot;&gt;Romantic partnerships and the
+dispersion of social ties: a network analysis of relationship status on
+facebook&lt;/a&gt; Proc. of CSCW 831-841(2014). This paper proposed to use
+dispersion, which measures “the extent to which two people’s mutual
+friends are not themselves well-connected,” in addition to embeddedness,
+which measures the number of mutural friends, to
+predict if two people are in a romantic relationship. The accuracy of
+prediction increased significantly when using the dispersion metric.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 Oct 2017 23:20:38 +0000</pubDate>
+        <link>http://cmustrudel.github.io/blog/Morat-romantic-partners-facebook</link>
+        <guid isPermaLink="true">http://cmustrudel.github.io/blog/Morat-romantic-partners-facebook</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Blog: STRUDEL reading group - Automatically Diagnosing and Repairing Error Handling Bugs in C</title>
+        <description>&lt;p&gt;David Widder presented the paper &lt;a href=&quot;https://yuchi1989.github.io/papers/fse17-ErrDoc.pdf&quot;&gt;Automatically
+Diagnosing and Repairing Error Handling Bugs in C&lt;/a&gt; Proc. of FSE,
+752-762(2017). This paper
+presents how to identify  different types of bugs and how to correct
+them in C/C++ code.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 03 Oct 2017 23:05:58 +0000</pubDate>
+        <link>http://cmustrudel.github.io/blog/David-repair-bug</link>
+        <guid isPermaLink="true">http://cmustrudel.github.io/blog/David-repair-bug</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Blog: STRUDEL Reading Group - Decoding the representation of code in the brain: An fMRI study of code review and expertise</title>
+        <description>&lt;p&gt;Jeremy Lacomis presented the paper &lt;a href=&quot;https://web.eecs.umich.edu/~weimerw/p/weimer-icse2017-preprint.pdf&quot;&gt;Decoding the representation of code in the
+brain: An fMRI study of code review and expertise&lt;/a&gt;. The researchers
+scanned participants brain while they were reviewing code or prose. The
+fiding suggests that code reading differs from natural language
+processing.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 26 Sep 2017 22:59:58 +0000</pubDate>
+        <link>http://cmustrudel.github.io/blog/Jeremy-decoding-brain</link>
+        <guid isPermaLink="true">http://cmustrudel.github.io/blog/Jeremy-decoding-brain</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Blog: First STRUDEL Reading Group Meeting</title>
         <description>&lt;p&gt;We had our first reading group meeting today! To celebrate, Bogdan
-brought apple-cinnamon strudels for us. But these strudles were not as
+brought apple-cinnamon strudels for us. Nevertheless, these strudles were not as
 good as our discussion on the paper “Fairness Testing: Testing Software
-for Discrimination.” Here is the link to the &lt;a href=&quot;http://people.cs.umass.edu/~ameli/projects/fairness/papers/discriminationTesting.pdf&quot;&gt;paper&lt;/a&gt;&lt;/p&gt;
+for Discrimination.” Here is the link to the &lt;a href=&quot;http://people.cs.umass.edu/~ameli/projects/fairness/papers/discriminationTesting.pdf&quot;&gt;paper&lt;/a&gt;
+that Bogdan presented at the meeting.&lt;/p&gt;
 </description>
         <pubDate>Tue, 19 Sep 2017 22:39:58 +0000</pubDate>
         <link>http://cmustrudel.github.io/blog/first-reading-group-meeting</link>
