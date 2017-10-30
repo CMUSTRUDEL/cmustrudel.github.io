@@ -6,6 +6,7 @@ date:   2017-10-10 23:20:38
 author: Sophie
 categories: 
 - blog
+- reading-group
 #img: strudel.png
 thumb: strudel-square-003.jpg
 ---
