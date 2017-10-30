@@ -15,4 +15,4 @@ brought apple-cinnamon strudels for us. Nevertheless, these strudles were not as
 good as our discussion on the paper "Fairness Testing: Testing Software
 for Discrimination." Here is the link to the <a
 href="http://people.cs.umass.edu/~ameli/projects/fairness/papers/discriminationTesting.pdf">paper</a>
- (Galhotra et al. Proc. of FSE 498-510(2017)) that Bogdan presented at the meeting.
+ (Galhotra et al. Proc. of FSE 498-510(2017)) that Bogdan Vasilescu presented at the meeting.
