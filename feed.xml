@@ -5,31 +5,9 @@
     <description>The Socio-Technical Research Using Data Excavation Lab at Carnegie Mellon University</description>
     <link>http://cmustrudel.github.io/</link>
     <atom:link href="http://cmustrudel.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 30 Oct 2017 03:43:22 +0000</pubDate>
-    <lastBuildDate>Mon, 30 Oct 2017 03:43:22 +0000</lastBuildDate>
+    <pubDate>Mon, 30 Oct 2017 03:56:56 +0000</pubDate>
+    <lastBuildDate>Mon, 30 Oct 2017 03:56:56 +0000</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
-    
-      <item>
-        <title>Blog: STRUDEL Reading Group - Simultaneously Uncovering the Patterns of Brain Regions Involved in Different Story Reading Subprocesses</title>
-        <description>&lt;p&gt;Sophie Qiu presented the paper &lt;a href=&quot;http://www.cs.cmu.edu/~fmri/plosone/files/hp_PLOS_ONE.pdf&quot;&gt;Simultaneously
-Uncovering the Patterns of
-Brain Regions Involved in Different Story
-Reading Subprocesses&lt;/a&gt; Wehbe et al. PLoS ONE 9(11) (2014). 
-The researchers scanned participants brains while they were reading
-the ninth chapter of &lt;i&gt;Harry Potter and the Sorcerer’s Stone&lt;/i&gt;. They
-then trained a classifier that can distinguish which short passage the
-participants were reading based on the neural activity. The choice of
-this paper was to present group members another machine learning
-classifier that can process fMRI results.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 17 Oct 2017 23:21:49 +0000</pubDate>
-        <link>http://cmustrudel.github.io/blog/sophie-harry-potter</link>
-        <guid isPermaLink="true">http://cmustrudel.github.io/blog/sophie-harry-potter</guid>
-        
-        
-        <category>blog</category>
-        
-      </item>
     
       <item>
         <title>Blog: STRUDEL Reading Group - Simultaneously Uncovering the Patterns of Brain Regions Involved in Different Story Reading Subprocesses</title>
@@ -122,7 +100,7 @@ processing.&lt;/p&gt;
 brought apple-cinnamon strudels for us. Nevertheless, these strudles were not as
 good as our discussion on the paper “Fairness Testing: Testing Software
 for Discrimination.” Here is the link to the &lt;a href=&quot;http://people.cs.umass.edu/~ameli/projects/fairness/papers/discriminationTesting.pdf&quot;&gt;paper&lt;/a&gt;
- (Galhotra et al. Proc. of FSE 498-510(2017)) that Bogdan presented at the meeting.&lt;/p&gt;
+ (Galhotra et al. Proc. of FSE 498-510(2017)) that Bogdan Vasilescu presented at the meeting.&lt;/p&gt;
 </description>
         <pubDate>Tue, 19 Sep 2017 22:39:58 +0000</pubDate>
         <link>http://cmustrudel.github.io/blog/reading-group/first-reading-group-meeting</link>
