@@ -5,8 +5,8 @@
     <description>The Socio-Technical Research Using Data Excavation Lab at Carnegie Mellon University</description>
     <link>http://cmustrudel.github.io/</link>
     <atom:link href="http://cmustrudel.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 30 Oct 2017 03:42:59 +0000</pubDate>
-    <lastBuildDate>Mon, 30 Oct 2017 03:42:59 +0000</lastBuildDate>
+    <pubDate>Mon, 30 Oct 2017 03:43:22 +0000</pubDate>
+    <lastBuildDate>Mon, 30 Oct 2017 03:43:22 +0000</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -45,11 +45,13 @@ this paper was to present group members another machine learning
 classifier that can process fMRI results.&lt;/p&gt;
 </description>
         <pubDate>Tue, 17 Oct 2017 23:21:49 +0000</pubDate>
-        <link>http://cmustrudel.github.io/blog/Sophie-harry-potter</link>
-        <guid isPermaLink="true">http://cmustrudel.github.io/blog/Sophie-harry-potter</guid>
+        <link>http://cmustrudel.github.io/blog/reading-group/Sophie-harry-potter</link>
+        <guid isPermaLink="true">http://cmustrudel.github.io/blog/reading-group/Sophie-harry-potter</guid>
         
         
         <category>blog</category>
+        
+        <category>reading-group</category>
         
       </item>
     
@@ -65,11 +67,13 @@ predict if two people are in a romantic relationship. The accuracy of
 prediction increased significantly when using the dispersion metric.&lt;/p&gt;
 </description>
         <pubDate>Tue, 10 Oct 2017 23:20:38 +0000</pubDate>
-        <link>http://cmustrudel.github.io/blog/Morat-romantic-partners-facebook</link>
-        <guid isPermaLink="true">http://cmustrudel.github.io/blog/Morat-romantic-partners-facebook</guid>
+        <link>http://cmustrudel.github.io/blog/reading-group/Morat-romantic-partners-facebook</link>
+        <guid isPermaLink="true">http://cmustrudel.github.io/blog/reading-group/Morat-romantic-partners-facebook</guid>
         
         
         <category>blog</category>
+        
+        <category>reading-group</category>
         
       </item>
     
@@ -82,11 +86,13 @@ presents how to identify  different types of bugs and how to correct
 them in C/C++ code.&lt;/p&gt;
 </description>
         <pubDate>Tue, 03 Oct 2017 23:05:58 +0000</pubDate>
-        <link>http://cmustrudel.github.io/blog/David-repair-bug</link>
-        <guid isPermaLink="true">http://cmustrudel.github.io/blog/David-repair-bug</guid>
+        <link>http://cmustrudel.github.io/blog/reading-group/David-repair-bug</link>
+        <guid isPermaLink="true">http://cmustrudel.github.io/blog/reading-group/David-repair-bug</guid>
         
         
         <category>blog</category>
+        
+        <category>reading-group</category>
         
       </item>
     
@@ -100,11 +106,13 @@ fiding suggests that code reading differs from natural language
 processing.&lt;/p&gt;
 </description>
         <pubDate>Tue, 26 Sep 2017 22:59:58 +0000</pubDate>
-        <link>http://cmustrudel.github.io/blog/Jeremy-decoding-brain</link>
-        <guid isPermaLink="true">http://cmustrudel.github.io/blog/Jeremy-decoding-brain</guid>
+        <link>http://cmustrudel.github.io/blog/reading-group/Jeremy-decoding-brain</link>
+        <guid isPermaLink="true">http://cmustrudel.github.io/blog/reading-group/Jeremy-decoding-brain</guid>
         
         
         <category>blog</category>
+        
+        <category>reading-group</category>
         
       </item>
     
@@ -117,11 +125,13 @@ for Discrimination.” Here is the link to the &lt;a href=&quot;http://people.cs
  (Galhotra et al. Proc. of FSE 498-510(2017)) that Bogdan presented at the meeting.&lt;/p&gt;
 </description>
         <pubDate>Tue, 19 Sep 2017 22:39:58 +0000</pubDate>
-        <link>http://cmustrudel.github.io/blog/first-reading-group-meeting</link>
-        <guid isPermaLink="true">http://cmustrudel.github.io/blog/first-reading-group-meeting</guid>
+        <link>http://cmustrudel.github.io/blog/reading-group/first-reading-group-meeting</link>
+        <guid isPermaLink="true">http://cmustrudel.github.io/blog/reading-group/first-reading-group-meeting</guid>
         
         
         <category>blog</category>
+        
+        <category>reading-group</category>
         
       </item>
     
