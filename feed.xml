@@ -5,8 +5,8 @@
     <description>The Socio-Technical Research Using Data Excavation Lab at Carnegie Mellon University</description>
     <link>http://cmustrudel.github.io/</link>
     <atom:link href="http://cmustrudel.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 30 Oct 2017 04:27:05 +0000</pubDate>
-    <lastBuildDate>Mon, 30 Oct 2017 04:27:05 +0000</lastBuildDate>
+    <pubDate>Mon, 30 Oct 2017 19:11:57 +0000</pubDate>
+    <lastBuildDate>Mon, 30 Oct 2017 19:11:57 +0000</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -20,7 +20,8 @@ the ninth chapter of &lt;i&gt;Harry Potter and the Sorcerer’s Stone&lt;/i&gt;.
 then trained a classifier that can distinguish which short passage the
 participants were reading based on the neural activity. The choice of
 this paper was to present group members another machine learning
-classifier that can process fMRI results.&lt;/p&gt;
+classifier that can process fMRI results. 
+It was very nice and sweet that David Widder made apple raisin strudels.&lt;/p&gt;
 </description>
         <pubDate>Tue, 17 Oct 2017 23:21:49 +0000</pubDate>
         <link>http://cmustrudel.github.io/blog/reading-group/Sophie-harry-potter</link>
@@ -42,7 +43,8 @@ dispersion, which measures “the extent to which two people’s mutual
 friends are not themselves well-connected,” in addition to embeddedness,
 which measures the number of mutural friends, to
 predict if two people are in a romantic relationship. The accuracy of
-prediction increased significantly when using the dispersion metric.&lt;/p&gt;
+prediction increased significantly when using the dispersion metric.
+Somehow, my impression of the paper smells like homemade banana bread.&lt;/p&gt;
 </description>
         <pubDate>Tue, 10 Oct 2017 23:20:38 +0000</pubDate>
         <link>http://cmustrudel.github.io/blog/reading-group/Morat-romantic-partners-facebook</link>
@@ -61,7 +63,8 @@ prediction increased significantly when using the dispersion metric.&lt;/p&gt;
 Diagnosing and Repairing Error Handling Bugs in C&lt;/a&gt; (Tian and Ray. Proc. of FSE,
 752-762(2017)). This paper
 presents how to identify  different types of bugs and how to correct
-them in C/C++ code.&lt;/p&gt;
+them in C/C++ code. 
+Happy Mid-autumn festival and thanks Sophie Qiu for her mooncake!&lt;/p&gt;
 </description>
         <pubDate>Tue, 03 Oct 2017 23:05:58 +0000</pubDate>
         <link>http://cmustrudel.github.io/blog/reading-group/David-repair-bug</link>
