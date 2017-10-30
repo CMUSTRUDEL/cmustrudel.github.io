@@ -20,3 +20,4 @@ friends are not themselves well-connected," in addition to embeddedness,
 which measures the number of mutural friends, to
 predict if two people are in a romantic relationship. The accuracy of
 prediction increased significantly when using the dispersion metric.
+Somehow, my impression of the paper smells like homemade banana bread.

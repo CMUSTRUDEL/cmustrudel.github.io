@@ -15,4 +15,5 @@ href="https://yuchi1989.github.io/papers/fse17-ErrDoc.pdf">Automatically
 Diagnosing and Repairing Error Handling Bugs in C</a> (Tian and Ray. Proc. of FSE,
 752-762(2017)). This paper
 presents how to identify  different types of bugs and how to correct
-them in C/C++ code.  
+them in C/C++ code. 
+Happy Mid-autumn festival and thanks Sophie Qiu for her mooncake!

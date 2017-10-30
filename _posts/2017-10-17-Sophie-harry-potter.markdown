@@ -23,4 +23,5 @@ the ninth chapter of <i>Harry Potter and the Sorcerer's Stone</i>. They
 then trained a classifier that can distinguish which short passage the
 participants were reading based on the neural activity. The choice of
 this paper was to present group members another machine learning
-classifier that can process fMRI results.  
+classifier that can process fMRI results. 
+It was very nice and sweet that David Widder made apple raisin strudels. 
