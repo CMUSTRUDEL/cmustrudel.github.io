@@ -5,9 +5,25 @@
     <description>The Socio-Technical Research Using Data Excavation Lab at Carnegie Mellon University</description>
     <link>http://cmustrudel.github.io/</link>
     <atom:link href="http://cmustrudel.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 20 Oct 2017 13:22:31 +0000</pubDate>
-    <lastBuildDate>Fri, 20 Oct 2017 13:22:31 +0000</lastBuildDate>
+    <pubDate>Mon, 30 Oct 2017 02:51:40 +0000</pubDate>
+    <lastBuildDate>Mon, 30 Oct 2017 02:51:40 +0000</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>Blog: First STRUDEL Reading Group Meeting</title>
+        <description>&lt;p&gt;We had our first reading group meeting today! To celebrate, Bogdan
+brought apple-cinnamon strudels for us. But these strudles were not as
+good as our discussion on the paper “Fairness Testing: Testing Software
+for Discrimination.” Here is the link to the &lt;a href=&quot;http://people.cs.umass.edu/~ameli/projects/fairness/papers/discriminationTesting.pdf&quot;&gt;paper&amp;lt;\a&amp;gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 19 Sep 2017 22:39:58 +0000</pubDate>
+        <link>http://cmustrudel.github.io/blog/first-reading-group-meeting</link>
+        <guid isPermaLink="true">http://cmustrudel.github.io/blog/first-reading-group-meeting</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Announcement: Paper accepted at SWAN 2017</title>
