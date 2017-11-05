@@ -5,9 +5,33 @@
     <description>The Socio-Technical Research Using Data Excavation Lab at Carnegie Mellon University</description>
     <link>http://cmustrudel.github.io/</link>
     <atom:link href="http://cmustrudel.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 05 Nov 2017 17:29:45 +0000</pubDate>
-    <lastBuildDate>Sun, 05 Nov 2017 17:29:45 +0000</lastBuildDate>
+    <pubDate>Sun, 05 Nov 2017 17:44:51 +0000</pubDate>
+    <lastBuildDate>Sun, 05 Nov 2017 17:44:51 +0000</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>Announcement: Paper presented at ASE 2017</title>
+        <description>&lt;p&gt;We were at &lt;a href=&quot;http://ase2017.org&quot;&gt;ASE 2017&lt;/a&gt; presenting the paper:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The Impact of Continuous Integration on Other Software Development Practices: 
+A Large-Scale Empirical Study&lt;/strong&gt;,
+with &lt;a href=&quot;https://scholar.google.com/citations?user=PqQtwvIAAAAJ&amp;amp;hl=en&quot;&gt;Yangyang Zhao&lt;/a&gt;, 
+&lt;a href=&quot;http://www.win.tue.nl/~aserebre/&quot;&gt;Alexander Serebrenik&lt;/a&gt;, Yuming Zhou, and 
+&lt;a href=&quot;http://web.cs.ucdavis.edu/~filkov/&quot;&gt;Vladimir Filkov&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;More details about the research &lt;a href=&quot;../../projects/continuous-integration/&quot;&gt;here&lt;/a&gt;.
+PDF &lt;a href=&quot;../../papers/ase17ci.pdf&quot;&gt;here&lt;/a&gt;. Slides &lt;a href=&quot;../../slides/ase17ci.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/pics/10-31-17-yangyang.jpg&quot; style=&quot;height: 300px;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 31 Oct 2017 10:30:00 +0000</pubDate>
+        <link>http://cmustrudel.github.io/announcement/ase-paper</link>
+        <guid isPermaLink="true">http://cmustrudel.github.io/announcement/ase-paper</guid>
+        
+        
+        <category>Announcement</category>
+        
+      </item>
     
       <item>
         <title>Blog: STRUDEL Reading Group Updates</title>
@@ -86,8 +110,8 @@ Bogdan presented at the meeting.&lt;/p&gt;
 
 </description>
         <pubDate>Thu, 19 Oct 2017 22:39:58 +0000</pubDate>
-        <link>http://cmustrudel.github.io/blog/reading-group/first-reading-group-meeting</link>
-        <guid isPermaLink="true">http://cmustrudel.github.io/blog/reading-group/first-reading-group-meeting</guid>
+        <link>http://cmustrudel.github.io/blog/reading-group/reading-group-meeting</link>
+        <guid isPermaLink="true">http://cmustrudel.github.io/blog/reading-group/reading-group-meeting</guid>
         
         
         <category>blog</category>
@@ -150,27 +174,6 @@ by project team size.&lt;/p&gt;
         <category>Circular statistics</category>
         
         <category>GitHub</category>
-        
-      </item>
-    
-      <item>
-        <title>Announcement: Paper accepted at ESEC/FSE 2017</title>
-        <description>&lt;p&gt;We just had a paper accepted at &lt;a href=&quot;http://esec-fse17.uni-paderborn.de&quot;&gt;ESEC/FSE 2017&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Recovering Clear, Natural Identifiers from Obfuscated JavaScript Names&lt;/strong&gt;,
-with &lt;a href=&quot;http://caseycas.github.io&quot;&gt;Casey Casalnuovo&lt;/a&gt; and 
-&lt;a href=&quot;http://web.cs.ucdavis.edu/~devanbu/&quot;&gt;Prem Devanbu&lt;/a&gt; from UC Davis.&lt;/p&gt;
-
-&lt;p&gt;More details about the research &lt;a href=&quot;../../projects/jsnaughty/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Try out our tool &lt;a href=&quot;http://jsnaughty.org&quot;&gt;online&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 02 Jun 2017 16:54:46 +0000</pubDate>
-        <link>http://cmustrudel.github.io/announcement/esec-fse-paper</link>
-        <guid isPermaLink="true">http://cmustrudel.github.io/announcement/esec-fse-paper</guid>
-        
-        
-        <category>Announcement</category>
         
       </item>
     
