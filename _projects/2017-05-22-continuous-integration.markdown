@@ -5,6 +5,9 @@ date:   2017-04-25 16:54:46
 categories:
 - project
 pubs:
+ - key: ASE 2017
+   title: "The Impact of Continuous Integration on Other Software Development Practices: A Large-Scale Empirical Study."
+   url: ../../papers/ase17ci.pdf
  - key: ESEC/FSE 2015
    title: "Quality and Productivity Outcomes Relating to Continuous Integration in GitHub."
    url: ../../papers/fse15ci.pdf
