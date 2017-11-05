@@ -10,6 +10,23 @@ categories:
 thumb: strudel-square-003.jpg
 ---
 
+#### Tuesday, October 31, 2017
+
+No meeting this week. STRUDEL was away attending 
+<a href="http://ase2017.org">ASE</a> in Urbana-Champaign, IL and visiting
+Fiona at the <a href="https://www.facebook.com/cincinnatizoo/">Cincinnati Zoo</a>.
+#teamfiona
+
+<img src="/assets/img/pics/10-31-17-fiona.jpg" style="height: 300px;"/>
+
+#### Tuesday, October 24, 2017
+
+STRUDEL was proud to host <a href="http://www.win.tue.nl/~aserebre/">Alexander 
+Serebrenik</a> from TU Eindhoven, who talked about his recent work on mining 
+emotions from software engineering artifacts.
+
+<img src="/assets/img/pics/10-24-17-serebrenik.jpg" style="height: 300px;"/>
+
 #### Tuesday, October 17, 2017
 
 Sophie presented the paper "<a
@@ -25,6 +42,7 @@ this paper was to present group members another machine learning
 classifier that can process fMRI results. 
 It was very nice and sweet that David made apple raisin strudels. 
 
+<img src="/assets/img/pics/10-17-17-strudel.jpg" style="height: 300px;"/>
 
 #### Tuesday, October 10, 2017
 
@@ -49,6 +67,7 @@ This paper presents how to identify different types of bugs and how to correct
 them in C/C++ code. 
 Happy Mid-autumn festival and thanks Sophie for her mooncake!
 
+<img src="/assets/img/pics/10-03-17-moon.jpg" style="height: 300px;"/>
 
 #### Tuesday, September 26, 2017
 
@@ -67,3 +86,6 @@ good as our discussion on the paper "<a
 href="http://people.cs.umass.edu/~ameli/projects/fairness/papers/discriminationTesting.pdf">Fairness Testing: 
 Testing Software for Discrimination</a>" (Galhotra et al, ESEC/FSE 2017) that 
 Bogdan presented at the meeting.
+
+<img src="/assets/img/pics/09-19-17-group.jpg" style="height: 300px;"/>
+
