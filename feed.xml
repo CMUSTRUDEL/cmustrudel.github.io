@@ -5,50 +5,65 @@
     <description>The Socio-Technical Research Using Data Excavation Lab at Carnegie Mellon University</description>
     <link>http://cmustrudel.github.io/</link>
     <atom:link href="http://cmustrudel.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 31 Oct 2017 16:09:52 +0000</pubDate>
-    <lastBuildDate>Tue, 31 Oct 2017 16:09:52 +0000</lastBuildDate>
+    <pubDate>Sun, 05 Nov 2017 16:58:42 +0000</pubDate>
+    <lastBuildDate>Sun, 05 Nov 2017 16:58:42 +0000</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
-        <title>Blog: STRUDEL Reading Group - Simultaneously Uncovering the Patterns of Brain Regions Involved in Different Story Reading Subprocesses</title>
-        <description>&lt;p&gt;Sophie Qiu presented the paper &lt;a href=&quot;http://www.cs.cmu.edu/~fmri/plosone/files/hp_PLOS_ONE.pdf&quot;&gt;Simultaneously
+        <title>Blog: STRUDEL Reading Group Updates</title>
+        <description>&lt;h4 id=&quot;tuesday-october-17-2017&quot;&gt;Tuesday, October 17, 2017&lt;/h4&gt;
+
+&lt;p&gt;Sophie presented the paper “&lt;a href=&quot;http://www.cs.cmu.edu/~fmri/plosone/files/hp_PLOS_ONE.pdf&quot;&gt;Simultaneously
 Uncovering the Patterns of
 Brain Regions Involved in Different Story
-Reading Subprocesses&lt;/a&gt; Wehbe et al. PLoS ONE 9(11) (2014). 
+Reading Subprocesses&lt;/a&gt;” (Wehbe et al, PLoS ONE 2014). 
 The researchers scanned participants brains while they were reading
 the ninth chapter of &lt;i&gt;Harry Potter and the Sorcerer’s Stone&lt;/i&gt;. They
 then trained a classifier that can distinguish which short passage the
 participants were reading based on the neural activity. The choice of
 this paper was to present group members another machine learning
 classifier that can process fMRI results. 
-It was very nice and sweet that David Widder made apple raisin strudels.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 17 Oct 2017 23:21:49 +0000</pubDate>
-        <link>http://cmustrudel.github.io/blog/reading-group/Sophie-harry-potter</link>
-        <guid isPermaLink="true">http://cmustrudel.github.io/blog/reading-group/Sophie-harry-potter</guid>
-        
-        
-        <category>blog</category>
-        
-        <category>reading-group</category>
-        
-      </item>
-    
-      <item>
-        <title>Blog: STRUDEL Reading Group - Romantic partnerships and the dispersion of social ties: a network analysis of relationship status on facebook</title>
-        <description>&lt;p&gt;Marat Valiev presented the paper &lt;a href=&quot;http://delivery.acm.org/10.1145/2540000/2531642/p831-backstrom.pdf?ip=24.238.13.130&amp;amp;id=2531642&amp;amp;acc=OA&amp;amp;key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E528920FC4509E774&amp;amp;CFID=993659916&amp;amp;CFTOKEN=60398709&amp;amp;__acm__=1509333674_18432c45ea35e7515bb15ff9492d27f0&quot;&gt;Romantic partnerships and the
+It was very nice and sweet that David made apple raisin strudels.&lt;/p&gt;
+
+&lt;h4 id=&quot;tuesday-october-10-2017&quot;&gt;Tuesday, October 10, 2017&lt;/h4&gt;
+
+&lt;p&gt;Marat presented the paper “&lt;a href=&quot;http://delivery.acm.org/10.1145/2540000/2531642/p831-backstrom.pdf?ip=24.238.13.130&amp;amp;id=2531642&amp;amp;acc=OA&amp;amp;key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E528920FC4509E774&amp;amp;CFID=993659916&amp;amp;CFTOKEN=60398709&amp;amp;__acm__=1509333674_18432c45ea35e7515bb15ff9492d27f0&quot;&gt;Romantic partnerships and the
 dispersion of social ties: a network analysis of relationship status on
-facebook&lt;/a&gt; (Backstrom et al. Proc. of CSCW 831-841(2014)). This paper proposed to use
+facebook&lt;/a&gt;” (Backstrom et al, CSCW 2014). This paper proposed to use
 dispersion, which measures “the extent to which two people’s mutual
 friends are not themselves well-connected,” in addition to embeddedness,
-which measures the number of mutural friends, to
-predict if two people are in a romantic relationship. The accuracy of
-prediction increased significantly when using the dispersion metric.
+which measures the number of mutural friends, to predict if two Facebook users 
+are in a romantic relationship. The accuracy of prediction increased 
+significantly when using the dispersion metric.
 Somehow, my impression of the paper smells like homemade banana bread.&lt;/p&gt;
+
+&lt;h4 id=&quot;tuesday-october-3-2017&quot;&gt;Tuesday, October 3, 2017&lt;/h4&gt;
+
+&lt;p&gt;David presented the paper “&lt;a href=&quot;https://yuchi1989.github.io/papers/fse17-ErrDoc.pdf&quot;&gt;Automatically
+Diagnosing and Repairing Error Handling Bugs in C&lt;/a&gt;” (Tian and Ray, ESEC/FSE 2017). 
+This paper presents how to identify different types of bugs and how to correct
+them in C/C++ code. 
+Happy Mid-autumn festival and thanks Sophie for her mooncake!&lt;/p&gt;
+
+&lt;h4 id=&quot;tuesday-september-26-2017&quot;&gt;Tuesday, September 26, 2017&lt;/h4&gt;
+
+&lt;p&gt;Jeremy presented the paper “&lt;a href=&quot;https://web.eecs.umich.edu/~weimerw/p/weimer-icse2017-preprint.pdf&quot;&gt;Decoding the representation of code in the
+brain: An fMRI study of code review and expertise&lt;/a&gt;” (Floyd et al, ICSE 2017). 
+The researchers scanned participants’ brain while they were reviewing code or 
+prose. The findings suggest that reading code differs from reading natural 
+language, but less so for experts than for novices.&lt;/p&gt;
+
+&lt;h4 id=&quot;tuesday-september-19-2017&quot;&gt;Tuesday, September 19, 2017&lt;/h4&gt;
+
+&lt;p&gt;We had our first reading group meeting today! To celebrate, Bogdan brought 
+apple-cinnamon strudels for us. Nevertheless, these strudles were not as
+good as our discussion on the paper “&lt;a href=&quot;http://people.cs.umass.edu/~ameli/projects/fairness/papers/discriminationTesting.pdf&quot;&gt;Fairness Testing: 
+Testing Software for Discrimination&lt;/a&gt;” (Galhotra et al, ESEC/FSE 2017) that 
+Bogdan presented at the meeting.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 10 Oct 2017 23:20:38 +0000</pubDate>
-        <link>http://cmustrudel.github.io/blog/reading-group/Morat-romantic-partners-facebook</link>
-        <guid isPermaLink="true">http://cmustrudel.github.io/blog/reading-group/Morat-romantic-partners-facebook</guid>
+        <pubDate>Thu, 19 Oct 2017 22:39:58 +0000</pubDate>
+        <link>http://cmustrudel.github.io/blog/reading-group/first-reading-group-meeting</link>
+        <guid isPermaLink="true">http://cmustrudel.github.io/blog/reading-group/first-reading-group-meeting</guid>
         
         
         <category>blog</category>
@@ -58,22 +73,80 @@ Somehow, my impression of the paper smells like homemade banana bread.&lt;/p&gt;
       </item>
     
       <item>
-        <title>Blog: STRUDEL reading group - Automatically Diagnosing and Repairing Error Handling Bugs in C</title>
-        <description>&lt;p&gt;David Widder presented the paper &lt;a href=&quot;https://yuchi1989.github.io/papers/fse17-ErrDoc.pdf&quot;&gt;Automatically
-Diagnosing and Repairing Error Handling Bugs in C&lt;/a&gt; (Tian and Ray. Proc. of FSE,
-752-762(2017)). This paper
-presents how to identify  different types of bugs and how to correct
-them in C/C++ code. 
-Happy Mid-autumn festival and thanks Sophie Qiu for her mooncake!&lt;/p&gt;
+        <title>Announcement: Paper accepted at SWAN 2017</title>
+        <description>&lt;p&gt;We just had a paper accepted at &lt;a href=&quot;http://www.softwareanalytics.ca/swan17/Home.html&quot;&gt;SWAN 2017&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;../papers/swan.pdf&quot;&gt;Timezone and Time-of-Day Variance in GitHub Teams: An Empirical Method and 
+Study&lt;/a&gt;&lt;/strong&gt;,
+with &lt;a href=&quot;http://web.cs.ucdavis.edu/~devanbu/&quot;&gt;Prem Devanbu&lt;/a&gt;, 
+Pallavi Kudigrama, and 
+&lt;a href=&quot;http://web.cs.ucdavis.edu/~rubio/&quot;&gt;Cindy Rubio-González&lt;/a&gt; 
+from UC Davis.&lt;/p&gt;
+
+&lt;p&gt;One of the coolest parts of the paper is the novel use of &lt;strong&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Directional_statistics&quot;&gt;circular 
+statistics&lt;/a&gt;&lt;/strong&gt;.
+Did you know that traditional summary statistics (like the mean) are invalid for
+circular variables like the clock and angles?
+Here’s an example of circular histograms showing when people made commits
+in two GitHub projects.
+Check out the &lt;a href=&quot;../papers/swan.pdf&quot;&gt;preprint&lt;/a&gt; for more details.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/blog/hour_johntheripper.jpg&quot; width=&quot;300&quot; /&gt;
+&lt;img src=&quot;/assets/img/blog/hour_cs-studio.jpg&quot; width=&quot;300&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;:&lt;/p&gt;
+
+&lt;p&gt;Open source projects based in ecosystems like GitHub seamlessly allow distributed 
+software development. 
+Contributors to some GitHub projects may originate from many different timezones; 
+in others they may all reside in just one timezone. 
+How might this timezone dispersion (or concentration) affect the diurnal 
+distribution of work activity in these projects? 
+In commercial projects, there has been a desire to use top-down management and 
+work allocation to exploit timezone dispersion of project teams, to engender a 
+more round-the-clock work cycle. 
+We focus on GitHub, and explore the relationship between timezone dispersion 
+and work activity dispersion. 
+We find that while time-of-day work activity dispersion is indeed associated 
+strongly with timezone dispersion, it is equally (if not more strongly) affected 
+by project team size.&lt;/p&gt;
+
+&lt;!-- 
+![P1](/assets/img/blog/hour_johntheripper.jpg)
+![P2](/assets/img/blog/hour_cs-studio.jpg)
+ --&gt;
 </description>
-        <pubDate>Tue, 03 Oct 2017 23:05:58 +0000</pubDate>
-        <link>http://cmustrudel.github.io/blog/reading-group/David-repair-bug</link>
-        <guid isPermaLink="true">http://cmustrudel.github.io/blog/reading-group/David-repair-bug</guid>
+        <pubDate>Tue, 04 Jul 2017 16:54:46 +0000</pubDate>
+        <link>http://cmustrudel.github.io/announcement/circular%20statistics/github/swan-paper</link>
+        <guid isPermaLink="true">http://cmustrudel.github.io/announcement/circular%20statistics/github/swan-paper</guid>
         
         
-        <category>blog</category>
+        <category>Announcement</category>
         
-        <category>reading-group</category>
+        <category>Circular statistics</category>
+        
+        <category>GitHub</category>
+        
+      </item>
+    
+      <item>
+        <title>Announcement: Paper accepted at ESEC/FSE 2017</title>
+        <description>&lt;p&gt;We just had a paper accepted at &lt;a href=&quot;http://esec-fse17.uni-paderborn.de&quot;&gt;ESEC/FSE 2017&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Recovering Clear, Natural Identifiers from Obfuscated JavaScript Names&lt;/strong&gt;,
+with &lt;a href=&quot;http://caseycas.github.io&quot;&gt;Casey Casalnuovo&lt;/a&gt; and 
+&lt;a href=&quot;http://web.cs.ucdavis.edu/~devanbu/&quot;&gt;Prem Devanbu&lt;/a&gt; from UC Davis.&lt;/p&gt;
+
+&lt;p&gt;More details about the research &lt;a href=&quot;../../projects/jsnaughty/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Try out our tool &lt;a href=&quot;http://jsnaughty.org&quot;&gt;online&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 02 Jun 2017 16:54:46 +0000</pubDate>
+        <link>http://cmustrudel.github.io/announcement/esec-fse-paper</link>
+        <guid isPermaLink="true">http://cmustrudel.github.io/announcement/esec-fse-paper</guid>
+        
+        
+        <category>Announcement</category>
         
       </item>
     
