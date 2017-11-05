@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "STRUDEL Reading Group Updates"
-date:   2017-10-19 22:39:58
+date:   2017-10-31 22:39:58
 author: Sophie
 categories: 
 - blog
@@ -24,6 +24,7 @@ Fiona at the <a href="https://www.facebook.com/cincinnatizoo/">Cincinnati Zoo</a
 STRUDEL was proud to host <a href="http://www.win.tue.nl/~aserebre/">Alexander 
 Serebrenik</a> from TU Eindhoven, who talked about his recent work on mining 
 emotions from software engineering artifacts.
+We were all enjoying his talk as well as Sophie's hazelnut wafel.
 
 <img src="/assets/img/pics/10-24-17-serebrenik.jpg" style="height: 300px;"/>
 
