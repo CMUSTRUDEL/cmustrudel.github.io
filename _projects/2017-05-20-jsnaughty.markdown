@@ -7,6 +7,9 @@ categories:
 img: portfolio/portfolio.003.jpeg
 thumb: thumb02.jpg
 pubs:
+ - key: SRC @ESEC/FSE 2017
+   title: "Suggesting Meaningful Variable Names for Decompiled Code: A Machine Translation Approach."
+   url: ../../papers/fse17src.pdf
  - key: ESEC/FSE 2017
    title: "Recovering Clear, Natural Identifiers from Obfuscated JavaScript Names."
    url: ../../papers/fse17jsnaughty.pdf
