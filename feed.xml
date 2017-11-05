@@ -5,33 +5,9 @@
     <description>The Socio-Technical Research Using Data Excavation Lab at Carnegie Mellon University</description>
     <link>http://cmustrudel.github.io/</link>
     <atom:link href="http://cmustrudel.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 05 Nov 2017 18:02:40 +0000</pubDate>
-    <lastBuildDate>Sun, 05 Nov 2017 18:02:40 +0000</lastBuildDate>
+    <pubDate>Sun, 05 Nov 2017 19:23:32 +0000</pubDate>
+    <lastBuildDate>Sun, 05 Nov 2017 19:23:32 +0000</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
-    
-      <item>
-        <title>Announcement: Paper presented at ASE 2017</title>
-        <description>&lt;p&gt;We were at &lt;a href=&quot;http://ase2017.org&quot;&gt;ASE 2017&lt;/a&gt; presenting the paper:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;The Impact of Continuous Integration on Other Software Development Practices: 
-A Large-Scale Empirical Study&lt;/strong&gt;,
-with &lt;a href=&quot;https://scholar.google.com/citations?user=PqQtwvIAAAAJ&amp;amp;hl=en&quot;&gt;Yangyang Zhao&lt;/a&gt;, 
-&lt;a href=&quot;http://www.win.tue.nl/~aserebre/&quot;&gt;Alexander Serebrenik&lt;/a&gt;, Yuming Zhou, and 
-&lt;a href=&quot;http://web.cs.ucdavis.edu/~filkov/&quot;&gt;Vladimir Filkov&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;More details about the research &lt;a href=&quot;../../projects/continuous-integration/&quot;&gt;here&lt;/a&gt;.
-PDF &lt;a href=&quot;../../papers/ase17ci.pdf&quot;&gt;here&lt;/a&gt;. Slides &lt;a href=&quot;../../slides/ase17ci.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/pics/10-31-17-yangyang.jpg&quot; style=&quot;height: 300px;&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 31 Oct 2017 10:30:00 +0000</pubDate>
-        <link>http://cmustrudel.github.io/announcement/ase-paper</link>
-        <guid isPermaLink="true">http://cmustrudel.github.io/announcement/ase-paper</guid>
-        
-        
-        <category>Announcement</category>
-        
-      </item>
     
       <item>
         <title>Blog: STRUDEL Reading Group Updates</title>
@@ -48,7 +24,8 @@ Fiona at the &lt;a href=&quot;https://www.facebook.com/cincinnatizoo/&quot;&gt;C
 
 &lt;p&gt;STRUDEL was proud to host &lt;a href=&quot;http://www.win.tue.nl/~aserebre/&quot;&gt;Alexander 
 Serebrenik&lt;/a&gt; from TU Eindhoven, who talked about his recent work on mining 
-emotions from software engineering artifacts.&lt;/p&gt;
+emotions from software engineering artifacts.
+We were all enjoying his talk as well as Sophie’s hazelnut wafel.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/pics/10-24-17-serebrenik.jpg&quot; style=&quot;height: 300px;&quot; /&gt;&lt;/p&gt;
 
@@ -109,7 +86,7 @@ Bogdan presented at the meeting.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/assets/img/pics/09-19-17-group.jpg&quot; style=&quot;height: 300px;&quot; /&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Thu, 19 Oct 2017 22:39:58 +0000</pubDate>
+        <pubDate>Tue, 31 Oct 2017 22:39:58 +0000</pubDate>
         <link>http://cmustrudel.github.io/blog/reading-group/reading-group-meeting</link>
         <guid isPermaLink="true">http://cmustrudel.github.io/blog/reading-group/reading-group-meeting</guid>
         
@@ -117,6 +94,30 @@ Bogdan presented at the meeting.&lt;/p&gt;
         <category>blog</category>
         
         <category>reading-group</category>
+        
+      </item>
+    
+      <item>
+        <title>Announcement: Paper presented at ASE 2017</title>
+        <description>&lt;p&gt;We were at &lt;a href=&quot;http://ase2017.org&quot;&gt;ASE 2017&lt;/a&gt; presenting the paper:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The Impact of Continuous Integration on Other Software Development Practices: 
+A Large-Scale Empirical Study&lt;/strong&gt;,
+with &lt;a href=&quot;https://scholar.google.com/citations?user=PqQtwvIAAAAJ&amp;amp;hl=en&quot;&gt;Yangyang Zhao&lt;/a&gt;, 
+&lt;a href=&quot;http://www.win.tue.nl/~aserebre/&quot;&gt;Alexander Serebrenik&lt;/a&gt;, Yuming Zhou, and 
+&lt;a href=&quot;http://web.cs.ucdavis.edu/~filkov/&quot;&gt;Vladimir Filkov&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;More details about the research &lt;a href=&quot;../../projects/continuous-integration/&quot;&gt;here&lt;/a&gt;.
+PDF &lt;a href=&quot;../../papers/ase17ci.pdf&quot;&gt;here&lt;/a&gt;. Slides &lt;a href=&quot;../../slides/ase17ci.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/pics/10-31-17-yangyang.jpg&quot; style=&quot;height: 300px;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 31 Oct 2017 10:30:00 +0000</pubDate>
+        <link>http://cmustrudel.github.io/announcement/ase-paper</link>
+        <guid isPermaLink="true">http://cmustrudel.github.io/announcement/ase-paper</guid>
+        
+        
+        <category>Announcement</category>
         
       </item>
     
