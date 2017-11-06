@@ -5,8 +5,8 @@
     <description>The Socio-Technical Research Using Data Excavation Lab at Carnegie Mellon University</description>
     <link>http://cmustrudel.github.io/</link>
     <atom:link href="http://cmustrudel.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 06 Nov 2017 15:37:17 +0000</pubDate>
-    <lastBuildDate>Mon, 06 Nov 2017 15:37:17 +0000</lastBuildDate>
+    <pubDate>Mon, 06 Nov 2017 15:38:02 +0000</pubDate>
+    <lastBuildDate>Mon, 06 Nov 2017 15:38:02 +0000</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -130,7 +130,7 @@ at &lt;a href=&quot;http://esec-fse17.uni-paderborn.de&quot;&gt;ESEC/FSE 2017&lt
 
 &lt;p&gt;More details about the research &lt;a href=&quot;../../projects/jsnaughty/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/pics/09-08-17-src.jpg&quot; style=&quot;height: 500px;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/pics/09-08-17-src.jpg&quot; style=&quot;width: 300px;&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 08 Sep 2017 10:30:00 +0000</pubDate>
         <link>http://cmustrudel.github.io/announcement/esec-fse-rc</link>
