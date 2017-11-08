@@ -16,4 +16,4 @@ Check out his work on [suggesting meaningful variable names for decompiled code]
 
 More details about the research [here](../../projects/jsnaughty/).
 
-<img src="/assets/img/pics/09-08-17-src.jpg" style="height: 500px;"/>
+<img src="/assets/img/pics/09-08-17-src.jpg" style="width: 300px;"/>

@@ -20,4 +20,4 @@ with [Yangyang Zhao](https://scholar.google.com/citations?user=PqQtwvIAAAAJ&hl=e
 More details about the research [here](../../projects/continuous-integration/).
 PDF [here](../../papers/ase17ci.pdf). Slides [here](../../slides/ase17ci.pdf).
 
-<img src="/assets/img/pics/10-31-17-yangyang.jpg" style="height: 300px;"/>
+<img src="/assets/img/pics/10-31-17-yangyang.jpg" style="width: 400px;"/>
