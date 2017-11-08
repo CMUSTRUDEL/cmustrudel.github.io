@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "STRUDEL Reading Group Updates"
-date:   2017-10-31 22:39:58
+date:   2017-11-08 17:17:36
 author: Sophie
 categories: 
 - blog
@@ -9,6 +9,15 @@ categories:
 #img: strudel.png
 thumb: strudel-square-003.jpg
 ---
+
+#### Tuesday, November 7, 2017
+
+Alan Jaffe presented the paper <a
+href="https://arxiv.org/pdf/1708.09492.pdf">Automatically Generating Commit Messages
+from Diffs Using Neural Machine Translation</a> (Jiang et al., ASE
+2017). It is an interesting application of the naturalness of code. I
+learned a lot about the idea of naturalness of code, as well as the fact
+that Alan is very good at baking pumpkin pies.
 
 #### Tuesday, October 31, 2017
 
@@ -34,7 +43,7 @@ Sophie presented the paper "<a
 href="http://www.cs.cmu.edu/~fmri/plosone/files/hp_PLOS_ONE.pdf">Simultaneously
 Uncovering the Patterns of
 Brain Regions Involved in Different Story
-Reading Subprocesses</a>" (Wehbe et al, PLoS ONE 2014). 
+Reading Subprocesses</a>" (Wehbe et al., PLoS ONE 2014). 
 The researchers scanned participants brains while they were reading
 the ninth chapter of <i>Harry Potter and the Sorcerer's Stone</i>. They
 then trained a classifier that can distinguish which short passage the
