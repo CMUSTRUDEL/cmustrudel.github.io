@@ -5,13 +5,87 @@
     <description>The Socio-Technical Research Using Data Excavation Lab at Carnegie Mellon University</description>
     <link>http://cmustrudel.github.io/</link>
     <atom:link href="http://cmustrudel.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 12 Jan 2018 13:59:19 +0000</pubDate>
-    <lastBuildDate>Fri, 12 Jan 2018 13:59:19 +0000</lastBuildDate>
+    <pubDate>Mon, 12 Feb 2018 16:39:55 +0000</pubDate>
+    <lastBuildDate>Mon, 12 Feb 2018 16:39:55 +0000</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
         <title>Blog: STRUDEL Reading Group Updates</title>
-        <description>&lt;h4 id=&quot;tuesday-november-7-2017&quot;&gt;Tuesday, November 7, 2017&lt;/h4&gt;
+        <description>&lt;h4 id=&quot;wednesday-feburary-7-2018&quot;&gt;Wednesday, Feburary 7, 2018&lt;/h4&gt;
+
+&lt;p&gt;Shurui Zhou presented the paper &lt;a href=&quot;http://gustavopinto.org/lost+found/icse2018.pdf&quot;&gt;Almost There: A Study on
+Quasi-Contributors in Open-Source Software Projects&lt;/a&gt; (Steinmarcher et al.,
+ICSE 2018). It was interesting to learn that many people stopped making further
+contribution on GitHub after their first pull request was rejected. We also felt
+that there would be many future work worth pursuing. Thanks Shurui’s
+presentation as well as her snacks.&lt;/p&gt;
+
+&lt;p&gt;Since it was the last meeting that Alex could attend before he became a
+professor in Estonia, he also brought some
+pastries from Gates. We appreciated his intention of getting us fat. We will
+miss you.&lt;/p&gt;
+
+&lt;h4 id=&quot;wednesday-janurary-14-2018&quot;&gt;Wednesday, Janurary 14, 2018&lt;/h4&gt;
+
+&lt;p&gt;David Widder presented the paper &lt;a href=&quot;https://ir.library.oregonstate.edu/downloads/wh246x964&quot;&gt;Open Source
+barriers to entry, revisited: A tools perspective&lt;/a&gt; (Mendez et al. ICSE 2018).
+Professor Margaret Burnett’s team has been studying GitHub’s gender inclusive
+issues. Since men and women are biologically different statistically, tools
+should be designed to cater their different ways of thinking and engaging with
+software. I do not think software developing is an inheritly male dominated task. I
+believe that Getting
+more women into software developing is a key to gender equality. Yes, I am a
+feminist.&lt;/p&gt;
+
+&lt;p&gt;Davis is very good at baking, but I think he should have given out his delicious
+brownies at the beginning of his presentation rather than at the end.&lt;/p&gt;
+
+&lt;h4 id=&quot;thusday-december-5-2017&quot;&gt;Thusday, December 5, 2017&lt;/h4&gt;
+
+&lt;p&gt;Sophie Qiu presented the paper &lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S1071581916301033&quot;&gt;The influence of visual feedback and
+gender dynamics on performance,
+perception and communication strategies in CSCW&lt;/a&gt; (Koulouri et al.
+International Journal of Human-Computer Studies 2017).
+This paper shows that while men are statistically better at navigation with help
+from visual signals, women can use verbal communication to compensate such
+weakness and achieve the same level of excellency in navitation tasks.
+GenderMag, which David Widder will present later, is in the same mindset that
+although men and women are statistically biologically different, well-designed
+tools can help both of them succeed.&lt;/p&gt;
+
+&lt;h4 id=&quot;tuesday-november-28-2017&quot;&gt;Tuesday, November 28, 2017&lt;/h4&gt;
+
+&lt;p&gt;Bogdan Vasilescu presented the paper &lt;a href=&quot;http://ieeexplore.ieee.org/document/8031982/&quot;&gt;Code Coverage and Postrelease
+Defects: A Large-Scale Study on Open Source Projects&lt;/a&gt; (Kochhar et al. 2017). 
+This paper shows that code coverage in testing has insignificant correlation
+with the number of bugs at the project level of a software. Then my question
+was: how much test would be sufficient if a large software project could never be
+bug-free?&lt;/p&gt;
+
+&lt;p&gt;I do not remember what snack we had during that meeting.&lt;/p&gt;
+
+&lt;h4 id=&quot;tuesday-november-21-2017&quot;&gt;Tuesday, November 21, 2017&lt;/h4&gt;
+
+&lt;p&gt;Shurui Zhou presented the paper &lt;a href=&quot;https://dl.acm.org/citation.cfm?id=3104225&quot;&gt;Some from here, some from
+there: cross-project code reuse in GitHub&lt;/a&gt; (Gharehyazie et al., MSR 2017).
+This paper reminds me of two most popular ways of coding: Google-oriented coding
+and stackoverflow-oriented coding. It is expensive to write code from scratch,
+so understanding how code pieces are cloned across projects is useful.&lt;/p&gt;
+
+&lt;p&gt;I do not quite remember the snack but it might be Choco Pie brought by Shurui.&lt;/p&gt;
+
+&lt;h4 id=&quot;tuesday-november-14-2017&quot;&gt;Tuesday, November 14, 2017&lt;/h4&gt;
+
+&lt;p&gt;Alexander Nolte presented the paper &lt;a href=&quot;http://hci.stanford.edu/publications/2017/flashorgs/flash-orgs-chi-2017.pdf&quot;&gt;Flash Organizations:
+Crowdsourcing Complex Work by Structuring Crowds As Organizations&lt;/a&gt;.
+It is a nice paper on how to more effectively form an software developing group.
+It was good to read some paper on HCI, which I was fascinated in but knew very
+little about.&lt;/p&gt;
+
+&lt;p&gt;Thanks for your cookies, Alex. I guess they came from La Prima Espresso in
+WEAN.&lt;/p&gt;
+
+&lt;h4 id=&quot;tuesday-november-7-2017&quot;&gt;Tuesday, November 7, 2017&lt;/h4&gt;
 
 &lt;p&gt;Alan Jaffe presented the paper &lt;a href=&quot;https://arxiv.org/pdf/1708.09492.pdf&quot;&gt;Automatically Generating Commit Messages
 from Diffs Using Neural Machine Translation&lt;/a&gt; (Jiang et al., ASE
@@ -94,7 +168,7 @@ Bogdan presented at the meeting.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/assets/img/pics/09-19-17-group.jpg&quot; style=&quot;width: 400px;&quot; /&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Wed, 08 Nov 2017 17:17:36 +0000</pubDate>
+        <pubDate>Sun, 11 Feb 2018 17:17:36 +0000</pubDate>
         <link>http://cmustrudel.github.io/blog/reading-group/reading-group-meeting</link>
         <guid isPermaLink="true">http://cmustrudel.github.io/blog/reading-group/reading-group-meeting</guid>
         
