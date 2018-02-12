@@ -34,7 +34,7 @@ Professor Margaret Burnett's team has been studying GitHub's gender inclusive
 issues. Since men and women are biologically different statistically, tools
 should be designed to cater their different ways of thinking and engaging with
 software. I do not think software developing is an inheritly male dominated task. I
-believe that Getting
+believe that getting
 more women into software developing is a key to gender equality. Yes, I am a
 feminist.
 
@@ -54,6 +54,10 @@ weakness and achieve the same level of excellency in navitation tasks.
 GenderMag, which David Widder will present later, is in the same mindset that
 although men and women are statistically biologically different, well-designed
 tools can help both of them succeed.
+
+Sophie did not know that green been pie could contain cream so she bought a lot
+of them. Luckily, she could bring them to Strudel meetings so that everyone can
+eat them and be merry.
 
 #### Tuesday, November 28, 2017
 
