@@ -25,6 +25,10 @@ professor in Estonia, he also brought some
 pastries from Gates. We appreciated his intention of getting us fat. We will
 miss you.
 
+By the way, I think Gates' blueberry muffin is very nice, as well as banana &
+nuts in Scott. Nevertheless, no muffin compares to thos in Brown's Blue Room or
+banana muffin at Corner Bakery Cafe.
+
 #### Wednesday, Janurary 14, 2018
 
 David Widder presented the paper <a
