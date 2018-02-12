@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "STRUDEL Reading Group Updates"
-date:   2017-11-08 17:17:36
+date:   2018-02-11 17:17:36
 author: Sophie
 categories: 
 - blog
@@ -10,7 +10,86 @@ categories:
 thumb: strudel-square-003.jpg
 ---
 
-#### Tuesday, November 7, 2017
+#### Wednesday, Feburary 7, 2018
+
+Shurui Zhou presented the paper <a
+href="http://gustavopinto.org/lost+found/icse2018.pdf">Almost There: A Study on
+Quasi-Contributors in Open-Source Software Projects</a> (Steinmarcher et al.,
+ICSE 2018). It was interesting to learn that many people stopped making further
+contribution on GitHub after their first pull request was rejected. We also felt
+that there would be many future work worth pursuing. Thanks Shurui's
+presentation as well as her snacks.
+
+Since it was the last meeting that Alex could attend before he became a
+professor in Estonia, he also brought some
+pastries from Gates. We appreciated his intention of getting us fat. We will
+miss you.
+
+#### Wednesday, Janurary 14, 2018
+
+David Widder presented the paper <a
+href="https://ir.library.oregonstate.edu/downloads/wh246x964">Open Source
+barriers to entry, revisited: A tools perspective</a> (Mendez et al. ICSE 2018).
+Professor Margaret Burnett's team has been studying GitHub's gender inclusive
+issues. Since men and women are biologically different statistically, tools
+should be designed to cater their different ways of thinking and engaging with
+software. I do not think software developing is an inheritly male dominated task. I
+believe that Getting
+more women into software developing is a key to gender equality. Yes, I am a
+feminist.
+
+Davis is very good at baking, but I think he should have given out his delicious
+brownies at the beginning of his presentation rather than at the end.
+
+#### Thusday, December 5, 2017
+
+Sophie Qiu presented the paper <a
+href="https://www.sciencedirect.com/science/article/pii/S1071581916301033">The influence of visual feedback and
+gender dynamics on performance,
+perception and communication strategies in CSCW</a> (Koulouri et al.
+International Journal of Human-Computer Studies 2017).
+This paper shows that while men are statistically better at navigation with help
+from visual signals, women can use verbal communication to compensate such
+weakness and achieve the same level of excellency in navitation tasks.
+GenderMag, which David Widder will present later, is in the same mindset that
+although men and women are statistically biologically different, well-designed
+tools can help both of them succeed.
+
+#### Tuesday, November 28, 2017
+
+Bogdan Vasilescu presented the paper <a
+href="http://ieeexplore.ieee.org/document/8031982/">Code Coverage and Postrelease
+Defects: A Large-Scale Study on Open Source Projects</a> (Kochhar et al. 2017). 
+This paper shows that code coverage in testing has insignificant correlation
+with the number of bugs at the project level of a software. Then my question
+was: how much test would be sufficient if a large software project could never be
+bug-free?
+
+I do not remember what snack we had during that meeting.
+
+#### Tuesday, November 21, 2017
+
+Shurui Zhou presented the paper <a
+href="https://dl.acm.org/citation.cfm?id=3104225">Some from here, some from
+there: cross-project code reuse in GitHub</a> (Gharehyazie et al., MSR 2017).
+This paper reminds me of two most popular ways of coding: Google-oriented coding
+and stackoverflow-oriented coding. It is expensive to write code from scratch,
+so understanding how code pieces are cloned across projects is useful.
+
+I do not quite remember the snack but it might be Choco Pie brought by Shurui.
+
+#### Tuesday, November 14, 2017
+
+Alexander Nolte presented the paper <a href="http://hci.stanford.edu/publications/2017/flashorgs/flash-orgs-chi-2017.pdf">Flash Organizations:
+Crowdsourcing Complex Work by Structuring Crowds As Organizations</a>.
+It is a nice paper on how to more effectively form an software developing group.
+It was good to read some paper on HCI, which I was fascinated in but knew very
+little about.
+
+Thanks for your cookies, Alex. I guess they came from La Prima Espresso in
+WEAN.
+
+#### Tuesday, November 7, 2017 
 
 Alan Jaffe presented the paper <a
 href="https://arxiv.org/pdf/1708.09492.pdf">Automatically Generating Commit Messages
