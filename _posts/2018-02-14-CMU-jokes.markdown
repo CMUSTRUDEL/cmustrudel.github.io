@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "CMU if FUN!"
+title:  "CMU is FUN!"
 date:   2018-02-14 12:17:46
 author: Sophie
 categories: 
