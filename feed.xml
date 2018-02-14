@@ -5,9 +5,41 @@
     <description>The Socio-Technical Research Using Data Excavation Lab at Carnegie Mellon University</description>
     <link>http://cmustrudel.github.io/</link>
     <atom:link href="http://cmustrudel.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 13 Feb 2018 12:04:15 +0000</pubDate>
-    <lastBuildDate>Tue, 13 Feb 2018 12:04:15 +0000</lastBuildDate>
+    <pubDate>Wed, 14 Feb 2018 17:35:34 +0000</pubDate>
+    <lastBuildDate>Wed, 14 Feb 2018 17:35:34 +0000</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>Blog: CMU if FUN!</title>
+        <description>&lt;p&gt;Since I came to the Open House in March 2017, I found that CMU is a nerdy but
+cool space. 
+People are smart and creative. As a result, my life at CMU has been full of
+funny anecdots.
+I wanted to share some of them that made me burst into laughter.&lt;/p&gt;
+
+&lt;p&gt;Feb 14, 2018.&lt;/p&gt;
+
+&lt;p&gt;My office mate brought the the issue of Valentine’s Day plan when she was
+working with her collaborator. She told us if you brought your laptop to the
+bookstore, they would clean it for free.&lt;/p&gt;
+
+&lt;p&gt;People celebrate Valentine’s Day with their valentines. Same here at CMU.
+However, CMU might have defined valentine slightly differently. It expanded the
+concept beyond human beings. Apart from your collaborators, people usually
+interact the most&lt;br /&gt;
+with their valentines. If we count objects as well, one’s laptop 
+is definitely the number 1 valentine.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 14 Feb 2018 12:17:46 +0000</pubDate>
+        <link>http://cmustrudel.github.io/blog/cmu/CMU-jokes</link>
+        <guid isPermaLink="true">http://cmustrudel.github.io/blog/cmu/CMU-jokes</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>CMU</category>
+        
+      </item>
     
       <item>
         <title>Blog: STRUDEL Reading Group Updates</title>
@@ -205,26 +237,6 @@ PDF &lt;a href=&quot;../../papers/ase17ci.pdf&quot;&gt;here&lt;/a&gt;. Slides &l
         <pubDate>Tue, 31 Oct 2017 10:30:00 +0000</pubDate>
         <link>http://cmustrudel.github.io/announcement/ase-paper</link>
         <guid isPermaLink="true">http://cmustrudel.github.io/announcement/ase-paper</guid>
-        
-        
-        <category>Announcement</category>
-        
-      </item>
-    
-      <item>
-        <title>Announcement: Third place for Alan in the SRC!</title>
-        <description>&lt;p&gt;Congratulations to Alan who placed third in the ACM Student Research Competition 
-at &lt;a href=&quot;http://esec-fse17.uni-paderborn.de&quot;&gt;ESEC/FSE 2017&lt;/a&gt; this year!&lt;/p&gt;
-
-&lt;p&gt;Check out his work on &lt;a href=&quot;../../papers/fse17src.pdf&quot;&gt;suggesting meaningful variable names for decompiled code&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;More details about the research &lt;a href=&quot;../../projects/jsnaughty/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/pics/09-08-17-src.jpg&quot; style=&quot;width: 300px;&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 08 Sep 2017 10:30:00 +0000</pubDate>
-        <link>http://cmustrudel.github.io/announcement/esec-fse-rc</link>
-        <guid isPermaLink="true">http://cmustrudel.github.io/announcement/esec-fse-rc</guid>
         
         
         <category>Announcement</category>
