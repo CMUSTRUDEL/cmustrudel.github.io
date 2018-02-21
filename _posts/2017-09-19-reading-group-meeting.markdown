@@ -10,6 +10,38 @@ categories:
 thumb: strudel-square-003.jpg
 ---
 
+#### Wednesday, Feburary 21, 2018
+
+Jeremy Lacomis presented the paper <a
+href="https://hal.inria.fr/hal-01691496/file/SEIP_63_Camera-Ready-no-copyright.pdf">How
+to Design a Program Repair Bot? Insights from
+the Repairnator Project</a> (Urli et al. ICSE 2018).
+It is interesting to learn about online program repair bugs. When I was talking
+with a CMU undergrad at one of <a
+href"https://www.facebook.com/groups/cmukgb/">KGB</a>'s activity, he was excited
+to learn that people are working on how to fix bugs automatically since he has
+some very unpleasant experience with debugging - so do many of us. It would be
+great if we could have a bug repairing bot with high accuracy in the future.
+However, as Marat pointed out, when the debugging process can be largely
+substituted by a robot, that means this language is dying. One example is
+Assembly. Here's a quote from Paul Graham
+about the evolution of programming languages:
+
+"What programmers in a hundred years will be looking for, most of all, is a
+language where you can throw together an unbelievably inefficient version 1 of a
+program with the least possible effort. At least, that's how we'd describe it in
+present-day terms. What they'll say is that they want a language that's easy to
+program in.
+
+Inefficient software isn't gross. What's gross is a language that makes
+programmers do needless work. Wasting programmer time is the true inefficiency,
+not wasting machine time. This will become ever more clear as computers get
+faster." (source: <a href="http://www.paulgraham.com/hundred.html">http://www.paulgraham.com/hundred.html</a>)
+
+#### Wednesday, Feburary 14, 2018
+
+Jason Yanwen Lin presented the paper
+
 #### Wednesday, Feburary 7, 2018
 
 Shurui Zhou presented the paper <a
