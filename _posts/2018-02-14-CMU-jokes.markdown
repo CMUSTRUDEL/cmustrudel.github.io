@@ -16,7 +16,7 @@ People are smart and creative. As a result, my life at CMU has been full of
 funny anecdots.
 I wanted to share some of them that made me burst into laughter. 
 
-<img src"/assets/img/pics/website_divider.jpg" align="middle"/>
+<img src"/assets/img/pics/website_divider.jpg"/>
 
 Feb 14, 2018.
 
@@ -32,7 +32,17 @@ interact the most
 with their valentines. If we count objects as well, one's laptop 
 is definitely the number 1 valentine of most CMU students.
 
-<img src"/assets/img/pics/website_divider.jpg" align="middle"/>
+<img src"/assets/img/pics/website_divider.jpg"/>
+
+Feb 9, 2018.
+
+You konw spring is coming when the snow on Newell Simon Hall's rooftop becomes
+ricenoodle.
+
+<img src"/assets/img/pics/02-09-18-nsh.jpg" style="width: 200px;"/>
+<img src"/assets/img/pics/02-09-18-ricenoodle.jpg" style="width: 200px;"/>
+
+<img src"/assets/img/pics/website_divider.jpg"/>
 
 Sep 28, 2017
 
