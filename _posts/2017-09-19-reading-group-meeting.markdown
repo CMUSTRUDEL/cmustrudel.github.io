@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "STRUDEL Reading Group Updates"
-date:   2018-02-11 17:17:36
+date:   2018-02-21 17:17:36
 author: Sophie
 categories: 
 - blog
@@ -41,6 +41,16 @@ faster." (source: <a href="http://www.paulgraham.com/hundred.html">http://www.pa
 #### Wednesday, Feburary 14, 2018
 
 Jason Yanwen Lin presented the paper
+<a
+href="http://haiyizhu.com/wp-content/uploads/2017/01/predicting-member-productivity-1.pdf">Predicting
+Member Productivity and Withdrawal from
+Pre-Joining Attachments in Online Production Groups</a> (Yu et al. CSCW 17).
+This paper analysed withdrawl from Wikipedia groups using the attachment
+theories from social psychology. 
+There results show that pre-joining connections are important to online
+production groups. Speaking from my personal experience, I totally agree with
+the authors. Especially in online community, when you often interact with people
+who you don't konw much personal information, it can be hard to form attachment. 
 
 #### Wednesday, Feburary 7, 2018
 
@@ -116,7 +126,7 @@ This paper reminds me of two most popular ways of coding: Google-oriented coding
 and stackoverflow-oriented coding. It is expensive to write code from scratch,
 so understanding how code pieces are cloned across projects is useful.
 
-I do not quite remember the snack but it might be Choco Pie brought by Shurui.
+I do not quite remember the snack but it might be Shurui's Choco Pie.
 
 #### Tuesday, November 14, 2017
 
