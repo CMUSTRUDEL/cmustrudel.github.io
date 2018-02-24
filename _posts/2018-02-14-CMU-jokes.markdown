@@ -78,7 +78,7 @@ Happy smiley's 35's birthday!
 
 Do you know who invented :-)? Where was :-) first used? 
 
-On 19 Sep, 1982, way before the emoji era, Scott Fahlman decided that people should use :-) for happy
+On 19 Sep, 1982, way before the emoji era, Scott Fahlman at CMU decided that people should use :-) for happy
 feeling and :-( for sad feeling. When they could only communicate through plain
 text, this was the cleverest idea. Now we have emoji, but I'd say text emoticons
 are still very useful and efficient. <a href="http://cool-smileys.com/text-emoticons">Here's a
