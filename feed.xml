@@ -5,8 +5,8 @@
     <description>The Socio-Technical Research Using Data Excavation Lab at Carnegie Mellon University</description>
     <link>http://cmustrudel.github.io/</link>
     <atom:link href="http://cmustrudel.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 24 Feb 2018 04:51:57 +0000</pubDate>
-    <lastBuildDate>Sat, 24 Feb 2018 04:51:57 +0000</lastBuildDate>
+    <pubDate>Sat, 24 Feb 2018 04:57:49 +0000</pubDate>
+    <lastBuildDate>Sat, 24 Feb 2018 04:57:49 +0000</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -15,10 +15,10 @@
 
 &lt;p&gt;Jeremy Lacomis presented the paper &lt;a href=&quot;https://hal.inria.fr/hal-01691496/file/SEIP_63_Camera-Ready-no-copyright.pdf&quot;&gt;How
 to Design a Program Repair Bot? Insights from
-the Repairnator Project&lt;/a&gt; (Urli et al. ICSE 2018).
-It is interesting to learn about online program repair bugs. When I was talking
-with a CMU undergrad at one of &amp;lt;a
-href”https://www.facebook.com/groups/cmukgb/”&amp;gt;KGB&amp;lt;/a&amp;gt;’s activity, he was excited
+the Repairnator Project&lt;/a&gt; (Urli et al. ICSE 2018).&lt;/p&gt;
+
+&lt;p&gt;It is interesting to learn about online program repair bugs. When I was talking
+with a CMU undergrad at one of &lt;a href=&quot;https://www.facebook.com/groups/cmukgb/&quot;&gt;KGB&lt;/a&gt;’s activity, he was excited
 to learn that people are working on how to fix bugs automatically since he has
 some very unpleasant experience with debugging - so do many of us. It would be
 great if we could have a bug repairing bot with high accuracy in the future.
@@ -43,8 +43,9 @@ faster.” (source: &lt;a href=&quot;http://www.paulgraham.com/hundred.html&quot
 &lt;p&gt;Jason Yanwen Lin presented the paper
 &lt;a href=&quot;http://haiyizhu.com/wp-content/uploads/2017/01/predicting-member-productivity-1.pdf&quot;&gt;Predicting
 Member Productivity and Withdrawal from
-Pre-Joining Attachments in Online Production Groups&lt;/a&gt; (Yu et al. CSCW 17).
-This paper analysed withdrawl from Wikipedia groups using the attachment
+Pre-Joining Attachments in Online Production Groups&lt;/a&gt; (Yu et al. CSCW 17).&lt;/p&gt;
+
+&lt;p&gt;This paper analysed withdrawl from Wikipedia groups using the attachment
 theories from social psychology. 
 There results show that pre-joining connections are important to online
 production groups. Speaking from my personal experience, I totally agree with
@@ -55,7 +56,9 @@ who you don’t konw much personal information, it can be hard to form attachmen
 
 &lt;p&gt;Shurui Zhou presented the paper &lt;a href=&quot;http://gustavopinto.org/lost+found/icse2018.pdf&quot;&gt;Almost There: A Study on
 Quasi-Contributors in Open-Source Software Projects&lt;/a&gt; (Steinmarcher et al.,
-ICSE 2018). It was interesting to learn that many people stopped making further
+ICSE 2018).&lt;/p&gt;
+
+&lt;p&gt;It was interesting to learn that many people stopped making further
 contribution on GitHub after their first pull request was rejected. We also felt
 that there would be many future work worth pursuing. Thanks Shurui’s
 presentation as well as her snacks.&lt;/p&gt;
@@ -72,8 +75,9 @@ banana muffin at Corner Bakery Cafe.&lt;/p&gt;
 &lt;h4 id=&quot;wednesday-janurary-14-2018&quot;&gt;Wednesday, Janurary 14, 2018&lt;/h4&gt;
 
 &lt;p&gt;David Widder presented the paper &lt;a href=&quot;https://ir.library.oregonstate.edu/downloads/wh246x964&quot;&gt;Open Source
-barriers to entry, revisited: A tools perspective&lt;/a&gt; (Mendez et al. ICSE 2018).
-Professor Margaret Burnett’s team has been studying GitHub’s gender inclusive
+barriers to entry, revisited: A tools perspective&lt;/a&gt; (Mendez et al. ICSE 2018).&lt;/p&gt;
+
+&lt;p&gt;Professor Margaret Burnett’s team has been studying GitHub’s gender inclusive
 issues. Since men and women are biologically different statistically, tools
 should be designed to cater their different ways of thinking and engaging with
 software. I do not think software developing is an inheritly male dominated task. I
@@ -89,8 +93,9 @@ brownies at the beginning of his presentation rather than at the end.&lt;/p&gt;
 &lt;p&gt;Sophie Qiu presented the paper &lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S1071581916301033&quot;&gt;The influence of visual feedback and
 gender dynamics on performance,
 perception and communication strategies in CSCW&lt;/a&gt; (Koulouri et al.
-International Journal of Human-Computer Studies 2017).
-This paper shows that while men are statistically better at navigation with help
+International Journal of Human-Computer Studies 2017).&lt;/p&gt;
+
+&lt;p&gt;This paper shows that while men are statistically better at navigation with help
 from visual signals, women can use verbal communication to compensate such
 weakness and achieve the same level of excellency in navitation tasks.
 GenderMag, which David Widder will present later, is in the same mindset that
@@ -104,8 +109,9 @@ eat them and be merry.&lt;/p&gt;
 &lt;h4 id=&quot;tuesday-november-28-2017&quot;&gt;Tuesday, November 28, 2017&lt;/h4&gt;
 
 &lt;p&gt;Bogdan Vasilescu presented the paper &lt;a href=&quot;http://ieeexplore.ieee.org/document/8031982/&quot;&gt;Code Coverage and Postrelease
-Defects: A Large-Scale Study on Open Source Projects&lt;/a&gt; (Kochhar et al. 2017). 
-This paper shows that code coverage in testing has insignificant correlation
+Defects: A Large-Scale Study on Open Source Projects&lt;/a&gt; (Kochhar et al. 2017).&lt;/p&gt;
+
+&lt;p&gt;This paper shows that code coverage in testing has insignificant correlation
 with the number of bugs at the project level of a software. Then my question
 was: how much test would be sufficient if a large software project could never be
 bug-free?&lt;/p&gt;
@@ -115,8 +121,9 @@ bug-free?&lt;/p&gt;
 &lt;h4 id=&quot;tuesday-november-21-2017&quot;&gt;Tuesday, November 21, 2017&lt;/h4&gt;
 
 &lt;p&gt;Shurui Zhou presented the paper &lt;a href=&quot;https://dl.acm.org/citation.cfm?id=3104225&quot;&gt;Some from here, some from
-there: cross-project code reuse in GitHub&lt;/a&gt; (Gharehyazie et al., MSR 2017).
-This paper reminds me of two most popular ways of coding: Google-oriented coding
+there: cross-project code reuse in GitHub&lt;/a&gt; (Gharehyazie et al., MSR 2017).&lt;/p&gt;
+
+&lt;p&gt;This paper reminds me of two most popular ways of coding: Google-oriented coding
 and stackoverflow-oriented coding. It is expensive to write code from scratch,
 so understanding how code pieces are cloned across projects is useful.&lt;/p&gt;
 
@@ -125,8 +132,9 @@ so understanding how code pieces are cloned across projects is useful.&lt;/p&gt;
 &lt;h4 id=&quot;tuesday-november-14-2017&quot;&gt;Tuesday, November 14, 2017&lt;/h4&gt;
 
 &lt;p&gt;Alexander Nolte presented the paper &lt;a href=&quot;http://hci.stanford.edu/publications/2017/flashorgs/flash-orgs-chi-2017.pdf&quot;&gt;Flash Organizations:
-Crowdsourcing Complex Work by Structuring Crowds As Organizations&lt;/a&gt;.
-It is a nice paper on how to more effectively form an software developing group.
+Crowdsourcing Complex Work by Structuring Crowds As Organizations&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;It is a nice paper on how to more effectively form an software developing group.
 It was good to read some paper on HCI, which I was fascinated in but knew very
 little about.&lt;/p&gt;
 
@@ -137,7 +145,9 @@ WEAN.&lt;/p&gt;
 
 &lt;p&gt;Alan Jaffe presented the paper &lt;a href=&quot;https://arxiv.org/pdf/1708.09492.pdf&quot;&gt;Automatically Generating Commit Messages
 from Diffs Using Neural Machine Translation&lt;/a&gt; (Jiang et al., ASE
-2017). It is an interesting application of the naturalness of code. I
+2017).&lt;/p&gt;
+
+&lt;p&gt;It is an interesting application of the naturalness of code. I
 learned a lot about the idea of naturalness of code, as well as the fact
 that Alan is very good at baking pumpkin pies.&lt;/p&gt;
 
@@ -164,8 +174,9 @@ We were all enjoying his talk as well as Sophie’s hazelnut wafel.&lt;/p&gt;
 &lt;p&gt;Sophie presented the paper “&lt;a href=&quot;http://www.cs.cmu.edu/~fmri/plosone/files/hp_PLOS_ONE.pdf&quot;&gt;Simultaneously
 Uncovering the Patterns of
 Brain Regions Involved in Different Story
-Reading Subprocesses&lt;/a&gt;” (Wehbe et al., PLoS ONE 2014). 
-The researchers scanned participants brains while they were reading
+Reading Subprocesses&lt;/a&gt;” (Wehbe et al., PLoS ONE 2014).&lt;/p&gt;
+
+&lt;p&gt;The researchers scanned participants brains while they were reading
 the ninth chapter of &lt;i&gt;Harry Potter and the Sorcerer’s Stone&lt;/i&gt;. They
 then trained a classifier that can distinguish which short passage the
 participants were reading based on the neural activity. The choice of
@@ -179,7 +190,9 @@ It was very nice and sweet that David made apple raisin strudels.&lt;/p&gt;
 
 &lt;p&gt;Marat presented the paper “&lt;a href=&quot;http://delivery.acm.org/10.1145/2540000/2531642/p831-backstrom.pdf?ip=24.238.13.130&amp;amp;id=2531642&amp;amp;acc=OA&amp;amp;key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E528920FC4509E774&amp;amp;CFID=993659916&amp;amp;CFTOKEN=60398709&amp;amp;__acm__=1509333674_18432c45ea35e7515bb15ff9492d27f0&quot;&gt;Romantic partnerships and the
 dispersion of social ties: a network analysis of relationship status on
-facebook&lt;/a&gt;” (Backstrom et al, CSCW 2014). This paper proposed to use
+facebook&lt;/a&gt;” (Backstrom et al, CSCW 2014).&lt;/p&gt;
+
+&lt;p&gt;This paper proposed to use
 dispersion, which measures “the extent to which two people’s mutual
 friends are not themselves well-connected,” in addition to embeddedness,
 which measures the number of mutural friends, to predict if two Facebook users 
@@ -190,8 +203,9 @@ Somehow, my impression of the paper smells like homemade banana bread.&lt;/p&gt;
 &lt;h4 id=&quot;tuesday-october-3-2017&quot;&gt;Tuesday, October 3, 2017&lt;/h4&gt;
 
 &lt;p&gt;David presented the paper “&lt;a href=&quot;https://yuchi1989.github.io/papers/fse17-ErrDoc.pdf&quot;&gt;Automatically
-Diagnosing and Repairing Error Handling Bugs in C&lt;/a&gt;” (Tian and Ray, ESEC/FSE 2017). 
-This paper presents how to identify different types of bugs and how to correct
+Diagnosing and Repairing Error Handling Bugs in C&lt;/a&gt;” (Tian and Ray, ESEC/FSE 2017).&lt;/p&gt;
+
+&lt;p&gt;This paper presents how to identify different types of bugs and how to correct
 them in C/C++ code. 
 Happy Mid-autumn festival and thanks Sophie for her mooncake!&lt;/p&gt;
 
@@ -200,8 +214,9 @@ Happy Mid-autumn festival and thanks Sophie for her mooncake!&lt;/p&gt;
 &lt;h4 id=&quot;tuesday-september-26-2017&quot;&gt;Tuesday, September 26, 2017&lt;/h4&gt;
 
 &lt;p&gt;Jeremy presented the paper “&lt;a href=&quot;https://web.eecs.umich.edu/~weimerw/p/weimer-icse2017-preprint.pdf&quot;&gt;Decoding the representation of code in the
-brain: An fMRI study of code review and expertise&lt;/a&gt;” (Floyd et al, ICSE 2017). 
-The researchers scanned participants’ brain while they were reviewing code or 
+brain: An fMRI study of code review and expertise&lt;/a&gt;” (Floyd et al, ICSE 2017).&lt;/p&gt;
+
+&lt;p&gt;The researchers scanned participants’ brain while they were reviewing code or 
 prose. The findings suggest that reading code differs from reading natural 
 language, but less so for experts than for novices.&lt;/p&gt;
 
