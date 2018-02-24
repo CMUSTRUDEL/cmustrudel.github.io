@@ -105,7 +105,7 @@ Do you know who got the job? <a
 href="https://www.cmu.edu/piper/news/archives/2017/september/grazing-goats.html">A
 group of goats!</a>
 
-<img src="/assets/img/pics/09-14-17-goats.jpg" style = "width: 400px;">
+<img src="/assets/img/pics/09-14-17-goat.jpg" style = "width: 400px;">
 
 For some unknown reasons, there was also a donkey. 
 
