@@ -16,35 +16,6 @@ People are smart and creative. As a result, my life at CMU has been full of
 funny anecdots.
 I wanted to share some of them that made me burst into laughter. 
 
-#### Mar 8, 2018.
-
-This is not a joke. It is serious. 
-
-Today is International Women's Day. In China, where I grew up, people
-celebrate it as a festival.   
-On wechat, many of my girl friends posted photos of chocolates and roses they
-received from their boyfriends/husbands/employers as gifts.
-Doesn't it sound like Valentine's Day?
-
-IMHO, CMU has found the correct way of celebrating Women's Day. International
-Women's Day is more about reminding us of the history of women's struggle for
-equality than treating women better in this single day.
-
-<img src="/assets/img/pics/03-08-18-iwd1.jpg" style="width: 198px;"/>
-<img src="/assets/img/pics/03-08-18-iwd2.jpg" style="width: 198px;"/>
-
-Read <a
-href="http://www.post-gazette.com/local/city/2017/03/08/Pittsburgh-march-International-Women-s-Day-to-bring-assembly-to-Downtown/stories/201703080103">more</a> about International Women's Day assembly in Pittsburgh.
-
-It so happend that we read the paper "<a
-href="http://hci.stanford.edu/publications/2016/ethan/gender.pdf">Shirtless and Dangerous: Quantifying
-Linguistic Signals of Gender Bias in an Online Fiction Writing Community</a>" (Fast
-et al. ICWSM. 2016) in our social computing reading group today (organized by
-students at LTI and HCII). Although my limited literature background tells me
-that word level analysis for bias detection is too superficial, I still endorse
-this paper because it discovers that female authors are equally likely to
-conform with gender stereotypes in their writings.
-
 #### Mar 2, 2018.
 
 I was surprised by how often I could spot a Harry Potter related thing on CMU
