@@ -1,0 +1,149 @@
+
+#badge_cc {
+	position: relative;
+}
+
+#badge_container {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	margin: auto;
+	width: 710px;
+	height: 350px;
+}
+
+
+#mmm {
+	position: absolute;
+}
+
+
+section {
+	margin-top: 50px;
+	margin-bottom: 100px;
+}
+
+#intro {
+}
+
+
+#intro .col-md {
+	text-align: center;
+}
+
+.col-md-6 {
+}
+
+img {
+	margin: 3px;
+}
+
+.x-badge {
+	cursor: pointer;
+}
+
+.x-selected {
+	opacity: 1.0;
+}
+
+#badge_types {
+	background: #222;
+	color: white;
+}
+
+
+footer {
+	padding: 15px 0px;
+	background: #384452;
+	color: #fff !important;
+}
+
+footer p, footer li, footer a {
+	color: #ddd !important;
+}
+
+footer hr {
+	background-color: #ddd;
+}
+
+.paper {
+	max-width: 150px;
+}
+
+#title {
+	background: #DC2624;
+	border-bottom: 5px solid #384452;
+	box-sizing: border-box;
+	padding: 20px;
+	color: white;
+}
+
+#logos {
+	text-align: center;
+	margin: 5px !important;
+	padding: 0px 15px;
+}
+
+#logos img {
+	height: 50px;
+	margin: 0px 10px;
+}
+
+#cmu-logo {
+	height: 40px !important;
+}
+
+@media (max-width: 768px) {
+
+	#cmu-logo {
+		width: 80%;
+		height: auto !important;
+		margin-top: 5px !important;
+	}
+}
+
+.graph {
+	color: black;
+}
+
+
+.inline {
+	height: 20px;
+}
+
+blockquote {
+	color: #777;
+	font-family: Georgia, sans-serif;
+}
+
+
+@media (min-width: 768px) {
+	.leftcol {
+		padding-right: 50px;
+	}
+}
+
+.sparkley {
+
+  background: lighten( #2c3e50 , 10% );
+  color: rgba(255, 255, 255, 1);
+  border: none;
+
+  padding: 16px 36px;
+  font-weight: normal;
+
+  border-radius: 3px;
+  transition: all 0.25s ease;
+
+  box-shadow: 0 38px 32px -23px black;
+  margin: 0 1em 1em;
+}
+
+.sparkley:hover {
+
+background: #2c3e50;
+color: transparentize( rgba(255,255,255,1) ,0.8 );
+
+}
+
+
