@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "CMU is FUN!"
+title:  "Life @ CMU"
 date:   2018-02-14 12:17:46
 author: Sophie
 categories: 
@@ -12,9 +12,8 @@ thumb: strudel-square-003.jpg
 
 Since I came to the Open House in March 2017, I found that CMU is a nerdy but
 cool space. 
-People are smart and creative. As a result, my life at CMU has been full of
-funny anecdots.
-I wanted to share some of them that made me burst into laughter. 
+I'm writing down things I find interesting here.
+Hope this blog can tell you more about CMU.
 
 #### Mar 14, 2018.
 
