@@ -7,7 +7,7 @@ gem "rake", "~> 10.1.1"
 gem "rake-jekyll"
 gem 'jekyll-scholar', '~> 5.9', '>= 5.9.1'
 
-require 'rbconfig'
-if RbConfig::CONFIG['target_os'] =~ /darwin(1[0-3])/i
-  gem 'rb-fsevent', '<= 0.9.4'
-end
+#require 'rbconfig'
+#if RbConfig::CONFIG['target_os'] =~ /darwin(1[0-3])/i
+#  gem 'rb-fsevent', '<= 0.9.4'
+#end

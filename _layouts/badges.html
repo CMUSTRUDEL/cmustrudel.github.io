@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+{% include wrap.html %}
+
+<div class="container mt">
+    <div class="row">
+
+        {% include carousel.html %}
+    </div>
+    
+    
+    {{ content }}
+
+</div>
+	 
+{% include portfolio.html title="Related Projects" limit=6 %}
