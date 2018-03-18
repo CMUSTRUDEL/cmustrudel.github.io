@@ -7,7 +7,18 @@
     <td><div class="reference">
 <!-- {{ reference }} -->
 <!-- <abbr>[{{key}}]</abbr>{{reference}} -->
-{{ reference | replace_first: 'Vasilescu, B.', '<u class="ref">Vasilescu, B.</u>' }}
+<!-- 
+{{ reference 
+| replace_first: 'Vasilescu, B.', '<u class="ref">Vasilescu, B.</u>'  
+| replace_first: 'Lacomis, J.', '<u class="ref">Lacomis, J.</u>'
+| replace_first: 'Jaffe, A.', '<u class="ref">Jaffe, A.</u>'
+| replace_first: 'Qiu, S.', '<u class="ref">Qiu, S.</u>'
+| replace_first: 'Widder, D.', '<u class="ref">Widder, D.</u>' 
+| replace_first: 'Valiev, M.', '<u class="ref">Valiev, M.</u>' 
+| replace_first: 'Trockman, A.', '<u class="ref">Trockman, A.</u>' 
+| replace_first: 'Zhou, S.', '<u class="ref">Zhou, S.</u>' }}
+ -->
+{{ reference }}
 </div>
   <span class="refs-link"><a href="javascript:void(0)" onclick="$('#bibtex-entry-{{key}}').slideToggle();">BibTeX</a></span>
   {% if entry.doi %} &middot; <span class="refs-link"><a href="{{entry.doi}}">DOI</a></span> {% endif %}
