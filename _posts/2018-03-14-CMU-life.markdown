@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Life @ CMU"
-date:   2018-03-14 22:19:44
+date:   2018-03-18 12:00:13
 author: Sophie
 categories: 
 - blog
@@ -14,6 +14,17 @@ Since I came to the Open House in March 2017, I found that CMU is a nerdy but
 cool space. 
 I'm writing down things I find interesting here.
 Hope this blog can tell you more about CMU.
+
+#### Mar 18, 2018.
+
+# His heart is at work.
+
+While most people were away last week because of the spring break, this guy sat
+at the teaching common the entire week. Apparantly, his heart is at work.
+A typical CMU student.
+
+<img src="/assets/img/pics/03-18-18-atwork1.jpg" style="width: 400px;"/>
+<img src="/assets/img/pics/03-18-18-atwork2.jpg" style="width: 400px;"/>
 
 #### Mar 14, 2018.
 
