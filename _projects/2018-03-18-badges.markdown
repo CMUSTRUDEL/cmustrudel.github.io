@@ -1,0 +1,507 @@
+---
+layout: badges
+title:  "Badges on npm packages"
+date:   2016-03-18 11:54:46
+categories:
+- project
+img: portfolio/portfolio.006.jpeg
+thumb: thumb02.jpg
+pubs:
+ - key: ICSE 2018
+   title: "Adding Sparkle to Social Coding: An Empirical Study of Repository Badges in the npm Ecosystem."
+   url: ../../papers/icse18badges.pdf
+tagged: npm, GitHub, badges
+website: 
+---
+
+<!-- 
+carousel:
+- jsnaughty/jsnaughty.001.jpeg
+- jsnaughty/jsnaughty.002.jpeg
+- jsnaughty/jsnaughty.003.jpeg
+ -->
+
+<div class="row">
+
+        <div class="col-lg-5 col-lg-offset-1">
+            <div class="spacing"></div>
+
+					<h4>Motivation</h4>
+					<hr>
+
+					<p>
+						Based on our collected data, npm has over 500,000 available packages.
+						Open source development is massively distributed with little
+						central coordination and disparate practices.
+						Developers often work in the context of a software ecosystem,
+						a complex sociotechnical network of interdependent components, libraries, and plugins,
+						many providing similar functionality.
+						How do contributors determine if a project is worth contributing to?
+						How do users determine which component best suits their needs?
+					</p>
+
+					<p>
+						The transparency provided by social coding platforms like GitHub
+						is essential to such decision making.
+						Developers infer the quality of projects by using visible cues,
+						known as <i>signals</i>, collected from personal profile
+						and repository pages.
+					</p>
+
+					<br>
+					<br>
+					<br>
+
+					<h4>Signaling Theory</h4>
+					<hr>
+
+					<p>
+						Badges are a type of <b>signal</b>,
+						since they provide information on qualities
+						such as build status, dependency security, and openness to contributions
+						that are otherwise not easily perceivable. 
+
+						That is, badges make certain information about
+						a project's code base or practices more transparent.
+
+					</p>
+
+					<p>
+						We framed our study in the context of <b>signaling theory</b>,
+						which is concerned with the reliability of signals.
+						Can you expect that a project is more likely to write tests
+						if they display a quality assurance (e.g. continuous integration) badge?
+						Is a project actually more likely to keep its dependencies
+						up-to-date if it displays a dependency monitoring badge?
+					</p>
+
+					<p>
+						This is called <b>signal fit</b> &mdash; to what extent do signals (badges)
+						correspond to the quality they are meant to signal?
+					</p>
+
+					<p>
+						We are concerned with two types of signals:<br>
+						<b>conventional signals</b>, which simply provide information or a statement of intent;<br>
+						<b>assessment signals</b>, which are associated with a third-party service that computes some property
+						of the project (such as test coverage).
+					</p>
+
+        </div>
+        <div class="col-lg-4 col-lg-offset-1">
+						<div class="spacing"></div>
+            
+            {% if page.website %}
+            <h4>Website</h4>
+            <div class="hline"></div>
+            <p><a href="{{ page.website }}">{{ page.website }}</a></p>
+            <div class="spacing"></div>
+            {% endif %}
+            
+            {% if page.pubs %}
+            <h4>Related Publications</h4>
+            <div class="hline"></div>
+			        {% for pub in page.pubs %}
+
+			        <br><li><b>{{ pub.key }}</b>: <i><a href="{{ pub.url }}">{{ pub.title }}</a></i>
+						  </li>
+              {% endfor %}	
+						<div class="spacing"></div>
+						<div class="hline"></div>
+            {% endif %}
+
+            <div class="spacing"></div>
+            
+					<h4>Quality Assurance</h4>
+					<img data-adoption="0.9" data-badge-class="quality assurance" data-name="AppVeyor" class="x-badge" src="../../assets/fig/appveyor.svg" >
+					<img data-adoption="0.4" data-badge-class="quality assurance" data-name="BitHound" class="x-badge" src="../../assets/fig/bithound.svg" >
+					<img data-adoption="31.5" data-badge-class="quality assurance" data-name="Travis CI" class="x-badge x-selected" src="../../assets/fig/build-passing.svg" >
+					<img data-adoption="1.2" data-badge-class="quality assurance" data-name="Circle CI" class="x-badge" src="../../assets/fig/circle.svg" >
+					<img data-adoption="2.3" data-badge-class="quality assurance" data-name="CodeClimate" class="x-badge" src="../../assets/fig/codeclimate.svg" >
+					<img data-adoption="1.6" data-badge-class="quality assurance" data-name="Codecov" class="x-badge" src="../../assets/fig/codecov.svg" >
+					<img data-adoption="6.0" data-badge-class="quality assurance" data-name="Coveralls" class="x-badge" src="../../assets/fig/coveralls.svg" >
+					<img data-adoption="0.1" data-badge-class="quality assurance" data-name="Inch CI" class="x-badge" src="../../assets/fig/inchci.svg" >
+
+					<br>
+					<br>
+					<br>
+
+					<h4>Popularity</h4>
+					<img data-adoption="0.6" data-badge-class="popularity" data-name="cdnjs" class="x-badge" src="../../assets/fig/cdnjs.svg" >
+					<img data-adoption="5.3" data-badge-class="popularity" data-name="npm downloads" class="x-badge" src="../../assets/fig/npm-downloads.svg" >
+					<img data-adoption="0.2" data-badge-class="popularity" data-name="GitHub Stars" class="x-badge" src="../../assets/fig/stars.svg" >
+					<img data-adoption="0.3" data-badge-class="popularity" data-name="Twitter" class="x-badge" src="../../assets/fig/twitter.svg" >
+					<br>
+					<br>
+					<br>
+
+					<h4>Information</h4>
+					<img data-adoption="1.8" data-badge-class="information" data-name="Code style" class="x-badge" src="../../assets/fig/codestyle.svg" >
+					<img data-adoption="0.2" data-badge-class="information" data-name="Commitizen" class="x-badge" src="../../assets/fig/commitizen.svg" >
+					<img data-adoption="0.2" data-badge-class="information" data-name="Ember Observer" class="x-badge" src="../../assets/fig/emberobserver.svg" >
+					<img data-adoption="21.8" data-badge-class="information" data-name="GitHub Release" class="x-badge" src="../../assets/fig/gh-release.svg" >
+					<img data-adoption="0.2" data-badge-class="information" data-name="Heroku" class="x-badge" src="../../assets/fig/heroku.svg" style="height: 20px;">
+					<img data-adoption="2.1" data-badge-class="information" data-name="License" class="x-badge" src="../../assets/fig/license.svg" >
+					<img data-adoption="0.1" data-badge-class="information" data-name="PRs Welcome" class="x-badge" src="../../assets/fig/prswelcome.svg" >
+					<img data-adoption="0.3" data-badge-class="information" data-name="Semantic Release" class="x-badge" src="../../assets/fig/semanticrelease.svg" >
+					<br>
+					<br>
+					<br>
+
+					<h4>Dependency Management</h4>
+					<img data-adoption="8.0" data-badge-class="dependency management" data-name="David DM" class="x-badge" src="../../assets/fig/david.svg" >
+					<img data-adoption="0.5" data-badge-class="dependency management" data-name="Greenkeeper" class="x-badge" src="../../assets/fig/greenkeeper.svg" >
+					<img data-adoption="0.3" data-badge-class="dependency management" data-name="Snyk" class="x-badge" src="../../assets/fig/snyk.svg" >
+					<br>
+					<br>
+					<br>
+
+
+					<h4>Support</h4>
+					<img data-adoption="0.2" data-badge-class="support" data-name="Slack" class="x-badge" src="../../assets/fig/slack.svg" >
+					<img data-adoption="1.6" data-badge-class="support" data-name="Gitter" class="x-badge" src="../../assets/fig/gitter.svg" >
+					<img data-adoption="0.4" data-badge-class="support" data-name="GitHub Issues" class="x-badge" src="../../assets/fig/issue-res.svg" >
+					<br>
+					<br>
+					<br>
+
+					<h4>Other</h4>
+					<img data-adoption="1.0" data-badge-class="other" data-name="gemnasium" class="x-badge" src="../../assets/fig/gemnasium.svg" >
+					<img data-adoption="0.6" data-badge-class="other" data-name="paypal" class="x-badge" src="../../assets/fig/paypal.svg" >
+					<img data-adoption="0.3" data-badge-class="other" data-name="gittip" class="x-badge" src="../../assets/fig/gittip.svg" >
+					<br>
+					<br>
+					<br>
+
+					<hr>
+
+					<h4><span id="badge-name">Travis CI</span>, <i><span id="badge-class">quality assurance</span></i></h4>
+					<p>Used by <span id="badge-rate">31.0</span>% of packages on npm.</p>
+        
+        </div>
+    </div>
+    
+<div class="row">
+
+        <div class="col-lg-5 col-lg-offset-1">
+            <div class="spacing"></div>
+
+				<h4>Why use badges?</h4>
+					<hr>
+					<p>
+						To learn why developers use badges &mdash; what qualities they intend to signal &mdash;
+						and how contributors interpret those signals,
+						we conducted a survey of npm package maintainers and contributors.
+						We received 32 contributor and 55 maintainer responses.
+					</p>
+
+					<p>
+						88% of maintainers agreed that the presence of badges is an indicator of project quality, while only 53% of contributors agreed with the same statement.
+						61% of contributors stated that badges do not influence their decision to contribute to projects.
+					</p>
+
+					<p>
+						All maintainers and most contributors
+						mentioned quality assurance badges (those relating to
+						continuous integration, test coverage, and static analysis).
+						Maintainers stated that they intend to signal
+						code and development quality with these badges,
+						and more generally that their code was <i>"built with love"</i>
+						or <i>"well-written"</i> by an <i>"experienced developer"</i>.
+					</p>
+
+        </div>
+        <div class="col-lg-4 col-lg-offset-1">
+            <div class="spacing"></div>
+            
+  				<figure class="figure">
+						<img src="../../assets/fig/adoptionrate.png" class="figure-image img-fluid" />
+						<figcaption class="figure-caption graph">
+						<b>Badge adoption rates over the last five years.</b>
+						Quality assurance badges have historically been the most prevalent.
+						Presently, there seems to be a plateau in adoption.
+						</figcaption>
+					</figure>
+        
+        </div>
+    </div>
+    
+    
+<div class="row">
+
+        <div class="col-lg-5 col-lg-offset-1">
+            <div class="spacing"></div>
+
+					<h4>Badge Adoption</h4>
+					<hr>
+
+					<p>
+						46% of packages on npm use at least one badge.
+						We identified 88 types of badges and split them into six classes based
+						on the service they are associted with (see above).
+
+					</p>
+
+					<p>
+						Most prevalent is the Travis CI build status badge <img class="inline" src="../../assets/fig/build-passing.svg" />, appearing on 31.5% of projects.
+						Also common are badges showing dependency status (David DM) <img class="inline" src="../../assets/fig/david.svg" />  and npm version number <img class="inline" src="../../assets/fig/gh-release.svg" />.
+					</p>
+
+					<p>
+						From frequent itemset mining, the most common pair of badges is <img class="inline" src="../../assets/fig/build-passing.svg" /><img class="inline" src="../../assets/fig/gh-release.svg" />. The most common triple is <img class="inline" src="../../assets/fig/build-passing.svg" /><img class="inline" src="../../assets/fig/david.svg" /><img class="inline" src="../../assets/fig/gh-release.svg" />.
+					</p>
+
+					<blockquote>
+						<i>"People tend to overwhelm visitors with too many (useless) badges,
+						thus creating a contra effect and losing the initial purpose of having useful information"</i>
+					</blockquote>
+
+
+        </div>
+        <div class="col-lg-4 col-lg-offset-1">
+            <div class="spacing"></div>
+            
+					<figure class="figure">
+						<center>
+							<img src="../../assets/fig/badge-overload.png" class="figure-image img-fluid" style="max-width: 70% !important;"/>
+						</center>
+						<figcaption class="figure-caption graph">
+						<b>Can you have too many badges?</b>
+						Among "popular" projects, those with more than 1000 downloads per month at the time of investigation,
+						excessive badge use is correlated with decreased popularity.
+						</figcaption>
+					</figure>
+        
+        </div>
+    </div>
+
+<div class="row">
+
+        <div class="col-lg-5 col-lg-offset-1">
+            <div class="spacing"></div>
+
+					<h4>Signals of Updated Dependencies</h4>
+					<hr>
+					
+					<blockquote>
+						 <i>
+						 	"Knowing whether dependencies are out-of-date and/or contain vulnerabilities is critical information to consumers/users".
+						</i>
+					</blockquote>
+
+					<p>
+						We created a metric of dependency up-to-dateness, or <b>freshness</b>, based on previous work.
+						Essentially, it measures the number of releases between the used version and the most up-to-date-version;
+						major releases are given 20 points, minor releases 5 points, and patches one point.
+						Hence, a <i>lower score is better</i>, with zero being completely up-to-date.
+					</p>
+
+					<img src="../../assets/fig/freshness2.png" class="float-right" style="height: 175px;" />
+
+					<p>
+						Overall, we found that at the time of this study, projects with dependency manager or information badges
+						had significantly fresher dependencies than those without. Surprisingly, the effect was more
+						pronounced for information badges.
+					</p>
+
+
+					<p>
+						Measuring freshness over a 19-month interval, we found that the adoption of a badge (in purple)
+						correlates with <i>improved freshness</i>. The effect lasts longer for dependency manager badges,
+						such as David DM <img class="inline" src="../../assets/fig/david.svg" />, than for information badges.
+					</p>
+
+
+					<div class="alert alert-info" role="alert">
+						<strong>In summary:</strong> Dependency management badges are reliable signals of up-to-date dependencies.
+					</div>
+
+
+        </div>
+        <div class="col-lg-4 col-lg-offset-1">
+            <div class="spacing"></div>
+            
+					<figure class="figure">
+						<img src="../../assets/fig/rdd-freshness-cmp.png" class="figure-image img-fluid" />
+						<figcaption class="figure-caption graph">
+							<b>The adoption of a badge is generally correlated with an increase in dependency up-to-dateness.</b>
+							The effect lasts longer for dependency management badges than for information badges.
+						</figcaption>
+					</figure>
+        
+        </div>
+    </div>
+
+
+<div class="row">
+
+        <div class="col-lg-5 col-lg-offset-1">
+            <div class="spacing"></div>
+
+					<h4>Signals of Popularity</h4>
+					<hr>
+
+					<blockquote>
+						Some maintainers mentioned that signaling package popularity
+						<i>"instills confidence in new users"</i>
+						and helps to decide between similar packages through
+						the <i>"wisdom of the crowd"</i>.
+					</blockquote>
+
+					<p>
+						We inflation-adjusted monthly download count history to account for npm's natural growth.
+					</p>
+
+					<img src="../../assets/fig/popularity_monthly.png" class="float-right" style="height: 175px;" />
+
+					<p>
+						Looking at the download counts in the month prior to the study,
+						we found that packages with badges tend to be more popular.
+						Quality assurance and popularity badges <img src="../../assets/fig/npm-downloads.svg" class="inline" /> are associated with
+						larger effects than information badges.
+					</p>
+
+
+
+					<p>
+						The adoption of a project's first badge is correlated with a small increase in popularity,
+					but the growth in popularity is not sustained in the future.
+					</p>
+
+
+					<div class="alert alert-info" role="alert">
+						<strong>In summary:</strong> The adoption of a badge does not change popularity. However,
+						popular projects are more likely to have badges.
+					</div>
+
+
+        </div>
+        <div class="col-lg-4 col-lg-offset-1">
+            <div class="spacing"></div>
+            
+					<figure class="figure">
+						<center>
+							<img src="../../assets/fig/rdd-downloads.png" class="figure-image img-fluid" style="max-width: 60% !important;" />
+						</center>
+						<figcaption class="figure-caption graph">
+							<b>Adoption of the <i>first badge</i> is correlated with a small increase in popularity.</b>
+							This increase doesn't last.
+						</figcaption>
+					</figure>
+        
+        </div>
+    </div>
+
+
+<div class="row">
+
+        <div class="col-lg-5 col-lg-offset-1">
+            <div class="spacing"></div>
+
+					<h4>Signals of Test Suite Quality</h4>
+					<hr>
+
+					<blockquote>
+						Maintainers use quality assurance badges to signal development quality, such as <i>"having tests and running them regularly"</i>.
+					</blockquote>
+
+					<p>
+						We measured a project's proportion of tests over time (test suite size / project size),
+						only including projects that have tests in the longitudinal analysis.
+					</p>
+
+					<img src="../../assets/fig/test_bytes3.png" class="float-right" style="height: 175px;" />
+
+					<p>
+						Many projects have no tests. Hence, the distribution of test suite sizes
+						is bimodal (see right). It appears that packages with
+						quality assurance badges <i>and</i> those with information
+						badges tend to have larger test suites.
+					</p>
+
+					<p>
+						Though it is barely visible in the graph, statistical modeling confirms that there is, on average, a small
+						increase in the proportion of tests around the time of quality assurance badge adoption.
+						The effect does not persist over time.
+					</p>
+
+
+					<div class="alert alert-info" role="alert">
+						<strong>In summary:</strong> Quality assurance badges are correlated with projects having more tests, though they are not correlated with lasting changes in testing practices.
+					</div>
+
+
+        </div>
+        <div class="col-lg-4 col-lg-offset-1">
+            <div class="spacing"></div>
+            
+					<figure class="figure">
+						<center>
+							<img src="../../assets/fig/rdd-test-size2.png" class="figure-image img-fluid" style="max-width: 60% !important;" />
+						</center>
+						<figcaption class="figure-caption graph">
+						<b>Adoption of a quality assurance badge is associated with a small increase in test suite size.</b> No lasting changes in testing
+						practices are apparent.
+						</figcaption>
+					</figure>
+        
+        </div>
+    </div>
+
+
+
+<div class="row">
+
+        <div class="col-lg-5 col-lg-offset-1">
+            <div class="spacing"></div>
+
+					<h4>Signals of Better Contributions</h4>
+					<hr>
+
+					<blockquote>
+						With a coverage badge,
+						<i>"PRs with new functionality tend to include new tests, as not to decrease coverage"</i>
+					</blockquote>
+
+					<p>
+						We hypothesized that quality assurance badges, particularly those associated with test coverage like Coveralls <img class="inline" src="../../assets/fig/coveralls.svg" />, would be correlated with a higher incidence of tests in pull requests. That is, pull requests are more likely to contain changes to the test suite.	
+					</p>
+
+					<img src="../../assets/fig/pr_tests.png" class="float-right" style="height: 175px;" />
+
+					<p>
+					By direct comparison using data from the month prior to the study, it can be seen that projects with badges
+					tend to have a higher fraction of pull requests with tests than those without.
+					</p>
+
+
+					<p>
+						After the adoption of a quality assurance badge, we see an increase in the incidence of pull requests containing tests. The effect slowly decays, however. Statistical modeling suggests that this decay is slower if a coverage badge is included.
+					</p>
+
+
+					
+					<div class="alert alert-info" role="alert">
+						<strong>In summary:</strong> Quality assurance badges, particularly those related to coverage, are reliable signals of improved contribution quality. 
+					</div>
+
+        </div>
+        <div class="col-lg-4 col-lg-offset-1">
+            <div class="spacing"></div>
+            
+					<figure class="figure">
+						<center>
+							<img src="../../assets/fig/rdd-pr-tests2.png" class="figure-image img-fluid" style="max-width: 60% !important;" />
+						</center>
+						<figcaption class="figure-caption graph">
+							<b>The adoption of a quality assurance badge is associated with an increased likelihood of pull requests containing tests.</b> The effect lasts longer if a coverage badge is also adopted.	
+						</figcaption>
+					</figure>
+        
+        </div>
+</div>
+
+    
+	 
+
+
