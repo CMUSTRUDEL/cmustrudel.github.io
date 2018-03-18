@@ -5,9 +5,80 @@
     <description>The Socio-Technical Research Using Data Excavation Lab at Carnegie Mellon University</description>
     <link>http://cmustrudel.github.io/</link>
     <atom:link href="http://cmustrudel.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 18 Mar 2018 16:07:14 +0000</pubDate>
-    <lastBuildDate>Sun, 18 Mar 2018 16:07:14 +0000</lastBuildDate>
+    <pubDate>Sun, 18 Mar 2018 19:35:37 +0000</pubDate>
+    <lastBuildDate>Sun, 18 Mar 2018 19:35:37 +0000</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>Announcement: Papers accepted at ICSE, MSR, ICGSE, and ICPC 2018</title>
+        <description>&lt;p&gt;Gothenburg, here we come!
+We have a strong presence at &lt;a href=&quot;https://www.icse2018.org&quot;&gt;ICSE 2018&lt;/a&gt; and 
+colocated events this year:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Asher and Shurui have a paper on badges in npm at ICSE:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;../papers/icse18badges.pdf&quot;&gt;&lt;strong&gt;Adding Sparkle to Social Coding: An Empirical Study of Repository Badges 
+in the npm Ecosystem&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;More details about the research &lt;a href=&quot;../../projects/badges/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Alan and Jeremy have a paper on decompilation at ICPC:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;../papers/icpc18decompilation.pdf&quot;&gt;&lt;strong&gt;Meaningful Variable Names for Decompiled Code: A Machine Translation 
+Approach&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Asher has a paper on code understandability at MSR:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;../papers/msr18understandability.pdf&quot;&gt;&lt;strong&gt;“Automatically Assessing Code Understandability” Reanalyzed: Combined 
+Metrics Matter&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;David has a paper on CI abandonment at MSR:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;../papers/msr18ci.pdf&quot;&gt;&lt;strong&gt;I’m Leaving You, Travis: A Continuous Integration Breakup 
+Story&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Pengcheng, Bowen, and Edgar (Graham’s students) have a paper on mining 
+aligned pairs of code and natural language from Stack Overflow at MSR, and 
+a poster at ICSE:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;../papers/msr18so.pdf&quot;&gt;&lt;strong&gt;Learning to Mine Aligned Code and Natural Language Pairs from Stack 
+Overflow&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fabio has a paper on mining personality traits for Apache contributors 
+at ICGSE:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;../papers/icgse18personality.pdf&quot;&gt;&lt;strong&gt;On Developers’ Personality in Large-scale Distributed Projects: 
+The Case of the Apache Ecosystem&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Miguel and Weslley (TU Eindhoven) have a paper on the role of localized
+Q&amp;amp;A sites, looking at Stack Overflow in Portuguese:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;../papers/icgse18sopt.pdf&quot;&gt;&lt;strong&gt;Is Stack Overflow in Portuguese attractive for Brazilian 
+Users?&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 18 Mar 2018 12:23:46 +0000</pubDate>
+        <link>http://cmustrudel.github.io/announcement/icse-msr-icpc-papers</link>
+        <guid isPermaLink="true">http://cmustrudel.github.io/announcement/icse-msr-icpc-papers</guid>
+        
+        
+        <category>Announcement</category>
+        
+      </item>
     
       <item>
         <title>Blog: Life @ CMU</title>
@@ -404,30 +475,6 @@ Bogdan presented at the meeting.&lt;/p&gt;
         <category>blog</category>
         
         <category>reading-group</category>
-        
-      </item>
-    
-      <item>
-        <title>Announcement: Paper presented at ASE 2017</title>
-        <description>&lt;p&gt;We were at &lt;a href=&quot;http://ase2017.org&quot;&gt;ASE 2017&lt;/a&gt; presenting the paper:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;The Impact of Continuous Integration on Other Software Development Practices: 
-A Large-Scale Empirical Study&lt;/strong&gt;,
-with &lt;a href=&quot;https://scholar.google.com/citations?user=PqQtwvIAAAAJ&amp;amp;hl=en&quot;&gt;Yangyang Zhao&lt;/a&gt;, 
-&lt;a href=&quot;http://www.win.tue.nl/~aserebre/&quot;&gt;Alexander Serebrenik&lt;/a&gt;, Yuming Zhou, and 
-&lt;a href=&quot;http://web.cs.ucdavis.edu/~filkov/&quot;&gt;Vladimir Filkov&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;More details about the research &lt;a href=&quot;../../projects/continuous-integration/&quot;&gt;here&lt;/a&gt;.
-PDF &lt;a href=&quot;../../papers/ase17ci.pdf&quot;&gt;here&lt;/a&gt;. Slides &lt;a href=&quot;../../slides/ase17ci.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/pics/10-31-17-yangyang.jpg&quot; style=&quot;width: 400px;&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 31 Oct 2017 10:30:00 +0000</pubDate>
-        <link>http://cmustrudel.github.io/announcement/ase-paper</link>
-        <guid isPermaLink="true">http://cmustrudel.github.io/announcement/ase-paper</guid>
-        
-        
-        <category>Announcement</category>
         
       </item>
     
