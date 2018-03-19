@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Infographic: npm badges"
+date:   2018-03-18 16:23:46
+author: Bogdan
+categories: 
+- Announcement
+#img: strudel.png
+thumb: strudel-square-003.jpg
+---
+
+
+![STRUDEL](/assets/img/info-badges.svg)
+
+More details about the research [here](../../projects/badges/).
+
