@@ -2,6 +2,7 @@
 layout: post
 title:  "Infographic: npm badges"
 date:   2018-03-18 16:23:46
+image: assets/img/badges-preview.png
 author: Bogdan
 categories: 
 - Announcement
