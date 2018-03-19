@@ -2,6 +2,7 @@
 layout: badges
 title:  "Badges on npm packages"
 date:   2016-03-18 11:54:46
+image: assets/img/badges-preview.png
 categories:
 - project
 img: portfolio/portfolio.006.jpeg
