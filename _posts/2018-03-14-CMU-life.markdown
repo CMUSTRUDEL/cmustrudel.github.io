@@ -17,7 +17,7 @@ Hope this blog can tell you more about CMU.
 
 #### Mar 18, 2018.
 
-# His heart is at work.
+<b>His heart is at work.</b>
 
 While most people were away last week because of the spring break, this guy sat
 at the teaching common the entire week. Apparantly, his heart is at work.
@@ -27,6 +27,8 @@ A typical CMU student.
 <img src="/assets/img/pics/03-18-18-atwork2.jpg" style="width: 400px;"/>
 
 #### Mar 14, 2018.
+
+<b>Physicist Stephen Hawking died at the age of 76 on Pie Day</b>
 
 When the east coast was entering pie day, I heard that we lost Professor Stephen Hawking.
 Pie day is special not only because it is 3.14. It is also Einstein's birthday.
@@ -43,6 +45,8 @@ Large Hadron Collider (LHC), in Wean Hall.
 <img src="/assets/img/pics/03-14-18-lhc.jpg" style="width: 400px;"/>
 
 #### Mar 2, 2018.
+
+<b>Harry Potter Shabbat</b>
 
 I was surprised by how often I could spot a Harry Potter related thing on CMU
 campus. I was even more surprised when I found out that there would be a Harry
@@ -69,6 +73,8 @@ Name a jewish student at Hogwarts.
 
 #### Feb 14, 2018.
 
+<b>Valentine's Day @ CMU</b>
+
 My office mate told us if you brought your laptop to the
 bookstore, they would clean it for free. 
 
@@ -82,6 +88,8 @@ is definitely the number 1 valentine of most CMU students.
 
 #### Feb 9, 2018.
 
+<b>Why are there rice noodles on the roof of Newell Simon Hall</b>
+
 You konw spring is coming when the snow on Newell Simon Hall's rooftop becomes
 rice noodle (image on the right).
 
@@ -92,6 +100,8 @@ Image source of the second photos <a
 href="http://img64.foodjx.com/2/20140613/635382652704010391624.jpg">http://img64.foodjx.com/2/20140613/635382652704010391624.jpg</a>
 
 #### Sep 28, 2017
+
+<b>Computer Science at CMU is not just for boys</b>
 
 You can find interesting things in restrooms! Here's what I found in girls'
 restroom on 5th floor in Gates:
@@ -112,6 +122,8 @@ in a public space.
 
 #### Sep 21, 2017
 
+<b>How to pull an all-nighter in 5 minutes?</b>
+
 Hey, have you pulled an all-nighter? NO?? You were too busy sleeping and forgot
 to stay awake all night pretending to work hard? Well, when you walk into the
 classroom, everyone will look like a panda except for you. You will look like an
@@ -124,7 +136,7 @@ floor in Gates, you will see everything you need. Free of charge.
 
 #### Sep 19, 2017
 
-Happy smiley's 35's birthday!
+<b>Happy smiley's 35's birthday!</b>
 
 Do you know who invented :-)? Where was :-) first used? 
 
@@ -144,7 +156,7 @@ research progress!
 
 #### Sep 14, 2017
 
-CMU is hiring!
+<b>CMU is hiring!</b>
 
 Job description: clear the steep, overgrown hillside between the Gates Center
 and Purnell Center for the Arts.
@@ -161,6 +173,6 @@ For some unknown reasons, there was also a donkey.
 
 #### Aug 16, 2017
 
-First day in my new office! May the source code be with you!
+<b>First day in my new office! May the source code be with you!</b>
 
 <img src="/assets/img/pics/08-16-17-source.jpg" style="width: 400px;">
