@@ -2,7 +2,7 @@
 layout: badges
 title:  "Badges on npm packages"
 date:   2016-03-18 11:54:46
-twimage: ../../assets/img/badges-preview.png
+twimage: "../../assets/img/badges-preview.png"
 twdesc: "How are badges being used on npm packages? What do maintainers intend to signal by displaying badges to their contributors and users? Do badges correlate with underlying project qualities?"
 categories:
 - project
