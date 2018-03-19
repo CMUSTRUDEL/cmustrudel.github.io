@@ -2,7 +2,8 @@
 layout: post
 title:  "Infographic: npm badges"
 date:   2018-03-18 16:23:46
-image: assets/img/badges-preview.png
+twimage: assets/img/badges-preview.png
+twdesc: "How are badges being used on npm packages? What do maintainers intend to signal by displaying badges to their contributors and users? Do badges correlate with underlying project qualities?"
 author: Bogdan
 categories: 
 - Announcement
