@@ -12,10 +12,10 @@ thumb: strudel-square-003.jpg
 
 #### Wednesday, Feburary 21, 2018
 
-Jeremy Lacomis presented the paper <a
+Jeremy Lacomis presented the paper <b><a
 href="https://hal.inria.fr/hal-01691496/file/SEIP_63_Camera-Ready-no-copyright.pdf">How
 to Design a Program Repair Bot? Insights from
-the Repairnator Project</a> (Urli et al. ICSE 2018).
+the Repairnator Project</a></b> (Urli et al. ICSE 2018).
 
 It is interesting to learn about online program repair bugs. When I was talking
 with a CMU undergrad at one of <a
@@ -42,10 +42,10 @@ faster." (source: <a href="http://www.paulgraham.com/hundred.html">http://www.pa
 #### Wednesday, Feburary 14, 2018
 
 Jason Yanwen Lin presented the paper
-<a
+<b><a
 href="http://haiyizhu.com/wp-content/uploads/2017/01/predicting-member-productivity-1.pdf">Predicting
 Member Productivity and Withdrawal from
-Pre-Joining Attachments in Online Production Groups</a> (Yu et al. CSCW 17).
+Pre-Joining Attachments in Online Production Groups</a></b> (Yu et al. CSCW 17).
 
 This paper analysed withdrawl from Wikipedia groups using the attachment
 theories from social psychology. 
@@ -56,9 +56,9 @@ who you don't konw much personal information, it can be hard to form attachment.
 
 #### Wednesday, Feburary 7, 2018
 
-Shurui Zhou presented the paper <a
+Shurui Zhou presented the paper <b><a
 href="http://gustavopinto.org/lost+found/icse2018.pdf">Almost There: A Study on
-Quasi-Contributors in Open-Source Software Projects</a> (Steinmarcher et al.,
+Quasi-Contributors in Open-Source Software Projects</a></b> (Steinmarcher et al.,
 ICSE 2018). 
 
 It was interesting to learn that many people stopped making further
@@ -77,9 +77,9 @@ banana muffin at Corner Bakery Cafe.
 
 #### Wednesday, Janurary 14, 2018
 
-David Widder presented the paper <a
+David Widder presented the paper <b><a
 href="https://ir.library.oregonstate.edu/downloads/wh246x964">Open Source
-barriers to entry, revisited: A tools perspective</a> (Mendez et al. ICSE 2018).
+barriers to entry, revisited: A tools perspective</a></b> (Mendez et al. ICSE 2018).
 
 Professor Margaret Burnett's team has been studying GitHub's gender inclusive
 issues. Since men and women are biologically different statistically, tools
@@ -94,10 +94,10 @@ brownies at the beginning of his presentation rather than at the end.
 
 #### Thusday, December 5, 2017
 
-Sophie Qiu presented the paper <a
+Sophie Qiu presented the paper <b><a
 href="https://www.sciencedirect.com/science/article/pii/S1071581916301033">The influence of visual feedback and
 gender dynamics on performance,
-perception and communication strategies in CSCW</a> (Koulouri et al.
+perception and communication strategies in CSCW</a></b> (Koulouri et al.
 International Journal of Human-Computer Studies 2017).
 
 This paper shows that while men are statistically better at navigation with help
@@ -113,9 +113,9 @@ eat them and be merry.
 
 #### Tuesday, November 28, 2017
 
-Bogdan Vasilescu presented the paper <a
+Bogdan Vasilescu presented the paper <b><a
 href="http://ieeexplore.ieee.org/document/8031982/">Code Coverage and Postrelease
-Defects: A Large-Scale Study on Open Source Projects</a> (Kochhar et al. 2017). 
+Defects: A Large-Scale Study on Open Source Projects</a></b> (Kochhar et al. 2017). 
 
 This paper shows that code coverage in testing has insignificant correlation
 with the number of bugs at the project level of a software. Then my question
@@ -126,9 +126,9 @@ I do not remember what snack we had during that meeting.
 
 #### Tuesday, November 21, 2017
 
-Shurui Zhou presented the paper <a
+Shurui Zhou presented the paper <b><a
 href="https://dl.acm.org/citation.cfm?id=3104225">Some from here, some from
-there: cross-project code reuse in GitHub</a> (Gharehyazie et al., MSR 2017).
+there: cross-project code reuse in GitHub</a></b> (Gharehyazie et al., MSR 2017).
 
 This paper reminds me of two most popular ways of coding: Google-oriented coding
 and stackoverflow-oriented coding. It is expensive to write code from scratch,
@@ -138,8 +138,8 @@ I do not quite remember the snack but it might be Shurui's Choco Pie.
 
 #### Tuesday, November 14, 2017
 
-Alexander Nolte presented the paper <a href="http://hci.stanford.edu/publications/2017/flashorgs/flash-orgs-chi-2017.pdf">Flash Organizations:
-Crowdsourcing Complex Work by Structuring Crowds As Organizations</a>.
+Alexander Nolte presented the paper <b><a href="http://hci.stanford.edu/publications/2017/flashorgs/flash-orgs-chi-2017.pdf">Flash Organizations:
+Crowdsourcing Complex Work by Structuring Crowds As Organizations</a></b>.
 
 It is a nice paper on how to more effectively form an software developing group.
 It was good to read some paper on HCI, which I was fascinated in but knew very
@@ -150,9 +150,9 @@ WEAN.
 
 #### Tuesday, November 7, 2017 
 
-Alan Jaffe presented the paper <a
+Alan Jaffe presented the paper <b><a
 href="https://arxiv.org/pdf/1708.09492.pdf">Automatically Generating Commit Messages
-from Diffs Using Neural Machine Translation</a> (Jiang et al., ASE
+from Diffs Using Neural Machine Translation</a></b> (Jiang et al., ASE
 2017). 
 
 It is an interesting application of the naturalness of code. I
@@ -170,8 +170,8 @@ Fiona at the <a href="https://www.facebook.com/cincinnatizoo/">Cincinnati Zoo</a
 
 #### Tuesday, October 24, 2017
 
-STRUDEL was proud to host <a href="http://www.win.tue.nl/~aserebre/">Alexander 
-Serebrenik</a> from TU Eindhoven, who talked about his recent work on mining 
+STRUDEL was proud to host <b><a href="http://www.win.tue.nl/~aserebre/">Alexander 
+Serebrenik</a></b> from TU Eindhoven, who talked about his recent work on mining 
 emotions from software engineering artifacts.
 We were all enjoying his talk as well as Sophie's hazelnut wafel.
 
@@ -179,11 +179,11 @@ We were all enjoying his talk as well as Sophie's hazelnut wafel.
 
 #### Tuesday, October 17, 2017
 
-Sophie presented the paper "<a
+Sophie presented the paper <b><a
 href="http://www.cs.cmu.edu/~fmri/plosone/files/hp_PLOS_ONE.pdf">Simultaneously
 Uncovering the Patterns of
 Brain Regions Involved in Different Story
-Reading Subprocesses</a>" (Wehbe et al., PLoS ONE 2014). 
+Reading Subprocesses</a></b> (Wehbe et al., PLoS ONE 2014). 
 
 The researchers scanned participants brains while they were reading
 the ninth chapter of <i>Harry Potter and the Sorcerer's Stone</i>. They
@@ -197,10 +197,10 @@ It was very nice and sweet that David made apple raisin strudels.
 
 #### Tuesday, October 10, 2017
 
-Marat presented the paper "<a
+Marat presented the paper <b><a
 href="http://delivery.acm.org/10.1145/2540000/2531642/p831-backstrom.pdf?ip=24.238.13.130&id=2531642&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E528920FC4509E774&CFID=993659916&CFTOKEN=60398709&__acm__=1509333674_18432c45ea35e7515bb15ff9492d27f0">Romantic partnerships and the
 dispersion of social ties: a network analysis of relationship status on
-facebook</a>" (Backstrom et al, CSCW 2014). 
+facebook</a></b> (Backstrom et al, CSCW 2014). 
 
 This paper proposed to use
 dispersion, which measures "the extent to which two people's mutual
@@ -213,9 +213,9 @@ Somehow, my impression of the paper smells like homemade banana bread.
 
 #### Tuesday, October 3, 2017
 
-David presented the paper "<a
+David presented the paper <b><a
 href="https://yuchi1989.github.io/papers/fse17-ErrDoc.pdf">Automatically
-Diagnosing and Repairing Error Handling Bugs in C</a>" (Tian and Ray, ESEC/FSE 2017). 
+Diagnosing and Repairing Error Handling Bugs in C</a></b> (Tian and Ray, ESEC/FSE 2017). 
 
 This paper presents how to identify different types of bugs and how to correct
 them in C/C++ code. 
@@ -225,9 +225,9 @@ Happy Mid-autumn festival and thanks Sophie for her mooncake!
 
 #### Tuesday, September 26, 2017
 
-Jeremy presented the paper "<a
+Jeremy presented the paper <b><a
 href="https://web.eecs.umich.edu/~weimerw/p/weimer-icse2017-preprint.pdf">Decoding the representation of code in the
-brain: An fMRI study of code review and expertise</a>" (Floyd et al, ICSE 2017). 
+brain: An fMRI study of code review and expertise</a></b> (Floyd et al, ICSE 2017). 
 
 
 The researchers scanned participants' brain while they were reviewing code or 
@@ -238,9 +238,9 @@ language, but less so for experts than for novices.
 
 We had our first reading group meeting today! To celebrate, Bogdan brought 
 apple-cinnamon strudels for us. Nevertheless, these strudles were not as
-good as our discussion on the paper "<a
+good as our discussion on the paper <b><a
 href="http://people.cs.umass.edu/~ameli/projects/fairness/papers/discriminationTesting.pdf">Fairness Testing: 
-Testing Software for Discrimination</a>" (Galhotra et al, ESEC/FSE 2017) that 
+Testing Software for Discrimination</a></b> (Galhotra et al, ESEC/FSE 2017) that 
 Bogdan presented at the meeting.
 
 <img src="/assets/img/pics/09-19-17-group.jpg" style="width: 400px;"/>
