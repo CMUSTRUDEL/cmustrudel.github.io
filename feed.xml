@@ -5,29 +5,40 @@
     <description>The Socio-Technical Research Using Data Excavation Lab at Carnegie Mellon University</description>
     <link>http://cmustrudel.github.io/</link>
     <atom:link href="http://cmustrudel.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 24 Mar 2018 14:34:29 +0000</pubDate>
-    <lastBuildDate>Sat, 24 Mar 2018 14:34:29 +0000</lastBuildDate>
+    <pubDate>Sat, 24 Mar 2018 15:00:00 +0000</pubDate>
+    <lastBuildDate>Sat, 24 Mar 2018 15:00:00 +0000</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
         <title>Blog: CMU trivia</title>
         <description>&lt;p&gt;To prepare myself for next year’s SCS trivia and to demostrate my school pride,
 I set up a one trivia a day challenge for myself. 
+My plan is to continue this until I leave CMU.
 All the trivias will be related to CMU or Computer Science in general. 
 This year’s SCS trivia night made me realize how little I know about female
 computer scientist, so I will focus
 more on this part.&lt;/p&gt;
 
-&lt;p&gt;If you spot any mistakes in this post, please email me: hsqq at cmu dot edu&lt;/p&gt;
+&lt;p&gt;I learned many of Computer Science related trivia from “Great Moments in
+Computing”, a great course offered at
+Princeton University taught by Professor Maragret Martonosi.
+Many CMU related trivias are learned by wandering in campus during work breaks.
+If you spot any mistakes in this post, please email me: hsqq at cmu dot edu&lt;/p&gt;
 
-&lt;p&gt;March 23, 2018&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;March 23, 2018&lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;Let the first trivia be our most familiar program, &lt;b&gt;hello world&lt;/b&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;Dennis Ritchie&lt;/b&gt; developed the language &lt;b&gt;C&lt;/b&gt;, which he used to
+&lt;p&gt;&lt;img src=&quot;https://en.wikipedia.org/wiki/Dennis_Ritchie&quot; style=&quot;width: 100px;&quot; /&gt; 
+&lt;img src=&quot;https://en.wikipedia.org/wiki/File:Ken_Thompson_02.jpg&quot; style=&quot;width: 100px;&quot; /&gt; 
+&lt;img src=&quot;https://en.wikipedia.org/wiki/File:Brian_Kernighan_in_2012_at_Bell_Labs_1.jpg&quot; style=&quot;width: 100px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;From left to right: Dr. Dennis Ritchie, Ken Tompson, and Dr. Brian Kernighan.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Dr. Dennis Ritchie&lt;/b&gt; developed the language &lt;b&gt;C&lt;/b&gt;, which he used to
 implement the operating system &lt;b&gt;Unix&lt;/b&gt; with &lt;b&gt;Ken Thompson&lt;/b&gt;.
 To educate people how to use C, 
-&lt;b&gt;Brian Kernighan&lt;/b&gt; wrote the textbook &lt;i&gt;The C Programming Language&lt;/i&gt; 
+&lt;b&gt;Dr. Brian Kernighan&lt;/b&gt; wrote the textbook &lt;i&gt;The C Programming Language&lt;/i&gt; 
 and used the program hello world as an introductory example. This was the first
 apperance of the hello world program. 
 Ever since then, most beginners’ first program in many languages have been some
@@ -44,6 +55,35 @@ variation of:&lt;/p&gt;
 &lt;p&gt;}`&lt;/p&gt;
 
 &lt;p&gt;Dr. Brian Kernighan is now a professor at &lt;b&gt;Princeton University&lt;/b&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;March 24, 2018&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Let continue yesterday’s topic and talk about Unix.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Jack_Dennis.jpg/440px-Jack_Dennis.jpg&quot; style=&quot;width: 100px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Dr. Jack Bonnell Dennis&lt;/p&gt;
+
+&lt;p&gt;Before Unix, there was an operating system called &lt;b&gt;MULTICS&lt;/b&gt;(&lt;b&gt;Mult&lt;b&gt;iplexed
+&lt;b&gt;I&lt;b&gt;nformation and &lt;b&gt;C&lt;b&gt;omputing &lt;b&gt;S&lt;/b&gt;ervice), developed by &lt;b&gt;MIT, GE,
+and Bell Lab&lt;/b&gt; and released in &lt;b&gt;1969&lt;/b&gt;.
+You can read the original paper here: &lt;a href=&quot;https://www.classes.cs.uchicago.edu/archive/2017/fall/33100-1/papers/multics.pdf&quot;&gt;Virtual
+Memory, Processes, and Sharing in MULTICS&lt;/a&gt; by &lt;b&gt;Robert C. Daley and Jack B.
+Dennis&lt;/b&gt;.
+The main concepts introduced with MULTICS are &lt;b&gt;Proccess&lt;/b&gt; and &lt;b&gt;Address
+space&lt;/b&gt;.
+Quoting from the paper:&lt;/b&gt;&lt;/b&gt;&lt;/b&gt;&lt;/b&gt;&lt;/b&gt;&lt;/b&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Processes stand in one-to-one correspondence
+with virtual memories. Each process runs in
+its own address space, which is established independently
+of other address spaces. Processes are run on a processor
+at the discretion of the tra~h’c controller module of the
+supervisor.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;These concepts are still prevalent today.&lt;/p&gt;
 </description>
         <pubDate>Fri, 23 Mar 2018 22:55:12 +0000</pubDate>
         <link>http://cmustrudel.github.io/blog/cmu/CMUtrivia</link>
