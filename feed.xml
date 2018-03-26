@@ -5,8 +5,8 @@
     <description>The Socio-Technical Research Using Data Excavation Lab at Carnegie Mellon University</description>
     <link>http://cmustrudel.github.io/</link>
     <atom:link href="http://cmustrudel.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 24 Mar 2018 15:00:00 +0000</pubDate>
-    <lastBuildDate>Sat, 24 Mar 2018 15:00:00 +0000</lastBuildDate>
+    <pubDate>Mon, 26 Mar 2018 01:51:11 +0000</pubDate>
+    <lastBuildDate>Mon, 26 Mar 2018 01:51:11 +0000</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -29,9 +29,9 @@ If you spot any mistakes in this post, please email me: hsqq at cmu dot edu&lt;/
 
 &lt;p&gt;Let the first trivia be our most familiar program, &lt;b&gt;hello world&lt;/b&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://en.wikipedia.org/wiki/Dennis_Ritchie&quot; style=&quot;width: 100px;&quot; /&gt; 
-&lt;img src=&quot;https://en.wikipedia.org/wiki/File:Ken_Thompson_02.jpg&quot; style=&quot;width: 100px;&quot; /&gt; 
-&lt;img src=&quot;https://en.wikipedia.org/wiki/File:Brian_Kernighan_in_2012_at_Bell_Labs_1.jpg&quot; style=&quot;width: 100px;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/2/23/Dennis_Ritchie_2011.jpg&quot; style=&quot;width: 100px;&quot; /&gt; 
+&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/f/f9/Ken_Thompson_02.jpg&quot; style=&quot;width: 100px;&quot; /&gt; 
+&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/a/ae/Brian_Kernighan_in_2012_at_Bell_Labs_1.jpg&quot; style=&quot;width: 100px;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;From left to right: Dr. Dennis Ritchie, Ken Tompson, and Dr. Brian Kernighan.&lt;/p&gt;
 
@@ -44,7 +44,8 @@ apperance of the hello world program.
 Ever since then, most beginners’ first program in many languages have been some
 variation of:&lt;/p&gt;
 
-&lt;p&gt;`main()&lt;/p&gt;
+&lt;p&gt;`
+  main()&lt;/p&gt;
 
 &lt;p&gt;{&lt;/p&gt;
 
@@ -52,38 +53,62 @@ variation of:&lt;/p&gt;
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 
-&lt;p&gt;}`&lt;/p&gt;
+&lt;p&gt;}
+`&lt;/p&gt;
 
 &lt;p&gt;Dr. Brian Kernighan is now a professor at &lt;b&gt;Princeton University&lt;/b&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;March 24, 2018&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;Let continue yesterday’s topic and talk about Unix.&lt;/p&gt;
+&lt;p&gt;Now I want to talk about Unix, the operating system developed with C.
+But before I can get to Unix itself, I want to briefly introduce
+its predecessor, MULTICS.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Jack_Dennis.jpg/440px-Jack_Dennis.jpg&quot; style=&quot;width: 100px;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Dr. Jack Bonnell Dennis&lt;/p&gt;
 
-&lt;p&gt;Before Unix, there was an operating system called &lt;b&gt;MULTICS&lt;/b&gt;(&lt;b&gt;Mult&lt;b&gt;iplexed
-&lt;b&gt;I&lt;b&gt;nformation and &lt;b&gt;C&lt;b&gt;omputing &lt;b&gt;S&lt;/b&gt;ervice), developed by &lt;b&gt;MIT, GE,
+&lt;p&gt;Before Unix, there was an operating system called &lt;b&gt;MULTICS&lt;/b&gt;(&lt;b&gt;Mult&lt;/b&gt;iplexed
+&lt;b&gt;I&lt;/b&gt;nformation and &lt;b&gt;C&lt;/b&gt;omputing &lt;b&gt;S&lt;/b&gt;ervice), developed by &lt;b&gt;MIT, GE,
 and Bell Lab&lt;/b&gt; and released in &lt;b&gt;1969&lt;/b&gt;.
 You can read the original paper here: &lt;a href=&quot;https://www.classes.cs.uchicago.edu/archive/2017/fall/33100-1/papers/multics.pdf&quot;&gt;Virtual
 Memory, Processes, and Sharing in MULTICS&lt;/a&gt; by &lt;b&gt;Robert C. Daley and Jack B.
 Dennis&lt;/b&gt;.
 The main concepts introduced with MULTICS are &lt;b&gt;Proccess&lt;/b&gt; and &lt;b&gt;Address
 space&lt;/b&gt;.
-Quoting from the paper:&lt;/b&gt;&lt;/b&gt;&lt;/b&gt;&lt;/b&gt;&lt;/b&gt;&lt;/b&gt;&lt;/p&gt;
+Quoting from the paper:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Processes stand in one-to-one correspondence
 with virtual memories. Each process runs in
 its own address space, which is established independently
 of other address spaces. Processes are run on a processor
-at the discretion of the tra~h’c controller module of the
+at the discretion of the traffic controller module of the
 supervisor.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;These concepts are still prevalent today.&lt;/p&gt;
+&lt;p&gt;These concepts are still prevalent today.
+access
+&lt;b&gt;March 25, 2018&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Finally, &lt;b&gt;UNIX&lt;/b&gt;.&lt;/p&gt;
+
+&lt;p&gt;The name UNIX stands for &lt;i&gt;Uniplexed Infromation and Computing Service&lt;/i&gt; and
+it was suggested by Dr. Brian Kernighan in 1970.
+It was developed by &lt;b&gt;Ken Thompson, Dennis Ritchie, Brian Kernighan, Douglas
+Mcllroy, and Joe Ossanna&lt;/b&gt; at &lt;b&gt;Bell Labs&lt;/b&gt;.
+The design of UNIX is summarized in &lt;a href=&quot;https://people.eecs.berkeley.edu/~brewer/cs262/unix.pdf&quot;&gt;&lt;i&gt;The UNIX
+Time-Sharing System&lt;/i&gt;&lt;/a&gt; and published in &lt;b&gt;1974&lt;/b&gt;, 6 years after MULTICS.
+I highly recommend reading this paper for it is a well-written paper and you
+will be able to understand how clever the system was designed so that its
+essence has not varied too much since its birth.&lt;/p&gt;
+
+&lt;p&gt;The 1974 version of UNIX contained only 11K lines of code for the kernel (for
+your reference, 2017 Linux kernel 4.1.38 contains ~5.4M lines of code).
+One of the biggest difference between MULTICS and UNIX is that data on MULTICS
+are stored in address, which allows random access, whereas in UNIX, data are stored in file, which is an
+abstraction that allows user to handle hardware, directories, and normal files
+in the same way be it random or sequential access.&lt;/p&gt;
 </description>
         <pubDate>Fri, 23 Mar 2018 22:55:12 +0000</pubDate>
         <link>http://cmustrudel.github.io/blog/cmu/CMUtrivia</link>
