@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Life @ CMU"
-date:   2018-03-18 12:00:13
+date:   2018-03-25 15:50:23
 author: Sophie
 categories: 
 - blog
@@ -14,6 +14,12 @@ Since I came to the Open House in March 2017, I found that CMU is a nerdy but
 cool space. 
 I'm writing down things I find interesting here.
 Hope this blog can tell you more about CMU.
+
+#### Mar 25, 2018.
+
+<img src="/assets/img/pics/03-19-25-sunset.jpg" style="width: 400px;"/>
+
+A SCS Trivia Night style question: Where was this photo taken?
 
 #### Mar 19, 2018.
 
