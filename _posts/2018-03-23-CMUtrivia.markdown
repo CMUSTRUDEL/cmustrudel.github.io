@@ -89,7 +89,7 @@ Quoting from the paper:
 > supervisor. 
 
 These concepts are still prevalent today.
-access
+
 <b>March 25, 2018</b>
 
 Finally, <b>UNIX</b>. 
@@ -111,3 +111,28 @@ One of the biggest difference between MULTICS and UNIX is that data on MULTICS
 are stored in address, which allows random access, whereas in UNIX, data are stored in file, which is an
 abstraction that allows user to handle hardware, directories, and normal files
 in the same way be it random or sequential access.
+
+<b>March 226, 2018</b>
+
+Starting from today, I would like to talk about Turing Award, the most
+prestigious award in the field of Computer Science.
+But before I introduce any of Turing Award Winner, let me first talk about Alan
+M. Turing.
+
+<img
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Alan_Turing_Aged_16.jpg/440px-Alan_Turing_Aged_16.jpg"
+style="width:100px;"/>
+
+Alan Turing
+
+<b>Dr. Turing</b> received his Ph.D. from <b>Princeton</b>, where he spent only
+<b>two years</b>.
+Unlike some people who drop out from grad college after two years, Dr. Turing
+had earned his Ph.D. within those two years.
+One of Turing's  most famous contributions should be his <b>Turing test</b>,
+which he originally called ``the imitation game'' introduced in his paper <a
+href="http://phil415.pbworks.com/f/TuringComputing.pdf"><i>MIND
+a quarterly review of psychology and philosophy<i></a> in 1950, only 4 years after
+the birth of ENIAC.
+Turing is also known for his <b>lambda calculus</b>, co-developed with his Ph.D.
+advisor Alonzo Church, and <b>Turing Machine</b>.
