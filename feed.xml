@@ -5,8 +5,8 @@
     <description>The Socio-Technical Research Using Data Excavation Lab at Carnegie Mellon University</description>
     <link>http://cmustrudel.github.io/</link>
     <atom:link href="http://cmustrudel.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 26 Mar 2018 01:51:11 +0000</pubDate>
-    <lastBuildDate>Mon, 26 Mar 2018 01:51:11 +0000</lastBuildDate>
+    <pubDate>Tue, 27 Mar 2018 04:09:26 +0000</pubDate>
+    <lastBuildDate>Tue, 27 Mar 2018 04:09:26 +0000</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -87,9 +87,9 @@ at the discretion of the traffic controller module of the
 supervisor.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;These concepts are still prevalent today.
-access
-&lt;b&gt;March 25, 2018&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;These concepts are still prevalent today.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;March 25, 2018&lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;Finally, &lt;b&gt;UNIX&lt;/b&gt;.&lt;/p&gt;
 
@@ -109,6 +109,28 @@ One of the biggest difference between MULTICS and UNIX is that data on MULTICS
 are stored in address, which allows random access, whereas in UNIX, data are stored in file, which is an
 abstraction that allows user to handle hardware, directories, and normal files
 in the same way be it random or sequential access.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;March 226, 2018&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Starting from today, I would like to talk about Turing Award, the most
+prestigious award in the field of Computer Science.
+But before I introduce any of Turing Award Winner, let me first talk about Alan
+M. Turing.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Alan_Turing_Aged_16.jpg/440px-Alan_Turing_Aged_16.jpg&quot; style=&quot;width:100px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Alan Turing&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Dr. Turing&lt;/b&gt; received his Ph.D. from &lt;b&gt;Princeton&lt;/b&gt;, where he spent only
+&lt;b&gt;two years&lt;/b&gt;.
+Unlike some people who drop out from grad college after two years, Dr. Turing
+had earned his Ph.D. within those two years.
+One of Turing’s  most famous contributions should be his &lt;b&gt;Turing test&lt;/b&gt;,
+which he originally called ``the imitation game’’ introduced in his paper &lt;a href=&quot;http://phil415.pbworks.com/f/TuringComputing.pdf&quot;&gt;&lt;i&gt;MIND
+a quarterly review of psychology and philosophy&lt;i&gt;&amp;lt;/a&amp;gt; in 1950, only 4 years after
+the birth of ENIAC.
+Turing is also known for his &lt;b&gt;lambda calculus&lt;/b&gt;, co-developed with his Ph.D.
+advisor Alonzo Church, and &lt;b&gt;Turing Machine&lt;/b&gt;.&lt;/i&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 23 Mar 2018 22:55:12 +0000</pubDate>
         <link>http://cmustrudel.github.io/blog/cmu/CMUtrivia</link>
