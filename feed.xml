@@ -5,8 +5,8 @@
     <description>The Socio-Technical Research Using Data Excavation Lab at Carnegie Mellon University</description>
     <link>http://cmustrudel.github.io/</link>
     <atom:link href="http://cmustrudel.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 27 Mar 2018 19:58:27 +0000</pubDate>
-    <lastBuildDate>Tue, 27 Mar 2018 19:58:27 +0000</lastBuildDate>
+    <pubDate>Wed, 28 Mar 2018 04:02:29 +0000</pubDate>
+    <lastBuildDate>Wed, 28 Mar 2018 04:02:29 +0000</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -18,7 +18,7 @@ Hope this blog can tell you more about CMU.&lt;/p&gt;
 
 &lt;h4 id=&quot;mar-25-2018&quot;&gt;Mar 25, 2018.&lt;/h4&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/pics/03-19-25-sunset.jpg&quot; style=&quot;width: 400px;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/pics/03-25-18-sunset.jpg&quot; style=&quot;width: 400px;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;A SCS Trivia Night style question: Where was this photo taken?&lt;/p&gt;
 
@@ -214,15 +214,11 @@ Princeton University taught by Professor Maragret Martonosi.
 Many CMU related trivias are learned by wandering in campus during work breaks.
 If you spot any mistakes in this post, please email me: hsqq at cmu dot edu&lt;/p&gt;
 
+&lt;p&gt;####Hello, world!&lt;/p&gt;
+
 &lt;p&gt;&lt;b&gt;March 23, 2018&lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;Let the first trivia be our most familiar program, &lt;b&gt;hello world&lt;/b&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/2/23/Dennis_Ritchie_2011.jpg&quot; style=&quot;width: 100px;&quot; /&gt; 
-&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/f/f9/Ken_Thompson_02.jpg&quot; style=&quot;width: 100px;&quot; /&gt; 
-&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/a/ae/Brian_Kernighan_in_2012_at_Bell_Labs_1.jpg&quot; style=&quot;width: 100px;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;From left to right: Dr. Dennis Ritchie, Ken Tompson, and Dr. Brian Kernighan.&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Dr. Dennis Ritchie&lt;/b&gt; developed the language &lt;b&gt;C&lt;/b&gt;, which he used to
 implement the operating system &lt;b&gt;Unix&lt;/b&gt; with &lt;b&gt;Ken Thompson&lt;/b&gt;.
@@ -234,28 +230,25 @@ Ever since then, most beginners’ first program in many languages have been som
 variation of:&lt;/p&gt;
 
 &lt;p&gt;`
-  main()&lt;/p&gt;
+    main()&lt;/p&gt;
 
-&lt;p&gt;{&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;printf(&quot;hello, world\n&quot;);
-&lt;/code&gt;&lt;/pre&gt;
+  &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;printf(&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;hello, world\n&quot;&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;);&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;`&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 
-&lt;p&gt;}
-`&lt;/p&gt;
-
 &lt;p&gt;Dr. Brian Kernighan is now a professor at &lt;b&gt;Princeton University&lt;/b&gt;.&lt;/p&gt;
+
+&lt;p&gt;####MULTICS&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;March 24, 2018&lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;Now I want to talk about Unix, the operating system developed with C.
 But before I can get to Unix itself, I want to briefly introduce
 its predecessor, MULTICS.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Jack_Dennis.jpg/440px-Jack_Dennis.jpg&quot; style=&quot;width: 100px;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Dr. Jack Bonnell Dennis&lt;/p&gt;
 
 &lt;p&gt;Before Unix, there was an operating system called &lt;b&gt;MULTICS&lt;/b&gt;(&lt;b&gt;Mult&lt;/b&gt;iplexed
 &lt;b&gt;I&lt;/b&gt;nformation and &lt;b&gt;C&lt;/b&gt;omputing &lt;b&gt;S&lt;/b&gt;ervice), developed by &lt;b&gt;MIT, GE,
@@ -278,6 +271,8 @@ supervisor.&lt;/p&gt;
 
 &lt;p&gt;These concepts are still prevalent today.&lt;/p&gt;
 
+&lt;p&gt;####UNIX&lt;/p&gt;
+
 &lt;p&gt;&lt;b&gt;March 25, 2018&lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;Finally, &lt;b&gt;UNIX&lt;/b&gt;.&lt;/p&gt;
@@ -299,27 +294,45 @@ are stored in address, which allows random access, whereas in UNIX, data are sto
 abstraction that allows user to handle hardware, directories, and normal files
 in the same way be it random or sequential access.&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;March 226, 2018&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;####Alan Turing&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;March 26, 2018&lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;Starting from today, I would like to talk about Turing Award, the most
 prestigious award in the field of Computer Science.
 But before I introduce any of Turing Award Winner, let me first talk about Alan
 M. Turing.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Alan_Turing_Aged_16.jpg/440px-Alan_Turing_Aged_16.jpg&quot; style=&quot;width:100px;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Alan Turing&lt;/p&gt;
-
 &lt;p&gt;&lt;b&gt;Dr. Turing&lt;/b&gt; received his Ph.D. from &lt;b&gt;Princeton&lt;/b&gt;, where he spent only
 &lt;b&gt;two years&lt;/b&gt;.
 Unlike some people who drop out from grad college after two years, Dr. Turing
 had earned his Ph.D. within those two years.
 One of Turing’s  most famous contributions should be his &lt;b&gt;Turing test&lt;/b&gt;,
-which he originally called ``the imitation game’’ introduced in his paper &lt;a href=&quot;http://phil415.pbworks.com/f/TuringComputing.pdf&quot;&gt;&lt;i&gt;MIND
-a quarterly review of psychology and philosophy&lt;i&gt;&amp;lt;/a&amp;gt; in 1950, only 4 years after
+which he originally called “the imitation game” introduced in his paper &lt;i&gt;&lt;a href=&quot;http://phil415.pbworks.com/f/TuringComputing.pdf&quot;&gt;MIND
+a quarterly review of psychology and philosophy&lt;/a&gt;&lt;/i&gt; in 1950, only 4 years after
 the birth of ENIAC.
 Turing is also known for his &lt;b&gt;lambda calculus&lt;/b&gt;, co-developed with his Ph.D.
-advisor Alonzo Church, and &lt;b&gt;Turing Machine&lt;/b&gt;.&lt;/i&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+advisor Alonzo Church, and &lt;b&gt;Turing Machine&lt;/b&gt;.&lt;/p&gt;
+
+&lt;p&gt;####Alan Perlis&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;March 27, 2018&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;I was going to say that before I introduce Turing Award winners from the
+earliest to the most recent, I would like to priotize those were or still are
+related to CMU. However, I just learned that the first Turing Award winner was
+the first head of our Computer Science Department at CMU, &lt;b&gt;Alan Perlis&lt;/b&gt;!&lt;/p&gt;
+
+&lt;p&gt;Dr. Perlis made incredible amount of contribution to the field of computer
+science.
+He participated in the designing and building of some of the earliest electrical
+computers. He also helped design &lt;b&gt;IBM 650&lt;/b&gt;. Together with Simon and Newell, he defined
+the term &lt;b&gt;“computer science”&lt;/b&gt; to be “the theory and design of computers.”
+In 1961, he taught the &lt;b&gt;first freshman-level computer science course&lt;/b&gt; in the nation at
+Carnegie Tech, which later merged with Mellon Institute to form CMU.
+In 1965, Computer Science Department was esablished and he became the first
+head. 
+He received Turing Award in &lt;b&gt;1966&lt;/b&gt;.&lt;/p&gt;
 </description>
         <pubDate>Fri, 23 Mar 2018 22:55:12 +0000</pubDate>
         <link>http://cmustrudel.github.io/blog/cmu/CMUtrivia</link>
