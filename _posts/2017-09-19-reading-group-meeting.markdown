@@ -28,11 +28,11 @@ substituted by a robot, that means this language is dying. One example is
 Assembly. Here's a quote from Paul Graham
 about the evolution of programming languages:
 
-"What programmers in a hundred years will be looking for, most of all, is a
-language where you can throw together an unbelievably inefficient version 1 of a
-program with the least possible effort. At least, that's how we'd describe it in
-present-day terms. What they'll say is that they want a language that's easy to
-program in.
+> "What programmers in a hundred years will be looking for, most of all, is a
+> language where you can throw together an unbelievably inefficient version 1 of a
+> program with the least possible effort. At least, that's how we'd describe it in
+> present-day terms. What they'll say is that they want a language that's easy to
+> program in.
 
 Inefficient software isn't gross. What's gross is a language that makes
 programmers do needless work. Wasting programmer time is the true inefficiency,
