@@ -24,7 +24,7 @@ Princeton University taught by Professor Maragret Martonosi.
 Many CMU related trivias are learned by wandering in campus during work breaks.
 If you spot any mistakes in this post, please email me: hsqq at cmu dot edu
 
-####Hello, world!
+#### Hello, world!
 
 <b>March 23, 2018</b>
 
@@ -51,7 +51,7 @@ variation of:
 
 Dr. Brian Kernighan is now a professor at <b>Princeton University</b>. 
 
-####MULTICS
+#### MULTICS
 
 <b>March 24, 2018</b>
 
@@ -79,7 +79,7 @@ Quoting from the paper:
 
 These concepts are still prevalent today.
 
-####UNIX
+#### UNIX
 
 <b>March 25, 2018</b>
 
@@ -103,7 +103,7 @@ are stored in address, which allows random access, whereas in UNIX, data are sto
 abstraction that allows user to handle hardware, directories, and normal files
 in the same way be it random or sequential access.
 
-####Alan Turing
+#### Alan Turing
 
 <b>March 26, 2018</b>
 
@@ -124,7 +124,7 @@ the birth of ENIAC.
 Turing is also known for his <b>lambda calculus</b>, co-developed with his Ph.D.
 advisor Alonzo Church, and <b>Turing Machine</b>.
 
-####Alan Perlis
+#### Alan Perlis
 
 <b>March 27, 2018</b>
 
