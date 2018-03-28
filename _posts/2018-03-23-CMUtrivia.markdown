@@ -24,18 +24,11 @@ Princeton University taught by Professor Maragret Martonosi.
 Many CMU related trivias are learned by wandering in campus during work breaks.
 If you spot any mistakes in this post, please email me: hsqq at cmu dot edu
 
+####Hello, world!
+
 <b>March 23, 2018</b>
 
 Let the first trivia be our most familiar program, <b>hello world</b>. 
-
-<img
-src="https://upload.wikimedia.org/wikipedia/commons/2/23/Dennis_Ritchie_2011.jpg" style="width: 100px;"/> 
-<img
-src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Ken_Thompson_02.jpg" style="width: 100px;"/> 
-<img
-src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Brian_Kernighan_in_2012_at_Bell_Labs_1.jpg" style="width: 100px;"/> 
-
-From left to right: Dr. Dennis Ritchie, Ken Tompson, and Dr. Brian Kernighan.
 
 <b>Dr. Dennis Ritchie</b> developed the language <b>C</b>, which he used to
 implement the operating system <b>Unix</b> with <b>Ken Thompson</b>.
@@ -47,28 +40,24 @@ Ever since then, most beginners' first program in many languages have been some
 variation of: 
 
 `
-  main()
+    main()
 
-  {
+    {
 
-    printf("hello, world\n");
+      printf("hello, world\n");
 
-  }
+    }
 `
 
 Dr. Brian Kernighan is now a professor at <b>Princeton University</b>. 
+
+####MULTICS
 
 <b>March 24, 2018</b>
 
 Now I want to talk about Unix, the operating system developed with C.
 But before I can get to Unix itself, I want to briefly introduce
 its predecessor, MULTICS.
-
-<img
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Jack_Dennis.jpg/440px-Jack_Dennis.jpg"
-style="width: 100px;"/>
-
-Dr. Jack Bonnell Dennis
 
 Before Unix, there was an operating system called <b>MULTICS</b>(<b>Mult</b>iplexed
 <b>I</b>nformation and <b>C</b>omputing <b>S</b>ervice), developed by <b>MIT, GE,
@@ -89,6 +78,8 @@ Quoting from the paper:
 > supervisor. 
 
 These concepts are still prevalent today.
+
+####UNIX
 
 <b>March 25, 2018</b>
 
@@ -112,27 +103,43 @@ are stored in address, which allows random access, whereas in UNIX, data are sto
 abstraction that allows user to handle hardware, directories, and normal files
 in the same way be it random or sequential access.
 
-<b>March 226, 2018</b>
+####Alan Turing
+
+<b>March 26, 2018</b>
 
 Starting from today, I would like to talk about Turing Award, the most
 prestigious award in the field of Computer Science.
 But before I introduce any of Turing Award Winner, let me first talk about Alan
 M. Turing.
 
-<img
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Alan_Turing_Aged_16.jpg/440px-Alan_Turing_Aged_16.jpg"
-style="width:100px;"/>
-
-Alan Turing
-
 <b>Dr. Turing</b> received his Ph.D. from <b>Princeton</b>, where he spent only
 <b>two years</b>.
 Unlike some people who drop out from grad college after two years, Dr. Turing
 had earned his Ph.D. within those two years.
 One of Turing's  most famous contributions should be his <b>Turing test</b>,
-which he originally called ``the imitation game'' introduced in his paper <a
-href="http://phil415.pbworks.com/f/TuringComputing.pdf"><i>MIND
-a quarterly review of psychology and philosophy<i></a> in 1950, only 4 years after
+which he originally called "the imitation game" introduced in his paper <i><a
+href="http://phil415.pbworks.com/f/TuringComputing.pdf">MIND
+a quarterly review of psychology and philosophy</a></i> in 1950, only 4 years after
 the birth of ENIAC.
 Turing is also known for his <b>lambda calculus</b>, co-developed with his Ph.D.
 advisor Alonzo Church, and <b>Turing Machine</b>.
+
+####Alan Perlis
+
+<b>March 27, 2018</b>
+
+I was going to say that before I introduce Turing Award winners from the
+earliest to the most recent, I would like to priotize those were or still are
+related to CMU. However, I just learned that the first Turing Award winner was
+the first head of our Computer Science Department at CMU, <b>Alan Perlis</b>!
+
+Dr. Perlis made incredible amount of contribution to the field of computer
+science.
+He participated in the designing and building of some of the earliest electrical
+computers. He also helped design <b>IBM 650</b>. Together with Simon and Newell, he defined
+the term <b>"computer science"</b> to be "the theory and design of computers."
+In 1961, he taught the <b>first freshman-level computer science course</b> in the nation at
+Carnegie Tech, which later merged with Mellon Institute to form CMU.
+In 1965, Computer Science Department was esablished and he became the first
+head. 
+He received Turing Award in <b>1966</b>.
