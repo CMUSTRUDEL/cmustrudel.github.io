@@ -40,6 +40,7 @@ Ever since then, most beginners' first program in many languages have been some
 variation of: 
 
 `
+
     main()
 
     {
@@ -47,6 +48,7 @@ variation of:
       printf("hello, world\n");
 
     }
+
 `
 
 Dr. Brian Kernighan is now a professor at <b>Princeton University</b>. 
@@ -143,3 +145,25 @@ Carnegie Tech, which later merged with Mellon Institute to form CMU.
 In 1965, Computer Science Department was esablished and he became the first
 head. 
 He received Turing Award in <b>1966</b>.
+
+#### Allen Newell and Herbert Simon
+
+<b>March 28, 2018</b>
+
+Herbert Alexander Simon was a professor in <b>Political Science</b>. 
+His insight of human decision making lead to his development of <b>heuristic
+programming</b>.
+Dr. Simon's research interests are AI, simulation, software design, and HCI, all
+of which are still CMU's strongest fields.
+Dr. Simon also won the Nobel Prize in Economics.
+
+Dr. Newell earned his Ph.D. degree at CMU Tepper School advised by Dr. Simon. 
+Together with his advisor Dr. Simon, they worked on heuristic programming and
+created the first AI program, <b>Logic Theorist</b>.
+He spent a year at Princeton where he worked on game theory which influenced his
+later work.
+
+Newell, Simon, and Perlis created Computer Science Department together in
+<b>1965</b>.
+The building, Newell Simon Hall, for Human Computer Interaction Institute and Robotics Institute is
+named after Dr. Newell and Dr. Simon.
