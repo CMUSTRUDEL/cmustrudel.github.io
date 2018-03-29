@@ -39,8 +39,6 @@ apperance of the hello world program.
 Ever since then, most beginners' first program in many languages have been some
 variation of: 
 
-`
-
     main()
 
     {
@@ -48,8 +46,6 @@ variation of:
       printf("hello, world\n");
 
     }
-
-`
 
 Dr. Brian Kernighan is now a professor at <b>Princeton University</b>. 
 
