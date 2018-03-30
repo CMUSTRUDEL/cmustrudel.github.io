@@ -5,9 +5,208 @@
     <description>The Socio-Technical Research Using Data Excavation Lab at Carnegie Mellon University</description>
     <link>http://cmustrudel.github.io/</link>
     <atom:link href="http://cmustrudel.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 30 Mar 2018 23:30:44 +0000</pubDate>
-    <lastBuildDate>Fri, 30 Mar 2018 23:30:44 +0000</lastBuildDate>
+    <pubDate>Fri, 30 Mar 2018 23:37:34 +0000</pubDate>
+    <lastBuildDate>Fri, 30 Mar 2018 23:37:34 +0000</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>Blog: CMU trivia</title>
+        <description>&lt;p&gt;To prepare myself for next year’s SCS trivia and to demostrate my school pride,
+I set up a one trivia a day challenge for myself. 
+My plan is to continue this until I leave CMU.
+All the trivias will be related to CMU or Computer Science in general. 
+This year’s SCS trivia night made me realize how little I know about female
+computer scientist, so I will focus
+more on this part.&lt;/p&gt;
+
+&lt;p&gt;I learned many of Computer Science related trivia from “Great Moments in
+Computing”, a great course offered at
+Princeton University taught by Professor Maragret Martonosi.
+Many CMU related trivias are learned by wandering in campus during work breaks.
+If you spot any mistakes in this post, please email me: hsqq at cmu dot edu&lt;/p&gt;
+
+&lt;h4 id=&quot;hello-world&quot;&gt;Hello, world!&lt;/h4&gt;
+
+&lt;p&gt;&lt;b&gt;March 23, 2018&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Let the first trivia be our most familiar program, &lt;b&gt;hello world&lt;/b&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Dr. Dennis Ritchie&lt;/b&gt; developed the language &lt;b&gt;C&lt;/b&gt;, which he used to
+implement the operating system &lt;b&gt;Unix&lt;/b&gt; with &lt;b&gt;Ken Thompson&lt;/b&gt;.
+To educate people how to use C, 
+&lt;b&gt;Dr. Brian Kernighan&lt;/b&gt; wrote the textbook &lt;i&gt;The C Programming Language&lt;/i&gt; 
+and used the program hello world as an introductory example. This was the first
+apperance of the hello world program. 
+Ever since then, most beginners’ first program in many languages have been some
+variation of:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;main()
+
+{
+
+  printf(&quot;hello, world\n&quot;);
+
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Dr. Brian Kernighan is now a professor at &lt;b&gt;Princeton University&lt;/b&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;multics&quot;&gt;MULTICS&lt;/h4&gt;
+
+&lt;p&gt;&lt;b&gt;March 24, 2018&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Now I want to talk about Unix, the operating system developed with C.
+But before I can get to Unix itself, I want to briefly introduce
+its predecessor, MULTICS.&lt;/p&gt;
+
+&lt;p&gt;Before Unix, there was an operating system called &lt;b&gt;MULTICS&lt;/b&gt;(&lt;b&gt;Mult&lt;/b&gt;iplexed
+&lt;b&gt;I&lt;/b&gt;nformation and &lt;b&gt;C&lt;/b&gt;omputing &lt;b&gt;S&lt;/b&gt;ervice), developed by &lt;b&gt;MIT, GE,
+and Bell Lab&lt;/b&gt; and released in &lt;b&gt;1969&lt;/b&gt;.
+You can read the original paper here: &lt;a href=&quot;https://www.classes.cs.uchicago.edu/archive/2017/fall/33100-1/papers/multics.pdf&quot;&gt;Virtual
+Memory, Processes, and Sharing in MULTICS&lt;/a&gt; by &lt;b&gt;Robert C. Daley and Jack B.
+Dennis&lt;/b&gt;.
+The main concepts introduced with MULTICS are &lt;b&gt;Proccess&lt;/b&gt; and &lt;b&gt;Address
+space&lt;/b&gt;.
+Quoting from the paper:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Processes stand in one-to-one correspondence
+with virtual memories. Each process runs in
+its own address space, which is established independently
+of other address spaces. Processes are run on a processor
+at the discretion of the traffic controller module of the
+supervisor.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;These concepts are still prevalent today.&lt;/p&gt;
+
+&lt;h4 id=&quot;unix&quot;&gt;UNIX&lt;/h4&gt;
+
+&lt;p&gt;&lt;b&gt;March 25, 2018&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Finally, &lt;b&gt;UNIX&lt;/b&gt;.&lt;/p&gt;
+
+&lt;p&gt;The name UNIX stands for &lt;i&gt;Uniplexed Infromation and Computing Service&lt;/i&gt; and
+it was suggested by Dr. Brian Kernighan in 1970.
+It was developed by &lt;b&gt;Ken Thompson, Dennis Ritchie, Brian Kernighan, Douglas
+Mcllroy, and Joe Ossanna&lt;/b&gt; at &lt;b&gt;Bell Labs&lt;/b&gt;.
+The design of UNIX is summarized in &lt;a href=&quot;https://people.eecs.berkeley.edu/~brewer/cs262/unix.pdf&quot;&gt;&lt;i&gt;The UNIX
+Time-Sharing System&lt;/i&gt;&lt;/a&gt; and published in &lt;b&gt;1974&lt;/b&gt;, 6 years after MULTICS.
+I highly recommend reading this paper for it is a well-written paper and you
+will be able to understand how clever the system was designed so that its
+essence has not varied too much since its birth.&lt;/p&gt;
+
+&lt;p&gt;The 1974 version of UNIX contained only 11K lines of code for the kernel (for
+your reference, 2017 Linux kernel 4.1.38 contains ~5.4M lines of code).
+One of the biggest difference between MULTICS and UNIX is that data on MULTICS
+are stored in address, which allows random access, whereas in UNIX, data are stored in file, which is an
+abstraction that allows user to handle hardware, directories, and normal files
+in the same way be it random or sequential access.&lt;/p&gt;
+
+&lt;h4 id=&quot;alan-turing&quot;&gt;Alan Turing&lt;/h4&gt;
+
+&lt;p&gt;&lt;b&gt;March 26, 2018&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Starting from today, I would like to talk about Turing Award, the most
+prestigious award in the field of Computer Science.
+But before I introduce any of Turing Award Winner, let me first talk about Alan
+M. Turing.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Dr. Turing&lt;/b&gt; received his Ph.D. from &lt;b&gt;Princeton&lt;/b&gt;, where he spent only
+&lt;b&gt;two years&lt;/b&gt;.
+Unlike some people who drop out from grad college after two years, Dr. Turing
+had earned his Ph.D. within those two years.
+One of Turing’s  most famous contributions should be his &lt;b&gt;Turing test&lt;/b&gt;,
+which he originally called “the imitation game” introduced in his paper &lt;i&gt;&lt;a href=&quot;http://phil415.pbworks.com/f/TuringComputing.pdf&quot;&gt;MIND
+a quarterly review of psychology and philosophy&lt;/a&gt;&lt;/i&gt; in 1950, only 4 years after
+the birth of ENIAC.
+Turing is also known for his &lt;b&gt;lambda calculus&lt;/b&gt;, co-developed with his Ph.D.
+advisor Alonzo Church, and &lt;b&gt;Turing Machine&lt;/b&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;alan-perlis-1966&quot;&gt;Alan Perlis, 1966.&lt;/h4&gt;
+
+&lt;p&gt;&lt;b&gt;March 27, 2018&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;I was going to say that before I introduce Turing Award winners from the
+earliest to the most recent, I would like to priotize those were or still are
+related to CMU. However, I just learned that the first Turing Award winner was
+the first head of our Computer Science Department at CMU, &lt;b&gt;Alan Perlis&lt;/b&gt;!&lt;/p&gt;
+
+&lt;p&gt;Dr. Perlis made incredible amount of contribution to the field of computer
+science.
+He participated in the designing and building of some of the earliest electrical
+computers. He also helped design &lt;b&gt;IBM 650&lt;/b&gt;. Together with Simon and Newell, he defined
+the term &lt;b&gt;“computer science”&lt;/b&gt; to be “the theory and design of computers.”
+In 1961, he taught the &lt;b&gt;first freshman-level computer science course&lt;/b&gt; in the nation at
+Carnegie Tech, which later merged with Mellon Institute to form CMU.
+In 1965, Computer Science Department was esablished and he became the first
+head.&lt;/p&gt;
+
+&lt;h4 id=&quot;allen-newell-and-herbert-simon-1975&quot;&gt;Allen Newell and Herbert Simon, 1975.&lt;/h4&gt;
+
+&lt;p&gt;&lt;b&gt;March 28, 2018&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Herbert Alexander Simon was a professor in &lt;b&gt;Political Science&lt;/b&gt;. 
+His insight of human decision making lead to his development of &lt;b&gt;heuristic
+programming&lt;/b&gt;.
+Dr. Simon’s research interests are AI, simulation, software design, and HCI, all
+of which are still CMU’s strongest fields.
+Dr. Simon also won the Nobel Prize in Economics.&lt;/p&gt;
+
+&lt;p&gt;Dr. Newell earned his Ph.D. degree at CMU Tepper School advised by Dr. Simon. 
+Together with his advisor Dr. Simon, they worked on heuristic programming and
+created the first AI program, &lt;b&gt;Logic Theorist&lt;/b&gt;.
+He spent a year at Princeton where he worked on game theory which influenced his
+later work.&lt;/p&gt;
+
+&lt;p&gt;Newell, Simon, and Perlis created Computer Science Department together in
+&lt;b&gt;1965&lt;/b&gt;.
+The building, Newell Simon Hall, for Human Computer Interaction Institute and Robotics Institute is
+named after Dr. Newell and Dr. Simon.&lt;/p&gt;
+
+&lt;h4 id=&quot;dana-stewart-scott-and-michael-o-rabin-1976&quot;&gt;Dana Stewart Scott and Michael O. Rabin, 1976.&lt;/h4&gt;
+
+&lt;p&gt;&lt;b&gt;March 29, 2018&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Dr. Scott and Dr. Rabin jointly developed the idea of &lt;b&gt;nondeterministic
+machines&lt;/b&gt; in the paper “Finite Automata and Their Decision Problem”.&lt;/p&gt;
+
+&lt;p&gt;Dr. Scott earned his BA at Berkeley and his Ph.D. at Princeton. 
+After jumping around multiple top universities, in 1981, he came to CMU and
+became a professor of Computer Science, Mathematical Logic, and Philosophy. 
+He took the position of Hillman Professor of Computer Science. 
+Dr. Scott is also famous for his contribution to computer programming language
+analysis.&lt;/p&gt;
+
+&lt;p&gt;Dr. Rabin also earned his Ph.D. at Princeton in Mathematics. 
+He is famous for his idea of adding randomness to algorithm.
+His later work concerns cryptographic problems and helped develop a
+zero-knowledge proof.&lt;/p&gt;
+
+&lt;h4 id=&quot;robert-floyd-1978&quot;&gt;Robert Floyd, 1978.&lt;/h4&gt;
+
+&lt;p&gt;&lt;b&gt;March 30, 2018&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Floyd received his Turing Award “for having a clear influence on
+methodologies for the creation of efficient and reliable software, and for
+helping to found the following important subfields of computer science: the
+theory of parsing, the semantics of programming languages, automatic program
+verification, automatic program synthesis, and analysis of algorithms.”
+Floyd did not get a Ph.D.
+However, he was appointed an associated professor at CMU when he was at the age
+of 27 and, six years later, became a full professor at Stanford University.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 30 Mar 2018 19:34:23 +0000</pubDate>
+        <link>http://cmustrudel.github.io/blog/cmu/CMUtrivia</link>
+        <guid isPermaLink="true">http://cmustrudel.github.io/blog/cmu/CMUtrivia</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>CMU</category>
+        
+      </item>
     
       <item>
         <title>Blog: Life @ CMU</title>
@@ -202,208 +401,9 @@ group of goats!&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/pics/08-16-17-source.jpg&quot; style=&quot;width: 400px;&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 25 Mar 2018 15:50:23 +0000</pubDate>
+        <pubDate>Fri, 30 Mar 2018 19:23:35 +0000</pubDate>
         <link>http://cmustrudel.github.io/blog/cmu/CMU-life</link>
         <guid isPermaLink="true">http://cmustrudel.github.io/blog/cmu/CMU-life</guid>
-        
-        
-        <category>blog</category>
-        
-        <category>CMU</category>
-        
-      </item>
-    
-      <item>
-        <title>Blog: CMU trivia</title>
-        <description>&lt;p&gt;To prepare myself for next year’s SCS trivia and to demostrate my school pride,
-I set up a one trivia a day challenge for myself. 
-My plan is to continue this until I leave CMU.
-All the trivias will be related to CMU or Computer Science in general. 
-This year’s SCS trivia night made me realize how little I know about female
-computer scientist, so I will focus
-more on this part.&lt;/p&gt;
-
-&lt;p&gt;I learned many of Computer Science related trivia from “Great Moments in
-Computing”, a great course offered at
-Princeton University taught by Professor Maragret Martonosi.
-Many CMU related trivias are learned by wandering in campus during work breaks.
-If you spot any mistakes in this post, please email me: hsqq at cmu dot edu&lt;/p&gt;
-
-&lt;h4 id=&quot;hello-world&quot;&gt;Hello, world!&lt;/h4&gt;
-
-&lt;p&gt;&lt;b&gt;March 23, 2018&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;Let the first trivia be our most familiar program, &lt;b&gt;hello world&lt;/b&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Dr. Dennis Ritchie&lt;/b&gt; developed the language &lt;b&gt;C&lt;/b&gt;, which he used to
-implement the operating system &lt;b&gt;Unix&lt;/b&gt; with &lt;b&gt;Ken Thompson&lt;/b&gt;.
-To educate people how to use C, 
-&lt;b&gt;Dr. Brian Kernighan&lt;/b&gt; wrote the textbook &lt;i&gt;The C Programming Language&lt;/i&gt; 
-and used the program hello world as an introductory example. This was the first
-apperance of the hello world program. 
-Ever since then, most beginners’ first program in many languages have been some
-variation of:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;main()
-
-{
-
-  printf(&quot;hello, world\n&quot;);
-
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Dr. Brian Kernighan is now a professor at &lt;b&gt;Princeton University&lt;/b&gt;.&lt;/p&gt;
-
-&lt;h4 id=&quot;multics&quot;&gt;MULTICS&lt;/h4&gt;
-
-&lt;p&gt;&lt;b&gt;March 24, 2018&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;Now I want to talk about Unix, the operating system developed with C.
-But before I can get to Unix itself, I want to briefly introduce
-its predecessor, MULTICS.&lt;/p&gt;
-
-&lt;p&gt;Before Unix, there was an operating system called &lt;b&gt;MULTICS&lt;/b&gt;(&lt;b&gt;Mult&lt;/b&gt;iplexed
-&lt;b&gt;I&lt;/b&gt;nformation and &lt;b&gt;C&lt;/b&gt;omputing &lt;b&gt;S&lt;/b&gt;ervice), developed by &lt;b&gt;MIT, GE,
-and Bell Lab&lt;/b&gt; and released in &lt;b&gt;1969&lt;/b&gt;.
-You can read the original paper here: &lt;a href=&quot;https://www.classes.cs.uchicago.edu/archive/2017/fall/33100-1/papers/multics.pdf&quot;&gt;Virtual
-Memory, Processes, and Sharing in MULTICS&lt;/a&gt; by &lt;b&gt;Robert C. Daley and Jack B.
-Dennis&lt;/b&gt;.
-The main concepts introduced with MULTICS are &lt;b&gt;Proccess&lt;/b&gt; and &lt;b&gt;Address
-space&lt;/b&gt;.
-Quoting from the paper:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Processes stand in one-to-one correspondence
-with virtual memories. Each process runs in
-its own address space, which is established independently
-of other address spaces. Processes are run on a processor
-at the discretion of the traffic controller module of the
-supervisor.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;These concepts are still prevalent today.&lt;/p&gt;
-
-&lt;h4 id=&quot;unix&quot;&gt;UNIX&lt;/h4&gt;
-
-&lt;p&gt;&lt;b&gt;March 25, 2018&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;Finally, &lt;b&gt;UNIX&lt;/b&gt;.&lt;/p&gt;
-
-&lt;p&gt;The name UNIX stands for &lt;i&gt;Uniplexed Infromation and Computing Service&lt;/i&gt; and
-it was suggested by Dr. Brian Kernighan in 1970.
-It was developed by &lt;b&gt;Ken Thompson, Dennis Ritchie, Brian Kernighan, Douglas
-Mcllroy, and Joe Ossanna&lt;/b&gt; at &lt;b&gt;Bell Labs&lt;/b&gt;.
-The design of UNIX is summarized in &lt;a href=&quot;https://people.eecs.berkeley.edu/~brewer/cs262/unix.pdf&quot;&gt;&lt;i&gt;The UNIX
-Time-Sharing System&lt;/i&gt;&lt;/a&gt; and published in &lt;b&gt;1974&lt;/b&gt;, 6 years after MULTICS.
-I highly recommend reading this paper for it is a well-written paper and you
-will be able to understand how clever the system was designed so that its
-essence has not varied too much since its birth.&lt;/p&gt;
-
-&lt;p&gt;The 1974 version of UNIX contained only 11K lines of code for the kernel (for
-your reference, 2017 Linux kernel 4.1.38 contains ~5.4M lines of code).
-One of the biggest difference between MULTICS and UNIX is that data on MULTICS
-are stored in address, which allows random access, whereas in UNIX, data are stored in file, which is an
-abstraction that allows user to handle hardware, directories, and normal files
-in the same way be it random or sequential access.&lt;/p&gt;
-
-&lt;h4 id=&quot;alan-turing&quot;&gt;Alan Turing&lt;/h4&gt;
-
-&lt;p&gt;&lt;b&gt;March 26, 2018&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;Starting from today, I would like to talk about Turing Award, the most
-prestigious award in the field of Computer Science.
-But before I introduce any of Turing Award Winner, let me first talk about Alan
-M. Turing.&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Dr. Turing&lt;/b&gt; received his Ph.D. from &lt;b&gt;Princeton&lt;/b&gt;, where he spent only
-&lt;b&gt;two years&lt;/b&gt;.
-Unlike some people who drop out from grad college after two years, Dr. Turing
-had earned his Ph.D. within those two years.
-One of Turing’s  most famous contributions should be his &lt;b&gt;Turing test&lt;/b&gt;,
-which he originally called “the imitation game” introduced in his paper &lt;i&gt;&lt;a href=&quot;http://phil415.pbworks.com/f/TuringComputing.pdf&quot;&gt;MIND
-a quarterly review of psychology and philosophy&lt;/a&gt;&lt;/i&gt; in 1950, only 4 years after
-the birth of ENIAC.
-Turing is also known for his &lt;b&gt;lambda calculus&lt;/b&gt;, co-developed with his Ph.D.
-advisor Alonzo Church, and &lt;b&gt;Turing Machine&lt;/b&gt;.&lt;/p&gt;
-
-&lt;h4 id=&quot;alan-perlis-1966&quot;&gt;Alan Perlis, 1966.&lt;/h4&gt;
-
-&lt;p&gt;&lt;b&gt;March 27, 2018&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;I was going to say that before I introduce Turing Award winners from the
-earliest to the most recent, I would like to priotize those were or still are
-related to CMU. However, I just learned that the first Turing Award winner was
-the first head of our Computer Science Department at CMU, &lt;b&gt;Alan Perlis&lt;/b&gt;!&lt;/p&gt;
-
-&lt;p&gt;Dr. Perlis made incredible amount of contribution to the field of computer
-science.
-He participated in the designing and building of some of the earliest electrical
-computers. He also helped design &lt;b&gt;IBM 650&lt;/b&gt;. Together with Simon and Newell, he defined
-the term &lt;b&gt;“computer science”&lt;/b&gt; to be “the theory and design of computers.”
-In 1961, he taught the &lt;b&gt;first freshman-level computer science course&lt;/b&gt; in the nation at
-Carnegie Tech, which later merged with Mellon Institute to form CMU.
-In 1965, Computer Science Department was esablished and he became the first
-head.&lt;/p&gt;
-
-&lt;h4 id=&quot;allen-newell-and-herbert-simon-1975&quot;&gt;Allen Newell and Herbert Simon, 1975.&lt;/h4&gt;
-
-&lt;p&gt;&lt;b&gt;March 28, 2018&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;Herbert Alexander Simon was a professor in &lt;b&gt;Political Science&lt;/b&gt;. 
-His insight of human decision making lead to his development of &lt;b&gt;heuristic
-programming&lt;/b&gt;.
-Dr. Simon’s research interests are AI, simulation, software design, and HCI, all
-of which are still CMU’s strongest fields.
-Dr. Simon also won the Nobel Prize in Economics.&lt;/p&gt;
-
-&lt;p&gt;Dr. Newell earned his Ph.D. degree at CMU Tepper School advised by Dr. Simon. 
-Together with his advisor Dr. Simon, they worked on heuristic programming and
-created the first AI program, &lt;b&gt;Logic Theorist&lt;/b&gt;.
-He spent a year at Princeton where he worked on game theory which influenced his
-later work.&lt;/p&gt;
-
-&lt;p&gt;Newell, Simon, and Perlis created Computer Science Department together in
-&lt;b&gt;1965&lt;/b&gt;.
-The building, Newell Simon Hall, for Human Computer Interaction Institute and Robotics Institute is
-named after Dr. Newell and Dr. Simon.&lt;/p&gt;
-
-&lt;h4 id=&quot;dana-stewart-scott-and-michael-o-rabin-1976&quot;&gt;Dana Stewart Scott and Michael O. Rabin, 1976.&lt;/h4&gt;
-
-&lt;p&gt;&lt;b&gt;March 29, 2018&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;Dr. Scott and Dr. Rabin jointly developed the idea of &lt;b&gt;nondeterministic
-machines&lt;/b&gt; in the paper “Finite Automata and Their Decision Problem”.&lt;/p&gt;
-
-&lt;p&gt;Dr. Scott earned his BA at Berkeley and his Ph.D. at Princeton. 
-After jumping around multiple top universities, in 1981, he came to CMU and
-became a professor of Computer Science, Mathematical Logic, and Philosophy. 
-He took the position of Hillman Professor of Computer Science. 
-Dr. Scott is also famous for his contribution to computer programming language
-analysis.&lt;/p&gt;
-
-&lt;p&gt;Dr. Rabin also earned his Ph.D. at Princeton in Mathematics. 
-He is famous for his idea of adding randomness to algorithm.
-His later work concerns cryptographic problems and helped develop a
-zero-knowledge proof.&lt;/p&gt;
-
-&lt;h4 id=&quot;robert-floyd-1978&quot;&gt;Robert Floyd, 1978.&lt;/h4&gt;
-
-&lt;p&gt;&lt;b&gt;March 30, 2018&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;Floyd received his Turing Award “for having a clear influence on
-methodologies for the creation of efficient and reliable software, and for
-helping to found the following important subfields of computer science: the
-theory of parsing, the semantics of programming languages, automatic program
-verification, automatic program synthesis, and analysis of algorithms.”
-Floyd did not get a Ph.D.
-However, he was appointed an associated professor at CMU when he was at the age
-of 27 and, six years later, became a full professor at Stanford University.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 23 Mar 2018 22:55:12 +0000</pubDate>
-        <link>http://cmustrudel.github.io/blog/cmu/CMUtrivia</link>
-        <guid isPermaLink="true">http://cmustrudel.github.io/blog/cmu/CMUtrivia</guid>
         
         
         <category>blog</category>
