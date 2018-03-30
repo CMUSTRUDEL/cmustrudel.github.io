@@ -122,7 +122,7 @@ the birth of ENIAC.
 Turing is also known for his <b>lambda calculus</b>, co-developed with his Ph.D.
 advisor Alonzo Church, and <b>Turing Machine</b>.
 
-#### Alan Perlis
+#### Alan Perlis, 1966.
 
 <b>March 27, 2018</b>
 
@@ -140,9 +140,8 @@ In 1961, he taught the <b>first freshman-level computer science course</b> in th
 Carnegie Tech, which later merged with Mellon Institute to form CMU.
 In 1965, Computer Science Department was esablished and he became the first
 head. 
-He received Turing Award in <b>1966</b>.
 
-#### Allen Newell and Herbert Simon
+#### Allen Newell and Herbert Simon, 1975.
 
 <b>March 28, 2018</b>
 
@@ -163,3 +162,35 @@ Newell, Simon, and Perlis created Computer Science Department together in
 <b>1965</b>.
 The building, Newell Simon Hall, for Human Computer Interaction Institute and Robotics Institute is
 named after Dr. Newell and Dr. Simon.
+
+#### Dana Stewart Scott and Michael O. Rabin, 1976.
+
+<b>March 29, 2018</b>
+
+Dr. Scott and Dr. Rabin jointly developed the idea of <b>nondeterministic
+machines</b> in the paper "Finite Automata and Their Decision Problem".
+
+Dr. Scott earned his BA at Berkeley and his Ph.D. at Princeton. 
+After jumping around multiple top universities, in 1981, he came to CMU and
+became a professor of Computer Science, Mathematical Logic, and Philosophy. 
+He took the position of Hillman Professor of Computer Science. 
+Dr. Scott is also famous for his contribution to computer programming language
+analysis. 
+
+Dr. Rabin also earned his Ph.D. at Princeton in Mathematics. 
+He is famous for his idea of adding randomness to algorithm.
+His later work concerns cryptographic problems and helped develop a
+zero-knowledge proof.
+
+#### Robert Floyd, 1978.
+
+<b>March 30, 2018</b>
+
+Floyd received his Turing Award "for having a clear influence on
+methodologies for the creation of efficient and reliable software, and for
+helping to found the following important subfields of computer science: the
+theory of parsing, the semantics of programming languages, automatic program
+verification, automatic program synthesis, and analysis of algorithms."
+Floyd did not get a Ph.D.
+However, he was appointed an associated professor at CMU when he was at the age
+of 27 and, six years later, became a full professor at Stanford University. 
