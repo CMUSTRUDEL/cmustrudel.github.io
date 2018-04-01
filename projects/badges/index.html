@@ -110,7 +110,17 @@
     </div>
     
     
-    <!-- 
+    <style>
+#blue .container .row h3 {
+	padding-left: 10px !important;
+	font-size: 32px;
+	line-height: 20px;
+}
+</style>
+
+<link rel="stylesheet" href="../../assets/fig/index.css" />
+
+<!-- 
 carousel:
 - jsnaughty/jsnaughty.001.jpeg
 - jsnaughty/jsnaughty.002.jpeg
@@ -122,7 +132,7 @@ carousel:
         <div class="col-lg-5 col-lg-offset-1">
             <div class="spacing"></div>
 
-					<h4>Motivation</h4>
+					<h3>Motivation</h3>
 					<hr />
 
 					<p>
@@ -148,7 +158,7 @@ carousel:
 					<br />
 					<br />
 
-					<h4>Signaling Theory</h4>
+					<h3>Signaling Theory</h3>
 					<hr />
 
 					<p>
@@ -190,20 +200,21 @@ carousel:
             
             
             
-            <h4>Related Publications</h4>
+            <h3>Related Publications</h3>
             <div class="hline"></div>
+			<ul>
 			        
 
 			        <br /><li><b>ICSE 2018</b>: <i><a href="../../papers/icse18badges.pdf">Adding Sparkle to Social Coding: An Empirical Study of Repository Badges in the npm Ecosystem.</a></i>
 						  </li>
               	
-						<div class="spacing"></div>
-						<div class="hline"></div>
+			</ul>
+			<div class="hline" style="padding-top: 5px;"></div>
             
 
-            <div class="spacing"></div>
             
-					<h4>Quality Assurance</h4>
+			<br />
+					<h3>Quality Assurance</h3>
 					<img data-adoption="0.9" data-badge-class="quality assurance" data-name="AppVeyor" class="x-badge" src="../../assets/fig/appveyor.svg" />
 					<img data-adoption="0.4" data-badge-class="quality assurance" data-name="BitHound" class="x-badge" src="../../assets/fig/bithound.svg" />
 					<img data-adoption="31.5" data-badge-class="quality assurance" data-name="Travis CI" class="x-badge x-selected" src="../../assets/fig/build-passing.svg" />
@@ -217,7 +228,7 @@ carousel:
 					<br />
 					<br />
 
-					<h4>Popularity</h4>
+					<h3>Popularity</h3>
 					<img data-adoption="0.6" data-badge-class="popularity" data-name="cdnjs" class="x-badge" src="../../assets/fig/cdnjs.svg" />
 					<img data-adoption="5.3" data-badge-class="popularity" data-name="npm downloads" class="x-badge" src="../../assets/fig/npm-downloads.svg" />
 					<img data-adoption="0.2" data-badge-class="popularity" data-name="GitHub Stars" class="x-badge" src="../../assets/fig/stars.svg" />
@@ -226,7 +237,7 @@ carousel:
 					<br />
 					<br />
 
-					<h4>Information</h4>
+					<h3>Information</h3>
 					<img data-adoption="1.8" data-badge-class="information" data-name="Code style" class="x-badge" src="../../assets/fig/codestyle.svg" />
 					<img data-adoption="0.2" data-badge-class="information" data-name="Commitizen" class="x-badge" src="../../assets/fig/commitizen.svg" />
 					<img data-adoption="0.2" data-badge-class="information" data-name="Ember Observer" class="x-badge" src="../../assets/fig/emberobserver.svg" />
@@ -239,7 +250,7 @@ carousel:
 					<br />
 					<br />
 
-					<h4>Dependency Management</h4>
+					<h3>Dependency Management</h3>
 					<img data-adoption="8.0" data-badge-class="dependency management" data-name="David DM" class="x-badge" src="../../assets/fig/david.svg" />
 					<img data-adoption="0.5" data-badge-class="dependency management" data-name="Greenkeeper" class="x-badge" src="../../assets/fig/greenkeeper.svg" />
 					<img data-adoption="0.3" data-badge-class="dependency management" data-name="Snyk" class="x-badge" src="../../assets/fig/snyk.svg" />
@@ -248,7 +259,7 @@ carousel:
 					<br />
 
 
-					<h4>Support</h4>
+					<h3>Support</h3>
 					<img data-adoption="0.2" data-badge-class="support" data-name="Slack" class="x-badge" src="../../assets/fig/slack.svg" />
 					<img data-adoption="1.6" data-badge-class="support" data-name="Gitter" class="x-badge" src="../../assets/fig/gitter.svg" />
 					<img data-adoption="0.4" data-badge-class="support" data-name="GitHub Issues" class="x-badge" src="../../assets/fig/issue-res.svg" />
@@ -256,7 +267,7 @@ carousel:
 					<br />
 					<br />
 
-					<h4>Other</h4>
+					<h3>Other</h3>
 					<img data-adoption="1.0" data-badge-class="other" data-name="gemnasium" class="x-badge" src="../../assets/fig/gemnasium.svg" />
 					<img data-adoption="0.6" data-badge-class="other" data-name="paypal" class="x-badge" src="../../assets/fig/paypal.svg" />
 					<img data-adoption="0.3" data-badge-class="other" data-name="gittip" class="x-badge" src="../../assets/fig/gittip.svg" />
@@ -266,7 +277,7 @@ carousel:
 
 					<hr />
 
-					<h4><span id="badge-name">Travis CI</span>, <i><span id="badge-class">quality assurance</span></i></h4>
+					<h3><span id="badge-name">Travis CI</span>, <i><span id="badge-class">quality assurance</span></i></h3>
 					<p>Used by <span id="badge-rate">31.0</span>% of packages on npm.</p>
         
         </div>
@@ -277,7 +288,7 @@ carousel:
         <div class="col-lg-5 col-lg-offset-1">
             <div class="spacing"></div>
 
-				<h4>Why use badges?</h4>
+				<h3>Why use badges?</h3>
 					<hr />
 					<p>
 						To learn why developers use badges &mdash; what qualities they intend to signal &mdash;
@@ -322,7 +333,7 @@ carousel:
         <div class="col-lg-5 col-lg-offset-1">
             <div class="spacing"></div>
 
-					<h4>Badge Adoption</h4>
+					<h3>Badge Adoption</h3>
 					<hr />
 
 					<p>
@@ -370,7 +381,7 @@ carousel:
         <div class="col-lg-5 col-lg-offset-1">
             <div class="spacing"></div>
 
-					<h4>Signals of Updated Dependencies</h4>
+					<h3>Signals of Updated Dependencies</h3>
 					<hr />
 					
 					<blockquote>
@@ -427,7 +438,7 @@ carousel:
         <div class="col-lg-5 col-lg-offset-1">
             <div class="spacing"></div>
 
-					<h4>Signals of Popularity</h4>
+					<h3>Signals of Popularity</h3>
 					<hr />
 
 					<blockquote>
@@ -486,7 +497,7 @@ carousel:
         <div class="col-lg-5 col-lg-offset-1">
             <div class="spacing"></div>
 
-					<h4>Signals of Test Suite Quality</h4>
+					<h3>Signals of Test Suite Quality</h3>
 					<hr />
 
 					<blockquote>
@@ -541,7 +552,7 @@ carousel:
         <div class="col-lg-5 col-lg-offset-1">
             <div class="spacing"></div>
 
-					<h4>Signals of Better Contributions</h4>
+					<h3>Signals of Better Contributions</h3>
 					<hr />
 
 					<blockquote>
@@ -586,6 +597,91 @@ carousel:
         
         </div>
 </div>
+
+<div class="row" style="margin-bottom: 100px;">
+	<div class="col-lg-5 col-lg-offset-1">
+		<div class="spacing"></div>
+
+				<h3>Making Better Badges</h3>
+				<hr />
+
+				<p>
+					Overall, our results indicate that badges with underlying analyses, such as those offered by Travis CI, David DM, or Coveralls,
+					are the most reliable signals. That is, you should favor badges that are <i>assessment signals</i>.
+				</p>
+
+				<p>
+					Our results suggest that <i>package maintainers</i> should make deliberate choices about what badges to display, favoring assessment signals.
+					Package <i>users and contributors</i> could favor such badges as indicators of underlying practices, using them as starting points to investigate deeper qualities.
+					Finally, <i>service developers</i> should design badges more carefully, providing an assessment signal based on some analysis of past conformance whenever possible.
+				</p>
+
+				<p>
+					For example, <img class="x-badge" src="../../assets/fig/slack.svg" /> should be preferred to <img class="x-badge" src="../../assets/fig/slackjoin.svg" />, since it provides a glimpse into the project's activity.
+				</p>
+
+	</div>
+	<div class="col-lg-4 col-lg-offset-1">
+		<div class="spacing"></div>
+
+		<h4>Assessment Signals (<i>Best Predictors</i>)</h4>
+		<hr />
+
+		<img src="../../assets/fig/travis.svg" class="x-badge" />
+		<img src="../../assets/fig/codacy.svg" class="x-badge" />
+		<img src="../../assets/fig/codeclimate.svg" class="x-badge" />
+		<img src="../../assets/fig/issue-res.svg" class="x-badge" />
+		<img src="../../assets/fig/david.svg" class="x-badge" />
+		<img src="../../assets/fig/inchci.svg" class="x-badge" />
+		<img src="../../assets/fig/coveralls.svg" class="x-badge" />
+		<img src="../../assets/fig/snyk.svg" class="x-badge" />
+		<br /><br />
+		<br /><br />
+		<h4>Conventional Signals</h4>
+		<hr />
+		<img src="../../assets/fig/cdnjs.svg" class="x-badge" />
+		<img src="../../assets/fig/license.svg" class="x-badge" />
+		<img src="../../assets/fig/commitizen.svg" class="x-badge" />
+		<img src="../../assets/fig/gitter.svg" class="x-badge" />
+		<img src="../../assets/fig/jsstandard.svg" class="x-badge" />
+		<img src="../../assets/fig/patreon.svg" class="x-badge" />
+		<img src="../../assets/fig/prswelcome.svg" class="x-badge" />
+	
+	</div>
+</div>
+
+<script>
+		Array.from(document.getElementsByClassName('x-badge')).forEach(elem => {
+			var load = elem.onload = function(e) {
+				var scale = elem.getAttribute('data-adoption') / 20 + 1;
+				var width = elem.offsetWidth;
+				var height = elem.offsetHeight;
+
+				if(width < 1 || height < 1)
+					return;
+				elem.style.width = width * scale + 'px';
+				elem.style.height = height * scale + 'px';
+				if(window.matchMedia('(max-width: 768px)').matches) {
+					elem.style.width = elem.offsetWidth / 1.5 + 'px';
+					elem.style.height = elem.offsetHeight / 1.5 + 'px';
+					elem.style.margin = "1px";
+				}
+			}
+			load();
+		});
+		var badgeName = document.getElementById('badge-name');
+		var badgeClass = document.getElementById('badge-class');
+		var badgeRate = document.getElementById('badge-rate');
+		document.onclick = document.onmouseover = function(e) {
+			console.log(e.target.className); if(e.target.classList.contains('x-badge')) {
+				document.getElementsByClassName('x-selected')[0].classList.remove('x-selected');
+				e.target.classList.add('x-selected');
+				badgeName.innerText = e.target.getAttribute('data-name');
+				badgeRate.innerText = (+e.target.getAttribute('data-adoption')).toFixed(2);
+				badgeClass.innerText = e.target.getAttribute('data-badge-class');
+			}
+		}
+</script>
 
 
 
