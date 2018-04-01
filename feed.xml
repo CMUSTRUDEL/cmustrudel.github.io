@@ -5,8 +5,8 @@
     <description>The Socio-Technical Research Using Data Excavation Lab at Carnegie Mellon University</description>
     <link>http://cmustrudel.github.io/</link>
     <atom:link href="http://cmustrudel.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 30 Mar 2018 23:37:34 +0000</pubDate>
-    <lastBuildDate>Fri, 30 Mar 2018 23:37:34 +0000</lastBuildDate>
+    <pubDate>Sun, 01 Apr 2018 03:04:58 +0000</pubDate>
+    <lastBuildDate>Sun, 01 Apr 2018 03:04:58 +0000</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -104,6 +104,8 @@ are stored in address, which allows random access, whereas in UNIX, data are sto
 abstraction that allows user to handle hardware, directories, and normal files
 in the same way be it random or sequential access.&lt;/p&gt;
 
+&lt;p&gt;Dr. Dennis Ritchie and Ken Thompson won &lt;b&gt;Turing Award&lt;/b&gt; in &lt;b&gt;1983&lt;/b&gt;.&lt;/p&gt;
+
 &lt;h4 id=&quot;alan-turing&quot;&gt;Alan Turing&lt;/h4&gt;
 
 &lt;p&gt;&lt;b&gt;March 26, 2018&lt;/b&gt;&lt;/p&gt;
@@ -196,6 +198,31 @@ verification, automatic program synthesis, and analysis of algorithms.”
 Floyd did not get a Ph.D.
 However, he was appointed an associated professor at CMU when he was at the age
 of 27 and, six years later, became a full professor at Stanford University.&lt;/p&gt;
+
+&lt;h4 id=&quot;ivan-sutherland-1988&quot;&gt;Ivan Sutherland, 1988.&lt;/h4&gt;
+
+&lt;p&gt;&lt;b&gt;March 31, 2018&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Ivan Sutherland earned his Bachelors of Science Degree from CMU, which was
+Carnegie Institute of Technology back then. After he earned his Master of
+Science Degree from California Institute of Technology in 1960, he went to MIT where he
+worked with &lt;b&gt;Dr. Claude Shannon&lt;/b&gt; and earned his Ph.D. within 3 years.
+His Ph.D. thesis “&lt;a href=&quot;https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-574.pdf&quot;&gt;Sketchpad: A
+Man-machine Graphical Communications System&lt;/a&gt;” introduced &lt;b&gt;Sketchpad&lt;/b&gt;, the first computer graphics software.
+Sketchpad was developed on the TX-2, which was one of the first transistor-based
+computers with core memory. 
+To use the Sketchpad, one needs to hold a lightpen, which, instead of emitting
+lights as our mouses today, senses lights from the screen and determine the
+pointing location.
+The shapes drawn are stored like objects as in the notion of object-oriented
+programming with the capability of creating
+multiple identical but distinct copies and modifying each one of them
+separately. 
+A demo by Dr. Sutherland can be found here: &lt;a href=&quot;https://www.youtube.com/watch?v=57wj8diYpgY&quot;&gt;https://www.youtube.com/watch?v=57wj8diYpgY&lt;/a&gt;
+His work is considered to be the&lt;/p&gt;
+
+&lt;p&gt;Fun fact: Dr. Claude Shannon was the advisor of Ivan Sutherland and his older
+brother, Bert Sutherland.&lt;/p&gt;
 </description>
         <pubDate>Fri, 30 Mar 2018 19:34:23 +0000</pubDate>
         <link>http://cmustrudel.github.io/blog/cmu/CMUtrivia</link>
