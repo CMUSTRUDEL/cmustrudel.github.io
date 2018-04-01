@@ -16,6 +16,8 @@ tagged: npm, GitHub, badges
 website: 
 ---
 
+<link rel="stylesheet" href="../../assets/fig/index.css">
+
 <!-- 
 carousel:
 - jsnaughty/jsnaughty.001.jpeg
@@ -502,6 +504,43 @@ carousel:
         
         </div>
 </div>
+
+
+<script>
+		Array.from(document.getElementsByClassName('x-badge')).forEach(elem => {
+			var load = elem.onload = function(e) {
+				var scale = elem.getAttribute('data-adoption') / 20 + 1;
+				var width = elem.offsetWidth;
+				var height = elem.offsetHeight;
+
+				if(width < 1 || height < 1)
+					return;
+				elem.style.width = width * scale + 'px';
+				elem.style.height = height * scale + 'px';
+				if(window.matchMedia('(max-width: 768px)').matches) {
+					elem.style.width = elem.offsetWidth / 1.5 + 'px';
+					elem.style.height = elem.offsetHeight / 1.5 + 'px';
+					elem.style.margin = "1px";
+				}
+			}
+			load();
+		});
+		var badgeName = document.getElementById('badge-name');
+		var badgeClass = document.getElementById('badge-class');
+		var badgeRate = document.getElementById('badge-rate');
+		document.onclick = document.onmouseover = function(e) {
+			console.log(e.target.className); if(e.target.classList.contains('x-badge')) {
+				document.getElementsByClassName('x-selected')[0].classList.remove('x-selected');
+				e.target.classList.add('x-selected');
+				badgeName.innerText = e.target.getAttribute('data-name');
+				badgeRate.innerText = (+e.target.getAttribute('data-adoption')).toFixed(2);
+				badgeClass.innerText = e.target.getAttribute('data-badge-class');
+			}
+		}
+</script>
+
+
+
 
     
 	 
