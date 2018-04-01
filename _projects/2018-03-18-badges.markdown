@@ -16,6 +16,14 @@ tagged: npm, GitHub, badges
 website: 
 ---
 
+<style>
+#blue .container .row h3 {
+	padding-left: 10px !important;
+	font-size: 32px;
+	line-height: 20px;
+}
+</style>
+
 <link rel="stylesheet" href="../../assets/fig/index.css">
 
 <!-- 
