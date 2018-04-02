@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "CMU trivia"
-date:   2018-03-30 19:34:23
+date:   2018-04-01 23:32:54
 author: Sophie
 categories: 
 - blog
