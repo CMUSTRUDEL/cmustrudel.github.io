@@ -239,5 +239,8 @@ Otherwise, it can be one of the fastest way of getting a huge amount of data
 transferred. 
 
 A friend of mine at Princeton once implemented a method that could transfer 1TB
-data within half an hour with 0 packet loss - he drove to his lab and retrieved
+data within half an hour with 0 packet loss.
+He is not a student in computer science. He studies physics and mainly writes
+code in FORTRAN.
+His system is also highly secure with 0 information leekage - he drove to his lab and retrieved
 his hard drive.
