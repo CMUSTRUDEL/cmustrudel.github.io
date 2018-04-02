@@ -5,8 +5,8 @@
     <description>The Socio-Technical Research Using Data Excavation Lab at Carnegie Mellon University</description>
     <link>http://cmustrudel.github.io/</link>
     <atom:link href="http://cmustrudel.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 01 Apr 2018 05:59:20 +0000</pubDate>
-    <lastBuildDate>Sun, 01 Apr 2018 05:59:20 +0000</lastBuildDate>
+    <pubDate>Mon, 02 Apr 2018 05:11:56 +0000</pubDate>
+    <lastBuildDate>Mon, 02 Apr 2018 05:11:56 +0000</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -223,8 +223,25 @@ His work is considered to be the&lt;/p&gt;
 
 &lt;p&gt;Fun fact: Dr. Claude Shannon was the advisor of Ivan Sutherland and his older
 brother, Bert Sutherland.&lt;/p&gt;
+
+&lt;h4 id=&quot;d-waitzman&quot;&gt;D. Waitzman&lt;/h4&gt;
+
+&lt;p&gt;&lt;b&gt;April 1, 2018&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;D. Waitzman won an award for his contribution in &lt;b&gt;IP over Avian Carriers
+(IPoAC)&lt;/b&gt;. It is originally described in &lt;a href=&quot;https://tools.ietf.org/html/rfc1149&quot;&gt;&lt;b&gt;A Standard for the Transimission
+of IP Datagrams on Avian Carriers&lt;/b&gt;&lt;/a&gt;.
+This system can in theory achieve 145.6Gbit/s transfer rate but the packet loss
+can be as high as 55%. Security is another weakness of IPoAC. Therefore, if you
+are concerned about packet loss and security issues, don’t use this method.
+Otherwise, it can be one of the fastest way of getting a huge amount of data
+transferred.&lt;/p&gt;
+
+&lt;p&gt;A friend of mine at Princeton once implemented a method that could transfer 1TB
+data within half an hour with 0 packet loss - he drove to his lab and retrieved
+his hard drive.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 30 Mar 2018 19:34:23 +0000</pubDate>
+        <pubDate>Sun, 01 Apr 2018 23:32:54 +0000</pubDate>
         <link>http://cmustrudel.github.io/blog/cmu/CMUtrivia</link>
         <guid isPermaLink="true">http://cmustrudel.github.io/blog/cmu/CMUtrivia</guid>
         
