@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "CMU trivia"
-date:   2018-03-30 19:34:23
+date:   2018-04-01 23:32:54
 author: Sophie
 categories: 
 - blog
@@ -223,3 +223,24 @@ His work is considered to be the
 
 Fun fact: Dr. Claude Shannon was the advisor of Ivan Sutherland and his older
 brother, Bert Sutherland.
+
+#### D. Waitzman
+
+<b>April 1, 2018</b>
+
+D. Waitzman won an award for his contribution in <b>IP over Avian Carriers
+(IPoAC)</b>. It is originally described in <a
+href="https://tools.ietf.org/html/rfc1149"><b>A Standard for the Transimission
+of IP Datagrams on Avian Carriers</b></a>.
+This system can in theory achieve 145.6Gbit/s transfer rate but the packet loss
+can be as high as 55%. Security is another weakness of IPoAC. Therefore, if you
+are concerned about packet loss and security issues, don't use this method.
+Otherwise, it can be one of the fastest way of getting a huge amount of data
+transferred. 
+
+A friend of mine at Princeton once implemented a method that could transfer 1TB
+data within half an hour with 0 packet loss.
+He is not a student in computer science. He studies physics and mainly writes
+code in FORTRAN.
+His system is also highly secure with 0 information leekage - he drove to his lab and retrieved
+his hard drive.
