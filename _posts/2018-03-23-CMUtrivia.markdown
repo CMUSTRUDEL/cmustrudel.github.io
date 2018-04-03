@@ -228,7 +228,7 @@ brother, Bert Sutherland.
 
 <b>April 1, 2018</b>
 
-D. Waitzman won an award for his contribution in <b>IP over Avian Carriers
+D. Waitzman won some award (whatever it is) for his contribution in <b>IP over Avian Carriers
 (IPoAC)</b>. It is originally described in <a
 href="https://tools.ietf.org/html/rfc1149"><b>A Standard for the Transimission
 of IP Datagrams on Avian Carriers</b></a>.
@@ -244,3 +244,20 @@ He is not a student in computer science. He studies physics and mainly writes
 code in FORTRAN.
 His system is also highly secure with 0 information leekage - he drove to his lab and retrieved
 his hard drive.
+
+#### Edward Feigenbaum and Raj Reddy
+
+<b>April 2, 2018</b>
+
+They won Turing Award for their contribution in building large scale AI systems.
+
+Dr. Edward Feigenbaum is known as the father of <b>Expert Systems</b>.
+Dr. Feigenbaum earned is B.S. in Electrical Engineering at CMU where he took Dr.
+Simon's course on Mathematical Models in the Social Sciences and got his first
+taste of computer science by studying Simon's manual for IBM 701.
+After he earned his B.S., he continuted for a Ph.D. at CMU with Dr. Simon on
+building <b>a model that simulates how human learn nonsense syllables</b>.
+This model stores data with a decision tree, which he called <b>Discrimiation
+Net</b>.
+It is interesting to see how our founders research interests are still carried
+on by today's CMU researchers.
