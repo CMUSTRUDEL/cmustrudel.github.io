@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "CMU trivia"
-date:   2018-04-01 23:32:54
+date:   2018-04-06 01:15:53
 author: Sophie
 categories: 
 - blog
@@ -245,7 +245,7 @@ code in FORTRAN.
 His system is also highly secure with 0 information leekage - he drove to his lab and retrieved
 his hard drive.
 
-#### Edward Feigenbaum and Raj Reddy
+#### Edward Feigenbaum and Raj Reddy, 1994
 
 <b>April 2, 2018</b>
 
@@ -261,3 +261,17 @@ This model stores data with a decision tree, which he called <b>Discrimiation
 Net</b>.
 It is interesting to see how our founders research interests are still carried
 on by today's CMU researchers.
+
+#### Manuel Blum, 1995
+
+<b>April 3, 2018</b>
+
+Dr. Blum is currently a professor at CMU. 
+He won his Turing Award for "his contributions to the foundations of <b>computational
+complexity theory</b> and its application to <b>cryptography and program
+checking</b>."
+I just checked his website, he recently taught courses on undergraduate
+complexity theory and intro to cryptography.
+One of his great contributions is an algorithm that can find the median of a
+sequence of numbers in linear time.
+Fun fact: His wife is a distinguished professor at CMU SCS - <b>Lenore Blum</b>.
