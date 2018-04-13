@@ -10,7 +10,7 @@ categories:
 thumb: strudel-square-003.jpg
 ---
 
-To prepare myself for next year's SCS trivia and to demostrate my school pride,
+To prepare myself for next year's SCS trivia and to demonstrate my school pride,
 I set up a one trivia a day challenge for myself. 
 My plan is to continue this until I leave CMU.
 All the trivias will be related to CMU or Computer Science in general. 
