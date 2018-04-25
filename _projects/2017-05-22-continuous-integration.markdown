@@ -17,7 +17,7 @@ pubs:
  - key: MSR 2018
    title: "I’m Leaving You, Travis: A Continuous Integration Breakup Story"
    url: ../../papers/msr18ci.pdf
-   img: portfolio/portfolio.005.jpeg
+img: portfolio/portfolio.005.jpeg
 thumb: thumb02.jpg
 carousel:
 - ci/ci.001.jpeg
