@@ -13,11 +13,11 @@ pubs:
    url: ../../papers/fse15ci.pdf
  - key: MSR 2015
    title: "Wait For It: Determinants of Pull Request Evaluation Latency on GitHub."
-   url: ../../papers/msr15.pdf   
-- key: MSR 2018
+   url: ../../papers/msr15.pdf
+ - key: MSR 2018
    title: "I’m Leaving You, Travis: A Continuous Integration Breakup Story"
-   url: ../../papers/msr18ci.pdf   
-img: portfolio/portfolio.005.jpeg
+   url: ../../papers/msr18ci.pdf
+   img: portfolio/portfolio.005.jpeg
 thumb: thumb02.jpg
 carousel:
 - ci/ci.001.jpeg
