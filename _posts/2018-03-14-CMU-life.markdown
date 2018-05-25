@@ -38,7 +38,9 @@ I often wander around in GHC when I'm tired of working and I find many
 interesting things on people's office doors. 
 For example, the image on the left reminds me of a class at Princeton. We were
 reading papers on distributed system, and one graph, reproduced on the right,
-compares existing systems and the one introduced in the paper. Our professor
+compares existing systems and the one introduced in <a
+href="https://www.cs.cornell.edu/projects/Quicksilver/public_pdfs/RIPQ.pdf">the
+paper</a>. Our professor
 said, "guys, always start your y-axis from 0. I first thought FIFO sucks, but it
 actually has 25% hit rate."
 
