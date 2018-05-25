@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Life @ CMU"
-date:   2018-03-30 19:23:35
+date:   2018-05-25 15:15:34
 author: Sophie
 categories: 
 - blog
@@ -15,7 +15,112 @@ cool space.
 I'm writing down things I find interesting here.
 Hope this blog can tell you more about CMU.
 
-#### Mar 29, 2019.
+#### Apr 20, 2018.
+
+<img src="/assets/img/pics/05-25-18-mobot-field.jpg" style="width: 200px;"/>
+<img src="/assets/img/pics/05-25-18-mobot-sign.jpg" style="width: 200px;"/>
+
+<img src="/assets/img/pics/05-25-18-mobot.jpg" style="width: 200px;"/>
+<img src="/assets/img/pics/05-25-18-mobot-small.jpg" style="width: 200px;"/>
+
+CMU's spring carnival should be very nerdy and CS. Therefore, we have a mobot
+competition. I've been wondering why there are these ugly lines in front of Wean
+Hall. Now I know the answer! They are routes for robots to follow!
+
+The task of mobot includes following the white line and going through 13 or 14
+arches. Along the way, there are slopes. Some parts of the white lines are
+painted against light grey ground. Towards the end of the journey, the robot
+needs to know that it should stick to the path on the right (as shown in the
+image) because that's where the arches are placed. Once your robot has pased 3
+arches, you are qualified for cash rewards.
+
+One of the teams if formed by a CMU alumni and his son, who had participated in
+previous year's mobot already. They made it to the final part but the robot took
+the wrong route and lost the track.
+
+There are also some college students participating. The robot in the last image
+is one of the smallest robots I've seen so far. I don't quite understand why he
+built the robot so small. The obvious drawback is that once it detrails from the track, even
+just for a tiny bit, it can never find it back, which is what happened to the
+robot at the competition.
+
+#### Apr 20, 2018.
+
+<img src="/assets/img/pics/05-25-18-carnival-trio.jpg" style="width: 200px;"/>
+<img src="/assets/img/pics/05-25-18-fatlady.jpg" style="width: 200px;"/>
+
+<img src="/assets/img/pics/05-25-18-dunk.jpg" style="width: 200px;"/>
+<img src="/assets/img/pics/05-25-18-dunkandrew.jpg" style="width: 200px;"/>
+
+Spring carnival!
+
+Apart from those amusement park monsters, there are some benign activities. For
+example, each student organization built their own exhibition pavalion. Many of
+them have two floors! There's one has Harry Potter theme. 
+
+Another fun thing to do is to dunk a dean. Each dean from a college sits above a
+small pool for half an hour waiting for people to dunk them into the water. Some
+deans wear swimming suits, some wear normal suits, even with ties! However, our
+own dean, Andrew Moore, being so CS, wore a white t-shirt, a blue shorts, and a
+pair of orange socks!!! I donated $2 and got 4 balls, two of which hit the red
+button and sent him down into the water.
+
+#### Apr 19, 2018.
+
+<img src="/assets/img/pics/05-25-18-carnival.jpg" style="width: 200px;"/>
+<img src="/assets/img/pics/05-25-18-carnival2.jpg" style="width: 200px;"/>
+
+It will be CMU's spring carnival tomorrow.
+Apparantly, CMU somehow magically moved an amusement park to the campus.
+I usually go into Gates building right after I arrive at campus so I don't
+usually see what's going on on campus greens. Now that I suddenly see these
+large monsters poped up from nowhere, I have a feeling of distance, as though
+the neon lights were coming from far, far away.
+Neon lights often give me a sense of noisiness but this time they seem to be so
+serene.
+
+#### Apr 19, 2018.
+
+<img src="/assets/img/pics/05-25-18-radio.jpg" style="width: 400px;"/>
+
+I've had the honour of staying in my department overnight. Nights at CMU are
+never quiet. 
+You might think it is because of Ph.D. students.
+No. Ph.D. students usually croach in their own offices; you rarely see them
+move.
+It is our cleaning staffs that make the nights colourful! They start cleaning up
+the building at midnight. When they work, they put a radio in the NSH Perlis
+Atrium and plays music. I'm not an expert on music genre, so I only know they
+are not pop music nor classics. Maybe some blues or jazz type of music.
+
+#### Apr 18, 2018.
+
+<img src="/assets/img/pics/05-25-18-coffee.jpg" style="width: 400px;"/>
+
+Do you know how much coffee we consume each day?!
+I saw the front desk person filled up the coffee bean tank at around 8am. This
+photo was taken at 3~4pm. See how much coffee beans had gone!
+
+#### Apr 10, 2018.
+
+<img src="/assets/img/pics/05-25-18-wean.jpg" style="width: 400px;"/>
+
+Although I think CMU and I share the same sense of humour, I totally don't get
+CMU's sense of aesthetic. For example, what have they done to the stairs in Wean
+Hall?!!!?!?! I thought we had a design school?
+
+Well, David had the completely oppsite opinion. He thought this looks like in
+fairytale. But I don't see any romance or elegance in it.
+
+<img src="/assets/img/pics/05-25-18-wean2.jpg" style="width: 400px;"/>
+
+<a href="http://www.ultralowres.com/wean/">This</a> webpage introduces the art
+piece. This graph helped me understand the rational behind the design:
+
+Don't you think this looks like gradient fields?
+
+
+#### Mar 29, 2018.
 
 <img src="/assets/img/pics/03-29-18-sigbovik1.jpg" style="width: 400px;"/>
 <img src="/assets/img/pics/03-29-18-sigbovik2.jpg" style="width: 400px;"/>
