@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "CMU trivia"
-date:   2018-04-06 01:15:53
+date:   2018-05-25 16:24:32
 author: Sophie
 categories: 
 - blog
@@ -128,7 +128,7 @@ advisor Alonzo Church, and <b>Turing Machine</b>.
 
 A quick trivia. 
 
-<img src="assets/img/pics/05-25-18-turing.jpg", width="400px">
+<img src="assets/img/pics/05-25-18-turing.jpg", width="400px"/>
 
 #### Alan Perlis, 1966.
 
