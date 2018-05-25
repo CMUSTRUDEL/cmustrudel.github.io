@@ -5,8 +5,8 @@
     <description>The Socio-Technical Research Using Data Excavation Lab at Carnegie Mellon University</description>
     <link>http://cmustrudel.github.io/</link>
     <atom:link href="http://cmustrudel.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 25 May 2018 20:31:28 +0000</pubDate>
-    <lastBuildDate>Fri, 25 May 2018 20:31:28 +0000</lastBuildDate>
+    <pubDate>Fri, 25 May 2018 20:32:50 +0000</pubDate>
+    <lastBuildDate>Fri, 25 May 2018 20:32:50 +0000</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -130,7 +130,7 @@ advisor Alonzo Church, and &lt;b&gt;Turing Machine&lt;/b&gt;.&lt;/p&gt;
 
 &lt;p&gt;A quick trivia.&lt;/p&gt;
 
-&lt;p&gt;&amp;lt;img src=”assets/img/pics/05-25-18-turing.jpg”, width=”400px”/&amp;gt;&lt;/p&gt;
+&lt;p&gt;&amp;lt;img src=”assets/img/pics/05-25-18-turing.jpg”, style=”width:400px;”/&amp;gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;alan-perlis-1966&quot;&gt;Alan Perlis, 1966.&lt;/h4&gt;
 
