@@ -5,8 +5,8 @@
     <description>The Socio-Technical Research Using Data Excavation Lab at Carnegie Mellon University</description>
     <link>http://cmustrudel.github.io/</link>
     <atom:link href="http://cmustrudel.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 25 May 2018 20:17:57 +0000</pubDate>
-    <lastBuildDate>Fri, 25 May 2018 20:17:57 +0000</lastBuildDate>
+    <pubDate>Fri, 25 May 2018 20:19:32 +0000</pubDate>
+    <lastBuildDate>Fri, 25 May 2018 20:19:32 +0000</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -38,7 +38,8 @@ official MV&lt;/a&gt;.&lt;/p&gt;
 interesting things on people’s office doors. 
 For example, the image on the left reminds me of a class at Princeton. We were
 reading papers on distributed system, and one graph, reproduced on the right,
-compares existing systems and the one introduced in the paper. Our professor
+compares existing systems and the one introduced in &lt;a href=&quot;https://www.cs.cornell.edu/projects/Quicksilver/public_pdfs/RIPQ.pdf&quot;&gt;the
+paper&lt;/a&gt;. Our professor
 said, “guys, always start your y-axis from 0. I first thought FIFO sucks, but it
 actually has 25% hit rate.”&lt;/p&gt;
 
