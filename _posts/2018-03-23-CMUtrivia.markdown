@@ -124,6 +124,12 @@ the birth of ENIAC.
 Turing is also known for his <b>lambda calculus</b>, co-developed with his Ph.D.
 advisor Alonzo Church, and <b>Turing Machine</b>.
 
+#### Turing Award at CMU
+
+A quick trivia. 
+
+<img src="assets/img/pics/05-25-18-turing.jpg", width="400px">
+
 #### Alan Perlis, 1966.
 
 <b>March 27, 2018</b>
