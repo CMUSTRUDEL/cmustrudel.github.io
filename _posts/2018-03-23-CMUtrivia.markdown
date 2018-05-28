@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "CMU trivia"
-date:   2018-04-06 01:15:53
+date:   2018-05-25 16:24:32
 author: Sophie
 categories: 
 - blog
@@ -10,7 +10,7 @@ categories:
 thumb: strudel-square-003.jpg
 ---
 
-To prepare myself for next year's SCS trivia and to demostrate my school pride,
+To prepare myself for next year's SCS trivia and to demonstrate my school pride,
 I set up a one trivia a day challenge for myself. 
 My plan is to continue this until I leave CMU.
 All the trivias will be related to CMU or Computer Science in general. 
@@ -123,6 +123,12 @@ a quarterly review of psychology and philosophy</a></i> in 1950, only 4 years af
 the birth of ENIAC.
 Turing is also known for his <b>lambda calculus</b>, co-developed with his Ph.D.
 advisor Alonzo Church, and <b>Turing Machine</b>.
+
+#### Turing Award at CMU
+
+A quick trivia. 
+
+<img src="/assets/img/pics/05-25-18-turing.jpg" style="width:400px;"/>
 
 #### Alan Perlis, 1966.
 
