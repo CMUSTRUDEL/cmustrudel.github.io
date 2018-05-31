@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "STRUDEL Reading Group Updates"
-date:   2018-02-21 17:17:36
+date:   2018-05-31 15:19:34
 author: Sophie
 categories: 
 - blog
@@ -9,6 +9,65 @@ categories:
 #img: strudel.png
 thumb: strudel-square-003.jpg
 ---
+
+#### Wednesday, May 23, 2018
+
+After a few weeks' practice talks, Sophie Qiu, yes, her again, presented the
+paper <b>Newcomers’ Barriers. . . Is That All? An Analysis of Mentors’ and
+Newcomers’ Barriers in OSS Projects</b> (Balali et al., CSCW, 2018).
+The paper identified several barriers that mentors are facing in open source
+software projects. There are many newly found barriers but I think some of them
+can be combined with or subsumed under some old ones; some need more details or
+real instances. 
+I think the barriers that they had identified are important.
+However, I wish to see more practical and concrete solutions. 
+
+#### Wednesday, April 25, 2018
+
+Sophie Qiu presented the freshly baked paper <b>Competence-Confidence Gap: A
+Threat to Female Developers’ Contribution on GitHub</b> (Wang et al., ICSE,
+2018).
+The authors show that there is a Granger causality between female programmers' raise of number
+of followers and their pull requests on GitHub. They claim that this is because
+the number of followers bridges women's competence-confidence gap and reassures 
+female programmer that their contribution will be welcomed and
+valuable.
+Although this sounds a potential solution to encourage women to make
+contributions to open source softwares, the paper did not mention how these
+woemn earned new followers in the first place. The only example vaguely
+mentioned was that the female programmer looked cute, which is in fact not an
+acknowledgement of her programming ability.
+
+#### Wednesday, April 4, 2018
+
+Alan Jaffe presented the paper <b><a
+href="http://victorialin.net/pubs/tellina_tr_2017.pdf">Program Synthesis from Natural Language Using
+Recurrent Neural Networks</a></b> (Lin et al., UW-CSE, 2017).
+We often say there are two major coding styles: stackoverflow oriented
+programming and google oriented programming.
+The point it is making is that all the code we need are written, programmers
+only need to assemble them to make a executable program.
+I believe this can be easily replaced by machines and this paper is a proof.
+
+#### Wednesday, March 28, 2018
+
+Marat Valiet presented the paper <b><a
+href="https://arxiv.org/pdf/1802.07068.pdf">Talent vs Luck: the role of
+randomness in success and failure</a></b>.
+This paper is a cool example of using simulation to address real life problems.
+With a simple design they were able to model different funding policies and
+their outcome. The paper claims that in some setups with a large influence of
+luck, strategies based on random choices are more effective than traditional
+"naively meritocratic" models.
+
+Somehow people had forgotten our good tradition of bringing snacks.
+
+#### Wednesday, March 21, 2018
+
+Bogdan Vasilescu presented the paper <b>Was my contribution fairly
+reviewed?” A Framework to Study the Perception of Fairness in Modern Code
+Reviews</b> (Yang, ICSE, 2018). In the paper, many different aspects of fairness are discussed,
+which was very inspiring.
 
 #### Wednesday, Feburary 21, 2018
 
