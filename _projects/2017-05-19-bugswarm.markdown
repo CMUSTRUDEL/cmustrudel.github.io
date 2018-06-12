@@ -10,7 +10,7 @@ thumb: thumb02.jpg
 carousel:
 - bs.001.jpeg
 tagged: GitHub, Bugs, TravisCI
-website: http://bugswarm.github.io
+website: http://www.bugswarm.org
 ---
 
 ### BugSwarm
