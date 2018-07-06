@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "CMU trivia"
-date:   2018-04-06 01:15:53
+date:   2018-06-04 17:26:34
 author: Sophie
 categories: 
 - blog
@@ -10,7 +10,7 @@ categories:
 thumb: strudel-square-003.jpg
 ---
 
-To prepare myself for next year's SCS trivia and to demostrate my school pride,
+To prepare myself for next year's SCS trivia and to demonstrate my school pride,
 I set up a one trivia a day challenge for myself. 
 My plan is to continue this until I leave CMU.
 All the trivias will be related to CMU or Computer Science in general. 
@@ -123,6 +123,12 @@ a quarterly review of psychology and philosophy</a></i> in 1950, only 4 years af
 the birth of ENIAC.
 Turing is also known for his <b>lambda calculus</b>, co-developed with his Ph.D.
 advisor Alonzo Church, and <b>Turing Machine</b>.
+
+#### Turing Award at CMU
+
+A quick trivia. 
+
+<img src="/assets/img/pics/05-25-18-turing.jpg" style="width:400px;"/>
 
 #### Alan Perlis, 1966.
 
@@ -275,3 +281,17 @@ complexity theory and intro to cryptography.
 One of his great contributions is an algorithm that can find the median of a
 sequence of numbers in linear time.
 Fun fact: His wife is a distinguished professor at CMU SCS - <b>Lenore Blum</b>.
+
+#### Jonh Hennessy and David Patterson, 2018
+
+<b>June 4, 2018</b>
+
+Dr. John L. Hennessy used to be the <b>President of Stanford</b> and Dr. David A.
+Patterson retired from <b>UC Berkeley</b>. 
+They are both rewarded the Turing Award for their contribution to a systematic,
+quantitative approch to the design and evaluation of computer architectures. 
+They wrote a very influencial textbook, <b><i>Computer Architecture: A Quantitative
+Approach</i></b>, which is still used today by many computer architecture courses
+(and I still have a copy of it).
+I was lucky enough to attend Dr. Patterson's talk on <b>RISC V</b> at Princeton two years ago -
+I'm a big fan of RISC.
