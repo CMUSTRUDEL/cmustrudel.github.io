@@ -10,9 +10,42 @@ categories:
 thumb: strudel-square-003.jpg
 ---
 
+#### Wednesday, June 27, 2018
+
+Our REU student Courtney volunteered to present the paper <b>Do Programmers Work
+at Night or During the Weekend</b> (Claes et al., ICSE, 2018).
+Being a college freshman, Courtney did a wonderful job presenting this
+paper. 
+There are several different types of visualisation in this paper and we
+discussed their merits and defects.
+Hopefully Courtney would find these examples useful when she has to present her work.
+
+Sophie brought a piece of raspberry dark chocolate and a piece of 92% dark
+chocolate. She presented the chocolate without any lable and left them to her
+lab mates to figure out.
+
+#### Wednesday, June 20, 2018
+
+David Widder presented the paper <b>Prevalence of Confusing Code in Software
+Projects</b> (Gopstein et al., MSR, 2018). I really like this paper especially
+the confusing code they presented in the paper. Honestly, I think some of them
+are fun to be kept in the code. They can sift out those who do not have solid
+background in the C language and keep only experts in the develop team. 
+I do believe that projects like Linux require developers with C knowledge far
+beyond what one can learn from some online C tutorial or a single semester
+college course.
+However,
+I think it is also necessary to remove confusing code so that more people can
+get involved in the developing process. After all, more often than not, some
+pieces of code are excessively confusing, especially we now have the luxury to
+sacrifice disk space for code clarity.
+
+Davide brought some brownies and Sophie brought some Chinese rice cake for the
+dragon boat festival.
+
 #### Wednesday, May 23, 2018
 
-After a few weeks' practice talks, Sophie Qiu, yes, her again, presented the
+After a few weeks' practice talks done by several STRUDEL members, Sophie Qiu, yes, her again, presented the
 paper <b>Newcomers’ Barriers. . . Is That All? An Analysis of Mentors’ and
 Newcomers’ Barriers in OSS Projects</b> (Balali et al., CSCW, 2018).
 The paper identified several barriers that mentors are facing in open source
