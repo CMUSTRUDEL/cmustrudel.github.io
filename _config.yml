@@ -140,14 +140,14 @@ affilfaculty:
 
 
 grads:
-  - name: Huilian (Sophie) Qiu
+  - name: Sophie Quency
     position: PhD Societal Computing, 2017-
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    text: A photographer studying computer science and witchcraft at CMU.
     img: sophie.jpg
     strudel: apricot
     social:
       - title: envelope #use for email address
-        url: mailto:huilianq@andrew.cmu.edu
+        url: mailto:hsqq@cmu.edu
 #      - title: twitter
 #        url: http://twitter.com/handle
   - name: David Widder
