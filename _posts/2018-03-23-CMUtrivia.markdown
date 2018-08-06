@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "CMU trivia"
-date:   2018-06-04 17:26:34
+date:   2018-07-07 22:26:32
 author: Sophie
 categories: 
 - blog
@@ -268,6 +268,8 @@ Net</b>.
 It is interesting to see how our founders research interests are still carried
 on by today's CMU researchers.
 
+Dr. Reddy earned his Ph.D. at Stanford.
+
 #### Manuel Blum, 1995
 
 <b>April 3, 2018</b>
@@ -281,10 +283,14 @@ complexity theory and intro to cryptography.
 One of his great contributions is an algorithm that can find the median of a
 sequence of numbers in linear time.
 Fun fact: His wife is a distinguished professor at CMU SCS - <b>Lenore Blum</b>.
+Also, their child, <b>Avrim Blum</b> is also a professor at CMU SCS. What a
+family business!
 
 #### Jonh Hennessy and David Patterson, 2018
 
 <b>June 4, 2018</b>
+
+They are introduced today because this year's award was just announced.
 
 Dr. John L. Hennessy used to be the <b>President of Stanford</b> and Dr. David A.
 Patterson retired from <b>UC Berkeley</b>. 
@@ -295,3 +301,95 @@ Approach</i></b>, which is still used today by many computer architecture course
 (and I still have a copy of it).
 I was lucky enough to attend Dr. Patterson's talk on <b>RISC V</b> at Princeton two years ago -
 I'm a big fan of RISC.
+
+#### Edmund Melson Clarke, Allen Emerson, and Joseph Sifakis, 2007
+
+<b>June 5, 2018</b>
+
+They won their Turing Award for "their role in developing <b>Model-Checking into a
+highly effective verification technology</b> that is widely adopted in the hardware
+and software industries."
+Their work is built upon the idea of temporal logic, introduced by another
+Turing Award winner, Amir Pnueli. Using temporal logic, one can write a computer
+software to exhaustivly construct all possible action sequences, thus reliefing
+designers' work load on proving the correctness of a system.
+
+Dr. Clarke is a professor at CMU, and Dr. Emerson was his Ph.D. student when he
+was at Harvard University.
+
+#### Leslie Gabriel Valiant, 2010
+
+<b>June 6, 2018</b>
+
+Dr. Valiant received his Turing Award for "transformative contributions to the
+theory of computation, including the theory of <b>probably approximately correct
+(PAC) learning</b>, the complexity of enumeration and of algebraic computation, and
+the theory of parallel and distributed computing."
+The PAC is a model that considers a learning algorithm that can create a
+hypothesis from the past experience and use it to make decision in the future
+with controlled error. 
+
+Dr. Valiant was a Visiting Assistant Professor at CMU in 1973-74.
+He discovered that counting problems can be hard even when the decision problem
+is simple. This discovery is important to computer science because
+
+#### Shafi Goldwasser and Silvio Micali, 2012
+
+<b>June 7, 2018</b>
+
+They won the Turing Award for "transformative work that laid the
+<b>complexity-theoretic foundations for the science of cryptography</b>, and in the
+process pioneered new methods for <b>efficient verification of mathematical proofs
+in complexity theory</b>."
+They have introduced some very interesting mathematical structures for
+cryptography, such as <b>pseudorandomness</b> and <b>interactive proofs</b>. One
+of my favourites is <b>zero-knowledge proof</b>. I always think about
+it has the story of Ali Baba and the fourty theives. It is all about how Ali
+Baba can prove that he knows the password to the vault without revealing it
+(because if the thieves know the password, they don't need to preserve Ali
+Baba's life). 
+
+Dr. Goldwasser was an undergrad at CMU.
+One of the courses that introduced her into the field o theoretical
+computer science was taught by Dr. Manuel Blum, another Turing Award recipient
+currently teaching at CMU. She's the first female Turing Award recipient I have
+introduced here, but she's not the first female recipient.
+
+#### Frances Elizabeth Allen, 2006.
+
+<b>June 8, 2018</b>
+
+She is the first female Turing Award recipient!
+
+She received the Turing Award for her "pioneering contributions to the theory
+and practice of <b>optimizing compiler</b> techniques that laid the foundation for
+<b>modern optimizing compilers and automatic parallel execution</b>."
+She joined IBM soon after the release of FORTRAN. By teaching FORTRAN, she
+became interested in how to build compilers.
+A key advance by her was that instead of representing programs as a sequence of
+statements in the compiler, they are represented as a mathematical graph that
+can be used to analyze the hidden properties of the code, so that computed
+values can be re-used.
+
+#### Barbara Liskov, 2008.
+
+<b>June 9, 2018</b>
+
+She is the second female Turing Award recipient, who was acknowledged by her
+"contributions to practical and theoretical foundations of programming language
+and system design, especially related to data abstraction, fault tolerance, and
+distributed computing."
+
+She designed and implemented the <b>CLU</b> programming language, which laid the
+foundation of <b>object-oriented programming (OOP)</b>. One of her major contributions
+was her <b>Liskov Substitution Principle</b>.
+Later, she moved on to study distributed systems, including the <a
+href="http://pmg.csail.mit.edu/papers/osdi99.pdf"><b>Byzantine
+fault tolerance algorithms</b></a>. 
+
+When she applied for Ph.D., she applied to Princeton as well. But Princeton did
+not admit female student at that time and therefore unfortunately lost an
+outstanding alumna.
+
+I believe these are all three female Turing Award recipients - Dr. Allen, Dr.
+Liskov, and Dr. Goldwasser.

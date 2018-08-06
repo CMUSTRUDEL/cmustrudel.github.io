@@ -188,6 +188,26 @@ grads:
       #  url: http://davidwidder.me
         
 undergrads:
+  - name: Courtney Miller
+    position: CS, REUSE 2018, New College of Florida
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    img: CMillerHeadshot.jpg
+    strudel: Sour Cherry
+    social:
+      - title: envelope #use for email address
+        url: mailto:courtney.miller17@ncf.edu
+#      - title: twitter
+#        url: http://twitter.com/handle
+  - name: Sophie Rosas-Smith
+    position: CS, REUSE 2018, Wellesley College
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    img: sophie_pic.jpg
+    strudel: Sour Cherry
+    social:
+      - title: envelope #use for email address
+        url: mailto:srosassm@wellesley.edu
+#      - title: twitter
+#        url: http://twitter.com/handle
   - name: Raunak Agnihotri
     position: CMU, ECE
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
