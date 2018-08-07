@@ -5,8 +5,8 @@
     <description>The Socio-Technical Research Using Data Excavation Lab at Carnegie Mellon University</description>
     <link>http://cmustrudel.github.io/</link>
     <atom:link href="http://cmustrudel.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 06 Aug 2018 15:33:39 +0000</pubDate>
-    <lastBuildDate>Mon, 06 Aug 2018 15:33:39 +0000</lastBuildDate>
+    <pubDate>Tue, 07 Aug 2018 06:05:50 +0000</pubDate>
+    <lastBuildDate>Tue, 07 Aug 2018 06:05:50 +0000</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -130,7 +130,8 @@ advisor Alonzo Church, and &lt;b&gt;Turing Machine&lt;/b&gt;.&lt;/p&gt;
 
 &lt;p&gt;A quick trivia.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/pics/05-25-18-turing.jpg&quot; style=&quot;width:400px;&quot; /&gt;&lt;/p&gt;
+&lt;!-- &lt;img src=&quot;/assets/img/pics/05-25-18-turing.jpg&quot; style=&quot;width:400px;&quot;/&gt; --&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/159982920@N04/42089453790/in/album-72157694108312660/&quot; title=&quot;05-25-18-turing&quot;&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1835/42089453790_14d36fbf72_z.jpg&quot; alt=&quot;05-25-18-turing&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;alan-perlis-1966&quot;&gt;Alan Perlis, 1966.&lt;/h4&gt;
 
@@ -644,7 +645,8 @@ that Alan is very good at baking pumpkin pies.&lt;/p&gt;
 Fiona at the &lt;a href=&quot;https://www.facebook.com/cincinnatizoo/&quot;&gt;Cincinnati Zoo&lt;/a&gt;.
 #teamfiona&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/pics/10-31-17-fiona.jpg&quot; style=&quot;width: 400px;&quot; /&gt;&lt;/p&gt;
+&lt;!-- &lt;img src=&quot;/assets/img/pics/10-31-17-fiona.jpg&quot; style=&quot;width: 400px;&quot;/&gt; --&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/159982920@N04/43180283944/in/album-72157694108312660/&quot; title=&quot;10-31-17-fiona&quot;&gt;&lt;img src=&quot;https://farm1.staticflickr.com/854/43180283944_379c88bef1_z.jpg&quot; alt=&quot;10-31-17-fiona&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;tuesday-october-24-2017&quot;&gt;Tuesday, October 24, 2017&lt;/h4&gt;
 
@@ -653,7 +655,8 @@ Serebrenik&lt;/a&gt;&lt;/b&gt; from TU Eindhoven, who talked about his recent wo
 emotions from software engineering artifacts.
 We were all enjoying his talk as well as Sophie’s hazelnut wafel.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/pics/10-24-17-serebrenik.jpg&quot; style=&quot;width: 400px;&quot; /&gt;&lt;/p&gt;
+&lt;!-- &lt;img src=&quot;/assets/img/pics/10-24-17-serebrenik.jpg&quot; style=&quot;width: 400px;&quot;/&gt; --&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/159982920@N04/42993926095/in/album-72157694108312660/&quot; title=&quot;10-24-17-serebrenik&quot;&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1797/42993926095_5da646eee1_z.jpg&quot; alt=&quot;10-24-17-serebrenik&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;tuesday-october-17-2017&quot;&gt;Tuesday, October 17, 2017&lt;/h4&gt;
 
@@ -670,7 +673,8 @@ this paper was to present group members another machine learning
 classifier that can process fMRI results. 
 It was very nice and sweet that David made apple raisin strudels.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/pics/10-17-17-strudel.jpg&quot; style=&quot;width: 400px;&quot; /&gt;&lt;/p&gt;
+&lt;!-- &lt;img src=&quot;/assets/img/pics/10-17-17-strudel.jpg&quot; style=&quot;width: 400px;&quot;/&gt; --&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/159982920@N04/43180283674/in/album-72157694108312660/&quot; title=&quot;10-17-17-strudel&quot;&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1837/43180283674_28b7c4d9d9_z.jpg&quot; alt=&quot;10-17-17-strudel&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;tuesday-october-10-2017&quot;&gt;Tuesday, October 10, 2017&lt;/h4&gt;
 
@@ -695,7 +699,8 @@ Diagnosing and Repairing Error Handling Bugs in C&lt;/a&gt;&lt;/b&gt; (Tian and 
 them in C/C++ code. 
 Happy Mid-autumn festival and thanks Sophie for her mooncake!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/pics/10-03-17-moon.jpg&quot; style=&quot;width: 300px;&quot; /&gt;&lt;/p&gt;
+&lt;!-- &lt;img src=&quot;/assets/img/pics/10-03-17-moon.jpg&quot; style=&quot;width: 300px;&quot;/&gt; --&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/159982920@N04/42993925755/in/album-72157694108312660/&quot; title=&quot;10-03-17-moon&quot;&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1793/42993925755_26aa2b1f4f_z.jpg&quot; alt=&quot;10-03-17-moon&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;tuesday-september-26-2017&quot;&gt;Tuesday, September 26, 2017&lt;/h4&gt;
 
@@ -714,8 +719,8 @@ good as our discussion on the paper &lt;b&gt;&lt;a href=&quot;http://people.cs.u
 Testing Software for Discrimination&lt;/a&gt;&lt;/b&gt; (Galhotra et al, ESEC/FSE 2017) that 
 Bogdan presented at the meeting.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/pics/09-19-17-group.jpg&quot; style=&quot;width: 400px;&quot; /&gt;&lt;/p&gt;
-
+&lt;!-- &lt;img src=&quot;/assets/img/pics/09-19-17-group.jpg&quot; style=&quot;width: 400px;&quot;/&gt; --&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/159982920@N04/42993925555/in/album-72157694108312660/&quot; title=&quot;09-19-17-group&quot;&gt;&lt;img src=&quot;https://farm1.staticflickr.com/941/42993925555_945c115392_z.jpg&quot; alt=&quot;09-19-17-group&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 31 May 2018 15:19:34 +0000</pubDate>
         <link>http://cmustrudel.github.io/blog/reading-group/reading-group-meeting</link>
@@ -1061,7 +1066,9 @@ group of goats!&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;First day in my new office! May the source code be with you!&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/pics/08-16-17-source.jpg&quot; style=&quot;width: 400px;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/pics/08-16-17-source.jpg&quot; style=&quot;width: 400px;&quot; /&gt;
+&lt;a href=&quot;https://www.flickr.com/photos/159982920@N04/43884698741/in/album-72157694084363970/&quot; title=&quot;08-16-17-source&quot;&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1791/43884698741_06fcd5f2ff_z.jpg&quot; alt=&quot;08-16-17-source&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
 </description>
         <pubDate>Fri, 25 May 2018 15:15:34 +0000</pubDate>
         <link>http://cmustrudel.github.io/blog/cmu/CMU-life</link>
