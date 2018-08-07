@@ -188,6 +188,14 @@ grads:
       #  url: http://davidwidder.me
         
 undergrads:
+  - name: Adithya Raghuraman
+    position: Electrical and Computer Engineering, CMU
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    img: Adithya.png
+    strudel: Apple
+    social:
+      - title: envelope #use for email address
+        url: mailto:araghura@andrew.cmu.edu
   - name: Courtney Miller
     position: CS, REUSE 2018, New College of Florida
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
@@ -296,6 +304,8 @@ visitors:
         url: https://twitter.com/fcalefato
       - title: link
         url: http://collab.di.uniba.it/fabio/
+
+# alumni:
 
 # Clients information. Shown on Home and About pages.
 #clients:
