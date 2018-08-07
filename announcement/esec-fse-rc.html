@@ -314,6 +314,17 @@ at <a href="http://esec-fse17.uni-paderborn.de">ESEC/FSE 2017</a> this year!</p>
 </script>
 
 <script>
+  echo.init({
+    offset: 100,
+    throttle: 250,
+    unload: false,
+    // callback: function (element, op) {
+//       console.log(element, 'has been', op + 'ed')
+//     }
+  });
+  // echo.render(); is also available for non-scroll callbacks
+</script>
+<script>
 // Portfolio
 (function($) {
 	"use strict";
