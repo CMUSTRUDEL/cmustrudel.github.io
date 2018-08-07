@@ -1,0 +1,1 @@
+sed -e "s/data-.*  href/href/" -e "s/\/in\/dateposted-public//" -e "s/width.*alt/alt/" -e "s/<script.*script>//"|pbcopy

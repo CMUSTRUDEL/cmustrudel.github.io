@@ -128,7 +128,9 @@ advisor Alonzo Church, and <b>Turing Machine</b>.
 
 A quick trivia. 
 
-<img src="/assets/img/pics/05-25-18-turing.jpg" style="width:400px;"/>
+<!-- <img src="/assets/img/pics/05-25-18-turing.jpg" style="width:400px;"/> -->
+<a href="https://www.flickr.com/photos/159982920@N04/42089453790/in/album-72157694108312660/" title="05-25-18-turing"><img src="https://farm2.staticflickr.com/1835/42089453790_14d36fbf72_z.jpg" alt="05-25-18-turing"></a>
+
 
 #### Alan Perlis, 1966.
 

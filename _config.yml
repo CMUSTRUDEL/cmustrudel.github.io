@@ -313,9 +313,9 @@ about: "We study complex socio-technical systems such as GitHub and Stack Overfl
 
 # Testimonial content. Shown on Home and About page.
 testimonial:
-    message: "fff"
-    author: Marcel Newman
-    position: WEB DESIGNER - BLACKTIE.CO
+  message: "fff"
+  author: Marcel Newman
+  position: WEB DESIGNER - BLACKTIE.CO
 
 gems: ['jekyll/scholar']
 

@@ -258,7 +258,9 @@ No meeting this week. STRUDEL was away attending
 Fiona at the <a href="https://www.facebook.com/cincinnatizoo/">Cincinnati Zoo</a>.
 #teamfiona
 
-<img src="/assets/img/pics/10-31-17-fiona.jpg" style="width: 400px;"/>
+<!-- <img src="/assets/img/pics/10-31-17-fiona.jpg" style="width: 400px;"/> -->
+<a href="https://www.flickr.com/photos/159982920@N04/43180283944/in/album-72157694108312660/" title="10-31-17-fiona"><img src="https://farm1.staticflickr.com/854/43180283944_379c88bef1_z.jpg" alt="10-31-17-fiona"></a>
+
 
 #### Tuesday, October 24, 2017
 
@@ -267,7 +269,9 @@ Serebrenik</a></b> from TU Eindhoven, who talked about his recent work on mining
 emotions from software engineering artifacts.
 We were all enjoying his talk as well as Sophie's hazelnut wafel.
 
-<img src="/assets/img/pics/10-24-17-serebrenik.jpg" style="width: 400px;"/>
+<!-- <img src="/assets/img/pics/10-24-17-serebrenik.jpg" style="width: 400px;"/> -->
+<a href="https://www.flickr.com/photos/159982920@N04/42993926095/in/album-72157694108312660/" title="10-24-17-serebrenik"><img src="https://farm2.staticflickr.com/1797/42993926095_5da646eee1_z.jpg" alt="10-24-17-serebrenik"></a>
+
 
 #### Tuesday, October 17, 2017
 
@@ -285,7 +289,9 @@ this paper was to present group members another machine learning
 classifier that can process fMRI results. 
 It was very nice and sweet that David made apple raisin strudels. 
 
-<img src="/assets/img/pics/10-17-17-strudel.jpg" style="width: 400px;"/>
+<!-- <img src="/assets/img/pics/10-17-17-strudel.jpg" style="width: 400px;"/> -->
+<a href="https://www.flickr.com/photos/159982920@N04/43180283674/in/album-72157694108312660/" title="10-17-17-strudel"><img src="https://farm2.staticflickr.com/1837/43180283674_28b7c4d9d9_z.jpg" alt="10-17-17-strudel"></a>
+
 
 #### Tuesday, October 10, 2017
 
@@ -313,7 +319,9 @@ This paper presents how to identify different types of bugs and how to correct
 them in C/C++ code. 
 Happy Mid-autumn festival and thanks Sophie for her mooncake!
 
-<img src="/assets/img/pics/10-03-17-moon.jpg" style="width: 300px;"/>
+<!-- <img src="/assets/img/pics/10-03-17-moon.jpg" style="width: 300px;"/> -->
+<a href="https://www.flickr.com/photos/159982920@N04/42993925755/in/album-72157694108312660/" title="10-03-17-moon"><img src="https://farm2.staticflickr.com/1793/42993925755_26aa2b1f4f_z.jpg" alt="10-03-17-moon"></a>
+
 
 #### Tuesday, September 26, 2017
 
@@ -335,5 +343,5 @@ href="http://people.cs.umass.edu/~ameli/projects/fairness/papers/discriminationT
 Testing Software for Discrimination</a></b> (Galhotra et al, ESEC/FSE 2017) that 
 Bogdan presented at the meeting.
 
-<img src="/assets/img/pics/09-19-17-group.jpg" style="width: 400px;"/>
-
+<!-- <img src="/assets/img/pics/09-19-17-group.jpg" style="width: 400px;"/> -->
+<a href="https://www.flickr.com/photos/159982920@N04/42993925555/in/album-72157694108312660/" title="09-19-17-group"><img src="https://farm1.staticflickr.com/941/42993925555_945c115392_z.jpg" alt="09-19-17-group"></a>
