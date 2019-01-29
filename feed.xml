@@ -5,9 +5,9 @@
     <description>The Socio-Technical Research Using Data Excavation Lab at Carnegie Mellon University</description>
     <link>http://cmustrudel.github.io/</link>
     <atom:link href="http://cmustrudel.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 09 Nov 2018 06:06:32 +0000</pubDate>
-    <lastBuildDate>Fri, 09 Nov 2018 06:06:32 +0000</lastBuildDate>
-    <generator>Jekyll v3.4.3</generator>
+    <pubDate>Tue, 29 Jan 2019 03:39:12 +0000</pubDate>
+    <lastBuildDate>Tue, 29 Jan 2019 03:39:12 +0000</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Blog: CMU trivia</title>
@@ -40,15 +40,14 @@ apperance of the hello world program.
 Ever since then, most beginners’ first program in many languages have been some
 variation of:&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;main()
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;main()
 
 {
 
   printf(&quot;hello, world\n&quot;);
 
 }
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;Dr. Brian Kernighan is now a professor at &lt;b&gt;Princeton University&lt;/b&gt;.&lt;/p&gt;
 
