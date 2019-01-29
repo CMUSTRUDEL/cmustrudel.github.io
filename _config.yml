@@ -87,7 +87,7 @@ faculty:
 
 affilfaculty:
   - name: Claire Le Goues
-    position: CMU, ISR
+    position: Affiliate; CMU, ISR
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     web: https://clairelegoues.com
     img: claire.jpg
@@ -98,8 +98,8 @@ affilfaculty:
         url: https://twitter.com/clegoues
       - title: link
         url: https://clairelegoues.com
-  - name: Christian Kaestner
-    position: CMU, ISR
+  - name: Christian Kästner
+    position: Affiliate; CMU, ISR
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     web: https://www.cs.cmu.edu/~ckaestne/
     img: christian.jpg
@@ -111,8 +111,8 @@ affilfaculty:
         url: https://twitter.com/p0nk
       - title: link
         url: https://www.cs.cmu.edu/~ckaestne/
-  - name: Graham Neubig
-    position: CMU, LTI
+  - name: Affiliate; Graham Neubig
+    position: Affiliate; CMU, LTI
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     web: http://phontron.com
     img: graham.jpg
@@ -125,7 +125,7 @@ affilfaculty:
       - title: link
         url: http://phontron.com
   - name: Jim Herbsleb
-    position: CMU, ISR
+    position: Affiliate; CMU, ISR
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     web: http://herbsleb.org
     img: jim.jpg
@@ -140,9 +140,30 @@ affilfaculty:
 
 
 grads:
+  - name: Michelle Cao
+    position: MS Computer Science
+    img: michelle.jpg
+    strudel: 
+    social:
+      - title: envelope #use for email address
+        url: mailto:minxuanc@andrew.cmu.edu
+#      - title: twitter
+#        url: http://twitter.com/handle
+      - title: link
+        url: https://www.linkedin.com/in/minxuan-cao-b522858a/
+  - name: Daye Nam
+    position: PhD Software Engineering, 2018- (also <a href="http://www.cs.cmu.edu/~bam/">Myers group</a>)
+    img: daye.jpg
+    strudel: 
+    social:
+      - title: envelope #use for email address
+        url: mailto:dayen@andrew.cmu.edu
+#      - title: twitter
+#        url: http://twitter.com/handle
+      - title: link
+        url: https://scholar.google.com/citations?user=STCUzF8AAAAJ
   - name: Huilian (Sophie) Qiu
     position: PhD Societal Computing, 2017-
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     img: sophie.jpg
     strudel: apricot
     social:
@@ -152,7 +173,6 @@ grads:
 #        url: http://twitter.com/handle
   - name: David Widder
     position: PhD Software Engineering, 2017-
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     img: david.jpg
     strudel: cream cheese & strawberry
     social:
@@ -164,40 +184,37 @@ grads:
         url: http://davidwidder.me
   - name: Jeremy Lacomis
     position: PhD Software Engineering, 2017- (also <a href="https://squareslab.github.io/">SquaresLab</a>)
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     img: jeremy.jpg
     strudel: apple
     social:
       - title: envelope #use for email address
         url: mailto:jlacomis@cmu.edu
-      #- title: twitter
-      #  url: http://twitter.com/davidthewid
-      #- title: link
-      #  url: http://davidwidder.me
+      - title: twitter
+        url: http://twitter.com/jlacomis
+      - title: link
+        url: https://www.cs.cmu.edu/~jlacomis/
   - name: Marat Valiev
-    position: PhD Societal Computing, 2016- (<a href="http://herbsleb.org/index.html">Herbsleb group</a>)
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    position: PhD Societal Computing, 2016- (also <a href="http://herbsleb.org/index.html">Herbsleb group</a>)
     img: marat.jpg
     #strudel: 
-    #social:
-      #- title: envelope #use for email address
-      #  url: mailto:jlacomis@cmu.edu
+    social:
+    - title: envelope #use for email address
+      url: mailto:marat@cmu.edu
       #- title: twitter
       #  url: http://twitter.com/davidthewid
-      #- title: link
-      #  url: http://davidwidder.me
+    - title: link
+      url: https://www.linkedin.com/in/mvaliev/
         
 undergrads:
   - name: Adithya Raghuraman
-    position: Electrical and Computer Engineering, CMU
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    position: CMU, ECE
     img: Adithya.png
     strudel: Apple
     social:
       - title: envelope #use for email address
         url: mailto:araghura@andrew.cmu.edu
   - name: Courtney Miller
-    position: CS, REUSE 2018, New College of Florida
+    position: REU 2018, New College of Florida
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     img: CMillerHeadshot.jpg
     strudel: Sour Cherry
@@ -206,9 +223,19 @@ undergrads:
         url: mailto:courtney.miller17@ncf.edu
 #      - title: twitter
 #        url: http://twitter.com/handle
+  - name: Asher Trockman
+    position: REU 2017, U. of Evansville
+    img: asher.jpg
+    strudel: sour cherry
+    social:
+      - title: envelope #use for email address
+        url: mailto:asher.trockman@gmail.com
+#      - title: twitter
+#        url: http://twitter.com/handle
+
+alumni:
   - name: Sophie Rosas-Smith
-    position: CS, REUSE 2018, Wellesley College
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    position: REU 2018, Wellesley College
     img: sophie_pic.jpg
     strudel: Sour Cherry
     social:
@@ -216,26 +243,8 @@ undergrads:
         url: mailto:srosassm@wellesley.edu
 #      - title: twitter
 #        url: http://twitter.com/handle
-  - name: Raunak Agnihotri
-    position: CMU, ECE
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: raunak.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:raunak@cmu.edu
-#      - title: twitter
-#        url: http://twitter.com/handle
-  - name: Anita Brown
-    position: CS, REU 2017
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: anita.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:anitab1046@gmail.com
-#      - title: twitter
-#        url: http://twitter.com/handle
   - name: Jacob Hoffman
-    position: CMU, CS, REU 2017
+    position: REU 2017, CMU, CS
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     img: jacob.jpg
     strudel: strawberry & cream
@@ -248,7 +257,6 @@ undergrads:
          url: http://jacobhoffmanportfolio.tk
   - name: Alan Jaffe
     position: CMU, CS
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     img: alan.jpg
     strudel: poppy seeds
     social:
@@ -256,44 +264,36 @@ undergrads:
         url: mailto:apjaffe@andrew.cmu.edu
 #      - title: twitter
 #        url: http://twitter.com/handle
-  - name: Kyle Kovacs
-    position: UC Berkeley, EECS
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: kyle.jpg
-    strudel: apple-cinnamon
+  - name: Raunak Agnihotri
+    position: CMU, ECE
+    img: raunak.jpg
     social:
       - title: envelope #use for email address
-        url: mailto:kylekovacs@berkeley.edu
+        url: mailto:raunak@cmu.edu
 #      - title: twitter
 #        url: http://twitter.com/handle
-  - name: Asher Trockman
-    position: CS, REU 2017
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: asher.jpg
-    strudel: sour cherry
+  - name: Anita Brown
+    position: REU 2017, Bryn Mawr College
+    img: anita.jpg
     social:
       - title: envelope #use for email address
-        url: mailto:asher.trockman@gmail.com
+        url: mailto:anitab1046@gmail.com
 #      - title: twitter
 #        url: http://twitter.com/handle
-
-postdocs:
   - name: Alex Nolte
-    position: Postdoc U. of Pittsburgh / CMU (<a href="http://herbsleb.org/index.html">Herbsleb group</a>)
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    position: Asst. Professor, University of Tartu, Estonia
     img: alex.jpg
     strudel: apple
     web: http://anolte.com/
     social:
       - title: envelope #use for email address
-        url: mailto:aun@andrew.cmu.edu
+        url: mailto:alexander.nolte@ut.ee
       - title: link
         url: http://anolte.com/
-
-visitors:
+#
+#visitors:
   - name: Fabio Calefato
-    position: Asst. Professor, University of Bari
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    position: Asst. Professor, University of Bari, Italy
     img: fabio.jpg
     web: http://collab.di.uniba.it/fabio/
     strudel: apple
@@ -306,6 +306,15 @@ visitors:
         url: http://collab.di.uniba.it/fabio/
 
 # alumni:
+#  - name: Kyle Kovacs
+#    position: UC Berkeley, EECS
+#    img: kyle.jpg
+#    strudel: apple-cinnamon
+#    social:
+#      - title: envelope #use for email address
+#        url: mailto:kylekovacs@berkeley.edu
+##      - title: twitter
+##        url: http://twitter.com/handle
 
 # Clients information. Shown on Home and About pages.
 #clients:

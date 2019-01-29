@@ -1,7 +1,9 @@
 <div class="container mtb-0">
-		<div class="row">
-        <h3 class="mb-0">Faculty Affiliates</h3>
+        <h3 class="mb-0">Faculty</h3>
+        <div class="row">
         {% for member in site.faculty %}
+        {% assign loopindex = forloop.index | modulo: 4 %}
+			  {% if loopindex == 0 %}
         <div class="col-lg-3 col-md-3 col-sm-3">
             <div class="he-wrap tpl6">
             <img src="{{ "/assets/img/members/" | prepend: site.baseurl }}{{ member.img }}" alt="">
@@ -16,16 +18,43 @@
             </div><!-- he wrap -->
             <h4><a href="{{ member.web }}">{{ member.name }}</a></h4>
             <h5 class="ctitle" style="padding: 0px; margin: 0px;">{{ member.position }}</h5>
-            <p>Favorite strudel: <i>{{ member.strudel }}</i></p>
+            <p>Favorite <img src="{{ "/assets/img/blog/thumbs/strudel-square-005.jpg" | prepend: site.baseurl }}" alt="">: <i>{{ member.strudel }}</i></p>
 <!--             <p>{{ member.text }}</p> -->
 <!--             <div class="hline"></div> -->
-        </div><! --/col-lg-3 -->	 	
+        </div><! --/col-lg-3 -->	
+        </div><! --/row -->
+ 				<div class="row">
+        {% else %}
+        <div class="col-lg-3 col-md-3 col-sm-3">
+            <div class="he-wrap tpl6">
+            <img src="{{ "/assets/img/members/" | prepend: site.baseurl }}{{ member.img }}" alt="">
+                <div class="he-view">
+                    <div class="bg a0" data-animate="fadeIn">
+                        <h3 class="a1" data-animate="fadeInDown">Contact Me:</h3>
+                        {% for entry in member.social %}
+                            <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-{{ entry.title }}"></i></a>
+                        {% endfor %}
+                    </div><!-- he bg -->
+                </div><!-- he view -->		
+            </div><!-- he wrap -->
+            <h4><a href="{{ member.web }}">{{ member.name }}</a></h4>
+            <h5 class="ctitle" style="padding: 0px; margin: 0px;">{{ member.position }}</h5>
+            <p>Favorite <img src="{{ "/assets/img/blog/thumbs/strudel-square-005.jpg" | prepend: site.baseurl }}" alt="">: <i>{{ member.strudel }}</i></p>
+<!--             <p>{{ member.text }}</p> -->
+<!--             <div class="hline"></div> -->
+        </div><! --/col-lg-3 -->
+        {% endif %}
         {% endfor %}
-<!--     </div><! ~~/row ~~> -->
-    
-<!-- 		<div class="row"> -->
-<!--         <h3 class="mb-0">STRUDEL-Friendly CMU Faculty</h3> -->
+</div><! --/row -->
+</div><! --/container -->
+
+
+<div class="container mtb-0">
+        <h3 class="mb-0">Affiliated Faculty</h3>
+        <div class="row">
         {% for member in site.affilfaculty %}
+        {% assign loopindex = forloop.index | modulo: 4 %}
+			  {% if loopindex == 0 %}
         <div class="col-lg-3 col-md-3 col-sm-3">
             <div class="he-wrap tpl6">
             <img src="{{ "/assets/img/members/" | prepend: site.baseurl }}{{ member.img }}" alt="">
@@ -40,16 +69,43 @@
             </div><!-- he wrap -->
             <h4><a href="{{ member.web }}">{{ member.name }}</a></h4>
             <h5 class="ctitle" style="padding: 0px; margin: 0px;">{{ member.position }}</h5>
-            <p>Favorite strudel: <i>{{ member.strudel }}</i></p>
+            <p>Favorite <img src="{{ "/assets/img/blog/thumbs/strudel-square-005.jpg" | prepend: site.baseurl }}" alt="">: <i>{{ member.strudel }}</i></p>
 <!--             <p>{{ member.text }}</p> -->
 <!--             <div class="hline"></div> -->
-        </div><! --/col-lg-3 -->	 	
+        </div><! --/col-lg-3 -->	
+        </div><! --/row -->
+ 				<div class="row">
+        {% else %}
+        <div class="col-lg-3 col-md-3 col-sm-3">
+            <div class="he-wrap tpl6">
+            <img src="{{ "/assets/img/members/" | prepend: site.baseurl }}{{ member.img }}" alt="">
+                <div class="he-view">
+                    <div class="bg a0" data-animate="fadeIn">
+                        <h3 class="a1" data-animate="fadeInDown">Contact Me:</h3>
+                        {% for entry in member.social %}
+                            <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-{{ entry.title }}"></i></a>
+                        {% endfor %}
+                    </div><!-- he bg -->
+                </div><!-- he view -->		
+            </div><!-- he wrap -->
+            <h4><a href="{{ member.web }}">{{ member.name }}</a></h4>
+            <h5 class="ctitle" style="padding: 0px; margin: 0px;">{{ member.position }}</h5>
+            <p>Favorite <img src="{{ "/assets/img/blog/thumbs/strudel-square-005.jpg" | prepend: site.baseurl }}" alt="">: <i>{{ member.strudel }}</i></p>
+<!--             <p>{{ member.text }}</p> -->
+<!--             <div class="hline"></div> -->
+        </div><! --/col-lg-3 -->
+        {% endif %}
         {% endfor %}
-    </div><! --/row -->
+</div><! --/row -->
+</div><! --/container -->
 
-    <div class="row">
-        <h3 class="mb-0">Graduate Students and Postdocs</h3>
-        {% for member in site.grads %}
+
+<div class="container mtb-0">
+	<h3 class="mb-0">Current Graduate Students</h3>
+  	<div class="row">
+    {% for member in site.grads %}
+    {% assign loopindex = forloop.index | modulo: 4 %}
+		{% if loopindex == 0 %}
         <div class="col-lg-3 col-md-3 col-sm-3">
             <div class="he-wrap tpl6">
             <img src="{{ "/assets/img/members/" | prepend: site.baseurl }}{{ member.img }}" alt="">
@@ -64,12 +120,43 @@
             </div><!-- he wrap -->
             <h4><a href="{{ member.web }}">{{ member.name }}</a></h4>
             <h5 class="ctitle" style="padding: 0px; margin: 0px;">{{ member.position }}</h5>
-            <p>Favorite strudel: <i>{{ member.strudel }}</i></p>
+            <p>Favorite <img src="{{ "/assets/img/blog/thumbs/strudel-square-005.jpg" | prepend: site.baseurl }}" alt="">: <i>{{ member.strudel }}</i></p>
 <!--             <p>{{ member.text }}</p> -->
 <!--             <div class="hline"></div> -->
-        </div><! --/col-lg-3 -->	 	
-        {% endfor %}        
-        {% for member in site.postdocs %}
+        </div><! --/col-lg-3 -->
+    </div><! --/row -->
+ 		<div class="row">
+    {% else %}
+    		<div class="col-lg-3 col-md-3 col-sm-3">
+            <div class="he-wrap tpl6">
+            <img src="{{ "/assets/img/members/" | prepend: site.baseurl }}{{ member.img }}" alt="">
+                <div class="he-view">
+                    <div class="bg a0" data-animate="fadeIn">
+                        <h3 class="a1" data-animate="fadeInDown">Contact Me:</h3>
+                        {% for entry in member.social %}
+                            <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-{{ entry.title }}"></i></a>
+                        {% endfor %}
+                    </div><!-- he bg -->
+                </div><!-- he view -->		
+            </div><!-- he wrap -->
+            <h4><a href="{{ member.web }}">{{ member.name }}</a></h4>
+            <h5 class="ctitle" style="padding: 0px; margin: 0px;">{{ member.position }}</h5>
+            <p>Favorite <img src="{{ "/assets/img/blog/thumbs/strudel-square-005.jpg" | prepend: site.baseurl }}" alt="">: <i>{{ member.strudel }}</i></p>
+<!--             <p>{{ member.text }}</p> -->
+<!--             <div class="hline"></div> -->
+        </div><! --/col-lg-3 -->
+    {% endif %}
+    {% endfor %}
+</div><! --/row -->
+</div><! --/container -->
+
+
+<div class="container mtb-0">
+	<h3 class="mb-0">Current Undergraduate Students</h3>
+  	<div class="row">
+    {% for member in site.undergrads %}
+    {% assign loopindex = forloop.index | modulo: 4 %}
+		{% if loopindex == 0 %}
         <div class="col-lg-3 col-md-3 col-sm-3">
             <div class="he-wrap tpl6">
             <img src="{{ "/assets/img/members/" | prepend: site.baseurl }}{{ member.img }}" alt="">
@@ -84,41 +171,90 @@
             </div><!-- he wrap -->
             <h4><a href="{{ member.web }}">{{ member.name }}</a></h4>
             <h5 class="ctitle" style="padding: 0px; margin: 0px;">{{ member.position }}</h5>
-            <p>Favorite strudel: <i>{{ member.strudel }}</i></p>
+            <p>Favorite <img src="{{ "/assets/img/blog/thumbs/strudel-square-005.jpg" | prepend: site.baseurl }}" alt="">: <i>{{ member.strudel }}</i></p>
 <!--             <p>{{ member.text }}</p> -->
 <!--             <div class="hline"></div> -->
-        </div><! --/col-lg-3 -->	 	
-        {% endfor %}        
-
+        </div><! --/col-lg-3 -->
     </div><! --/row -->
+ 		<div class="row">
+    {% else %}
+    		<div class="col-lg-3 col-md-3 col-sm-3">
+            <div class="he-wrap tpl6">
+            <img src="{{ "/assets/img/members/" | prepend: site.baseurl }}{{ member.img }}" alt="">
+                <div class="he-view">
+                    <div class="bg a0" data-animate="fadeIn">
+                        <h3 class="a1" data-animate="fadeInDown">Contact Me:</h3>
+                        {% for entry in member.social %}
+                            <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-{{ entry.title }}"></i></a>
+                        {% endfor %}
+                    </div><!-- he bg -->
+                </div><!-- he view -->		
+            </div><!-- he wrap -->
+            <h4><a href="{{ member.web }}">{{ member.name }}</a></h4>
+            <h5 class="ctitle" style="padding: 0px; margin: 0px;">{{ member.position }}</h5>
+            <p>Favorite <img src="{{ "/assets/img/blog/thumbs/strudel-square-005.jpg" | prepend: site.baseurl }}" alt="">: <i>{{ member.strudel }}</i></p>
+<!--             <p>{{ member.text }}</p> -->
+<!--             <div class="hline"></div> -->
+        </div><! --/col-lg-3 -->
+    {% endif %}
+    {% endfor %}
+</div><! --/row -->
+</div><! --/container -->
+
+
+<div class="container mtb-0">
+	<h3 class="mb-0">Alumni</h3>
+  	<div class="row">
+    {% for member in site.alumni %}
+    {% assign loopindex = forloop.index | modulo: 4 %}
+		{% if loopindex == 0 %}
+        <div class="col-lg-3 col-md-3 col-sm-3">
+            <div class="he-wrap tpl6">
+            <img src="{{ "/assets/img/members/" | prepend: site.baseurl }}{{ member.img }}" alt="">
+                <div class="he-view">
+                    <div class="bg a0" data-animate="fadeIn">
+                        <h3 class="a1" data-animate="fadeInDown">Contact Me:</h3>
+                        {% for entry in member.social %}
+                            <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-{{ entry.title }}"></i></a>
+                        {% endfor %}
+                    </div><!-- he bg -->
+                </div><!-- he view -->		
+            </div><!-- he wrap -->
+            <h4><a href="{{ member.web }}">{{ member.name }}</a></h4>
+            <h5 class="ctitle" style="padding: 0px; margin: 0px;">{{ member.position }}</h5>
+            <p>Favorite <img src="{{ "/assets/img/blog/thumbs/strudel-square-005.jpg" | prepend: site.baseurl }}" alt="">: <i>{{ member.strudel }}</i></p>
+<!--             <p>{{ member.text }}</p> -->
+<!--             <div class="hline"></div> -->
+        </div><! --/col-lg-3 -->
+    </div><! --/row -->
+ 		<div class="row">
+    {% else %}
+    		<div class="col-lg-3 col-md-3 col-sm-3">
+            <div class="he-wrap tpl6">
+            <img src="{{ "/assets/img/members/" | prepend: site.baseurl }}{{ member.img }}" alt="">
+                <div class="he-view">
+                    <div class="bg a0" data-animate="fadeIn">
+                        <h3 class="a1" data-animate="fadeInDown">Contact Me:</h3>
+                        {% for entry in member.social %}
+                            <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-{{ entry.title }}"></i></a>
+                        {% endfor %}
+                    </div><!-- he bg -->
+                </div><!-- he view -->		
+            </div><!-- he wrap -->
+            <h4><a href="{{ member.web }}">{{ member.name }}</a></h4>
+            <h5 class="ctitle" style="padding: 0px; margin: 0px;">{{ member.position }}</h5>
+            <p>Favorite <img src="{{ "/assets/img/blog/thumbs/strudel-square-005.jpg" | prepend: site.baseurl }}" alt="">: <i>{{ member.strudel }}</i></p>
+<!--             <p>{{ member.text }}</p> -->
+<!--             <div class="hline"></div> -->
+        </div><! --/col-lg-3 -->
+    {% endif %}
+    {% endfor %}
+</div><! --/row -->
+</div><! --/container -->
+
     
-    <div class="row">
-        <h3 class="mb-0">Undergraduate Students</h3>
-        {% for member in site.undergrads %}
-        <div class="col-lg-3 col-md-3 col-sm-3">
-            <div class="he-wrap tpl6">
-            <img src="{{ "/assets/img/members/" | prepend: site.baseurl }}{{ member.img }}" alt="">
-                <div class="he-view">
-                    <div class="bg a0" data-animate="fadeIn">
-                        <h3 class="a1" data-animate="fadeInDown">Contact Me:</h3>
-                        {% for entry in member.social %}
-                            <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-{{ entry.title }}"></i></a>
-                        {% endfor %}
-                    </div><!-- he bg -->
-                </div><!-- he view -->		
-            </div><!-- he wrap -->
-            <h4><a href="{{ member.web }}">{{ member.name }}</a></h4>
-            <h5 class="ctitle" style="padding: 0px; margin: 0px;">{{ member.position }}</h5>
-            <p>Favorite strudel: <i>{{ member.strudel }}</i></p>
-<!--             <p>{{ member.text }}</p> -->
-<!--             <div class="hline"></div> -->
-        </div><! --/col-lg-3 -->	 	
-        {% endfor %}        
-    </div><! --/row -->
-
-    
-		<div class="row">
-        <h3 class="mb-0">Visitors</h3>
+<!-- 
+		<div class="row">        <h3 class="mb-0">Visitors</h3>
         {% for member in site.visitors %}
         <div class="col-lg-3 col-md-3 col-sm-3">
             <div class="he-wrap tpl6">
@@ -129,17 +265,13 @@
                         {% for entry in member.social %}
                             <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-{{ entry.title }}"></i></a>
                         {% endfor %}
-                    </div><!-- he bg -->
-                </div><!-- he view -->		
-            </div><!-- he wrap -->
-            <h4><a href="{{ member.web }}">{{ member.name }}</a></h4>
+                    </div>he bg                </div>he view		
+            </div>he wrap            <h4><a href="{{ member.web }}">{{ member.name }}</a></h4>
             <h5 class="ctitle" style="padding: 0px; margin: 0px;">{{ member.position }}</h5>
             <p>Favorite strudel: <i>{{ member.strudel }}</i></p>
-<!--             <p>{{ member.text }}</p> -->
-<!--             <div class="hline"></div> -->
-        </div><! --/col-lg-3 -->	 	
+            <p>{{ member.text }}</p>            <div class="hline"></div>        </div><! ~~/col-lg-3	 	
         {% endfor %}        
-    </div><! --/row -->
+    </div><! ~~/row
+ -->
 
         
-</div><! --/container -->
