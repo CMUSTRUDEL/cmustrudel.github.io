@@ -162,6 +162,28 @@ grads:
 #        url: http://twitter.com/handle
       - title: link
         url: https://www.linkedin.com/in/minxuan-cao-b522858a/
+  - name: Jeremy Lacomis
+    position: PhD Software Engineering, 2017- (also <a href="https://squareslab.github.io/">SquaresLab</a>)
+    img: jeremy.jpg
+    strudel: apple
+    social:
+      - title: envelope #use for email address
+        url: mailto:jlacomis@cmu.edu
+      - title: twitter
+        url: http://twitter.com/jlacomis
+      - title: link
+        url: https://www.cs.cmu.edu/~jlacomis/
+  - name: Hemank Lamba
+    position: PhD Societal Computing, 2014-
+    img: hemank.jpg
+    strudel: 
+    social:
+      - title: envelope #use for email address
+        url: mailto:hemanklamba@gmail.com
+      - title: twitter
+        url: http://twitter.com/hemanklamba
+      - title: link
+        url: https://sites.google.com/site/hemanklamba/
   - name: Daye Nam
     position: PhD Software Engineering, 2018- (also <a href="http://www.cs.cmu.edu/~bam/">Myers group</a>)
     img: daye.jpg
@@ -182,28 +204,6 @@ grads:
         url: mailto:huilianq@andrew.cmu.edu
 #      - title: twitter
 #        url: http://twitter.com/handle
-  - name: David Widder
-    position: PhD Software Engineering, 2017-
-    img: david.jpg
-    strudel: cream cheese & strawberry
-    social:
-      - title: envelope #use for email address
-        url: mailto:dwidder@cmu.edu
-      - title: twitter
-        url: http://twitter.com/davidthewid
-      - title: link
-        url: http://davidwidder.me
-  - name: Jeremy Lacomis
-    position: PhD Software Engineering, 2017- (also <a href="https://squareslab.github.io/">SquaresLab</a>)
-    img: jeremy.jpg
-    strudel: apple
-    social:
-      - title: envelope #use for email address
-        url: mailto:jlacomis@cmu.edu
-      - title: twitter
-        url: http://twitter.com/jlacomis
-      - title: link
-        url: https://www.cs.cmu.edu/~jlacomis/
   - name: Marat Valiev
     position: PhD Societal Computing, 2016- (also <a href="http://herbsleb.org/index.html">Herbsleb group</a>)
     img: marat.jpg
@@ -215,6 +215,17 @@ grads:
       #  url: http://twitter.com/davidthewid
     - title: link
       url: https://www.linkedin.com/in/mvaliev/
+  - name: David Widder
+    position: PhD Software Engineering, 2017-
+    img: david.jpg
+    strudel: cream cheese & strawberry
+    social:
+      - title: envelope #use for email address
+        url: mailto:dwidder@cmu.edu
+      - title: twitter
+        url: http://twitter.com/davidthewid
+      - title: link
+        url: http://davidwidder.me
         
 undergrads:
   - name: Adithya Raghuraman
