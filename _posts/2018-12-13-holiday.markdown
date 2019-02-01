@@ -12,6 +12,7 @@ thumb: strudel-square-003.jpg
 Drum roll! 🥁  Please welcome our holiday hippo.
 
 {% flickr 46953186691 %}
+{% flickr 46228529504 width="500w" %}
 
 We were so excited that we made strudels from scratch!
 
