@@ -5,8 +5,7 @@ date:   2017-07-04 16:54:46
 author: Bogdan
 categories: 
 - Announcement
-- Circular statistics
-- GitHub
+- Research
 #img: strudel.png
 thumb: strudel-square-003.jpg
 ---
