@@ -13,4 +13,4 @@ gem 'jekyll-scholar', '~> 5.9', '>= 5.9.1'
 #  gem 'rb-fsevent', '<= 0.9.4'
 #end
 
-gem 'flickraw'
+gem 'jekyll-flickr'

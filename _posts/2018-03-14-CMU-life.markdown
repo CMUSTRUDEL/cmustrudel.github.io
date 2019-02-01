@@ -17,12 +17,12 @@ Hope this blog can tell you more about CMU.
 
 #### May 25, 2018.
 
-<img src="/assets/img/pics/05-25-18-high-five.jpg" style="width: 400px;"/>
+{% flickr 43180286524 width="320w" %}
 
 Are we suppose to high five whenever we go pass by this sign, like you have to
 kiss if you stand under a mistletoe??
 
-<img src="/assets/img/pics/05-25-18-superstar.jpg" style="width: 400px;"/>
+{% flickr 43180285774 width="640w" %}
 
 Each time I see this sign, I always think of the song Super Star by a Taiwanese
 girls group S.H.E. This is one of the earliest pop songs I heard in my life. <a
@@ -31,8 +31,8 @@ official MV</a>.
 
 #### May 5, 2018.
 
-<img src="/assets/img/pics/05-25-18-y-axis.jpg" style="width: 200px;"/>
-<img src="/assets/img/pics/05-25-18-yaxis-dissys.jpg" style="width: 200px;"/>
+{% flickr 42993927825 width="240w" %}
+{% flickr 43180284944 width="500w" %}
 
 I often wander around in GHC when I'm tired of working and I find many
 interesting things on people's office doors. 
@@ -46,8 +46,8 @@ actually has 25% hit rate."
 
 #### May 1, 2018.
 
-<img src="/assets/img/pics/05-25-18-monitors.jpg" style="width: 200px;"/>
-<img src="/assets/img/pics/05-25-18-poem.jpg" style="width: 200px;"/>
+{% flickr 42089454220 width="500w" %}
+{% flickr 42089454060 width="240w" %}
 
 CMU students often do some weird things. For example, someone wrote down the
 Chinese poem A Moonlit Night on the Spring River on Pausch Bridge (image on the
@@ -57,11 +57,11 @@ abundant.
 
 #### Apr 20, 2018.
 
-<img src="/assets/img/pics/05-25-18-mobot-field.jpg" style="width: 200px;"/>
-<img src="/assets/img/pics/05-25-18-mobot-sign.jpg" style="width: 200px;"/>
+{% flickr 42993928945 width="320w" %}
+{% flickr 42089454460 width="320w" %}
 
-<img src="/assets/img/pics/05-25-18-mobot.jpg" style="width: 200px;"/>
-<img src="/assets/img/pics/05-25-18-mobot-small.jpg" style="width: 200px;"/>
+{% flickr 43180286184 width="320w" %}
+{% flickr 42993928775 width="320w" %}
 
 CMU's spring carnival should be very nerdy and CS. Therefore, we have a mobot
 competition. I've been wondering why there are these ugly lines in front of Wean

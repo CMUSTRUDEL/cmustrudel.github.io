@@ -41,6 +41,17 @@ collections:
     output: true
     permalink: /questions/:title/
 
+flickr:
+#  screen_name: STRUDEL
+  api_key: 4aa00bb511e35bdb53c92f5c68ea4a6e
+  api_secret: 4d53c51e4e15043f
+  widths: [240, 320, 500, 640, 800, 1024]
+  width_legacy: 1024
+  width_viewport: 100vw
+  figcaption: true
+  license: true
+  caption: true
+  
 ### CONTACT SETTINGS ###
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
@@ -336,7 +347,10 @@ testimonial:
   author: Marcel Newman
   position: WEB DESIGNER - BLACKTIE.CO
 
-gems: ['jekyll/scholar']
+#plugins: ['jekyll/scholar']
+plugins:
+  - jekyll/scholar
+  - jekyll-flickr
 
 # Custom vars
 scholar:
