@@ -5,9 +5,65 @@
     <description>The Socio-Technical Research Using Data Excavation Lab at Carnegie Mellon University</description>
     <link>http://cmustrudel.github.io/</link>
     <atom:link href="http://cmustrudel.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 01 Feb 2019 13:57:33 +0000</pubDate>
-    <lastBuildDate>Fri, 01 Feb 2019 13:57:33 +0000</lastBuildDate>
+    <pubDate>Fri, 01 Feb 2019 19:28:46 +0000</pubDate>
+    <lastBuildDate>Fri, 01 Feb 2019 19:28:46 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Announcement: Papers accepted at ESEC/FSE 2018</title>
+        <description>&lt;p&gt;We’re fortunate to present two papers at &lt;a href=&quot;https://conf.researchr.org/home/fse-2018&quot;&gt;ESEC/FSE&lt;/a&gt; 
+this year:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Congratulations to Marat on his paper with Bogdan and Jim:&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;../papers/fse18sustainability.pdf&quot;&gt;&lt;strong&gt;Ecosystem-Level Determinants of Sustained Activity in Open-Source Projects: 
+A Case Study of the PyPI Ecosystem&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Update&lt;/strong&gt;: Here’s Marat presenting:&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure class=&quot;flickr&quot;&gt;
+  &lt;img class=&quot;flickr&quot; src=&quot;https://farm8.staticflickr.com/7886/46948724931_37b0445ae8_o.jpg&quot; srcset=&quot;&quot; sizes=&quot;100vw&quot; width=&quot;320w&quot; /&gt;
+  &lt;figcaption&gt;&lt;div class=&quot;license&quot;&gt;&amp;copy; Flickr/&lt;a href=&quot;https://www.flickr.com/photos/159982920@N04/46948724931/&quot;&gt;cmustrudel&lt;/a&gt; &lt;a href=&quot;&quot;&gt;All Rights Reserved&lt;/a&gt;&lt;/div&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;We also have a cool paper on Dockerized continuous deployment pipelines 
+with our UC Davis collaborators:&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;../papers/fse18cd.pdf&quot;&gt;&lt;strong&gt;One Size Does Not Fit All: An Empirical Study of Containerized Continuous 
+Deployment Workflows&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Update&lt;/strong&gt;: Here’s Vladimir presenting:&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure class=&quot;flickr&quot;&gt;
+  &lt;img class=&quot;flickr&quot; src=&quot;https://farm8.staticflickr.com/7846/46951035881_c78d9c7bf9_b.jpg&quot; srcset=&quot;https://farm8.staticflickr.com/7846/46951035881_c78d9c7bf9_m.jpg 240w, https://farm8.staticflickr.com/7846/46951035881_c78d9c7bf9_n.jpg 320w, https://farm8.staticflickr.com/7846/46951035881_c78d9c7bf9.jpg 500w, https://farm8.staticflickr.com/7846/46951035881_c78d9c7bf9_z.jpg 640w, https://farm8.staticflickr.com/7846/46951035881_c78d9c7bf9_c.jpg 800w, https://farm8.staticflickr.com/7846/46951035881_c78d9c7bf9_b.jpg 1024w&quot; sizes=&quot;100vw&quot; width=&quot;500w&quot; /&gt;
+  &lt;figcaption&gt;&lt;div class=&quot;license&quot;&gt;&amp;copy; Flickr/&lt;a href=&quot;https://www.flickr.com/photos/159982920@N04/46951035881/&quot;&gt;cmustrudel&lt;/a&gt; &lt;a href=&quot;&quot;&gt;All Rights Reserved&lt;/a&gt;&lt;/div&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Florida, here we come!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Update&lt;/strong&gt;: Florida, here we were!&lt;/p&gt;
+
+&lt;figure class=&quot;flickr&quot;&gt;
+  &lt;img class=&quot;flickr&quot; src=&quot;https://farm5.staticflickr.com/4882/46896639082_55583d3ce4_b.jpg&quot; srcset=&quot;https://farm5.staticflickr.com/4882/46896639082_55583d3ce4_m.jpg 240w, https://farm5.staticflickr.com/4882/46896639082_55583d3ce4_n.jpg 320w, https://farm5.staticflickr.com/4882/46896639082_55583d3ce4.jpg 500w, https://farm5.staticflickr.com/4882/46896639082_55583d3ce4_z.jpg 640w, https://farm5.staticflickr.com/4882/46896639082_55583d3ce4_c.jpg 800w, https://farm5.staticflickr.com/4882/46896639082_55583d3ce4_b.jpg 1024w&quot; sizes=&quot;100vw&quot; /&gt;
+  &lt;figcaption&gt;&lt;div class=&quot;license&quot;&gt;&amp;copy; Flickr/&lt;a href=&quot;https://www.flickr.com/photos/159982920@N04/46896639082/&quot;&gt;cmustrudel&lt;/a&gt; &lt;a href=&quot;&quot;&gt;All Rights Reserved&lt;/a&gt;&lt;/div&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+</description>
+        <pubDate>Mon, 16 Jul 2018 12:23:46 +0000</pubDate>
+        <link>http://cmustrudel.github.io/announcement/fse-papers</link>
+        <guid isPermaLink="true">http://cmustrudel.github.io/announcement/fse-papers</guid>
+        
+        
+        <category>Announcement</category>
+        
+      </item>
     
       <item>
         <title>Blog: CMU trivia</title>
@@ -742,387 +798,6 @@ Bogdan presented at the meeting.&lt;/p&gt;
         <category>blog</category>
         
         <category>reading-group</category>
-        
-      </item>
-    
-      <item>
-        <title>Blog: Life @ CMU</title>
-        <description>&lt;p&gt;Since I came to the Open House in March 2017, I found that CMU is a nerdy but
-cool space. 
-I’m writing down things I find interesting here.
-Hope this blog can tell you more about CMU.&lt;/p&gt;
-
-&lt;h4 id=&quot;may-25-2018&quot;&gt;May 25, 2018.&lt;/h4&gt;
-
-&lt;figure class=&quot;flickr&quot;&gt;
-  &lt;img class=&quot;flickr&quot; src=&quot;https://farm1.staticflickr.com/855/43180286524_3e4e997f59_o.jpg&quot; srcset=&quot;https://farm1.staticflickr.com/855/43180286524_ca1271e813_n.jpg 240w&quot; sizes=&quot;100vw&quot; width=&quot;320w&quot; /&gt;
-  &lt;figcaption&gt;&lt;div class=&quot;license&quot;&gt;&amp;copy; Flickr/&lt;a href=&quot;https://www.flickr.com/photos/159982920@N04/43180286524/&quot;&gt;cmustrudel&lt;/a&gt; &lt;a href=&quot;&quot;&gt;All Rights Reserved&lt;/a&gt;&lt;/div&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Are we suppose to high five whenever we go pass by this sign, like you have to
-kiss if you stand under a mistletoe??&lt;/p&gt;
-
-&lt;figure class=&quot;flickr&quot;&gt;
-  &lt;img class=&quot;flickr&quot; src=&quot;https://farm2.staticflickr.com/1796/43180285774_9b32a711cf_o.jpg&quot; srcset=&quot;https://farm2.staticflickr.com/1796/43180285774_b8f04037cd_m.jpg 240w, https://farm2.staticflickr.com/1796/43180285774_b8f04037cd_n.jpg 320w, https://farm2.staticflickr.com/1796/43180285774_b8f04037cd.jpg 500w, https://farm2.staticflickr.com/1796/43180285774_b8f04037cd_z.jpg 640w, https://farm2.staticflickr.com/1796/43180285774_9b32a711cf_o.jpg 640w&quot; sizes=&quot;100vw&quot; width=&quot;640w&quot; /&gt;
-  &lt;figcaption&gt;&lt;div class=&quot;license&quot;&gt;&amp;copy; Flickr/&lt;a href=&quot;https://www.flickr.com/photos/159982920@N04/43180285774/&quot;&gt;cmustrudel&lt;/a&gt; &lt;a href=&quot;&quot;&gt;All Rights Reserved&lt;/a&gt;&lt;/div&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Each time I see this sign, I always think of the song Super Star by a Taiwanese
-girls group S.H.E. This is one of the earliest pop songs I heard in my life. &lt;a href=&quot;https://www.youtube.com/watch?v=gr5fNKK2FaA&quot;&gt;Click here to watch the
-official MV&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h4 id=&quot;may-5-2018&quot;&gt;May 5, 2018.&lt;/h4&gt;
-
-&lt;figure class=&quot;flickr&quot;&gt;
-  &lt;img class=&quot;flickr&quot; src=&quot;https://farm1.staticflickr.com/855/42993927825_55aa332493_o.jpg&quot; srcset=&quot;https://farm1.staticflickr.com/855/42993927825_2013dae614_n.jpg 240w&quot; sizes=&quot;100vw&quot; width=&quot;240w&quot; /&gt;
-  &lt;figcaption&gt;&lt;div class=&quot;license&quot;&gt;&amp;copy; Flickr/&lt;a href=&quot;https://www.flickr.com/photos/159982920@N04/42993927825/&quot;&gt;cmustrudel&lt;/a&gt; &lt;a href=&quot;&quot;&gt;All Rights Reserved&lt;/a&gt;&lt;/div&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure class=&quot;flickr&quot;&gt;
-  &lt;img class=&quot;flickr&quot; src=&quot;https://farm2.staticflickr.com/1832/43180284944_9c6581b9cb_o.png&quot; srcset=&quot;https://farm2.staticflickr.com/1832/43180284944_f93c9c5937_m.jpg 240w, https://farm2.staticflickr.com/1832/43180284944_f93c9c5937_n.jpg 320w, https://farm2.staticflickr.com/1832/43180284944_f93c9c5937.jpg 500w, https://farm2.staticflickr.com/1832/43180284944_f93c9c5937_z.jpg 640w, https://farm2.staticflickr.com/1832/43180284944_f93c9c5937_c.jpg 800w&quot; sizes=&quot;100vw&quot; width=&quot;500w&quot; /&gt;
-  &lt;figcaption&gt;&lt;div class=&quot;license&quot;&gt;&amp;copy; Flickr/&lt;a href=&quot;https://www.flickr.com/photos/159982920@N04/43180284944/&quot;&gt;cmustrudel&lt;/a&gt; &lt;a href=&quot;&quot;&gt;All Rights Reserved&lt;/a&gt;&lt;/div&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;I often wander around in GHC when I’m tired of working and I find many
-interesting things on people’s office doors. 
-For example, the image on the left reminds me of a class at Princeton. We were
-reading papers on distributed system, and one graph, reproduced on the right,
-compares existing systems and the one introduced in &lt;a href=&quot;https://www.cs.cornell.edu/projects/Quicksilver/public_pdfs/RIPQ.pdf&quot;&gt;the
-paper&lt;/a&gt;. Our professor
-said, “guys, always start your y-axis from 0. I first thought FIFO sucks, but it
-actually has 25% hit rate.”&lt;/p&gt;
-
-&lt;h4 id=&quot;may-1-2018&quot;&gt;May 1, 2018.&lt;/h4&gt;
-
-&lt;figure class=&quot;flickr&quot;&gt;
-  &lt;img class=&quot;flickr&quot; src=&quot;https://farm1.staticflickr.com/852/42089454220_1895565531_o.jpg&quot; srcset=&quot;https://farm1.staticflickr.com/852/42089454220_cd118b33eb_m.jpg 240w, https://farm1.staticflickr.com/852/42089454220_cd118b33eb_n.jpg 320w, https://farm1.staticflickr.com/852/42089454220_cd118b33eb.jpg 500w, https://farm1.staticflickr.com/852/42089454220_cd118b33eb_z.jpg 640w, https://farm1.staticflickr.com/852/42089454220_1895565531_o.jpg 640w&quot; sizes=&quot;100vw&quot; width=&quot;500w&quot; /&gt;
-  &lt;figcaption&gt;&lt;div class=&quot;license&quot;&gt;&amp;copy; Flickr/&lt;a href=&quot;https://www.flickr.com/photos/159982920@N04/42089454220/&quot;&gt;cmustrudel&lt;/a&gt; &lt;a href=&quot;&quot;&gt;All Rights Reserved&lt;/a&gt;&lt;/div&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure class=&quot;flickr&quot;&gt;
-  &lt;img class=&quot;flickr&quot; src=&quot;https://farm1.staticflickr.com/850/42089454060_ac2d0de097_o.jpg&quot; srcset=&quot;https://farm1.staticflickr.com/850/42089454060_03fc254b72_n.jpg 240w&quot; sizes=&quot;100vw&quot; width=&quot;240w&quot; /&gt;
-  &lt;figcaption&gt;&lt;div class=&quot;license&quot;&gt;&amp;copy; Flickr/&lt;a href=&quot;https://www.flickr.com/photos/159982920@N04/42089454060/&quot;&gt;cmustrudel&lt;/a&gt; &lt;a href=&quot;&quot;&gt;All Rights Reserved&lt;/a&gt;&lt;/div&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;CMU students often do some weird things. For example, someone wrote down the
-Chinese poem A Moonlit Night on the Spring River on Pausch Bridge (image on the
-left). Or, someone moved their monitors out to work in the corridor. Inspired
-by this, now I often bring my mechanical keyboard to work in Gates where sunlight is
-abundant.&lt;/p&gt;
-
-&lt;h4 id=&quot;apr-20-2018&quot;&gt;Apr 20, 2018.&lt;/h4&gt;
-
-&lt;figure class=&quot;flickr&quot;&gt;
-  &lt;img class=&quot;flickr&quot; src=&quot;https://farm2.staticflickr.com/1774/42993928945_d7813c72aa_o.jpg&quot; srcset=&quot;https://farm2.staticflickr.com/1774/42993928945_b1b5286c9b_n.jpg 240w&quot; sizes=&quot;100vw&quot; width=&quot;320w&quot; /&gt;
-  &lt;figcaption&gt;&lt;div class=&quot;license&quot;&gt;&amp;copy; Flickr/&lt;a href=&quot;https://www.flickr.com/photos/159982920@N04/42993928945/&quot;&gt;cmustrudel&lt;/a&gt; &lt;a href=&quot;&quot;&gt;All Rights Reserved&lt;/a&gt;&lt;/div&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure class=&quot;flickr&quot;&gt;
-  &lt;img class=&quot;flickr&quot; src=&quot;https://farm1.staticflickr.com/934/42089454460_0117500305_o.jpg&quot; srcset=&quot;https://farm1.staticflickr.com/934/42089454460_729c8595d4_n.jpg 240w&quot; sizes=&quot;100vw&quot; width=&quot;320w&quot; /&gt;
-  &lt;figcaption&gt;&lt;div class=&quot;license&quot;&gt;&amp;copy; Flickr/&lt;a href=&quot;https://www.flickr.com/photos/159982920@N04/42089454460/&quot;&gt;cmustrudel&lt;/a&gt; &lt;a href=&quot;&quot;&gt;All Rights Reserved&lt;/a&gt;&lt;/div&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure class=&quot;flickr&quot;&gt;
-  &lt;img class=&quot;flickr&quot; src=&quot;https://farm1.staticflickr.com/934/43180286184_68b428cc3d_o.jpg&quot; srcset=&quot;https://farm1.staticflickr.com/934/43180286184_1cc3a8a808_n.jpg 240w&quot; sizes=&quot;100vw&quot; width=&quot;320w&quot; /&gt;
-  &lt;figcaption&gt;&lt;div class=&quot;license&quot;&gt;&amp;copy; Flickr/&lt;a href=&quot;https://www.flickr.com/photos/159982920@N04/43180286184/&quot;&gt;cmustrudel&lt;/a&gt; &lt;a href=&quot;&quot;&gt;All Rights Reserved&lt;/a&gt;&lt;/div&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure class=&quot;flickr&quot;&gt;
-  &lt;img class=&quot;flickr&quot; src=&quot;https://farm2.staticflickr.com/1814/42993928775_79fd1017c8_o.jpg&quot; srcset=&quot;https://farm2.staticflickr.com/1814/42993928775_c04ce717cb_m.jpg 240w, https://farm2.staticflickr.com/1814/42993928775_c04ce717cb_n.jpg 320w, https://farm2.staticflickr.com/1814/42993928775_c04ce717cb.jpg 500w, https://farm2.staticflickr.com/1814/42993928775_c04ce717cb_z.jpg 640w, https://farm2.staticflickr.com/1814/42993928775_79fd1017c8_o.jpg 640w&quot; sizes=&quot;100vw&quot; width=&quot;320w&quot; /&gt;
-  &lt;figcaption&gt;&lt;div class=&quot;license&quot;&gt;&amp;copy; Flickr/&lt;a href=&quot;https://www.flickr.com/photos/159982920@N04/42993928775/&quot;&gt;cmustrudel&lt;/a&gt; &lt;a href=&quot;&quot;&gt;All Rights Reserved&lt;/a&gt;&lt;/div&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;CMU’s spring carnival should be very nerdy and CS. Therefore, we have a mobot
-competition. I’ve been wondering why there are these ugly lines in front of Wean
-Hall. Now I know the answer! They are routes for robots to follow!&lt;/p&gt;
-
-&lt;p&gt;The task of mobot includes following the white line and going through 13 or 14
-arches. Along the way, there are slopes. Some parts of the white lines are
-painted against light grey ground. Towards the end of the journey, the robot
-needs to know that it should stick to the path on the right (as shown in the
-image) because that’s where the arches are placed. Once your robot has pased 3
-arches, you are qualified for cash rewards.&lt;/p&gt;
-
-&lt;p&gt;One of the teams if formed by a CMU alumni and his son, who had participated in
-previous year’s mobot already. They made it to the final part but the robot took
-the wrong route and lost the track.&lt;/p&gt;
-
-&lt;p&gt;There are also some college students participating. The robot in the last image
-is one of the smallest robots I’ve seen so far. I don’t quite understand why he
-built the robot so small. The obvious drawback is that once it detrails from the track, even
-just for a tiny bit, it can never find it back, which is what happened to the
-robot at the competition.&lt;/p&gt;
-
-&lt;h4 id=&quot;apr-20-2018-1&quot;&gt;Apr 20, 2018.&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/pics/05-25-18-carnival-trio.jpg&quot; style=&quot;width: 200px;&quot; /&gt;
-&lt;img src=&quot;/assets/img/pics/05-25-18-fatlady.jpg&quot; style=&quot;width: 200px;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/pics/05-25-18-dunk.jpg&quot; style=&quot;width: 200px;&quot; /&gt;
-&lt;img src=&quot;/assets/img/pics/05-25-18-dunkandrew.jpg&quot; style=&quot;width: 200px;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Spring carnival!&lt;/p&gt;
-
-&lt;p&gt;Apart from those amusement park monsters, there are some benign activities. For
-example, each student organization built their own exhibition pavalion. Many of
-them have two floors! There’s one has Harry Potter theme.&lt;/p&gt;
-
-&lt;p&gt;Another fun thing to do is to dunk a dean. Each dean from a college sits above a
-small pool for half an hour waiting for people to dunk them into the water. Some
-deans wear swimming suits, some wear normal suits, even with ties! However, our
-own dean, Andrew Moore, being so CS, wore a white t-shirt, a blue shorts, and a
-pair of orange socks!!! I donated $2 and got 4 balls, two of which hit the red
-button and sent him down into the water.&lt;/p&gt;
-
-&lt;h4 id=&quot;apr-19-2018&quot;&gt;Apr 19, 2018.&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/pics/05-25-18-carnival.jpg&quot; style=&quot;width: 200px;&quot; /&gt;
-&lt;img src=&quot;/assets/img/pics/05-25-18-carnival2.jpg&quot; style=&quot;width: 200px;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;It will be CMU’s spring carnival tomorrow.
-Apparantly, CMU somehow magically moved an amusement park to the campus.
-I usually go into Gates building right after I arrive at campus so I don’t
-usually see what’s going on on campus greens. Now that I suddenly see these
-large monsters poped up from nowhere, I have a feeling of distance, as though
-the neon lights were coming from far, far away.
-Neon lights often give me a sense of noisiness but this time they seem to be so
-serene.&lt;/p&gt;
-
-&lt;h4 id=&quot;apr-19-2018-1&quot;&gt;Apr 19, 2018.&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/pics/05-25-18-radio.jpg&quot; style=&quot;width: 400px;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I’ve had the honour of staying in my department overnight. Nights at CMU are
-never quiet. 
-You might think it is because of Ph.D. students.
-No. Ph.D. students usually croach in their own offices; you rarely see them
-move.
-It is our cleaning staffs that make the nights colourful! They start cleaning up
-the building at midnight. When they work, they put a radio in the NSH Perlis
-Atrium and plays music. I’m not an expert on music genre, so I only know they
-are not pop music nor classics. Maybe some blues or jazz type of music.&lt;/p&gt;
-
-&lt;h4 id=&quot;apr-18-2018&quot;&gt;Apr 18, 2018.&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/pics/05-25-18-coffee.jpg&quot; style=&quot;width: 400px;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Do you know how much coffee we consume each day?!
-I saw the front desk person filled up the coffee bean tank at around 8am. This
-photo was taken at 3~4pm. See how much coffee beans had gone!&lt;/p&gt;
-
-&lt;h4 id=&quot;apr-10-2018&quot;&gt;Apr 10, 2018.&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/pics/05-25-18-wean.jpg&quot; style=&quot;width: 400px;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Although I think CMU and I share the same sense of humour, I totally don’t get
-CMU’s sense of aesthetic. For example, what have they done to the stairs in Wean
-Hall?!!!?!?! I thought we had a design school?&lt;/p&gt;
-
-&lt;p&gt;Well, David had the completely oppsite opinion. He thought this looks like in
-fairytale. But I don’t see any romance or elegance in it.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/pics/05-25-18-wean2.jpg&quot; style=&quot;width: 400px;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.ultralowres.com/wean/&quot;&gt;This&lt;/a&gt; webpage introduces the art
-piece. This graph helped me understand the rational behind the design:&lt;/p&gt;
-
-&lt;p&gt;Don’t you think this looks like gradient fields?&lt;/p&gt;
-
-&lt;h4 id=&quot;mar-29-2018&quot;&gt;Mar 29, 2018.&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/pics/03-29-18-sigbovik1.jpg&quot; style=&quot;width: 400px;&quot; /&gt;
-&lt;img src=&quot;/assets/img/pics/03-29-18-sigbovik2.jpg&quot; style=&quot;width: 400px;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Congratulations to Jeremy and Squares Lab whose paper ``COBOLd: Gobblin’ up
-COBOL bugs for fun and profit’’ has won the Test of Time Positive
-Record Award (whatever it means) in 12th SIGBOVIK conference at CMU!
-There work demostrates that by randomly replacing or adding or deleting code
-from COBOL can make you super rich! 
-By super rich I meant being able to buy a huge island.
-By a huge island I mean some country in the south hemisphere.
-Jeremy also gave a wonderful demo at the conference (pic 2). 
-The paper can be found &lt;a href=&quot;http://sigbovik.org/2018/proceedings.pdf&quot;&gt;here&lt;/a&gt; (page 138-143).&lt;/p&gt;
-
-&lt;h4 id=&quot;mar-25-2018&quot;&gt;Mar 25, 2018.&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/pics/03-25-18-sunset.jpg&quot; style=&quot;width: 400px;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;A SCS Trivia Night style question: Where was this photo taken?&lt;/p&gt;
-
-&lt;h4 id=&quot;mar-19-2018&quot;&gt;Mar 19, 2018.&lt;/h4&gt;
-
-&lt;p&gt;&lt;b&gt;In case of fire, do you use elevator.&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/pics/03-19-18-fire.jpg&quot; style=&quot;width: 400px;&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;mar-18-2018&quot;&gt;Mar 18, 2018.&lt;/h4&gt;
-
-&lt;p&gt;&lt;b&gt;His heart is at work.&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;While most people were away last week because of the spring break, this guy sat
-at the teaching common the entire week. Apparantly, his heart is at work.
-A typical CMU student.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/pics/03-18-18-atwork1.jpg&quot; style=&quot;width: 400px;&quot; /&gt;
-&lt;img src=&quot;/assets/img/pics/03-18-18-atwork2.jpg&quot; style=&quot;width: 400px;&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;mar-14-2018&quot;&gt;Mar 14, 2018.&lt;/h4&gt;
-
-&lt;p&gt;&lt;b&gt;Physicist Stephen Hawking died at the age of 76 on Pie Day&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;When the east coast was entering pie day, I heard that we lost Professor Stephen Hawking.
-Pie day is special not only because it is 3.14. It is also Einstein’s birthday.
-This year, it has also become Hawking’s death date.
-I still remember, when Professor Hawking’s books were translated into Chinese,
-TV programs were repeating over and over again that Profssor Hawking was born on
-the day on which Galileo Galilei died. 
-Maybe great minds are always connected.&lt;/p&gt;
-
-&lt;p&gt;Speaking of Professor Hawking’s science, I thought of a comic
-sticked outside the office of Professor Thomas Ferguson, who helped construct
-Large Hadron Collider (LHC), in Wean Hall.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/pics/03-14-18-lhc.jpg&quot; style=&quot;width: 400px;&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;mar-2-2018&quot;&gt;Mar 2, 2018.&lt;/h4&gt;
-
-&lt;p&gt;&lt;b&gt;Harry Potter Shabbat&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;I was surprised by how often I could spot a Harry Potter related thing on CMU
-campus. I was even more surprised when I found out that there would be a Harry
-Potter themed shabbat at Hillel Jewish University Center.&lt;/p&gt;
-
-&lt;p&gt;When I arrived at the front desk, there was a “sorting hat” from which you can
-draw an image of a house’s badge. This “sorting ceremony” decides which table
-you will sit at. I was “sorted” into Ravenclaw, although I was wearing
-Gryffindor gears. All three other houses’ tables are quickly filled, except for
-ours. By the time dinner started, we only had 3 people. The organizer said,
-“Maybe Ravenclaws are still studying.” That sounds like what CMU students are
-doing all the time. No wonder most students in our Harry Potter course identify
-them with Ravenclaw.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/pics/03-02-18-hpshabbat1.jpg&quot; style=&quot;width: 400px;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/pics/03-02-18-hpshabbat2.jpg&quot; style=&quot;width: 400px;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I can never forget how delicious their bread was!&lt;/p&gt;
-
-&lt;p&gt;And here’s a trivia:&lt;/p&gt;
-
-&lt;p&gt;Name a jewish student at Hogwarts.&lt;/p&gt;
-
-&lt;h4 id=&quot;feb-14-2018&quot;&gt;Feb 14, 2018.&lt;/h4&gt;
-
-&lt;p&gt;&lt;b&gt;Valentine’s Day @ CMU&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;My office mate told us if you brought your laptop to the
-bookstore, they would clean it for free.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/pics/02-14-18-valentine.jpg&quot; style=&quot;width: 400px;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;People celebrate Valentine’s Day with their valentines. Same here at CMU.
-However, CMU might have defined valentine slightly differently. It expanded the
-concept beyond human beings. Apart from your collaborators, people usually
-interact the most with their valentines. If we count objects as well, one’s laptop 
-is definitely the number 1 valentine of most CMU students.&lt;/p&gt;
-
-&lt;h4 id=&quot;feb-9-2018&quot;&gt;Feb 9, 2018.&lt;/h4&gt;
-
-&lt;p&gt;&lt;b&gt;Why are there rice noodles on the roof of Newell Simon Hall&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;You konw spring is coming when the snow on Newell Simon Hall’s rooftop becomes
-rice noodle (image on the right).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/pics/02-09-18-nsh.jpg&quot; style=&quot;width: 200px;&quot; /&gt;
-&lt;img src=&quot;/assets/img/pics/02-09-18-ricenoodle.jpg&quot; style=&quot;width: 200px;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Image source of the second photos &lt;a href=&quot;http://img64.foodjx.com/2/20140613/635382652704010391624.jpg&quot;&gt;http://img64.foodjx.com/2/20140613/635382652704010391624.jpg&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;sep-28-2017&quot;&gt;Sep 28, 2017&lt;/h4&gt;
-
-&lt;p&gt;&lt;b&gt;Computer Science at CMU is not just for boys&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;You can find interesting things in restrooms! Here’s what I found in girls’
-restroom on 5th floor in Gates:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/pics/09-28-17-boysclub.jpg&quot; style=&quot;width: 400px;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Although it sounds great, I think they should have put it in boys’ restroom or
-on a public wall. I believe the intention was to encourage
-women to pursue computer science if that’s what they have been wanted to do. But
-the point I wanted to make is that women, maybe especially female graduate
-students, here at CMU are already brave enough to make it this far. We should
-not only focus on encouraging women, but also educate our male colleagues and
-build a friendly environment where woment don’t have to be encouraged to pursue
-their favourite subject. If CMU CS is gender inclusive, women can feel it. We
-don’t need to be reminded by a sign in a single restroom. If gender
-inclusiveness is something that CMU CS is proud of, then I wish to see this sign
-in a public space.&lt;/p&gt;
-
-&lt;h4 id=&quot;sep-21-2017&quot;&gt;Sep 21, 2017&lt;/h4&gt;
-
-&lt;p&gt;&lt;b&gt;How to pull an all-nighter in 5 minutes?&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;Hey, have you pulled an all-nighter? NO?? You were too busy sleeping and forgot
-to stay awake all night pretending to work hard? Well, when you walk into the
-classroom, everyone will look like a panda except for you. You will look like an
-outsider!&lt;/p&gt;
-
-&lt;p&gt;Don’t worry. We’ve got you covered. If you go to the girls’ restroom on the 4th
-floor in Gates, you will see everything you need. Free of charge.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/pics/09-21-17-allnighter.jpg&quot; style=&quot;width: 400px;&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;sep-19-2017&quot;&gt;Sep 19, 2017&lt;/h4&gt;
-
-&lt;p&gt;&lt;b&gt;Happy smiley’s 35’s birthday!&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;Do you know who invented :-)? Where was :-) first used?&lt;/p&gt;
-
-&lt;p&gt;On 19 Sep, 1982, way before the emoji era, Scott Fahlman at CMU decided that people should use :-) for happy
-feeling and :-( for sad feeling. When they could only communicate through plain
-text, this was the cleverest idea. Now we have emoji, but I’d say text emoticons
-are still very useful and efficient. &lt;a href=&quot;http://cool-smileys.com/text-emoticons&quot;&gt;Here’s a
-list of text emoticons&lt;/a&gt;. (^o^)/ (◕‿◕✿)&lt;/p&gt;
-
-&lt;p&gt;BTW, do you know why CMU’s computer science ranks 1st? Because we invented bug
-swatter that can help our students quickly identify bugs so as to accelerate our
-research progress!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/pics/09-19-17-smiley.jpg&quot; style=&quot;width: 200px;&quot; /&gt;
-&lt;img src=&quot;/assets/img/pics/09-19-17-scott.jpg&quot; style=&quot;width: 200px;&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;sep-14-2017&quot;&gt;Sep 14, 2017&lt;/h4&gt;
-
-&lt;p&gt;&lt;b&gt;CMU is hiring!&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;Job description: clear the steep, overgrown hillside between the Gates Center
-and Purnell Center for the Arts.&lt;/p&gt;
-
-&lt;p&gt;Job compensation: tons of fress leaves!&lt;/p&gt;
-
-&lt;p&gt;Do you know who got the job? &lt;a href=&quot;https://www.cmu.edu/piper/news/archives/2017/september/grazing-goats.html&quot;&gt;A
-group of goats!&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/pics/09-14-17-goat.jpg&quot; style=&quot;width: 400px;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;For some unknown reasons, there was also a donkey.&lt;/p&gt;
-
-&lt;h4 id=&quot;aug-16-2017&quot;&gt;Aug 16, 2017&lt;/h4&gt;
-
-&lt;p&gt;&lt;b&gt;First day in my new office! May the source code be with you!&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/pics/08-16-17-source.jpg&quot; style=&quot;width: 400px;&quot; /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 25 May 2018 15:15:34 +0000</pubDate>
-        <link>http://cmustrudel.github.io/blog/cmu/CMU-life</link>
-        <guid isPermaLink="true">http://cmustrudel.github.io/blog/cmu/CMU-life</guid>
-        
-        
-        <category>blog</category>
-        
-        <category>CMU</category>
         
       </item>
     
