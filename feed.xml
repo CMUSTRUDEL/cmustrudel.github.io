@@ -5,9 +5,368 @@
     <description>The Socio-Technical Research Using Data Excavation Lab at Carnegie Mellon University</description>
     <link>http://cmustrudel.github.io/</link>
     <atom:link href="http://cmustrudel.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 01 Feb 2019 19:28:46 +0000</pubDate>
-    <lastBuildDate>Fri, 01 Feb 2019 19:28:46 +0000</lastBuildDate>
+    <pubDate>Fri, 01 Feb 2019 20:48:11 +0000</pubDate>
+    <lastBuildDate>Fri, 01 Feb 2019 20:48:11 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Blog: STRUDEL Reading Group updates</title>
+        <description>&lt;h4 id=&quot;wednesday-july-25-2018&quot;&gt;Wednesday, July 25, 2018&lt;/h4&gt;
+
+&lt;p&gt;So sad. Today was the last group meeting of the summer season.
+Thanks a lot to our REU students Sophie and Courtney for spending their
+summer with us. We appreciate your visit.&lt;/p&gt;
+
+&lt;p&gt;Here’s all of us wearing STRUDEL gear:&lt;/p&gt;
+
+&lt;figure class=&quot;flickr&quot;&gt;
+  &lt;img class=&quot;flickr&quot; src=&quot;https://farm5.staticflickr.com/4893/33073145978_1607c959da_b.jpg&quot; srcset=&quot;https://farm5.staticflickr.com/4893/33073145978_1607c959da_m.jpg 240w, https://farm5.staticflickr.com/4893/33073145978_1607c959da_n.jpg 320w, https://farm5.staticflickr.com/4893/33073145978_1607c959da.jpg 500w, https://farm5.staticflickr.com/4893/33073145978_1607c959da_z.jpg 640w, https://farm5.staticflickr.com/4893/33073145978_1607c959da_c.jpg 800w, https://farm5.staticflickr.com/4893/33073145978_1607c959da_b.jpg 1024w&quot; sizes=&quot;100vw&quot; /&gt;
+  &lt;figcaption&gt;&lt;div class=&quot;license&quot;&gt;&amp;copy; Flickr/&lt;a href=&quot;https://www.flickr.com/photos/159982920@N04/33073145978/&quot;&gt;cmustrudel&lt;/a&gt; &lt;a href=&quot;&quot;&gt;All Rights Reserved&lt;/a&gt;&lt;/div&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;!--more--&gt;
+&lt;figure class=&quot;flickr&quot;&gt;
+  &lt;img class=&quot;flickr&quot; src=&quot;https://farm5.staticflickr.com/4821/33073145848_3459741da4_b.jpg&quot; srcset=&quot;https://farm5.staticflickr.com/4821/33073145848_3459741da4_m.jpg 240w, https://farm5.staticflickr.com/4821/33073145848_3459741da4_n.jpg 320w, https://farm5.staticflickr.com/4821/33073145848_3459741da4.jpg 500w, https://farm5.staticflickr.com/4821/33073145848_3459741da4_z.jpg 640w, https://farm5.staticflickr.com/4821/33073145848_3459741da4_c.jpg 800w, https://farm5.staticflickr.com/4821/33073145848_3459741da4_b.jpg 1024w&quot; sizes=&quot;100vw&quot; /&gt;
+  &lt;figcaption&gt;&lt;div class=&quot;license&quot;&gt;&amp;copy; Flickr/&lt;a href=&quot;https://www.flickr.com/photos/159982920@N04/33073145848/&quot;&gt;cmustrudel&lt;/a&gt; &lt;a href=&quot;&quot;&gt;All Rights Reserved&lt;/a&gt;&lt;/div&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h4 id=&quot;wednesday-june-27-2018&quot;&gt;Wednesday, June 27, 2018&lt;/h4&gt;
+
+&lt;p&gt;Our REU student Courtney volunteered to present the paper &lt;b&gt;Do Programmers Work
+at Night or During the Weekend&lt;/b&gt; (Claes et al., ICSE, 2018).
+Being a college freshman, Courtney did a wonderful job presenting this
+paper. 
+There are several different types of visualisation in this paper and we
+discussed their merits and defects.
+Hopefully Courtney would find these examples useful when she has to present her work.&lt;/p&gt;
+
+&lt;p&gt;Sophie brought a piece of raspberry dark chocolate and a piece of 92% dark
+chocolate. She presented the chocolate without any lable and left them to her
+lab mates to figure out.&lt;/p&gt;
+
+&lt;h4 id=&quot;wednesday-june-20-2018&quot;&gt;Wednesday, June 20, 2018&lt;/h4&gt;
+
+&lt;p&gt;David Widder presented the paper &lt;b&gt;Prevalence of Confusing Code in Software
+Projects&lt;/b&gt; (Gopstein et al., MSR, 2018). I really like this paper especially
+the confusing code they presented in the paper. Honestly, I think some of them
+are fun to be kept in the code. They can sift out those who do not have solid
+background in the C language and keep only experts in the develop team. 
+I do believe that projects like Linux require developers with C knowledge far
+beyond what one can learn from some online C tutorial or a single semester
+college course.
+However,
+I think it is also necessary to remove confusing code so that more people can
+get involved in the developing process. After all, more often than not, some
+pieces of code are excessively confusing, especially we now have the luxury to
+sacrifice disk space for code clarity.&lt;/p&gt;
+
+&lt;p&gt;Davide brought some brownies and Sophie brought some Chinese rice cake for the
+dragon boat festival.&lt;/p&gt;
+
+&lt;h4 id=&quot;wednesday-may-23-2018&quot;&gt;Wednesday, May 23, 2018&lt;/h4&gt;
+
+&lt;p&gt;After a few weeks’ practice talks done by several STRUDEL members, Sophie Qiu, yes, her again, presented the
+paper &lt;b&gt;Newcomers’ Barriers. . . Is That All? An Analysis of Mentors’ and
+Newcomers’ Barriers in OSS Projects&lt;/b&gt; (Balali et al., CSCW, 2018).
+The paper identified several barriers that mentors are facing in open source
+software projects. There are many newly found barriers but I think some of them
+can be combined with or subsumed under some old ones; some need more details or
+real instances. 
+I think the barriers that they had identified are important.
+However, I wish to see more practical and concrete solutions.&lt;/p&gt;
+
+&lt;h4 id=&quot;wednesday-april-25-2018&quot;&gt;Wednesday, April 25, 2018&lt;/h4&gt;
+
+&lt;p&gt;Sophie Qiu presented the freshly baked paper &lt;b&gt;Competence-Confidence Gap: A
+Threat to Female Developers’ Contribution on GitHub&lt;/b&gt; (Wang et al., ICSE,
+2018).
+The authors show that there is a Granger causality between female programmers’ raise of number
+of followers and their pull requests on GitHub. They claim that this is because
+the number of followers bridges women’s competence-confidence gap and reassures 
+female programmer that their contribution will be welcomed and
+valuable.
+Although this sounds a potential solution to encourage women to make
+contributions to open source softwares, the paper did not mention how these
+woemn earned new followers in the first place. The only example vaguely
+mentioned was that the female programmer looked cute, which is in fact not an
+acknowledgement of her programming ability.&lt;/p&gt;
+
+&lt;h4 id=&quot;wednesday-april-4-2018&quot;&gt;Wednesday, April 4, 2018&lt;/h4&gt;
+
+&lt;p&gt;Alan Jaffe presented the paper &lt;b&gt;&lt;a href=&quot;http://victorialin.net/pubs/tellina_tr_2017.pdf&quot;&gt;Program Synthesis from Natural Language Using
+Recurrent Neural Networks&lt;/a&gt;&lt;/b&gt; (Lin et al., UW-CSE, 2017).
+We often say there are two major coding styles: stackoverflow oriented
+programming and google oriented programming.
+The point it is making is that all the code we need are written, programmers
+only need to assemble them to make a executable program.
+I believe this can be easily replaced by machines and this paper is a proof.&lt;/p&gt;
+
+&lt;h4 id=&quot;wednesday-march-28-2018&quot;&gt;Wednesday, March 28, 2018&lt;/h4&gt;
+
+&lt;p&gt;Marat Valiet presented the paper &lt;b&gt;&lt;a href=&quot;https://arxiv.org/pdf/1802.07068.pdf&quot;&gt;Talent vs Luck: the role of
+randomness in success and failure&lt;/a&gt;&lt;/b&gt;.
+This paper is a cool example of using simulation to address real life problems.
+With a simple design they were able to model different funding policies and
+their outcome. The paper claims that in some setups with a large influence of
+luck, strategies based on random choices are more effective than traditional
+“naively meritocratic” models.&lt;/p&gt;
+
+&lt;p&gt;Somehow people had forgotten our good tradition of bringing snacks.&lt;/p&gt;
+
+&lt;h4 id=&quot;wednesday-march-21-2018&quot;&gt;Wednesday, March 21, 2018&lt;/h4&gt;
+
+&lt;p&gt;Bogdan Vasilescu presented the paper &lt;b&gt;Was my contribution fairly
+reviewed?” A Framework to Study the Perception of Fairness in Modern Code
+Reviews&lt;/b&gt; (Yang, ICSE, 2018). In the paper, many different aspects of fairness are discussed,
+which was very inspiring.&lt;/p&gt;
+
+&lt;h4 id=&quot;wednesday-feburary-21-2018&quot;&gt;Wednesday, Feburary 21, 2018&lt;/h4&gt;
+
+&lt;p&gt;Jeremy Lacomis presented the paper &lt;b&gt;&lt;a href=&quot;https://hal.inria.fr/hal-01691496/file/SEIP_63_Camera-Ready-no-copyright.pdf&quot;&gt;How
+to Design a Program Repair Bot? Insights from
+the Repairnator Project&lt;/a&gt;&lt;/b&gt; (Urli et al. ICSE 2018).&lt;/p&gt;
+
+&lt;p&gt;It is interesting to learn about online program repair bugs. When I was talking
+with a CMU undergrad at one of &lt;a href=&quot;https://www.facebook.com/groups/cmukgb/&quot;&gt;KGB&lt;/a&gt;’s activity, he was excited
+to learn that people are working on how to fix bugs automatically since he has
+some very unpleasant experience with debugging - so do many of us. It would be
+great if we could have a bug repairing bot with high accuracy in the future.
+However, as Marat pointed out, when the debugging process can be largely
+substituted by a robot, that means this language is dying. One example is
+Assembly. Here’s a quote from Paul Graham
+about the evolution of programming languages:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“What programmers in a hundred years will be looking for, most of all, is a
+language where you can throw together an unbelievably inefficient version 1 of a
+program with the least possible effort. At least, that’s how we’d describe it in
+present-day terms. What they’ll say is that they want a language that’s easy to
+program in.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Inefficient software isn’t gross. What’s gross is a language that makes
+programmers do needless work. Wasting programmer time is the true inefficiency,
+not wasting machine time. This will become ever more clear as computers get
+faster.” (source: &lt;a href=&quot;http://www.paulgraham.com/hundred.html&quot;&gt;http://www.paulgraham.com/hundred.html&lt;/a&gt;)&lt;/p&gt;
+
+&lt;h4 id=&quot;wednesday-feburary-14-2018&quot;&gt;Wednesday, Feburary 14, 2018&lt;/h4&gt;
+
+&lt;p&gt;Jason Yanwen Lin presented the paper
+&lt;b&gt;&lt;a href=&quot;http://haiyizhu.com/wp-content/uploads/2017/01/predicting-member-productivity-1.pdf&quot;&gt;Predicting
+Member Productivity and Withdrawal from
+Pre-Joining Attachments in Online Production Groups&lt;/a&gt;&lt;/b&gt; (Yu et al. CSCW 17).&lt;/p&gt;
+
+&lt;p&gt;This paper analysed withdrawl from Wikipedia groups using the attachment
+theories from social psychology. 
+There results show that pre-joining connections are important to online
+production groups. Speaking from my personal experience, I totally agree with
+the authors. Especially in online community, when you often interact with people
+who you don’t konw much personal information, it can be hard to form attachment.&lt;/p&gt;
+
+&lt;h4 id=&quot;wednesday-feburary-7-2018&quot;&gt;Wednesday, Feburary 7, 2018&lt;/h4&gt;
+
+&lt;p&gt;Shurui Zhou presented the paper &lt;b&gt;&lt;a href=&quot;http://gustavopinto.org/lost+found/icse2018.pdf&quot;&gt;Almost There: A Study on
+Quasi-Contributors in Open-Source Software Projects&lt;/a&gt;&lt;/b&gt; (Steinmarcher et al.,
+ICSE 2018).&lt;/p&gt;
+
+&lt;p&gt;It was interesting to learn that many people stopped making further
+contribution on GitHub after their first pull request was rejected. We also felt
+that there would be many future work worth pursuing. Thanks Shurui’s
+presentation as well as her snacks.&lt;/p&gt;
+
+&lt;p&gt;Since it was Alex’s meeting before he became a
+professor in Estonia, he also brought some
+pastries from Gates. We appreciated his intention of getting us fat. We will
+miss you.&lt;/p&gt;
+
+&lt;p&gt;By the way, I think Gates’ blueberry muffin is very nice, as well as banana &amp;amp;
+nuts in Scott. Nevertheless, no muffin compares to thos in Brown’s Blue Room or
+banana muffin at Corner Bakery Cafe.&lt;/p&gt;
+
+&lt;h4 id=&quot;wednesday-janurary-14-2018&quot;&gt;Wednesday, Janurary 14, 2018&lt;/h4&gt;
+
+&lt;p&gt;David Widder presented the paper &lt;b&gt;&lt;a href=&quot;https://ir.library.oregonstate.edu/downloads/wh246x964&quot;&gt;Open Source
+barriers to entry, revisited: A tools perspective&lt;/a&gt;&lt;/b&gt; (Mendez et al. ICSE 2018).&lt;/p&gt;
+
+&lt;p&gt;Professor Margaret Burnett’s team has been studying GitHub’s gender inclusive
+issues. Since men and women are biologically different statistically, tools
+should be designed to cater their different ways of thinking and engaging with
+software. I do not think software developing is an inheritly male dominated task. I
+believe that getting
+more women into software developing is a key to gender equality. Yes, I am a
+feminist.&lt;/p&gt;
+
+&lt;p&gt;Davis is very good at baking, but I think he should have given out his delicious
+brownies at the beginning of his presentation rather than at the end.&lt;/p&gt;
+
+&lt;h4 id=&quot;thusday-december-5-2017&quot;&gt;Thusday, December 5, 2017&lt;/h4&gt;
+
+&lt;p&gt;Sophie Qiu presented the paper &lt;b&gt;&lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S1071581916301033&quot;&gt;The influence of visual feedback and
+gender dynamics on performance,
+perception and communication strategies in CSCW&lt;/a&gt;&lt;/b&gt; (Koulouri et al.
+International Journal of Human-Computer Studies 2017).&lt;/p&gt;
+
+&lt;p&gt;This paper shows that while men are statistically better at navigation with help
+from visual signals, women can use verbal communication to compensate such
+weakness and achieve the same level of excellency in navitation tasks.
+GenderMag, which David Widder will present later, is in the same mindset that
+although men and women are statistically biologically different, well-designed
+tools can help both of them succeed.&lt;/p&gt;
+
+&lt;p&gt;Sophie did not know that green been pie could contain cream so she bought a lot
+of them. Luckily, she could bring them to Strudel meetings so that everyone can
+eat them and be merry.&lt;/p&gt;
+
+&lt;h4 id=&quot;tuesday-november-28-2017&quot;&gt;Tuesday, November 28, 2017&lt;/h4&gt;
+
+&lt;p&gt;Bogdan Vasilescu presented the paper &lt;b&gt;&lt;a href=&quot;http://ieeexplore.ieee.org/document/8031982/&quot;&gt;Code Coverage and Postrelease
+Defects: A Large-Scale Study on Open Source Projects&lt;/a&gt;&lt;/b&gt; (Kochhar et al. 2017).&lt;/p&gt;
+
+&lt;p&gt;This paper shows that code coverage in testing has insignificant correlation
+with the number of bugs at the project level of a software. Then my question
+was: how much test would be sufficient if a large software project could never be
+bug-free?&lt;/p&gt;
+
+&lt;p&gt;I do not remember what snack we had during that meeting.&lt;/p&gt;
+
+&lt;h4 id=&quot;tuesday-november-21-2017&quot;&gt;Tuesday, November 21, 2017&lt;/h4&gt;
+
+&lt;p&gt;Shurui Zhou presented the paper &lt;b&gt;&lt;a href=&quot;https://dl.acm.org/citation.cfm?id=3104225&quot;&gt;Some from here, some from
+there: cross-project code reuse in GitHub&lt;/a&gt;&lt;/b&gt; (Gharehyazie et al., MSR 2017).&lt;/p&gt;
+
+&lt;p&gt;This paper reminds me of two most popular ways of coding: Google-oriented coding
+and stackoverflow-oriented coding. It is expensive to write code from scratch,
+so understanding how code pieces are cloned across projects is useful.&lt;/p&gt;
+
+&lt;p&gt;I do not quite remember the snack but it might be Shurui’s Choco Pie.&lt;/p&gt;
+
+&lt;h4 id=&quot;tuesday-november-14-2017&quot;&gt;Tuesday, November 14, 2017&lt;/h4&gt;
+
+&lt;p&gt;Alexander Nolte presented the paper &lt;b&gt;&lt;a href=&quot;http://hci.stanford.edu/publications/2017/flashorgs/flash-orgs-chi-2017.pdf&quot;&gt;Flash Organizations:
+Crowdsourcing Complex Work by Structuring Crowds As Organizations&lt;/a&gt;&lt;/b&gt;.&lt;/p&gt;
+
+&lt;p&gt;It is a nice paper on how to more effectively form an software developing group.
+It was good to read some paper on HCI, which I was fascinated in but knew very
+little about.&lt;/p&gt;
+
+&lt;p&gt;Thanks for your cookies, Alex. I guess they came from La Prima Espresso in
+WEAN.&lt;/p&gt;
+
+&lt;h4 id=&quot;tuesday-november-7-2017&quot;&gt;Tuesday, November 7, 2017&lt;/h4&gt;
+
+&lt;p&gt;Alan Jaffe presented the paper &lt;b&gt;&lt;a href=&quot;https://arxiv.org/pdf/1708.09492.pdf&quot;&gt;Automatically Generating Commit Messages
+from Diffs Using Neural Machine Translation&lt;/a&gt;&lt;/b&gt; (Jiang et al., ASE
+2017).&lt;/p&gt;
+
+&lt;p&gt;It is an interesting application of the naturalness of code. I
+learned a lot about the idea of naturalness of code, as well as the fact
+that Alan is very good at baking pumpkin pies.&lt;/p&gt;
+
+&lt;h4 id=&quot;tuesday-october-31-2017&quot;&gt;Tuesday, October 31, 2017&lt;/h4&gt;
+
+&lt;p&gt;No meeting this week. STRUDEL was away attending 
+&lt;a href=&quot;http://ase2017.org&quot;&gt;ASE&lt;/a&gt; in Urbana-Champaign, IL and visiting
+Fiona at the &lt;a href=&quot;https://www.facebook.com/cincinnatizoo/&quot;&gt;Cincinnati Zoo&lt;/a&gt;.
+#teamfiona&lt;/p&gt;
+
+&lt;figure class=&quot;flickr&quot;&gt;
+  &lt;img class=&quot;flickr&quot; src=&quot;https://farm1.staticflickr.com/854/43180283944_379c88bef1_b.jpg&quot; srcset=&quot;https://farm1.staticflickr.com/854/43180283944_379c88bef1_m.jpg 240w, https://farm1.staticflickr.com/854/43180283944_379c88bef1_n.jpg 320w, https://farm1.staticflickr.com/854/43180283944_379c88bef1.jpg 500w, https://farm1.staticflickr.com/854/43180283944_379c88bef1_z.jpg 640w, https://farm1.staticflickr.com/854/43180283944_379c88bef1_c.jpg 800w, https://farm1.staticflickr.com/854/43180283944_379c88bef1_b.jpg 1024w&quot; sizes=&quot;100vw&quot; /&gt;
+  &lt;figcaption&gt;&lt;div class=&quot;license&quot;&gt;&amp;copy; Flickr/&lt;a href=&quot;https://www.flickr.com/photos/159982920@N04/43180283944/&quot;&gt;cmustrudel&lt;/a&gt; &lt;a href=&quot;&quot;&gt;All Rights Reserved&lt;/a&gt;&lt;/div&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h4 id=&quot;tuesday-october-24-2017&quot;&gt;Tuesday, October 24, 2017&lt;/h4&gt;
+
+&lt;p&gt;STRUDEL was proud to host &lt;b&gt;&lt;a href=&quot;http://www.win.tue.nl/~aserebre/&quot;&gt;Alexander 
+Serebrenik&lt;/a&gt;&lt;/b&gt; from TU Eindhoven, who talked about his recent work on mining 
+emotions from software engineering artifacts.
+We were all enjoying his talk as well as Sophie’s hazelnut wafel.&lt;/p&gt;
+
+&lt;figure class=&quot;flickr&quot;&gt;
+  &lt;img class=&quot;flickr&quot; src=&quot;https://farm2.staticflickr.com/1797/42993926095_5da646eee1_b.jpg&quot; srcset=&quot;https://farm2.staticflickr.com/1797/42993926095_5da646eee1_m.jpg 240w, https://farm2.staticflickr.com/1797/42993926095_5da646eee1_n.jpg 320w, https://farm2.staticflickr.com/1797/42993926095_5da646eee1.jpg 500w, https://farm2.staticflickr.com/1797/42993926095_5da646eee1_z.jpg 640w, https://farm2.staticflickr.com/1797/42993926095_5da646eee1_c.jpg 800w, https://farm2.staticflickr.com/1797/42993926095_5da646eee1_b.jpg 1024w&quot; sizes=&quot;100vw&quot; /&gt;
+  &lt;figcaption&gt;&lt;div class=&quot;license&quot;&gt;&amp;copy; Flickr/&lt;a href=&quot;https://www.flickr.com/photos/159982920@N04/42993926095/&quot;&gt;cmustrudel&lt;/a&gt; &lt;a href=&quot;&quot;&gt;All Rights Reserved&lt;/a&gt;&lt;/div&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h4 id=&quot;tuesday-october-17-2017&quot;&gt;Tuesday, October 17, 2017&lt;/h4&gt;
+
+&lt;p&gt;Sophie presented the paper &lt;b&gt;&lt;a href=&quot;http://www.cs.cmu.edu/~fmri/plosone/files/hp_PLOS_ONE.pdf&quot;&gt;Simultaneously
+Uncovering the Patterns of
+Brain Regions Involved in Different Story
+Reading Subprocesses&lt;/a&gt;&lt;/b&gt; (Wehbe et al., PLoS ONE 2014).&lt;/p&gt;
+
+&lt;p&gt;The researchers scanned participants brains while they were reading
+the ninth chapter of &lt;i&gt;Harry Potter and the Sorcerer’s Stone&lt;/i&gt;. They
+then trained a classifier that can distinguish which short passage the
+participants were reading based on the neural activity. The choice of
+this paper was to present group members another machine learning
+classifier that can process fMRI results. 
+It was very nice and sweet that David made apple raisin strudels.&lt;/p&gt;
+
+&lt;figure class=&quot;flickr&quot;&gt;
+  &lt;img class=&quot;flickr&quot; src=&quot;https://farm2.staticflickr.com/1837/43180283674_28b7c4d9d9_b.jpg&quot; srcset=&quot;https://farm2.staticflickr.com/1837/43180283674_28b7c4d9d9_m.jpg 240w, https://farm2.staticflickr.com/1837/43180283674_28b7c4d9d9_n.jpg 320w, https://farm2.staticflickr.com/1837/43180283674_28b7c4d9d9.jpg 500w, https://farm2.staticflickr.com/1837/43180283674_28b7c4d9d9_z.jpg 640w, https://farm2.staticflickr.com/1837/43180283674_28b7c4d9d9_c.jpg 800w, https://farm2.staticflickr.com/1837/43180283674_28b7c4d9d9_b.jpg 1024w&quot; sizes=&quot;100vw&quot; /&gt;
+  &lt;figcaption&gt;&lt;div class=&quot;license&quot;&gt;&amp;copy; Flickr/&lt;a href=&quot;https://www.flickr.com/photos/159982920@N04/43180283674/&quot;&gt;cmustrudel&lt;/a&gt; &lt;a href=&quot;&quot;&gt;All Rights Reserved&lt;/a&gt;&lt;/div&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h4 id=&quot;tuesday-october-10-2017&quot;&gt;Tuesday, October 10, 2017&lt;/h4&gt;
+
+&lt;p&gt;Marat presented the paper &lt;b&gt;&lt;a href=&quot;http://delivery.acm.org/10.1145/2540000/2531642/p831-backstrom.pdf?ip=24.238.13.130&amp;amp;id=2531642&amp;amp;acc=OA&amp;amp;key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E528920FC4509E774&amp;amp;CFID=993659916&amp;amp;CFTOKEN=60398709&amp;amp;__acm__=1509333674_18432c45ea35e7515bb15ff9492d27f0&quot;&gt;Romantic partnerships and the
+dispersion of social ties: a network analysis of relationship status on
+facebook&lt;/a&gt;&lt;/b&gt; (Backstrom et al, CSCW 2014).&lt;/p&gt;
+
+&lt;p&gt;This paper proposed to use
+dispersion, which measures “the extent to which two people’s mutual
+friends are not themselves well-connected,” in addition to embeddedness,
+which measures the number of mutural friends, to predict if two Facebook users 
+are in a romantic relationship. The accuracy of prediction increased 
+significantly when using the dispersion metric.
+Somehow, my impression of the paper smells like homemade banana bread.&lt;/p&gt;
+
+&lt;h4 id=&quot;tuesday-october-3-2017&quot;&gt;Tuesday, October 3, 2017&lt;/h4&gt;
+
+&lt;p&gt;David presented the paper &lt;b&gt;&lt;a href=&quot;https://yuchi1989.github.io/papers/fse17-ErrDoc.pdf&quot;&gt;Automatically
+Diagnosing and Repairing Error Handling Bugs in C&lt;/a&gt;&lt;/b&gt; (Tian and Ray, ESEC/FSE 2017).&lt;/p&gt;
+
+&lt;p&gt;This paper presents how to identify different types of bugs and how to correct
+them in C/C++ code. 
+Happy Mid-autumn festival and thanks Sophie for her mooncake!&lt;/p&gt;
+
+&lt;figure class=&quot;flickr&quot;&gt;
+  &lt;img class=&quot;flickr&quot; src=&quot;https://farm2.staticflickr.com/1793/42993925755_26aa2b1f4f_b.jpg&quot; srcset=&quot;https://farm2.staticflickr.com/1793/42993925755_26aa2b1f4f_m.jpg 240w, https://farm2.staticflickr.com/1793/42993925755_26aa2b1f4f_n.jpg 320w, https://farm2.staticflickr.com/1793/42993925755_26aa2b1f4f.jpg 500w, https://farm2.staticflickr.com/1793/42993925755_26aa2b1f4f_z.jpg 640w, https://farm2.staticflickr.com/1793/42993925755_26aa2b1f4f_c.jpg 800w, https://farm2.staticflickr.com/1793/42993925755_26aa2b1f4f_b.jpg 1024w&quot; sizes=&quot;100vw&quot; /&gt;
+  &lt;figcaption&gt;&lt;div class=&quot;license&quot;&gt;&amp;copy; Flickr/&lt;a href=&quot;https://www.flickr.com/photos/159982920@N04/42993925755/&quot;&gt;cmustrudel&lt;/a&gt; &lt;a href=&quot;&quot;&gt;All Rights Reserved&lt;/a&gt;&lt;/div&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h4 id=&quot;tuesday-september-26-2017&quot;&gt;Tuesday, September 26, 2017&lt;/h4&gt;
+
+&lt;p&gt;Jeremy presented the paper &lt;b&gt;&lt;a href=&quot;https://web.eecs.umich.edu/~weimerw/p/weimer-icse2017-preprint.pdf&quot;&gt;Decoding the representation of code in the
+brain: An fMRI study of code review and expertise&lt;/a&gt;&lt;/b&gt; (Floyd et al, ICSE 2017).&lt;/p&gt;
+
+&lt;p&gt;The researchers scanned participants’ brain while they were reviewing code or 
+prose. The findings suggest that reading code differs from reading natural 
+language, but less so for experts than for novices.&lt;/p&gt;
+
+&lt;h4 id=&quot;tuesday-september-19-2017&quot;&gt;Tuesday, September 19, 2017&lt;/h4&gt;
+
+&lt;p&gt;We had our first reading group meeting today! To celebrate, Bogdan brought 
+apple-cinnamon strudels for us. Nevertheless, these strudles were not as
+good as our discussion on the paper &lt;b&gt;&lt;a href=&quot;http://people.cs.umass.edu/~ameli/projects/fairness/papers/discriminationTesting.pdf&quot;&gt;Fairness Testing: 
+Testing Software for Discrimination&lt;/a&gt;&lt;/b&gt; (Galhotra et al, ESEC/FSE 2017) that 
+Bogdan presented at the meeting.&lt;/p&gt;
+
+&lt;figure class=&quot;flickr&quot;&gt;
+  &lt;img class=&quot;flickr&quot; src=&quot;https://farm1.staticflickr.com/941/42993925555_945c115392_b.jpg&quot; srcset=&quot;https://farm1.staticflickr.com/941/42993925555_945c115392_m.jpg 240w, https://farm1.staticflickr.com/941/42993925555_945c115392_n.jpg 320w, https://farm1.staticflickr.com/941/42993925555_945c115392.jpg 500w, https://farm1.staticflickr.com/941/42993925555_945c115392_z.jpg 640w, https://farm1.staticflickr.com/941/42993925555_945c115392_c.jpg 800w, https://farm1.staticflickr.com/941/42993925555_945c115392_b.jpg 1024w&quot; sizes=&quot;100vw&quot; /&gt;
+  &lt;figcaption&gt;&lt;div class=&quot;license&quot;&gt;&amp;copy; Flickr/&lt;a href=&quot;https://www.flickr.com/photos/159982920@N04/42993925555/&quot;&gt;cmustrudel&lt;/a&gt; &lt;a href=&quot;&quot;&gt;All Rights Reserved&lt;/a&gt;&lt;/div&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+</description>
+        <pubDate>Wed, 25 Jul 2018 15:19:34 +0000</pubDate>
+        <link>http://cmustrudel.github.io/blog/reading-group/reading-group-meeting</link>
+        <guid isPermaLink="true">http://cmustrudel.github.io/blog/reading-group/reading-group-meeting</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>reading-group</category>
+        
+      </item>
     
       <item>
         <title>Announcement: Papers accepted at ESEC/FSE 2018</title>
@@ -29,6 +388,8 @@ A Case Study of the PyPI Ecosystem&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
   &lt;img class=&quot;flickr&quot; src=&quot;https://farm8.staticflickr.com/7886/46948724931_37b0445ae8_o.jpg&quot; srcset=&quot;&quot; sizes=&quot;100vw&quot; width=&quot;320w&quot; /&gt;
   &lt;figcaption&gt;&lt;div class=&quot;license&quot;&gt;&amp;copy; Flickr/&lt;a href=&quot;https://www.flickr.com/photos/159982920@N04/46948724931/&quot;&gt;cmustrudel&lt;/a&gt; &lt;a href=&quot;&quot;&gt;All Rights Reserved&lt;/a&gt;&lt;/div&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
+
+&lt;!--more--&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
@@ -106,6 +467,8 @@ variation of:&lt;/p&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;Dr. Brian Kernighan is now a professor at &lt;b&gt;Princeton University&lt;/b&gt;.&lt;/p&gt;
+
+&lt;!--more--&gt;
 
 &lt;h4 id=&quot;multics&quot;&gt;MULTICS&lt;/h4&gt;
 
@@ -458,346 +821,6 @@ Liskov, and Dr. Goldwasser.&lt;/p&gt;
         <category>blog</category>
         
         <category>CMU</category>
-        
-      </item>
-    
-      <item>
-        <title>Blog: STRUDEL Reading Group Updates</title>
-        <description>&lt;h4 id=&quot;wednesday-june-27-2018&quot;&gt;Wednesday, June 27, 2018&lt;/h4&gt;
-
-&lt;p&gt;Our REU student Courtney volunteered to present the paper &lt;b&gt;Do Programmers Work
-at Night or During the Weekend&lt;/b&gt; (Claes et al., ICSE, 2018).
-Being a college freshman, Courtney did a wonderful job presenting this
-paper. 
-There are several different types of visualisation in this paper and we
-discussed their merits and defects.
-Hopefully Courtney would find these examples useful when she has to present her work.&lt;/p&gt;
-
-&lt;p&gt;Sophie brought a piece of raspberry dark chocolate and a piece of 92% dark
-chocolate. She presented the chocolate without any lable and left them to her
-lab mates to figure out.&lt;/p&gt;
-
-&lt;h4 id=&quot;wednesday-june-20-2018&quot;&gt;Wednesday, June 20, 2018&lt;/h4&gt;
-
-&lt;p&gt;David Widder presented the paper &lt;b&gt;Prevalence of Confusing Code in Software
-Projects&lt;/b&gt; (Gopstein et al., MSR, 2018). I really like this paper especially
-the confusing code they presented in the paper. Honestly, I think some of them
-are fun to be kept in the code. They can sift out those who do not have solid
-background in the C language and keep only experts in the develop team. 
-I do believe that projects like Linux require developers with C knowledge far
-beyond what one can learn from some online C tutorial or a single semester
-college course.
-However,
-I think it is also necessary to remove confusing code so that more people can
-get involved in the developing process. After all, more often than not, some
-pieces of code are excessively confusing, especially we now have the luxury to
-sacrifice disk space for code clarity.&lt;/p&gt;
-
-&lt;p&gt;Davide brought some brownies and Sophie brought some Chinese rice cake for the
-dragon boat festival.&lt;/p&gt;
-
-&lt;h4 id=&quot;wednesday-may-23-2018&quot;&gt;Wednesday, May 23, 2018&lt;/h4&gt;
-
-&lt;p&gt;After a few weeks’ practice talks done by several STRUDEL members, Sophie Qiu, yes, her again, presented the
-paper &lt;b&gt;Newcomers’ Barriers. . . Is That All? An Analysis of Mentors’ and
-Newcomers’ Barriers in OSS Projects&lt;/b&gt; (Balali et al., CSCW, 2018).
-The paper identified several barriers that mentors are facing in open source
-software projects. There are many newly found barriers but I think some of them
-can be combined with or subsumed under some old ones; some need more details or
-real instances. 
-I think the barriers that they had identified are important.
-However, I wish to see more practical and concrete solutions.&lt;/p&gt;
-
-&lt;h4 id=&quot;wednesday-april-25-2018&quot;&gt;Wednesday, April 25, 2018&lt;/h4&gt;
-
-&lt;p&gt;Sophie Qiu presented the freshly baked paper &lt;b&gt;Competence-Confidence Gap: A
-Threat to Female Developers’ Contribution on GitHub&lt;/b&gt; (Wang et al., ICSE,
-2018).
-The authors show that there is a Granger causality between female programmers’ raise of number
-of followers and their pull requests on GitHub. They claim that this is because
-the number of followers bridges women’s competence-confidence gap and reassures 
-female programmer that their contribution will be welcomed and
-valuable.
-Although this sounds a potential solution to encourage women to make
-contributions to open source softwares, the paper did not mention how these
-woemn earned new followers in the first place. The only example vaguely
-mentioned was that the female programmer looked cute, which is in fact not an
-acknowledgement of her programming ability.&lt;/p&gt;
-
-&lt;h4 id=&quot;wednesday-april-4-2018&quot;&gt;Wednesday, April 4, 2018&lt;/h4&gt;
-
-&lt;p&gt;Alan Jaffe presented the paper &lt;b&gt;&lt;a href=&quot;http://victorialin.net/pubs/tellina_tr_2017.pdf&quot;&gt;Program Synthesis from Natural Language Using
-Recurrent Neural Networks&lt;/a&gt;&lt;/b&gt; (Lin et al., UW-CSE, 2017).
-We often say there are two major coding styles: stackoverflow oriented
-programming and google oriented programming.
-The point it is making is that all the code we need are written, programmers
-only need to assemble them to make a executable program.
-I believe this can be easily replaced by machines and this paper is a proof.&lt;/p&gt;
-
-&lt;h4 id=&quot;wednesday-march-28-2018&quot;&gt;Wednesday, March 28, 2018&lt;/h4&gt;
-
-&lt;p&gt;Marat Valiet presented the paper &lt;b&gt;&lt;a href=&quot;https://arxiv.org/pdf/1802.07068.pdf&quot;&gt;Talent vs Luck: the role of
-randomness in success and failure&lt;/a&gt;&lt;/b&gt;.
-This paper is a cool example of using simulation to address real life problems.
-With a simple design they were able to model different funding policies and
-their outcome. The paper claims that in some setups with a large influence of
-luck, strategies based on random choices are more effective than traditional
-“naively meritocratic” models.&lt;/p&gt;
-
-&lt;p&gt;Somehow people had forgotten our good tradition of bringing snacks.&lt;/p&gt;
-
-&lt;h4 id=&quot;wednesday-march-21-2018&quot;&gt;Wednesday, March 21, 2018&lt;/h4&gt;
-
-&lt;p&gt;Bogdan Vasilescu presented the paper &lt;b&gt;Was my contribution fairly
-reviewed?” A Framework to Study the Perception of Fairness in Modern Code
-Reviews&lt;/b&gt; (Yang, ICSE, 2018). In the paper, many different aspects of fairness are discussed,
-which was very inspiring.&lt;/p&gt;
-
-&lt;h4 id=&quot;wednesday-feburary-21-2018&quot;&gt;Wednesday, Feburary 21, 2018&lt;/h4&gt;
-
-&lt;p&gt;Jeremy Lacomis presented the paper &lt;b&gt;&lt;a href=&quot;https://hal.inria.fr/hal-01691496/file/SEIP_63_Camera-Ready-no-copyright.pdf&quot;&gt;How
-to Design a Program Repair Bot? Insights from
-the Repairnator Project&lt;/a&gt;&lt;/b&gt; (Urli et al. ICSE 2018).&lt;/p&gt;
-
-&lt;p&gt;It is interesting to learn about online program repair bugs. When I was talking
-with a CMU undergrad at one of &lt;a href=&quot;https://www.facebook.com/groups/cmukgb/&quot;&gt;KGB&lt;/a&gt;’s activity, he was excited
-to learn that people are working on how to fix bugs automatically since he has
-some very unpleasant experience with debugging - so do many of us. It would be
-great if we could have a bug repairing bot with high accuracy in the future.
-However, as Marat pointed out, when the debugging process can be largely
-substituted by a robot, that means this language is dying. One example is
-Assembly. Here’s a quote from Paul Graham
-about the evolution of programming languages:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“What programmers in a hundred years will be looking for, most of all, is a
-language where you can throw together an unbelievably inefficient version 1 of a
-program with the least possible effort. At least, that’s how we’d describe it in
-present-day terms. What they’ll say is that they want a language that’s easy to
-program in.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Inefficient software isn’t gross. What’s gross is a language that makes
-programmers do needless work. Wasting programmer time is the true inefficiency,
-not wasting machine time. This will become ever more clear as computers get
-faster.” (source: &lt;a href=&quot;http://www.paulgraham.com/hundred.html&quot;&gt;http://www.paulgraham.com/hundred.html&lt;/a&gt;)&lt;/p&gt;
-
-&lt;h4 id=&quot;wednesday-feburary-14-2018&quot;&gt;Wednesday, Feburary 14, 2018&lt;/h4&gt;
-
-&lt;p&gt;Jason Yanwen Lin presented the paper
-&lt;b&gt;&lt;a href=&quot;http://haiyizhu.com/wp-content/uploads/2017/01/predicting-member-productivity-1.pdf&quot;&gt;Predicting
-Member Productivity and Withdrawal from
-Pre-Joining Attachments in Online Production Groups&lt;/a&gt;&lt;/b&gt; (Yu et al. CSCW 17).&lt;/p&gt;
-
-&lt;p&gt;This paper analysed withdrawl from Wikipedia groups using the attachment
-theories from social psychology. 
-There results show that pre-joining connections are important to online
-production groups. Speaking from my personal experience, I totally agree with
-the authors. Especially in online community, when you often interact with people
-who you don’t konw much personal information, it can be hard to form attachment.&lt;/p&gt;
-
-&lt;h4 id=&quot;wednesday-feburary-7-2018&quot;&gt;Wednesday, Feburary 7, 2018&lt;/h4&gt;
-
-&lt;p&gt;Shurui Zhou presented the paper &lt;b&gt;&lt;a href=&quot;http://gustavopinto.org/lost+found/icse2018.pdf&quot;&gt;Almost There: A Study on
-Quasi-Contributors in Open-Source Software Projects&lt;/a&gt;&lt;/b&gt; (Steinmarcher et al.,
-ICSE 2018).&lt;/p&gt;
-
-&lt;p&gt;It was interesting to learn that many people stopped making further
-contribution on GitHub after their first pull request was rejected. We also felt
-that there would be many future work worth pursuing. Thanks Shurui’s
-presentation as well as her snacks.&lt;/p&gt;
-
-&lt;p&gt;Since it was Alex’s meeting before he became a
-professor in Estonia, he also brought some
-pastries from Gates. We appreciated his intention of getting us fat. We will
-miss you.&lt;/p&gt;
-
-&lt;p&gt;By the way, I think Gates’ blueberry muffin is very nice, as well as banana &amp;amp;
-nuts in Scott. Nevertheless, no muffin compares to thos in Brown’s Blue Room or
-banana muffin at Corner Bakery Cafe.&lt;/p&gt;
-
-&lt;h4 id=&quot;wednesday-janurary-14-2018&quot;&gt;Wednesday, Janurary 14, 2018&lt;/h4&gt;
-
-&lt;p&gt;David Widder presented the paper &lt;b&gt;&lt;a href=&quot;https://ir.library.oregonstate.edu/downloads/wh246x964&quot;&gt;Open Source
-barriers to entry, revisited: A tools perspective&lt;/a&gt;&lt;/b&gt; (Mendez et al. ICSE 2018).&lt;/p&gt;
-
-&lt;p&gt;Professor Margaret Burnett’s team has been studying GitHub’s gender inclusive
-issues. Since men and women are biologically different statistically, tools
-should be designed to cater their different ways of thinking and engaging with
-software. I do not think software developing is an inheritly male dominated task. I
-believe that getting
-more women into software developing is a key to gender equality. Yes, I am a
-feminist.&lt;/p&gt;
-
-&lt;p&gt;Davis is very good at baking, but I think he should have given out his delicious
-brownies at the beginning of his presentation rather than at the end.&lt;/p&gt;
-
-&lt;h4 id=&quot;thusday-december-5-2017&quot;&gt;Thusday, December 5, 2017&lt;/h4&gt;
-
-&lt;p&gt;Sophie Qiu presented the paper &lt;b&gt;&lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S1071581916301033&quot;&gt;The influence of visual feedback and
-gender dynamics on performance,
-perception and communication strategies in CSCW&lt;/a&gt;&lt;/b&gt; (Koulouri et al.
-International Journal of Human-Computer Studies 2017).&lt;/p&gt;
-
-&lt;p&gt;This paper shows that while men are statistically better at navigation with help
-from visual signals, women can use verbal communication to compensate such
-weakness and achieve the same level of excellency in navitation tasks.
-GenderMag, which David Widder will present later, is in the same mindset that
-although men and women are statistically biologically different, well-designed
-tools can help both of them succeed.&lt;/p&gt;
-
-&lt;p&gt;Sophie did not know that green been pie could contain cream so she bought a lot
-of them. Luckily, she could bring them to Strudel meetings so that everyone can
-eat them and be merry.&lt;/p&gt;
-
-&lt;h4 id=&quot;tuesday-november-28-2017&quot;&gt;Tuesday, November 28, 2017&lt;/h4&gt;
-
-&lt;p&gt;Bogdan Vasilescu presented the paper &lt;b&gt;&lt;a href=&quot;http://ieeexplore.ieee.org/document/8031982/&quot;&gt;Code Coverage and Postrelease
-Defects: A Large-Scale Study on Open Source Projects&lt;/a&gt;&lt;/b&gt; (Kochhar et al. 2017).&lt;/p&gt;
-
-&lt;p&gt;This paper shows that code coverage in testing has insignificant correlation
-with the number of bugs at the project level of a software. Then my question
-was: how much test would be sufficient if a large software project could never be
-bug-free?&lt;/p&gt;
-
-&lt;p&gt;I do not remember what snack we had during that meeting.&lt;/p&gt;
-
-&lt;h4 id=&quot;tuesday-november-21-2017&quot;&gt;Tuesday, November 21, 2017&lt;/h4&gt;
-
-&lt;p&gt;Shurui Zhou presented the paper &lt;b&gt;&lt;a href=&quot;https://dl.acm.org/citation.cfm?id=3104225&quot;&gt;Some from here, some from
-there: cross-project code reuse in GitHub&lt;/a&gt;&lt;/b&gt; (Gharehyazie et al., MSR 2017).&lt;/p&gt;
-
-&lt;p&gt;This paper reminds me of two most popular ways of coding: Google-oriented coding
-and stackoverflow-oriented coding. It is expensive to write code from scratch,
-so understanding how code pieces are cloned across projects is useful.&lt;/p&gt;
-
-&lt;p&gt;I do not quite remember the snack but it might be Shurui’s Choco Pie.&lt;/p&gt;
-
-&lt;h4 id=&quot;tuesday-november-14-2017&quot;&gt;Tuesday, November 14, 2017&lt;/h4&gt;
-
-&lt;p&gt;Alexander Nolte presented the paper &lt;b&gt;&lt;a href=&quot;http://hci.stanford.edu/publications/2017/flashorgs/flash-orgs-chi-2017.pdf&quot;&gt;Flash Organizations:
-Crowdsourcing Complex Work by Structuring Crowds As Organizations&lt;/a&gt;&lt;/b&gt;.&lt;/p&gt;
-
-&lt;p&gt;It is a nice paper on how to more effectively form an software developing group.
-It was good to read some paper on HCI, which I was fascinated in but knew very
-little about.&lt;/p&gt;
-
-&lt;p&gt;Thanks for your cookies, Alex. I guess they came from La Prima Espresso in
-WEAN.&lt;/p&gt;
-
-&lt;h4 id=&quot;tuesday-november-7-2017&quot;&gt;Tuesday, November 7, 2017&lt;/h4&gt;
-
-&lt;p&gt;Alan Jaffe presented the paper &lt;b&gt;&lt;a href=&quot;https://arxiv.org/pdf/1708.09492.pdf&quot;&gt;Automatically Generating Commit Messages
-from Diffs Using Neural Machine Translation&lt;/a&gt;&lt;/b&gt; (Jiang et al., ASE
-2017).&lt;/p&gt;
-
-&lt;p&gt;It is an interesting application of the naturalness of code. I
-learned a lot about the idea of naturalness of code, as well as the fact
-that Alan is very good at baking pumpkin pies.&lt;/p&gt;
-
-&lt;h4 id=&quot;tuesday-october-31-2017&quot;&gt;Tuesday, October 31, 2017&lt;/h4&gt;
-
-&lt;p&gt;No meeting this week. STRUDEL was away attending 
-&lt;a href=&quot;http://ase2017.org&quot;&gt;ASE&lt;/a&gt; in Urbana-Champaign, IL and visiting
-Fiona at the &lt;a href=&quot;https://www.facebook.com/cincinnatizoo/&quot;&gt;Cincinnati Zoo&lt;/a&gt;.
-#teamfiona&lt;/p&gt;
-
-&lt;figure class=&quot;flickr&quot;&gt;
-  &lt;img class=&quot;flickr&quot; src=&quot;https://farm1.staticflickr.com/854/43180283944_379c88bef1_b.jpg&quot; srcset=&quot;https://farm1.staticflickr.com/854/43180283944_379c88bef1_m.jpg 240w, https://farm1.staticflickr.com/854/43180283944_379c88bef1_n.jpg 320w, https://farm1.staticflickr.com/854/43180283944_379c88bef1.jpg 500w, https://farm1.staticflickr.com/854/43180283944_379c88bef1_z.jpg 640w, https://farm1.staticflickr.com/854/43180283944_379c88bef1_c.jpg 800w, https://farm1.staticflickr.com/854/43180283944_379c88bef1_b.jpg 1024w&quot; sizes=&quot;100vw&quot; /&gt;
-  &lt;figcaption&gt;&lt;div class=&quot;license&quot;&gt;&amp;copy; Flickr/&lt;a href=&quot;https://www.flickr.com/photos/159982920@N04/43180283944/&quot;&gt;cmustrudel&lt;/a&gt; &lt;a href=&quot;&quot;&gt;All Rights Reserved&lt;/a&gt;&lt;/div&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h4 id=&quot;tuesday-october-24-2017&quot;&gt;Tuesday, October 24, 2017&lt;/h4&gt;
-
-&lt;p&gt;STRUDEL was proud to host &lt;b&gt;&lt;a href=&quot;http://www.win.tue.nl/~aserebre/&quot;&gt;Alexander 
-Serebrenik&lt;/a&gt;&lt;/b&gt; from TU Eindhoven, who talked about his recent work on mining 
-emotions from software engineering artifacts.
-We were all enjoying his talk as well as Sophie’s hazelnut wafel.&lt;/p&gt;
-
-&lt;figure class=&quot;flickr&quot;&gt;
-  &lt;img class=&quot;flickr&quot; src=&quot;https://farm2.staticflickr.com/1797/42993926095_5da646eee1_b.jpg&quot; srcset=&quot;https://farm2.staticflickr.com/1797/42993926095_5da646eee1_m.jpg 240w, https://farm2.staticflickr.com/1797/42993926095_5da646eee1_n.jpg 320w, https://farm2.staticflickr.com/1797/42993926095_5da646eee1.jpg 500w, https://farm2.staticflickr.com/1797/42993926095_5da646eee1_z.jpg 640w, https://farm2.staticflickr.com/1797/42993926095_5da646eee1_c.jpg 800w, https://farm2.staticflickr.com/1797/42993926095_5da646eee1_b.jpg 1024w&quot; sizes=&quot;100vw&quot; /&gt;
-  &lt;figcaption&gt;&lt;div class=&quot;license&quot;&gt;&amp;copy; Flickr/&lt;a href=&quot;https://www.flickr.com/photos/159982920@N04/42993926095/&quot;&gt;cmustrudel&lt;/a&gt; &lt;a href=&quot;&quot;&gt;All Rights Reserved&lt;/a&gt;&lt;/div&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h4 id=&quot;tuesday-october-17-2017&quot;&gt;Tuesday, October 17, 2017&lt;/h4&gt;
-
-&lt;p&gt;Sophie presented the paper &lt;b&gt;&lt;a href=&quot;http://www.cs.cmu.edu/~fmri/plosone/files/hp_PLOS_ONE.pdf&quot;&gt;Simultaneously
-Uncovering the Patterns of
-Brain Regions Involved in Different Story
-Reading Subprocesses&lt;/a&gt;&lt;/b&gt; (Wehbe et al., PLoS ONE 2014).&lt;/p&gt;
-
-&lt;p&gt;The researchers scanned participants brains while they were reading
-the ninth chapter of &lt;i&gt;Harry Potter and the Sorcerer’s Stone&lt;/i&gt;. They
-then trained a classifier that can distinguish which short passage the
-participants were reading based on the neural activity. The choice of
-this paper was to present group members another machine learning
-classifier that can process fMRI results. 
-It was very nice and sweet that David made apple raisin strudels.&lt;/p&gt;
-
-&lt;figure class=&quot;flickr&quot;&gt;
-  &lt;img class=&quot;flickr&quot; src=&quot;https://farm2.staticflickr.com/1837/43180283674_28b7c4d9d9_b.jpg&quot; srcset=&quot;https://farm2.staticflickr.com/1837/43180283674_28b7c4d9d9_m.jpg 240w, https://farm2.staticflickr.com/1837/43180283674_28b7c4d9d9_n.jpg 320w, https://farm2.staticflickr.com/1837/43180283674_28b7c4d9d9.jpg 500w, https://farm2.staticflickr.com/1837/43180283674_28b7c4d9d9_z.jpg 640w, https://farm2.staticflickr.com/1837/43180283674_28b7c4d9d9_c.jpg 800w, https://farm2.staticflickr.com/1837/43180283674_28b7c4d9d9_b.jpg 1024w&quot; sizes=&quot;100vw&quot; /&gt;
-  &lt;figcaption&gt;&lt;div class=&quot;license&quot;&gt;&amp;copy; Flickr/&lt;a href=&quot;https://www.flickr.com/photos/159982920@N04/43180283674/&quot;&gt;cmustrudel&lt;/a&gt; &lt;a href=&quot;&quot;&gt;All Rights Reserved&lt;/a&gt;&lt;/div&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h4 id=&quot;tuesday-october-10-2017&quot;&gt;Tuesday, October 10, 2017&lt;/h4&gt;
-
-&lt;p&gt;Marat presented the paper &lt;b&gt;&lt;a href=&quot;http://delivery.acm.org/10.1145/2540000/2531642/p831-backstrom.pdf?ip=24.238.13.130&amp;amp;id=2531642&amp;amp;acc=OA&amp;amp;key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E528920FC4509E774&amp;amp;CFID=993659916&amp;amp;CFTOKEN=60398709&amp;amp;__acm__=1509333674_18432c45ea35e7515bb15ff9492d27f0&quot;&gt;Romantic partnerships and the
-dispersion of social ties: a network analysis of relationship status on
-facebook&lt;/a&gt;&lt;/b&gt; (Backstrom et al, CSCW 2014).&lt;/p&gt;
-
-&lt;p&gt;This paper proposed to use
-dispersion, which measures “the extent to which two people’s mutual
-friends are not themselves well-connected,” in addition to embeddedness,
-which measures the number of mutural friends, to predict if two Facebook users 
-are in a romantic relationship. The accuracy of prediction increased 
-significantly when using the dispersion metric.
-Somehow, my impression of the paper smells like homemade banana bread.&lt;/p&gt;
-
-&lt;h4 id=&quot;tuesday-october-3-2017&quot;&gt;Tuesday, October 3, 2017&lt;/h4&gt;
-
-&lt;p&gt;David presented the paper &lt;b&gt;&lt;a href=&quot;https://yuchi1989.github.io/papers/fse17-ErrDoc.pdf&quot;&gt;Automatically
-Diagnosing and Repairing Error Handling Bugs in C&lt;/a&gt;&lt;/b&gt; (Tian and Ray, ESEC/FSE 2017).&lt;/p&gt;
-
-&lt;p&gt;This paper presents how to identify different types of bugs and how to correct
-them in C/C++ code. 
-Happy Mid-autumn festival and thanks Sophie for her mooncake!&lt;/p&gt;
-
-&lt;figure class=&quot;flickr&quot;&gt;
-  &lt;img class=&quot;flickr&quot; src=&quot;https://farm2.staticflickr.com/1793/42993925755_26aa2b1f4f_b.jpg&quot; srcset=&quot;https://farm2.staticflickr.com/1793/42993925755_26aa2b1f4f_m.jpg 240w, https://farm2.staticflickr.com/1793/42993925755_26aa2b1f4f_n.jpg 320w, https://farm2.staticflickr.com/1793/42993925755_26aa2b1f4f.jpg 500w, https://farm2.staticflickr.com/1793/42993925755_26aa2b1f4f_z.jpg 640w, https://farm2.staticflickr.com/1793/42993925755_26aa2b1f4f_c.jpg 800w, https://farm2.staticflickr.com/1793/42993925755_26aa2b1f4f_b.jpg 1024w&quot; sizes=&quot;100vw&quot; /&gt;
-  &lt;figcaption&gt;&lt;div class=&quot;license&quot;&gt;&amp;copy; Flickr/&lt;a href=&quot;https://www.flickr.com/photos/159982920@N04/42993925755/&quot;&gt;cmustrudel&lt;/a&gt; &lt;a href=&quot;&quot;&gt;All Rights Reserved&lt;/a&gt;&lt;/div&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h4 id=&quot;tuesday-september-26-2017&quot;&gt;Tuesday, September 26, 2017&lt;/h4&gt;
-
-&lt;p&gt;Jeremy presented the paper &lt;b&gt;&lt;a href=&quot;https://web.eecs.umich.edu/~weimerw/p/weimer-icse2017-preprint.pdf&quot;&gt;Decoding the representation of code in the
-brain: An fMRI study of code review and expertise&lt;/a&gt;&lt;/b&gt; (Floyd et al, ICSE 2017).&lt;/p&gt;
-
-&lt;p&gt;The researchers scanned participants’ brain while they were reviewing code or 
-prose. The findings suggest that reading code differs from reading natural 
-language, but less so for experts than for novices.&lt;/p&gt;
-
-&lt;h4 id=&quot;tuesday-september-19-2017&quot;&gt;Tuesday, September 19, 2017&lt;/h4&gt;
-
-&lt;p&gt;We had our first reading group meeting today! To celebrate, Bogdan brought 
-apple-cinnamon strudels for us. Nevertheless, these strudles were not as
-good as our discussion on the paper &lt;b&gt;&lt;a href=&quot;http://people.cs.umass.edu/~ameli/projects/fairness/papers/discriminationTesting.pdf&quot;&gt;Fairness Testing: 
-Testing Software for Discrimination&lt;/a&gt;&lt;/b&gt; (Galhotra et al, ESEC/FSE 2017) that 
-Bogdan presented at the meeting.&lt;/p&gt;
-
-&lt;figure class=&quot;flickr&quot;&gt;
-  &lt;img class=&quot;flickr&quot; src=&quot;https://farm1.staticflickr.com/941/42993925555_945c115392_b.jpg&quot; srcset=&quot;https://farm1.staticflickr.com/941/42993925555_945c115392_m.jpg 240w, https://farm1.staticflickr.com/941/42993925555_945c115392_n.jpg 320w, https://farm1.staticflickr.com/941/42993925555_945c115392.jpg 500w, https://farm1.staticflickr.com/941/42993925555_945c115392_z.jpg 640w, https://farm1.staticflickr.com/941/42993925555_945c115392_c.jpg 800w, https://farm1.staticflickr.com/941/42993925555_945c115392_b.jpg 1024w&quot; sizes=&quot;100vw&quot; /&gt;
-  &lt;figcaption&gt;&lt;div class=&quot;license&quot;&gt;&amp;copy; Flickr/&lt;a href=&quot;https://www.flickr.com/photos/159982920@N04/42993925555/&quot;&gt;cmustrudel&lt;/a&gt; &lt;a href=&quot;&quot;&gt;All Rights Reserved&lt;/a&gt;&lt;/div&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-</description>
-        <pubDate>Thu, 31 May 2018 15:19:34 +0000</pubDate>
-        <link>http://cmustrudel.github.io/blog/reading-group/reading-group-meeting</link>
-        <guid isPermaLink="true">http://cmustrudel.github.io/blog/reading-group/reading-group-meeting</guid>
-        
-        
-        <category>blog</category>
-        
-        <category>reading-group</category>
         
       </item>
     
