@@ -327,27 +327,6 @@ alumni:
       - title: link
         url: http://collab.di.uniba.it/fabio/
 
-# alumni:
-#  - name: Kyle Kovacs
-#    position: UC Berkeley, EECS
-#    img: kyle.jpg
-#    strudel: apple-cinnamon
-#    social:
-#      - title: envelope #use for email address
-#        url: mailto:kylekovacs@berkeley.edu
-##      - title: twitter
-##        url: http://twitter.com/handle
-
-# Clients information. Shown on Home and About pages.
-#clients:
-#  - name: dribbble
-#    img: client01.png
-#  - name: Code is Poetry
-#    img: client02.png
-#  - name: Vimeo
-#    img: client03.png
-#  - name: VimeoPro
-#    img: client04.png
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
 about: "We study complex socio-technical systems such as GitHub and Stack Overflow using data science methods."

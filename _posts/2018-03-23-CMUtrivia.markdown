@@ -49,6 +49,8 @@ variation of:
 
 Dr. Brian Kernighan is now a professor at <b>Princeton University</b>. 
 
+<!--more-->
+
 #### MULTICS
 
 <b>March 24, 2018</b>

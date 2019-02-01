@@ -31,6 +31,7 @@ Check out the [preprint](../papers/swan.pdf) for more details.
 <img src="/assets/img/blog/hour_johntheripper.jpg" width="300"/>
 <img src="/assets/img/blog/hour_cs-studio.jpg" width="300"/>
 
+<!--more-->
 
 *Abstract*:
 

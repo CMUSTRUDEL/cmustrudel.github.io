@@ -21,6 +21,8 @@ A Case Study of the PyPI Ecosystem**](../papers/fse18sustainability.pdf)
 
 {% flickr 46948724931 width="320w" %}
 
+<!--more-->
+
 - We also have a cool paper on Dockerized continuous deployment pipelines 
 with our UC Davis collaborators:
 

@@ -25,6 +25,8 @@ More details about the research [here](../../projects/badges/).
 
 - Alan and Jeremy have a paper on decompilation at ICPC:
 
+<!--more-->
+
 [**Meaningful Variable Names for Decompiled Code: A Machine Translation 
 Approach**](../papers/icpc18decompilation.pdf)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "STRUDEL Reading Group Updates"
-date:   2018-05-31 15:19:34
+title:  "STRUDEL Reading Group updates"
+date:   2018-07-25 15:19:34
 author: Sophie
 categories: 
 - blog
@@ -9,6 +9,19 @@ categories:
 #img: strudel.png
 thumb: strudel-square-003.jpg
 ---
+
+#### Wednesday, July 25, 2018
+
+So sad. Today was the last group meeting of the summer season.
+Thanks a lot to our REU students Sophie and Courtney for spending their
+summer with us. We appreciate your visit.
+
+Here's all of us wearing STRUDEL gear:
+
+{% flickr 33073145978 %}
+<!--more-->
+{% flickr 33073145848 %}
+
 
 #### Wednesday, June 27, 2018
 
