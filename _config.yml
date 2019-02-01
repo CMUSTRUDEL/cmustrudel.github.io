@@ -154,7 +154,7 @@ grads:
   - name: Michelle Cao
     position: MS Computer Science
     img: michelle.jpg
-    strudel: 
+    strudel: apple
     social:
       - title: envelope #use for email address
         url: mailto:minxuanc@andrew.cmu.edu
@@ -194,7 +194,7 @@ grads:
 #      - title: twitter
 #        url: http://twitter.com/handle
       - title: link
-        url: https://scholar.google.com/citations?user=STCUzF8AAAAJ
+        url: https://dayenam.com/
   - name: Huilian (Sophie) Qiu
     position: PhD Societal Computing, 2017-
     img: sophie.jpg
