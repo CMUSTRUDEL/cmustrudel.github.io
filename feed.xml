@@ -5,8 +5,8 @@
     <description>The Socio-Technical Research Using Data Excavation Lab at Carnegie Mellon University</description>
     <link>http://cmustrudel.github.io/</link>
     <atom:link href="http://cmustrudel.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 29 Jan 2019 20:08:17 +0000</pubDate>
-    <lastBuildDate>Tue, 29 Jan 2019 20:08:17 +0000</lastBuildDate>
+    <pubDate>Fri, 01 Feb 2019 05:38:01 +0000</pubDate>
+    <lastBuildDate>Fri, 01 Feb 2019 05:38:01 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -129,8 +129,10 @@ advisor Alonzo Church, and &lt;b&gt;Turing Machine&lt;/b&gt;.&lt;/p&gt;
 
 &lt;p&gt;A quick trivia.&lt;/p&gt;
 
-&lt;!-- &lt;img src=&quot;/assets/img/pics/05-25-18-turing.jpg&quot; style=&quot;width:400px;&quot;/&gt; --&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/159982920@N04/42089453790/in/album-72157694108312660/&quot; title=&quot;05-25-18-turing&quot;&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1835/42089453790_14d36fbf72_z.jpg&quot; alt=&quot;05-25-18-turing&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;figure class=&quot;flickr&quot;&gt;
+  &lt;img class=&quot;flickr&quot; src=&quot;https://farm2.staticflickr.com/1835/42089453790_688fa58bb8_o.jpg&quot; srcset=&quot;https://farm2.staticflickr.com/1835/42089453790_14d36fbf72_n.jpg 240w&quot; sizes=&quot;100vw&quot; /&gt;
+  &lt;figcaption&gt;&lt;div class=&quot;license&quot;&gt;&amp;copy; Flickr/&lt;a href=&quot;https://www.flickr.com/photos/159982920@N04/42089453790/&quot;&gt;cmustrudel&lt;/a&gt; &lt;a href=&quot;&quot;&gt;All Rights Reserved&lt;/a&gt;&lt;/div&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;h4 id=&quot;alan-perlis-1966&quot;&gt;Alan Perlis, 1966.&lt;/h4&gt;
 
@@ -644,8 +646,10 @@ that Alan is very good at baking pumpkin pies.&lt;/p&gt;
 Fiona at the &lt;a href=&quot;https://www.facebook.com/cincinnatizoo/&quot;&gt;Cincinnati Zoo&lt;/a&gt;.
 #teamfiona&lt;/p&gt;
 
-&lt;!-- &lt;img src=&quot;/assets/img/pics/10-31-17-fiona.jpg&quot; style=&quot;width: 400px;&quot;/&gt; --&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/159982920@N04/43180283944/in/album-72157694108312660/&quot; title=&quot;10-31-17-fiona&quot;&gt;&lt;img src=&quot;https://farm1.staticflickr.com/854/43180283944_379c88bef1_z.jpg&quot; alt=&quot;10-31-17-fiona&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;figure class=&quot;flickr&quot;&gt;
+  &lt;img class=&quot;flickr&quot; src=&quot;https://farm1.staticflickr.com/854/43180283944_379c88bef1_b.jpg&quot; srcset=&quot;https://farm1.staticflickr.com/854/43180283944_379c88bef1_m.jpg 240w, https://farm1.staticflickr.com/854/43180283944_379c88bef1_n.jpg 320w, https://farm1.staticflickr.com/854/43180283944_379c88bef1.jpg 500w, https://farm1.staticflickr.com/854/43180283944_379c88bef1_z.jpg 640w, https://farm1.staticflickr.com/854/43180283944_379c88bef1_c.jpg 800w, https://farm1.staticflickr.com/854/43180283944_379c88bef1_b.jpg 1024w&quot; sizes=&quot;100vw&quot; /&gt;
+  &lt;figcaption&gt;&lt;div class=&quot;license&quot;&gt;&amp;copy; Flickr/&lt;a href=&quot;https://www.flickr.com/photos/159982920@N04/43180283944/&quot;&gt;cmustrudel&lt;/a&gt; &lt;a href=&quot;&quot;&gt;All Rights Reserved&lt;/a&gt;&lt;/div&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;h4 id=&quot;tuesday-october-24-2017&quot;&gt;Tuesday, October 24, 2017&lt;/h4&gt;
 
@@ -654,8 +658,10 @@ Serebrenik&lt;/a&gt;&lt;/b&gt; from TU Eindhoven, who talked about his recent wo
 emotions from software engineering artifacts.
 We were all enjoying his talk as well as Sophie’s hazelnut wafel.&lt;/p&gt;
 
-&lt;!-- &lt;img src=&quot;/assets/img/pics/10-24-17-serebrenik.jpg&quot; style=&quot;width: 400px;&quot;/&gt; --&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/159982920@N04/42993926095/in/album-72157694108312660/&quot; title=&quot;10-24-17-serebrenik&quot;&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1797/42993926095_5da646eee1_z.jpg&quot; alt=&quot;10-24-17-serebrenik&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;figure class=&quot;flickr&quot;&gt;
+  &lt;img class=&quot;flickr&quot; src=&quot;https://farm2.staticflickr.com/1797/42993926095_5da646eee1_b.jpg&quot; srcset=&quot;https://farm2.staticflickr.com/1797/42993926095_5da646eee1_m.jpg 240w, https://farm2.staticflickr.com/1797/42993926095_5da646eee1_n.jpg 320w, https://farm2.staticflickr.com/1797/42993926095_5da646eee1.jpg 500w, https://farm2.staticflickr.com/1797/42993926095_5da646eee1_z.jpg 640w, https://farm2.staticflickr.com/1797/42993926095_5da646eee1_c.jpg 800w, https://farm2.staticflickr.com/1797/42993926095_5da646eee1_b.jpg 1024w&quot; sizes=&quot;100vw&quot; /&gt;
+  &lt;figcaption&gt;&lt;div class=&quot;license&quot;&gt;&amp;copy; Flickr/&lt;a href=&quot;https://www.flickr.com/photos/159982920@N04/42993926095/&quot;&gt;cmustrudel&lt;/a&gt; &lt;a href=&quot;&quot;&gt;All Rights Reserved&lt;/a&gt;&lt;/div&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;h4 id=&quot;tuesday-october-17-2017&quot;&gt;Tuesday, October 17, 2017&lt;/h4&gt;
 
@@ -672,8 +678,10 @@ this paper was to present group members another machine learning
 classifier that can process fMRI results. 
 It was very nice and sweet that David made apple raisin strudels.&lt;/p&gt;
 
-&lt;!-- &lt;img src=&quot;/assets/img/pics/10-17-17-strudel.jpg&quot; style=&quot;width: 400px;&quot;/&gt; --&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/159982920@N04/43180283674/in/album-72157694108312660/&quot; title=&quot;10-17-17-strudel&quot;&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1837/43180283674_28b7c4d9d9_z.jpg&quot; alt=&quot;10-17-17-strudel&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;figure class=&quot;flickr&quot;&gt;
+  &lt;img class=&quot;flickr&quot; src=&quot;https://farm2.staticflickr.com/1837/43180283674_28b7c4d9d9_b.jpg&quot; srcset=&quot;https://farm2.staticflickr.com/1837/43180283674_28b7c4d9d9_m.jpg 240w, https://farm2.staticflickr.com/1837/43180283674_28b7c4d9d9_n.jpg 320w, https://farm2.staticflickr.com/1837/43180283674_28b7c4d9d9.jpg 500w, https://farm2.staticflickr.com/1837/43180283674_28b7c4d9d9_z.jpg 640w, https://farm2.staticflickr.com/1837/43180283674_28b7c4d9d9_c.jpg 800w, https://farm2.staticflickr.com/1837/43180283674_28b7c4d9d9_b.jpg 1024w&quot; sizes=&quot;100vw&quot; /&gt;
+  &lt;figcaption&gt;&lt;div class=&quot;license&quot;&gt;&amp;copy; Flickr/&lt;a href=&quot;https://www.flickr.com/photos/159982920@N04/43180283674/&quot;&gt;cmustrudel&lt;/a&gt; &lt;a href=&quot;&quot;&gt;All Rights Reserved&lt;/a&gt;&lt;/div&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;h4 id=&quot;tuesday-october-10-2017&quot;&gt;Tuesday, October 10, 2017&lt;/h4&gt;
 
@@ -698,8 +706,10 @@ Diagnosing and Repairing Error Handling Bugs in C&lt;/a&gt;&lt;/b&gt; (Tian and 
 them in C/C++ code. 
 Happy Mid-autumn festival and thanks Sophie for her mooncake!&lt;/p&gt;
 
-&lt;!-- &lt;img src=&quot;/assets/img/pics/10-03-17-moon.jpg&quot; style=&quot;width: 300px;&quot;/&gt; --&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/159982920@N04/42993925755/in/album-72157694108312660/&quot; title=&quot;10-03-17-moon&quot;&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1793/42993925755_26aa2b1f4f_z.jpg&quot; alt=&quot;10-03-17-moon&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;figure class=&quot;flickr&quot;&gt;
+  &lt;img class=&quot;flickr&quot; src=&quot;https://farm2.staticflickr.com/1793/42993925755_26aa2b1f4f_b.jpg&quot; srcset=&quot;https://farm2.staticflickr.com/1793/42993925755_26aa2b1f4f_m.jpg 240w, https://farm2.staticflickr.com/1793/42993925755_26aa2b1f4f_n.jpg 320w, https://farm2.staticflickr.com/1793/42993925755_26aa2b1f4f.jpg 500w, https://farm2.staticflickr.com/1793/42993925755_26aa2b1f4f_z.jpg 640w, https://farm2.staticflickr.com/1793/42993925755_26aa2b1f4f_c.jpg 800w, https://farm2.staticflickr.com/1793/42993925755_26aa2b1f4f_b.jpg 1024w&quot; sizes=&quot;100vw&quot; /&gt;
+  &lt;figcaption&gt;&lt;div class=&quot;license&quot;&gt;&amp;copy; Flickr/&lt;a href=&quot;https://www.flickr.com/photos/159982920@N04/42993925755/&quot;&gt;cmustrudel&lt;/a&gt; &lt;a href=&quot;&quot;&gt;All Rights Reserved&lt;/a&gt;&lt;/div&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;h4 id=&quot;tuesday-september-26-2017&quot;&gt;Tuesday, September 26, 2017&lt;/h4&gt;
 
@@ -718,8 +728,11 @@ good as our discussion on the paper &lt;b&gt;&lt;a href=&quot;http://people.cs.u
 Testing Software for Discrimination&lt;/a&gt;&lt;/b&gt; (Galhotra et al, ESEC/FSE 2017) that 
 Bogdan presented at the meeting.&lt;/p&gt;
 
-&lt;!-- &lt;img src=&quot;/assets/img/pics/09-19-17-group.jpg&quot; style=&quot;width: 400px;&quot;/&gt; --&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/159982920@N04/42993925555/in/album-72157694108312660/&quot; title=&quot;09-19-17-group&quot;&gt;&lt;img src=&quot;https://farm1.staticflickr.com/941/42993925555_945c115392_z.jpg&quot; alt=&quot;09-19-17-group&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;figure class=&quot;flickr&quot;&gt;
+  &lt;img class=&quot;flickr&quot; src=&quot;https://farm1.staticflickr.com/941/42993925555_945c115392_b.jpg&quot; srcset=&quot;https://farm1.staticflickr.com/941/42993925555_945c115392_m.jpg 240w, https://farm1.staticflickr.com/941/42993925555_945c115392_n.jpg 320w, https://farm1.staticflickr.com/941/42993925555_945c115392.jpg 500w, https://farm1.staticflickr.com/941/42993925555_945c115392_z.jpg 640w, https://farm1.staticflickr.com/941/42993925555_945c115392_c.jpg 800w, https://farm1.staticflickr.com/941/42993925555_945c115392_b.jpg 1024w&quot; sizes=&quot;100vw&quot; /&gt;
+  &lt;figcaption&gt;&lt;div class=&quot;license&quot;&gt;&amp;copy; Flickr/&lt;a href=&quot;https://www.flickr.com/photos/159982920@N04/42993925555/&quot;&gt;cmustrudel&lt;/a&gt; &lt;a href=&quot;&quot;&gt;All Rights Reserved&lt;/a&gt;&lt;/div&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
 </description>
         <pubDate>Thu, 31 May 2018 15:19:34 +0000</pubDate>
         <link>http://cmustrudel.github.io/blog/reading-group/reading-group-meeting</link>
@@ -741,12 +754,18 @@ Hope this blog can tell you more about CMU.&lt;/p&gt;
 
 &lt;h4 id=&quot;may-25-2018&quot;&gt;May 25, 2018.&lt;/h4&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/pics/05-25-18-high-five.jpg&quot; style=&quot;width: 400px;&quot; /&gt;&lt;/p&gt;
+&lt;figure class=&quot;flickr&quot;&gt;
+  &lt;img class=&quot;flickr&quot; src=&quot;https://farm1.staticflickr.com/855/43180286524_3e4e997f59_o.jpg&quot; srcset=&quot;https://farm1.staticflickr.com/855/43180286524_ca1271e813_n.jpg 240w&quot; sizes=&quot;100vw&quot; width=&quot;320w&quot; /&gt;
+  &lt;figcaption&gt;&lt;div class=&quot;license&quot;&gt;&amp;copy; Flickr/&lt;a href=&quot;https://www.flickr.com/photos/159982920@N04/43180286524/&quot;&gt;cmustrudel&lt;/a&gt; &lt;a href=&quot;&quot;&gt;All Rights Reserved&lt;/a&gt;&lt;/div&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;Are we suppose to high five whenever we go pass by this sign, like you have to
 kiss if you stand under a mistletoe??&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/pics/05-25-18-superstar.jpg&quot; style=&quot;width: 400px;&quot; /&gt;&lt;/p&gt;
+&lt;figure class=&quot;flickr&quot;&gt;
+  &lt;img class=&quot;flickr&quot; src=&quot;https://farm2.staticflickr.com/1796/43180285774_9b32a711cf_o.jpg&quot; srcset=&quot;https://farm2.staticflickr.com/1796/43180285774_b8f04037cd_m.jpg 240w, https://farm2.staticflickr.com/1796/43180285774_b8f04037cd_n.jpg 320w, https://farm2.staticflickr.com/1796/43180285774_b8f04037cd.jpg 500w, https://farm2.staticflickr.com/1796/43180285774_b8f04037cd_z.jpg 640w, https://farm2.staticflickr.com/1796/43180285774_9b32a711cf_o.jpg 640w&quot; sizes=&quot;100vw&quot; width=&quot;640w&quot; /&gt;
+  &lt;figcaption&gt;&lt;div class=&quot;license&quot;&gt;&amp;copy; Flickr/&lt;a href=&quot;https://www.flickr.com/photos/159982920@N04/43180285774/&quot;&gt;cmustrudel&lt;/a&gt; &lt;a href=&quot;&quot;&gt;All Rights Reserved&lt;/a&gt;&lt;/div&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;Each time I see this sign, I always think of the song Super Star by a Taiwanese
 girls group S.H.E. This is one of the earliest pop songs I heard in my life. &lt;a href=&quot;https://www.youtube.com/watch?v=gr5fNKK2FaA&quot;&gt;Click here to watch the
@@ -754,8 +773,15 @@ official MV&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h4 id=&quot;may-5-2018&quot;&gt;May 5, 2018.&lt;/h4&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/pics/05-25-18-y-axis.jpg&quot; style=&quot;width: 200px;&quot; /&gt;
-&lt;img src=&quot;/assets/img/pics/05-25-18-yaxis-dissys.jpg&quot; style=&quot;width: 200px;&quot; /&gt;&lt;/p&gt;
+&lt;figure class=&quot;flickr&quot;&gt;
+  &lt;img class=&quot;flickr&quot; src=&quot;https://farm1.staticflickr.com/855/42993927825_55aa332493_o.jpg&quot; srcset=&quot;https://farm1.staticflickr.com/855/42993927825_2013dae614_n.jpg 240w&quot; sizes=&quot;100vw&quot; width=&quot;240w&quot; /&gt;
+  &lt;figcaption&gt;&lt;div class=&quot;license&quot;&gt;&amp;copy; Flickr/&lt;a href=&quot;https://www.flickr.com/photos/159982920@N04/42993927825/&quot;&gt;cmustrudel&lt;/a&gt; &lt;a href=&quot;&quot;&gt;All Rights Reserved&lt;/a&gt;&lt;/div&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure class=&quot;flickr&quot;&gt;
+  &lt;img class=&quot;flickr&quot; src=&quot;https://farm2.staticflickr.com/1832/43180284944_9c6581b9cb_o.png&quot; srcset=&quot;https://farm2.staticflickr.com/1832/43180284944_f93c9c5937_m.jpg 240w, https://farm2.staticflickr.com/1832/43180284944_f93c9c5937_n.jpg 320w, https://farm2.staticflickr.com/1832/43180284944_f93c9c5937.jpg 500w, https://farm2.staticflickr.com/1832/43180284944_f93c9c5937_z.jpg 640w, https://farm2.staticflickr.com/1832/43180284944_f93c9c5937_c.jpg 800w&quot; sizes=&quot;100vw&quot; width=&quot;500w&quot; /&gt;
+  &lt;figcaption&gt;&lt;div class=&quot;license&quot;&gt;&amp;copy; Flickr/&lt;a href=&quot;https://www.flickr.com/photos/159982920@N04/43180284944/&quot;&gt;cmustrudel&lt;/a&gt; &lt;a href=&quot;&quot;&gt;All Rights Reserved&lt;/a&gt;&lt;/div&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;I often wander around in GHC when I’m tired of working and I find many
 interesting things on people’s office doors. 
@@ -768,8 +794,15 @@ actually has 25% hit rate.”&lt;/p&gt;
 
 &lt;h4 id=&quot;may-1-2018&quot;&gt;May 1, 2018.&lt;/h4&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/pics/05-25-18-monitors.jpg&quot; style=&quot;width: 200px;&quot; /&gt;
-&lt;img src=&quot;/assets/img/pics/05-25-18-poem.jpg&quot; style=&quot;width: 200px;&quot; /&gt;&lt;/p&gt;
+&lt;figure class=&quot;flickr&quot;&gt;
+  &lt;img class=&quot;flickr&quot; src=&quot;https://farm1.staticflickr.com/852/42089454220_1895565531_o.jpg&quot; srcset=&quot;https://farm1.staticflickr.com/852/42089454220_cd118b33eb_m.jpg 240w, https://farm1.staticflickr.com/852/42089454220_cd118b33eb_n.jpg 320w, https://farm1.staticflickr.com/852/42089454220_cd118b33eb.jpg 500w, https://farm1.staticflickr.com/852/42089454220_cd118b33eb_z.jpg 640w, https://farm1.staticflickr.com/852/42089454220_1895565531_o.jpg 640w&quot; sizes=&quot;100vw&quot; width=&quot;500w&quot; /&gt;
+  &lt;figcaption&gt;&lt;div class=&quot;license&quot;&gt;&amp;copy; Flickr/&lt;a href=&quot;https://www.flickr.com/photos/159982920@N04/42089454220/&quot;&gt;cmustrudel&lt;/a&gt; &lt;a href=&quot;&quot;&gt;All Rights Reserved&lt;/a&gt;&lt;/div&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure class=&quot;flickr&quot;&gt;
+  &lt;img class=&quot;flickr&quot; src=&quot;https://farm1.staticflickr.com/850/42089454060_ac2d0de097_o.jpg&quot; srcset=&quot;https://farm1.staticflickr.com/850/42089454060_03fc254b72_n.jpg 240w&quot; sizes=&quot;100vw&quot; width=&quot;240w&quot; /&gt;
+  &lt;figcaption&gt;&lt;div class=&quot;license&quot;&gt;&amp;copy; Flickr/&lt;a href=&quot;https://www.flickr.com/photos/159982920@N04/42089454060/&quot;&gt;cmustrudel&lt;/a&gt; &lt;a href=&quot;&quot;&gt;All Rights Reserved&lt;/a&gt;&lt;/div&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;CMU students often do some weird things. For example, someone wrote down the
 Chinese poem A Moonlit Night on the Spring River on Pausch Bridge (image on the
@@ -779,11 +812,25 @@ abundant.&lt;/p&gt;
 
 &lt;h4 id=&quot;apr-20-2018&quot;&gt;Apr 20, 2018.&lt;/h4&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/pics/05-25-18-mobot-field.jpg&quot; style=&quot;width: 200px;&quot; /&gt;
-&lt;img src=&quot;/assets/img/pics/05-25-18-mobot-sign.jpg&quot; style=&quot;width: 200px;&quot; /&gt;&lt;/p&gt;
+&lt;figure class=&quot;flickr&quot;&gt;
+  &lt;img class=&quot;flickr&quot; src=&quot;https://farm2.staticflickr.com/1774/42993928945_d7813c72aa_o.jpg&quot; srcset=&quot;https://farm2.staticflickr.com/1774/42993928945_b1b5286c9b_n.jpg 240w&quot; sizes=&quot;100vw&quot; width=&quot;320w&quot; /&gt;
+  &lt;figcaption&gt;&lt;div class=&quot;license&quot;&gt;&amp;copy; Flickr/&lt;a href=&quot;https://www.flickr.com/photos/159982920@N04/42993928945/&quot;&gt;cmustrudel&lt;/a&gt; &lt;a href=&quot;&quot;&gt;All Rights Reserved&lt;/a&gt;&lt;/div&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/pics/05-25-18-mobot.jpg&quot; style=&quot;width: 200px;&quot; /&gt;
-&lt;img src=&quot;/assets/img/pics/05-25-18-mobot-small.jpg&quot; style=&quot;width: 200px;&quot; /&gt;&lt;/p&gt;
+&lt;figure class=&quot;flickr&quot;&gt;
+  &lt;img class=&quot;flickr&quot; src=&quot;https://farm1.staticflickr.com/934/42089454460_0117500305_o.jpg&quot; srcset=&quot;https://farm1.staticflickr.com/934/42089454460_729c8595d4_n.jpg 240w&quot; sizes=&quot;100vw&quot; width=&quot;320w&quot; /&gt;
+  &lt;figcaption&gt;&lt;div class=&quot;license&quot;&gt;&amp;copy; Flickr/&lt;a href=&quot;https://www.flickr.com/photos/159982920@N04/42089454460/&quot;&gt;cmustrudel&lt;/a&gt; &lt;a href=&quot;&quot;&gt;All Rights Reserved&lt;/a&gt;&lt;/div&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure class=&quot;flickr&quot;&gt;
+  &lt;img class=&quot;flickr&quot; src=&quot;https://farm1.staticflickr.com/934/43180286184_68b428cc3d_o.jpg&quot; srcset=&quot;https://farm1.staticflickr.com/934/43180286184_1cc3a8a808_n.jpg 240w&quot; sizes=&quot;100vw&quot; width=&quot;320w&quot; /&gt;
+  &lt;figcaption&gt;&lt;div class=&quot;license&quot;&gt;&amp;copy; Flickr/&lt;a href=&quot;https://www.flickr.com/photos/159982920@N04/43180286184/&quot;&gt;cmustrudel&lt;/a&gt; &lt;a href=&quot;&quot;&gt;All Rights Reserved&lt;/a&gt;&lt;/div&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure class=&quot;flickr&quot;&gt;
+  &lt;img class=&quot;flickr&quot; src=&quot;https://farm2.staticflickr.com/1814/42993928775_79fd1017c8_o.jpg&quot; srcset=&quot;https://farm2.staticflickr.com/1814/42993928775_c04ce717cb_m.jpg 240w, https://farm2.staticflickr.com/1814/42993928775_c04ce717cb_n.jpg 320w, https://farm2.staticflickr.com/1814/42993928775_c04ce717cb.jpg 500w, https://farm2.staticflickr.com/1814/42993928775_c04ce717cb_z.jpg 640w, https://farm2.staticflickr.com/1814/42993928775_79fd1017c8_o.jpg 640w&quot; sizes=&quot;100vw&quot; width=&quot;320w&quot; /&gt;
+  &lt;figcaption&gt;&lt;div class=&quot;license&quot;&gt;&amp;copy; Flickr/&lt;a href=&quot;https://www.flickr.com/photos/159982920@N04/42993928775/&quot;&gt;cmustrudel&lt;/a&gt; &lt;a href=&quot;&quot;&gt;All Rights Reserved&lt;/a&gt;&lt;/div&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;CMU’s spring carnival should be very nerdy and CS. Therefore, we have a mobot
 competition. I’ve been wondering why there are these ugly lines in front of Wean
