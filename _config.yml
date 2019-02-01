@@ -368,7 +368,7 @@ scholar:
   style: assets/my-acm-sigchi-proceedings.csl
   locale: en
 
-  sort_by: year
+  sort_by: year, month
   order: descending
 
   source: ./_bibliography
@@ -383,6 +383,8 @@ scholar:
 
   replace_strings: true
   join_strings:    true
+  
+  bibtex_skip_fields: [code, data, tool, pdf, slides, abbrv, month, month_numeric, acceptance, pubcls, pubtype]
 
   #details_dir:    bibliography
   #details_layout: bibtex.html
