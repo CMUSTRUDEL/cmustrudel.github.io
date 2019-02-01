@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Travel"
+date:   2018-11-06 16:54:46
+author: Bogdan
+categories: 
+- Travis
+#img: strudel.png
+thumb: strudel-square-003.jpg
+---
+
+The latest and greatest of our travel adventures:
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/159982920@N04/albums/72157702982809092" title="Travel"><img src="https://farm8.staticflickr.com/7919/39984210273_b9d11be9bc_z.jpg" width="480" height="640" alt="Travel"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
