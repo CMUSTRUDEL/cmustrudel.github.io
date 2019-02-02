@@ -7,6 +7,7 @@ categories:
 - Announcement
 sharing:
   twitter: Four @icse2019 papers from @cmustrudel this year. Whohoo. Preprints very soon
+  facebook: Four ICSE papers from @cmustrudel this year. Whohoo. Preprints very soon
 #img: strudel.png
 thumb: strudel-square-003.jpg
 ---
