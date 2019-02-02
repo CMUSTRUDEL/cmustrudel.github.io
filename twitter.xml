@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>STRUDEL</title>
+    <description>The Socio-Technical Research Using Data Excavation Lab at Carnegie Mellon University</description>
+    <link>http://cmustrudel.github.io/</link>
+    <atom:link href="http://cmustrudel.github.io/twitter.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 02 Feb 2019 01:52:28 +0000</pubDate>
+    <lastBuildDate>Sat, 02 Feb 2019 01:52:28 +0000</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+    
+      <item>
+        <title>Hello @cmustrudel Fiona!</title>
+        <pubDate>Thu, 13 Dec 2018 12:23:46 +0000</pubDate>
+        <link>http://cmustrudel.github.io/social/holiday</link>
+        <guid isPermaLink="true">http://cmustrudel.github.io/social/holiday</guid>
+      </item>
+    
+  </channel>
+</rss>
