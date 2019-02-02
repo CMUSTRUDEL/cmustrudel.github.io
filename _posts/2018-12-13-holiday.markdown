@@ -3,8 +3,6 @@ layout: post
 title:  "Holiday spirit"
 date:   2018-12-13 12:23:46
 author: Bogdan
-sharing:
-  twitter: Hello @cmustrudel Fiona!
 categories: 
 - Social
 #img: strudel.png

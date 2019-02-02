@@ -5,6 +5,8 @@ date:   2018-12-16 12:23:46
 author: Bogdan
 categories: 
 - Announcement
+sharing:
+  twitter: Four @icse2019 papers from @cmustrudel this year. Whohoo
 #img: strudel.png
 thumb: strudel-square-003.jpg
 ---
