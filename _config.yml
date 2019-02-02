@@ -187,7 +187,7 @@ grads:
   - name: Daye Nam
     position: PhD Software Engineering, 2018- (also <a href="http://www.cs.cmu.edu/~bam/">Myers group</a>)
     img: daye.jpg
-    strudel: 
+    strudel: strawberry
     social:
       - title: envelope #use for email address
         url: mailto:dayen@andrew.cmu.edu
