@@ -13,7 +13,7 @@
     {% assign posts = site.posts | where_exp: "post", "post.sharing[page.sharing_site]" %}
     {% for post in posts limit:5 %}
       <item>
-        <title>{{ post.sharing[page.sharing_site] }}</title>
+        <title>{{ post.sharing[page.sharing_site] | xml_escape }}</title>
         <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
         <link>{{ post.url | absolute_url }}</link>
         <guid isPermaLink="true">{{ post.url | absolute_url }}</guid>

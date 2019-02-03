@@ -5,9 +5,9 @@ date:   2019-02-03 11:23:46
 author: Bogdan
 categories: 
 - Announcement
-sharing:
-  twitter: Four @icse2019 papers from @cmustrudel this year. Whohoo. Preprints coming very soon
-  facebook: Four ICSE papers from @cmustrudel this year. Whohoo. Preprints very soon
+<!-- sharing: -->
+<!--   twitter: Four #icse2019 papers from STRUDEL this year. Whohoo. Preprints coming very soon -->
+<!--   facebook: Four ICSE papers from STRUDEL this year. Whohoo. Preprints very soon -->
 #img: strudel.png
 thumb: strudel-square-003.jpg
 ---
