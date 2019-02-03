@@ -3,10 +3,11 @@ layout: post
 title:  "Papers accepted at ICSE 2019"
 date:   2019-02-03 11:23:46
 author: Bogdan
+twimage: "icse2019_logo_final.png"
 categories: 
 - Announcement
-<!-- sharing: -->
-<!--   twitter: Four #icse2019 papers from STRUDEL this year. Whohoo. Preprints coming very soon -->
+sharing:
+  twitter: Four #icse2019 papers from STRUDEL this year. Whohoo. Preprints coming very soon
 <!--   facebook: Four ICSE papers from STRUDEL this year. Whohoo. Preprints very soon -->
 #img: strudel.png
 thumb: strudel-square-003.jpg
