@@ -1,21 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>STRUDEL</title>
-    <description>The Socio-Technical Research Using Data Excavation Lab at Carnegie Mellon University</description>
-    <link>http://cmustrudel.github.io/</link>
-    <atom:link href="http://cmustrudel.github.io/twitter.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 03 Feb 2019 18:11:31 +0000</pubDate>
-    <lastBuildDate>Sun, 03 Feb 2019 18:11:31 +0000</lastBuildDate>
+    <title></title>
+    <description></description>
+    <link></link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 03 Feb 2019 18:24:44 +0000</pubDate>
+    <lastBuildDate>Sun, 03 Feb 2019 18:24:44 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
+
     
-      <item>
-        <title>Four</title>
-        <pubDate>Sun, 03 Feb 2019 11:23:46 +0000</pubDate>
-        <link>http://cmustrudel.github.io/announcement/icse-2019-papers</link>
-        <guid isPermaLink="true">http://cmustrudel.github.io/announcement/icse-2019-papers</guid>
-      </item>
+        
+
+        
+
+        
+    
+        
+
+        
+
+        
+    
+        
+
+        
+
+        
+    
+        
+
+        
+
+        
+    
+        
+
+        
+
+        
+    
+        
+
+        
+
+        
+    
+        
+
+        
+
+        
+    
+        
+
+        
+
+        
+    
+        
+
+        
+
+        
+    
+        
+
+        
+
+        
     
   </channel>
 </rss>
