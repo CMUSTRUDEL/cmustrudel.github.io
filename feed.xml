@@ -5,9 +5,41 @@
     <description>The Socio-Technical Research Using Data Excavation Lab at Carnegie Mellon University</description>
     <link>http://cmustrudel.github.io/</link>
     <atom:link href="http://cmustrudel.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 03 Feb 2019 17:05:03 +0000</pubDate>
-    <lastBuildDate>Sun, 03 Feb 2019 17:05:03 +0000</lastBuildDate>
+    <pubDate>Sun, 03 Feb 2019 17:32:26 +0000</pubDate>
+    <lastBuildDate>Sun, 03 Feb 2019 17:32:26 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Announcement: Papers accepted at ICSE 2019</title>
+        <description>&lt;p&gt;Christmas came early this year, with four papers accepted at 
+&lt;a href=&quot;https://conf.researchr.org/home/icse-2019&quot;&gt;ICSE 2019&lt;/a&gt;:
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Tool Choice Matters: JavaScript Quality Assurance Tools and Usage Outcomes in GitHub Projects&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;BugSwarm: Mining and Continuously Growing a Dataset of Reproducible Failures and Fixes&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Socio-Technical Work-Rate Increase Associates With Changes in Work Patterns in Online Projects&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Going Farther Together: The Impact of Social Capital on Sustained Participation in Open Source&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Preprints are coming soon.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 03 Feb 2019 11:23:46 +0000</pubDate>
+        <link>http://cmustrudel.github.io/announcement/icse-19-papers</link>
+        <guid isPermaLink="true">http://cmustrudel.github.io/announcement/icse-19-papers</guid>
+        
+        
+        <category>Announcement</category>
+        
+      </item>
     
       <item>
         <title>Announcement: Papers accepted at ICSE 2019</title>
@@ -73,21 +105,6 @@
         
         
         <category>Social</category>
-        
-      </item>
-    
-      <item>
-        <title>Travel: Travel</title>
-        <description>&lt;p&gt;The latest and greatest of our travel adventures:&lt;/p&gt;
-
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/159982920@N04/albums/72157702982809092&quot; title=&quot;Travel&quot;&gt;&lt;img src=&quot;https://farm8.staticflickr.com/7919/39984210273_b9d11be9bc_z.jpg&quot; width=&quot;480&quot; height=&quot;640&quot; alt=&quot;Travel&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 06 Nov 2018 16:54:46 +0000</pubDate>
-        <link>http://cmustrudel.github.io/travel/travel</link>
-        <guid isPermaLink="true">http://cmustrudel.github.io/travel/travel</guid>
-        
-        
-        <category>Travel</category>
         
       </item>
     
