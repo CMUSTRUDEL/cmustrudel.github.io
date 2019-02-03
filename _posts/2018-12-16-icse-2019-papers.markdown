@@ -10,7 +10,7 @@ tags: icse2019
 sharing:
   twitter --twitter-hashtags: Four ICSE papers from STRUDEL this year. Whohoo. Preprints coming very soon
 <!--   facebook: Four ICSE papers from STRUDEL this year. Whohoo. Preprints very soon -->
-<!-- #img: strudel.png -->
+#img: strudel.png
 thumb: strudel-square-003.jpg
 ---
 
