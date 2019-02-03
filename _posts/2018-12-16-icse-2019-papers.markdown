@@ -5,7 +5,7 @@ date:   2019-02-03 11:23:46
 author: Bogdan
 twimage: "icse2019_logo_final.png"
 categories: 
-- Announcement
+  - Announcement
 tags: icse2019
 sharing:
   twitter: Four ICSE papers from STRUDEL this year. Whohoo. Preprints coming very soon
