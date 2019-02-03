@@ -5,8 +5,8 @@
     <description>The Socio-Technical Research Using Data Excavation Lab at Carnegie Mellon University</description>
     <link>http://cmustrudel.github.io/</link>
     <atom:link href="http://cmustrudel.github.io/twitter.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 03 Feb 2019 18:51:02 +0000</pubDate>
-    <lastBuildDate>Sun, 03 Feb 2019 18:51:02 +0000</lastBuildDate>
+    <pubDate>Sun, 03 Feb 2019 19:03:22 +0000</pubDate>
+    <lastBuildDate>Sun, 03 Feb 2019 19:03:22 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
 
@@ -18,30 +18,9 @@
         
         <item>
             <title></title>
-            <description>&lt;p&gt;Christmas came early this year, with four papers accepted at 
-&lt;a href=&quot;https://conf.researchr.org/home/icse-2019&quot;&gt;ICSE 2019&lt;/a&gt;:
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Tool Choice Matters: JavaScript Quality Assurance Tools and Usage Outcomes in GitHub Projects&lt;/strong&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;BugSwarm: Mining and Continuously Growing a Dataset of Reproducible Failures and Fixes&lt;/strong&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Socio-Technical Work-Rate Increase Associates With Changes in Work Patterns in Online Projects&lt;/strong&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Going Farther Together: The Impact of Social Capital on Sustained Participation in Open Source&lt;/strong&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Preprints are coming soon.&lt;/p&gt;
-</description>
             <pubDate>Sun, 03 Feb 2019 11:23:46 +0000</pubDate>
-            <link>/announcement/icse-2019-papers</link>
-            <guid isPermaLink="true">/announcement/icse-2019-papers</guid>
+            <link>http://cmustrudel.github.io/announcement/icse-2019-papers</link>
+        		<guid isPermaLink="true">http://cmustrudel.github.io/announcement/icse-2019-papers</guid>
             
             <category>icse2019</category>
             
@@ -49,36 +28,6 @@
             <category>Announcement</category>
             
         </item>
-        
-    
-        
-
-        
-
-        
-    
-        
-
-        
-
-        
-    
-        
-
-        
-
-        
-    
-        
-
-        
-
-        
-    
-        
-
-        
-
         
     
         
