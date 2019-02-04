@@ -176,7 +176,7 @@ grads:
   - name: Hemank Lamba
     position: PhD Societal Computing, 2014-
     img: hemank.jpg
-    strudel: 
+    strudel: raspberry
     social:
       - title: envelope #use for email address
         url: mailto:hemanklamba@gmail.com
