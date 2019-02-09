@@ -207,7 +207,7 @@ grads:
   - name: Marat Valiev
     position: PhD Societal Computing, 2016- (also <a href="http://herbsleb.org/index.html">Herbsleb group</a>)
     img: marat.jpg
-    #strudel: 
+    strudel: apple
     social:
     - title: envelope #use for email address
       url: mailto:marat@cmu.edu
