@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "STRUDEL Reading Group Updates"
-date:   2018-05-31 15:19:34
+title:  "STRUDEL Reading Group updates"
+date:   2018-07-25 15:19:34
 author: Sophie
 categories: 
 - blog
@@ -9,6 +9,19 @@ categories:
 #img: strudel.png
 thumb: strudel-square-003.jpg
 ---
+
+#### Wednesday, July 25, 2018
+
+So sad. Today was the last group meeting of the summer season.
+Thanks a lot to our REU students Sophie and Courtney for spending their
+summer with us. We appreciate your visit.
+
+Here's all of us wearing STRUDEL gear:
+
+{% flickr 33073145978 %}
+<!--more-->
+{% flickr 33073145848 %}
+
 
 #### Wednesday, June 27, 2018
 
@@ -258,7 +271,7 @@ No meeting this week. STRUDEL was away attending
 Fiona at the <a href="https://www.facebook.com/cincinnatizoo/">Cincinnati Zoo</a>.
 #teamfiona
 
-<img src="/assets/img/pics/10-31-17-fiona.jpg" style="width: 400px;"/>
+{% flickr 43180283944 %}
 
 #### Tuesday, October 24, 2017
 
@@ -267,7 +280,7 @@ Serebrenik</a></b> from TU Eindhoven, who talked about his recent work on mining
 emotions from software engineering artifacts.
 We were all enjoying his talk as well as Sophie's hazelnut wafel.
 
-<img src="/assets/img/pics/10-24-17-serebrenik.jpg" style="width: 400px;"/>
+{% flickr 42993926095 %}
 
 #### Tuesday, October 17, 2017
 
@@ -285,7 +298,7 @@ this paper was to present group members another machine learning
 classifier that can process fMRI results. 
 It was very nice and sweet that David made apple raisin strudels. 
 
-<img src="/assets/img/pics/10-17-17-strudel.jpg" style="width: 400px;"/>
+{% flickr 43180283674 %}
 
 #### Tuesday, October 10, 2017
 
@@ -313,7 +326,7 @@ This paper presents how to identify different types of bugs and how to correct
 them in C/C++ code. 
 Happy Mid-autumn festival and thanks Sophie for her mooncake!
 
-<img src="/assets/img/pics/10-03-17-moon.jpg" style="width: 300px;"/>
+{% flickr 42993925755 %}
 
 #### Tuesday, September 26, 2017
 
@@ -335,5 +348,4 @@ href="http://people.cs.umass.edu/~ameli/projects/fairness/papers/discriminationT
 Testing Software for Discrimination</a></b> (Galhotra et al, ESEC/FSE 2017) that 
 Bogdan presented at the meeting.
 
-<img src="/assets/img/pics/09-19-17-group.jpg" style="width: 400px;"/>
-
+{% flickr 42993925555 %}

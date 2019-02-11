@@ -49,6 +49,8 @@ variation of:
 
 Dr. Brian Kernighan is now a professor at <b>Princeton University</b>. 
 
+<!--more-->
+
 #### MULTICS
 
 <b>March 24, 2018</b>
@@ -128,7 +130,7 @@ advisor Alonzo Church, and <b>Turing Machine</b>.
 
 A quick trivia. 
 
-<img src="/assets/img/pics/05-25-18-turing.jpg" style="width:400px;"/>
+{% flickr 42089453790 %}
 
 #### Alan Perlis, 1966.
 

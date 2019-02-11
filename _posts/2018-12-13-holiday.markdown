@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Holiday spirit"
+date:   2018-12-13 12:23:46
+author: Bogdan
+categories: 
+- Social
+#img: strudel.png
+thumb: strudel-square-003.jpg
+---
+
+Drum roll! 🥁  Please welcome our holiday hippo.
+
+{% flickr 46953186691 %}
+{% flickr 46228529504 width="500w" %}
+
+We were so excited that we made strudels from scratch!
+
+{% flickr 46228529034 width="500w" %}
+{% flickr 46228529404 width="320w" %}

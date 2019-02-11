@@ -18,9 +18,14 @@ colocated events this year:
 [**Adding Sparkle to Social Coding: An Empirical Study of Repository Badges 
 in the npm Ecosystem**](../papers/icse18badges.pdf)
 
+**Update**: Here's Asher presenting:
+{% flickr 46896639092 width="500w" %}
+
 More details about the research [here](../../projects/badges/).
 
 - Alan and Jeremy have a paper on decompilation at ICPC:
+
+<!--more-->
 
 [**Meaningful Variable Names for Decompiled Code: A Machine Translation 
 Approach**](../papers/icpc18decompilation.pdf)
@@ -34,6 +39,9 @@ Metrics Matter**](../papers/msr18understandability.pdf)
 
 [**I’m Leaving You, Travis: A Continuous Integration Breakup 
 Story**](../papers/msr18ci.pdf)
+
+**Update**: Here's David presenting:
+{% flickr 33073145828 width="320w" %}
 
 - Pengcheng, Bowen, and Edgar (Graham's students) have a paper on mining 
 aligned pairs of code and natural language from Stack Overflow at MSR, and 
@@ -53,4 +61,9 @@ Q&A sites, looking at Stack Overflow in Portuguese:
 
 [**Is Stack Overflow in Portuguese attractive for Brazilian 
 Users?**](../papers/icgse18sopt.pdf)
+
+**Update:** We had a great time at ICSE.
+{% flickr 33073145738 %}
+
+
 
