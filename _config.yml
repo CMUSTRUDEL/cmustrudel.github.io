@@ -228,10 +228,17 @@ grads:
         url: http://davidwidder.me
         
 undergrads:
+  - name: Yucen (Lily) Li
+    position: CMU, CS
+    img: lily.jpg
+    strudel: cinnamon walnut
+    social:
+      - title: envelope #use for email address
+        url: mailto:yucenl@andrew.cmu.edu
   - name: Adithya Raghuraman
     position: CMU, ECE
     img: Adithya.png
-    strudel: Apple
+    strudel: apple
     social:
       - title: envelope #use for email address
         url: mailto:araghura@andrew.cmu.edu
@@ -239,7 +246,7 @@ undergrads:
     position: REU 2018, New College of Florida
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     img: CMillerHeadshot.jpg
-    strudel: Sour Cherry
+    strudel: sour cherry
     social:
       - title: envelope #use for email address
         url: mailto:courtney.miller17@ncf.edu
@@ -259,7 +266,7 @@ alumni:
   - name: Sophie Rosas-Smith
     position: REU 2018, Wellesley College
     img: sophie_pic.jpg
-    strudel: Sour Cherry
+    strudel: sour cherry
     social:
       - title: envelope #use for email address
         url: mailto:srosassm@wellesley.edu
