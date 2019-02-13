@@ -370,7 +370,7 @@ scholar:
   replace_strings: true
   join_strings:    true
   
-  bibtex_skip_fields: [code, data, tool, pdf, slides, abbrv, month, month_numeric, acceptance, pubcls, pubtype]
+  bibtex_skip_fields: [code, data, tool, pdf, slides, poster, abbrv, month, month_numeric, acceptance, pubcls, pubtype]
 
   #details_dir:    bibliography
   #details_layout: bibtex.html

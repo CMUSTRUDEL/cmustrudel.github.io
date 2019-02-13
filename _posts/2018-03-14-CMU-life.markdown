@@ -15,6 +15,19 @@ cool space.
 I'm writing down things I find interesting here.
 Hope this blog can tell you more about CMU.
 
+#### Feb 9, 2019.
+
+A couple days ago, someone came to give a job talk about how people train AI to
+perform a task. He showed some stats on how some people managed to teach the AI
+quickly by using some consistent languages while the others took a while.
+Someone raised a question about the demography of the players. He suggested that
+Stanford undergrads may be different than the other people. He then went on to
+suggest that it might be interesting to compare Stanford undergrads and CMU
+undergrads.
+
+Then someone else said, "I bet Stanford undergrads can do it. It's not very
+difficult. The problem is whether MIT undergrads can do it."
+
 #### May 25, 2018.
 
 {% flickr 43180286524 width="320w" %}
