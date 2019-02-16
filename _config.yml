@@ -1,0 +1,393 @@
+### GENERAL SETTINGS ###
+
+# Site settings
+title: STRUDEL
+description: "The Socio-Technical Research Using Data Excavation Lab at Carnegie Mellon University"
+analytics: UA-28938909-3 #Google analytics code in the format XX-nnnnnnnn-n
+baseurl: "" #important: start with /
+url: "http://cmustrudel.github.io"
+
+# Settings for deploy rake task
+# Username and repo of Github repo, e.g.
+# https://github.com/USERNAME/REPO.git
+# username defaults to ENV['GIT_NAME'] used by Travis
+# repo defaults to USERNAME.github.io
+# Branch defaults to "source" for USERNAME.github.io
+# or "master" otherwise
+username: bvasiles
+repo: https://github.com/CMUSTRUDEL/cmustrudel.github.io.git
+branch: develop
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title
+excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
+
+colors:  #in hex code if not noted else
+  primary: "#DC2624" #"#00b3fe" #"#F70031"
+  primary_rgb: "220,38,36" #"0,179,254" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.
+  secondary: "#384452" #"#33004D"
+  link: "#96302E" #"#384452" #"#428bca"
+  link_hover: "#DC2624" #"#01b2fe"
+  footer_heading: "#ffffff"
+  footer_content: "#bfc9d3"
+
+# Making projects separate from posts
+collections:
+  projects:
+    output: true
+    permalink: /projects/:title/
+  questions:
+    output: true
+    permalink: /questions/:title/
+
+flickr:
+#  screen_name: STRUDEL
+  api_key: 4aa00bb511e35bdb53c92f5c68ea4a6e
+  api_secret: 4d53c51e4e15043f
+  widths: [240, 320, 500, 640, 800, 1024]
+  width_legacy: 1024
+  width_viewport: 100vw
+  figcaption: true
+  license: true
+  caption: true
+  
+### CONTACT SETTINGS ###
+
+# Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
+social:
+#  - title: dribbble
+#    url:
+  - title: facebook
+    url: https://www.facebook.com/cmustrudel/
+  - title: twitter
+    url: https://twitter.com/cmustrudel
+  - title: github
+    url: https://github.com/cmustrudel
+  - title: slack
+    url: https://strudel-team.slack.com/messages/general/
+
+# Postal address (add as many lines as necessary). Shown in footer and on Contact page.
+address:
+  - lines:
+    - Wean Hall 5115, Institute for Software Research
+    - School of Computer Science, Carnegie Mellon University
+    - 5000 Forbes Ave
+    - Pittsburgh, PA, 15213 USA
+email: hello@solidtheme.com
+tel: +1 412-2681048
+
+
+### GENERAL DATA FOR VARIOUS LOCATIONS ###
+
+# Members information. Shown on People page.
+faculty:
+  - name: Bogdan Vasilescu
+    position: Chief Culinary Officer
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    web: http://bvasiles.github.io
+    img: bogdan.jpg
+    strudel: sour cherry
+    social:
+      - title: envelope #use for email address
+        url: mailto:vasilescu@cmu.edu
+      - title: twitter
+        url: http://twitter.com/b_vasilescu
+      - title: link
+        url: http://bvasiles.github.io
+
+affilfaculty:
+  - name: Claire Le Goues
+    position: Affiliate; CMU, ISR
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    web: https://clairelegoues.com
+    img: claire.jpg
+    social:
+#      - title: envelope #use for email address
+#        url: mailto:name@domain.com
+      - title: twitter
+        url: https://twitter.com/clegoues
+      - title: link
+        url: https://clairelegoues.com
+  - name: Christian Kästner
+    position: Affiliate; CMU, ISR
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    web: https://www.cs.cmu.edu/~ckaestne/
+    img: christian.jpg
+    strudel: apple / curd & raisins
+    social:
+#      - title: envelope #use for email address
+#        url: mailto:name@domain.com
+      - title: twitter
+        url: https://twitter.com/p0nk
+      - title: link
+        url: https://www.cs.cmu.edu/~ckaestne/
+  - name: Affiliate; Graham Neubig
+    position: Affiliate; CMU, LTI
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    web: http://phontron.com
+    img: graham.jpg
+    strudel: cherry
+    social:
+#      - title: envelope #use for email address
+#        url: mailto:name@domain.com
+      - title: twitter
+        url: https://twitter.com/gneubig
+      - title: link
+        url: http://phontron.com
+  - name: Jim Herbsleb
+    position: Affiliate; CMU, ISR
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    web: http://herbsleb.org
+    img: jim.jpg
+    strudel: sour cherry
+    social:
+#      - title: envelope #use for email address
+#        url: mailto:name@domain.com
+      - title: twitter
+        url: https://twitter.com/jherbsleb
+      - title: link
+        url: http://herbsleb.org
+
+
+grads:
+  - name: Michelle Cao
+    position: MS Computer Science
+    img: michelle.jpg
+    strudel: apple
+    social:
+      - title: envelope #use for email address
+        url: mailto:minxuanc@andrew.cmu.edu
+#      - title: twitter
+#        url: http://twitter.com/handle
+      - title: link
+        url: https://www.linkedin.com/in/minxuan-cao-b522858a/
+  - name: Jeremy Lacomis
+    position: PhD Software Engineering, 2017- (also <a href="https://squareslab.github.io/">SquaresLab</a>)
+    img: jeremy.jpg
+    strudel: apple
+    social:
+      - title: envelope #use for email address
+        url: mailto:jlacomis@cmu.edu
+      - title: twitter
+        url: http://twitter.com/jlacomis
+      - title: link
+        url: https://www.cs.cmu.edu/~jlacomis/
+  - name: Hemank Lamba
+    position: PhD Societal Computing, 2014-
+    img: hemank.jpg
+    strudel: raspberry
+    social:
+      - title: envelope #use for email address
+        url: mailto:hemanklamba@gmail.com
+      - title: twitter
+        url: http://twitter.com/hemanklamba
+      - title: link
+        url: https://sites.google.com/site/hemanklamba/
+  - name: Daye Nam
+    position: PhD Software Engineering, 2018- (also <a href="http://www.cs.cmu.edu/~bam/">Myers group</a>)
+    img: daye.jpg
+    strudel: strawberry
+    social:
+      - title: envelope #use for email address
+        url: mailto:dayen@andrew.cmu.edu
+#      - title: twitter
+#        url: http://twitter.com/handle
+      - title: link
+        url: https://dayenam.com/
+  - name: Huilian (Sophie) Qiu
+    position: PhD Societal Computing, 2017-
+    img: sophie.jpg
+    strudel: apricot
+    social:
+      - title: envelope #use for email address
+        url: mailto:huilianq@andrew.cmu.edu
+#      - title: twitter
+#        url: http://twitter.com/handle
+  - name: Marat Valiev
+    position: PhD Societal Computing, 2016- (also <a href="http://herbsleb.org/index.html">Herbsleb group</a>)
+    img: marat.jpg
+    strudel: apple
+    social:
+    - title: envelope #use for email address
+      url: mailto:marat@cmu.edu
+      #- title: twitter
+      #  url: http://twitter.com/davidthewid
+    - title: link
+      url: https://www.linkedin.com/in/mvaliev/
+  - name: David Widder
+    position: PhD Software Engineering, 2017-
+    img: david.jpg
+    strudel: cream cheese & strawberry
+    social:
+      - title: envelope #use for email address
+        url: mailto:dwidder@cmu.edu
+      - title: twitter
+        url: http://twitter.com/davidthewid
+      - title: link
+        url: http://davidwidder.me
+        
+undergrads:
+  - name: Yucen (Lily) Li
+    position: CMU, CS
+    img: lily.jpg
+    strudel: cinnamon walnut
+    social:
+      - title: envelope #use for email address
+        url: mailto:yucenl@andrew.cmu.edu
+  - name: Adithya Raghuraman
+    position: CMU, ECE
+    img: Adithya.png
+    strudel: apple
+    social:
+      - title: envelope #use for email address
+        url: mailto:araghura@andrew.cmu.edu
+  - name: Courtney Miller
+    position: REU 2018, New College of Florida
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    img: CMillerHeadshot.jpg
+    strudel: sour cherry
+    social:
+      - title: envelope #use for email address
+        url: mailto:courtney.miller17@ncf.edu
+#      - title: twitter
+#        url: http://twitter.com/handle
+  - name: Asher Trockman
+    position: REU 2017, U. of Evansville
+    img: asher.jpg
+    strudel: sour cherry
+    social:
+      - title: envelope #use for email address
+        url: mailto:asher.trockman@gmail.com
+#      - title: twitter
+#        url: http://twitter.com/handle
+
+alumni:
+  - name: Sophie Rosas-Smith
+    position: REU 2018, Wellesley College
+    img: sophie_pic.jpg
+    strudel: sour cherry
+    social:
+      - title: envelope #use for email address
+        url: mailto:srosassm@wellesley.edu
+#      - title: twitter
+#        url: http://twitter.com/handle
+  - name: Jacob Hoffman
+    position: REU 2017, CMU, CS
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    img: jacob.jpg
+    strudel: strawberry & cream
+    social:
+       - title: envelope #use for email address
+         url: mailto:jhoffma1@andrew.cmu.edu
+#      - title: twitter
+#        url: http://twitter.com/handle
+       - title: link
+         url: http://jacobhoffmanportfolio.tk
+  - name: Alan Jaffe
+    position: CMU, CS
+    img: alan.jpg
+    strudel: poppy seeds
+    social:
+      - title: envelope #use for email address
+        url: mailto:apjaffe@andrew.cmu.edu
+#      - title: twitter
+#        url: http://twitter.com/handle
+  - name: Raunak Agnihotri
+    position: CMU, ECE
+    img: raunak.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:raunak@cmu.edu
+#      - title: twitter
+#        url: http://twitter.com/handle
+  - name: Anita Brown
+    position: REU 2017, Bryn Mawr College
+    img: anita.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:anitab1046@gmail.com
+#      - title: twitter
+#        url: http://twitter.com/handle
+  - name: Alex Nolte
+    position: Asst. Professor, University of Tartu, Estonia
+    img: alex.jpg
+    strudel: apple
+    web: http://anolte.com/
+    social:
+      - title: envelope #use for email address
+        url: mailto:alexander.nolte@ut.ee
+      - title: link
+        url: http://anolte.com/
+#
+#visitors:
+  - name: Fabio Calefato
+    position: Asst. Professor, University of Bari, Italy
+    img: fabio.jpg
+    web: http://collab.di.uniba.it/fabio/
+    strudel: apple
+    social:
+      - title: envelope #use for email address
+        url: mailto:fabio.calefato@uniba.it
+      - title: twitter
+        url: https://twitter.com/fcalefato
+      - title: link
+        url: http://collab.di.uniba.it/fabio/
+
+
+# Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
+about: "We study complex socio-technical systems such as GitHub and Stack Overflow using data science methods."
+
+# Testimonial content. Shown on Home and About page.
+testimonial:
+  message: "fff"
+  author: Marcel Newman
+  position: WEB DESIGNER - BLACKTIE.CO
+
+#plugins: ['jekyll/scholar']
+plugins:
+  - jekyll/scholar
+  - jekyll-flickr
+
+# Custom vars
+scholar:
+  style: assets/my-acm-sigchi-proceedings.csl
+  locale: en
+
+  sort_by: year, month
+  order: descending
+
+  source: ./_bibliography
+  bibliography: publications.bib
+  bibliography_template: bib
+
+  bibliography_list_tag: 'div'
+  bibliography_item_tag: 'span'
+
+  bibliography_list_attributes:
+    reversed: "reversed"
+
+  replace_strings: true
+  join_strings:    true
+  
+  bibtex_skip_fields: [code, data, tool, pdf, slides, poster, abbrv, month, month_numeric, acceptance, pubcls, pubtype]
+
+  #details_dir:    bibliography
+  #details_layout: bibtex.html
+  #details_link:   Details
+
+  query: "@*"
+
+#safe: false
+#lsi: false
+#pygments: true
+
+exclude:
+  - README.md
+  - Rakefile
+  - Gemfile
+  - Gemfile.lock
+  - changelog.md
+  - "*.Rmd"
+  - vendor
+  - .travis.yml
