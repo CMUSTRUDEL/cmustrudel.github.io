@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Life @ CMU"
+title:  Life @ CMU
 date:   2018-05-25 15:15:34
 author: Sophie
 categories: 
