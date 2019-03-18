@@ -18,12 +18,10 @@ Christmas came early this year, with four papers accepted at
 [ICSE 2019](https://conf.researchr.org/home/icse-2019):
 <!--more-->
 
-- **Tool Choice Matters: JavaScript Quality Assurance Tools and Usage Outcomes in GitHub Projects** 
+- **Tool Choice Matters: JavaScript Quality Assurance Tools and Usage Outcomes in GitHub Projects**  [[PDF]](../../papers/kavaler2019tools.pdf)
 
-- **BugSwarm: Mining and Continuously Growing a Dataset of Reproducible Failures and Fixes**
+- **BugSwarm: Mining and Continuously Growing a Dataset of Reproducible Failures and Fixes** [[PDF]](../../papers/icse19bugswarm.pdf)
 
-- **Socio-Technical Work-Rate Increase Associates With Changes in Work Patterns in Online Projects** 
+- **Socio-Technical Work-Rate Increase Associates With Changes in Work Patterns in Online Projects** [[PDF]](../../papers/icse19stress.pdf)
 
-- **Going Farther Together: The Impact of Social Capital on Sustained Participation in Open Source** 
-
-Preprints are coming soon.
+- **Going Farther Together: The Impact of Social Capital on Sustained Participation in Open Source** [[PDF]](../../papers/icse19social.pdf)
