@@ -5,8 +5,8 @@
     <description>The Socio-Technical Research Using Data Excavation Lab at Carnegie Mellon University</description>
     <link>http://cmustrudel.github.io/</link>
     <atom:link href="http://cmustrudel.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 04 Mar 2019 13:48:31 +0000</pubDate>
-    <lastBuildDate>Mon, 04 Mar 2019 13:48:31 +0000</lastBuildDate>
+    <pubDate>Mon, 18 Mar 2019 19:27:53 +0000</pubDate>
+    <lastBuildDate>Mon, 18 Mar 2019 19:27:53 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -17,20 +17,18 @@
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Tool Choice Matters: JavaScript Quality Assurance Tools and Usage Outcomes in GitHub Projects&lt;/strong&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Tool Choice Matters: JavaScript Quality Assurance Tools and Usage Outcomes in GitHub Projects&lt;/strong&gt;  &lt;a href=&quot;../../papers/kavaler2019tools.pdf&quot;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;BugSwarm: Mining and Continuously Growing a Dataset of Reproducible Failures and Fixes&lt;/strong&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;BugSwarm: Mining and Continuously Growing a Dataset of Reproducible Failures and Fixes&lt;/strong&gt; &lt;a href=&quot;../../papers/icse19bugswarm.pdf&quot;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Socio-Technical Work-Rate Increase Associates With Changes in Work Patterns in Online Projects&lt;/strong&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Socio-Technical Work-Rate Increase Associates With Changes in Work Patterns in Online Projects&lt;/strong&gt; &lt;a href=&quot;../../papers/icse19stress.pdf&quot;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Going Farther Together: The Impact of Social Capital on Sustained Participation in Open Source&lt;/strong&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Going Farther Together: The Impact of Social Capital on Sustained Participation in Open Source&lt;/strong&gt; &lt;a href=&quot;../../papers/icse19social.pdf&quot;&gt;[PDF]&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;Preprints are coming soon.&lt;/p&gt;
 </description>
         <pubDate>Sun, 03 Feb 2019 15:34:46 +0000</pubDate>
         <link>http://cmustrudel.github.io/announcement/icse-2119-papers</link>
