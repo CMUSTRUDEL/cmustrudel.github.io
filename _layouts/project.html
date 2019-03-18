@@ -30,27 +30,11 @@ layout: default
             <div class="hline"></div>
 			        {% for pub in page.pubs %}
 
-			        </br><li><b>{{ pub.key }}</b>: <i><a href="{{ pub.url }}">{{ pub.title }}</a></i><!-- {% if product.nested-products %} -->
-<!-- 
-    					<ul>
-					    	{% for nestedproduct in product.nested-products %}  <li>{{ nestedproduct.nested }}: {{ nestedproduct.sub-arbitrary }}</li>
-					    	{% endfor %}
-					    </ul>
- -->
-<!-- 						  {% endif %} -->
+			        </br><li><b>{{ pub.key }}</b>: <i><a href="{{ pub.url }}">{{ pub.title }}</a></i>
 						  </li>
-<!--       		  	<p><a href="{{ pub.pub }}">{{ pub.pub }}</a>: {{ pub.desc }}</p> -->
-<!--         	<a href="{{ pub.url }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-{{ entry.title }}"></i></a> -->
               {% endfor %}	
 
             {% endif %}
-<!--     				</div><! ~~/row ~~> -->
-<!--             <p><b>Date:</b> {{ page.date | date: "%b %-d, %Y" }}</p> -->
-<!--             <p><b>Author:</b> {{ page.author }}</p> -->
-<!--             <p><b>Categories:</b> {{ page.categories }}</p> -->
-<!--             <p><b>Tagged:</b> {{ page.tagged }}</p> -->
-<!--             <p><b>Client:</b> {{ page.client }}</p> -->
-<!--             <p><b>Website:</b> <a href="{{ page.website }}">{{ page.website }}</a></p> -->
         </div>
     </div><! --/row -->
 </div><! --/container -->

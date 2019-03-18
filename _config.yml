@@ -56,8 +56,6 @@ flickr:
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
-#  - title: dribbble
-#    url:
   - title: facebook
     url: https://www.facebook.com/cmustrudel/
   - title: twitter
