@@ -15,6 +15,46 @@ cool space.
 I'm writing down things I find interesting here.
 Hope this blog can tell you more about CMU.
 
+#### Mar 19, 2019.
+
+Many people are sick these days. At least 3 students were coughing and sneezing
+out of 20 students in my class. A friend of mine and I were thinking maybe
+people from different departments may get sick in different ways.
+
+We people in the Software Institute get sick caused by bugs in the software.
+
+People at Computer Science Department might systematically infected by some
+theoretical sickness.
+
+Robotic Institute people might infect their robots, so watch out for mad robots
+these days!
+
+Human Computer Interaction people must have some interactive disease that can
+only be activated by some machine behaviours.
+
+CompBio people are always in danger because it sounds like they might be dealing
+with virus DNA.
+
+Linguistic Technology people may begin to speak gibberish or have lots of
+grammar mistakes.
+
+The most interesting sickness probably belongs to the people from the Machine
+Learning Department. 
+They have the capacity to backpropagate their sickness so that every new patient
+would be able to improve the symptom of the old patients to achieve a glocal
+maximum of infection.
+
+#### Mar 12, 2019.
+
+A friend of mine is looking for a job at some university. She asked me about
+some of my former schools. I asked her, why not come to CMU so that we could be
+roommates.
+
+She said, No, I feel like even security guards need to know Java to be able to
+work at CMU.
+
+I said, that's not True, Python is also acceptable.
+
 #### Feb 9, 2019.
 
 A couple days ago, someone came to give a job talk about how people train AI to
