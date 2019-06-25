@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Life @ CMU
-date:   2018-04-04 16:23:25
+date:   2018-05-31 19:22:34
 author: Sophie
 categories: 
 - blog
@@ -14,6 +14,20 @@ Since I came to the Open House in March 2017, I found that CMU is a nerdy but
 cool space. 
 I'm writing down things I find interesting here.
 Hope this blog can tell you more about CMU.
+
+#### May 31, 2019.
+
+After ICSE, I was discussing with people about the paper <a href="https://ai.google/research/pubs/pub47861">Do Developers Learn New Tools On The
+Toilet?</a> on how effective is Google's unofficial practice of putting up
+posters about tools in the toilet.
+I accidentially referred to it as the toilet paper.
+Apparently I didn't plan the pun.
+Then I heard that during the ICSE, there were people putting up surveys in male
+toilets.
+Apparently we female participants missed such thing.
+They should learn from Google - I heard that now the posters are being put up by
+cleaners so that both male and female bathrooms will get the same amount of
+coverage.
 
 #### Apr 4, 2019.
 
