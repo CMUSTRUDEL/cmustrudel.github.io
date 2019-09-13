@@ -60,7 +60,8 @@ style="width: 400px;" />
 
 First day back to school! What a surprise!
 It used to be: computer science as a field has a
-reputation for being a boys’ club. Not at Carnegie Mellon (see [here](#Sep-28,-2017)).
+reputation for being a boys’ club. Not at Carnegie Mellon (see
+[here](#Sep-28-2017)).
 Now it is removed entirely.
 
 #### May 31, 2019.
