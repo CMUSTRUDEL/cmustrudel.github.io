@@ -10,6 +10,30 @@ categories:
 thumb: strudel-square-003.jpg
 ---
 
+#### Wednesday, Sep 5, 2019
+
+Okok, Sophie's back on track recording our reading group discussions.
+We have a new member this year - Hongbo Fang.
+It is our tradition to welcome new people by asking them to present a paper.
+Here's Hongbo's summary about the paper he presented:
+Hongbo FAng presented the paper "What Makes Geeks Tick? A Study of STack
+Overflow Careers" (Xu et al., 2019). It tests a simple hypothesis that people
+will contribute more on StackOverflow when searching for a new job. Data shows
+that people's reputation generating actions on StackOverflow decreases much more
+after a job change comparing to non-reputation generating actions, which imply
+that they invest extra energy to gain reputation on StackOverflow before having
+a new job. I particularly like how they systematically ruled out other plausible
+explanations, which strengthend their major argument and made the paper more
+convincing. It is also a good exmaple for learning how to proof causal relation
+in social context.
+
+Although I imformed him about our good tradition of bringing snacks to the
+meeting, he unavoidably forgot about it. 
+Thanks Ei Pa for keeping our good tradition by bringing chocolate she purchased
+in Denmark on her way to a conference. 
+It looked like they came out from a fairy tale!
+I wish I had taken pictures of those heart-shaped ones.
+
 #### Wednesday, July 25, 2018
 
 So sad. Today was the last group meeting of the summer season.
