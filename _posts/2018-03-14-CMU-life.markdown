@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Life @ CMU
-date:   2018-05-31 19:22:34
+date:   2019-09-12 23:22:35
 author: Sophie
 categories: 
 - blog
@@ -14,6 +14,54 @@ Since I came to the Open House in March 2017, I found that CMU is a nerdy but
 cool space. 
 I'm writing down things I find interesting here.
 Hope this blog can tell you more about CMU.
+
+#### Sep 12, 2019.
+
+<img
+src="https://live.staticflickr.com/65535/48725215132_3d15a50e10_c.jpg"
+style="width: 400px;"/>
+
+@Baker Hall
+
+#### Sep 11, 2019.
+<img src="https://live.staticflickr.com/65535/48725036261_9285709046_c.jpg"
+style="width: 200px;"/>
+<img src="https://live.staticflickr.com/65535/48725240392_6fb7091caf_c.jpg"
+style="width: 200px;"/>
+
+Thanks Marat! I told Marat that I’m lactose
+intolerant and most of the time I couldn’t enjoy the free lunch provided at our
+weekly societal computing seminar. So he ordered special lunch for
+me!
+
+#### Sep 10, 2019.
+
+<img
+src="https://live.staticflickr.com/65535/48725042996_e06830b8aa_c.jpg"
+style="width: 400px;"/>
+
+A masterpiece by Bogdan - he built it when we were having a project
+meeting with Laura and Jim (just to give you some idea of what we do during our
+meetings, definitely not talking about science).
+
+#### Sep 3, 2019.
+
+<img
+src="https://live.staticflickr.com/65535/48725047616_90915d35c6_c.jpg"
+style="width: 400px;"/>
+
+Nice backpack!
+
+#### Aug 26, 2019.
+
+<img
+src="https://live.staticflickr.com/65535/48725266387_02eff9397c_c.jpg"
+style="width: 400px;" />
+
+First day back to school! What a surprise!
+It used to be: computer science as a field has a
+reputation for being a boys’ club. Not at Carnegie Mellon.
+Now it is removed entirely.
 
 #### May 31, 2019.
 
