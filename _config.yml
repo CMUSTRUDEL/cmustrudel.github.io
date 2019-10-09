@@ -82,7 +82,6 @@ tel: +1 412-2681048
 faculty:
   - name: Bogdan Vasilescu
     position: Chief Culinary Officer
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     web: http://bvasiles.github.io
     img: bogdan.jpg
     strudel: sour cherry
@@ -97,9 +96,9 @@ faculty:
 affilfaculty:
   - name: Claire Le Goues
     position: Affiliate; CMU, ISR
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     web: https://clairelegoues.com
     img: claire.jpg
+    strudel: none
     social:
 #      - title: envelope #use for email address
 #        url: mailto:name@domain.com
@@ -109,7 +108,6 @@ affilfaculty:
         url: https://clairelegoues.com
   - name: Christian Kästner
     position: Affiliate; CMU, ISR
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     web: https://www.cs.cmu.edu/~ckaestne/
     img: christian.jpg
     strudel: apple / curd & raisins
@@ -122,7 +120,6 @@ affilfaculty:
         url: https://www.cs.cmu.edu/~ckaestne/
   - name: Affiliate; Graham Neubig
     position: Affiliate; CMU, LTI
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     web: http://phontron.com
     img: graham.jpg
     strudel: cherry
@@ -135,7 +132,6 @@ affilfaculty:
         url: http://phontron.com
   - name: Jim Herbsleb
     position: Affiliate; CMU, ISR
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     web: http://herbsleb.org
     img: jim.jpg
     strudel: sour cherry
@@ -146,20 +142,32 @@ affilfaculty:
         url: https://twitter.com/jherbsleb
       - title: link
         url: http://herbsleb.org
+  - name: Daniel Klug
+    position: Affiliate; CMU, ISR
+    web: http://daniel.klug.am
+    img: daniel.jpg
+    strudel: sour cherry
+    social:
+      - title: envelope #use for email address
+        url: mailto:dklug@cs.cmu.edu
+      - title: twitter
+        url: https://twitter.com/dnlklg
+      - title: link
+        url: http://daniel.klug.am
 
 
 grads:
-  - name: Michelle Cao
-    position: MS Computer Science
-    img: michelle.jpg
-    strudel: apple
+  - name: Hongbo Fang
+    position: PhD Societal Computing, 2019- (also <a href="https://herbsleb.org">Herbsleb group</a>)
+    img: hongbo.jpg
+    strudel: 
     social:
       - title: envelope #use for email address
-        url: mailto:minxuanc@andrew.cmu.edu
-#      - title: twitter
-#        url: http://twitter.com/handle
+        url: mailto:hongbofa@andrew.cmu.edu
+      - title: twitter
+        url: http://twitter.com/fang_hongbo
       - title: link
-        url: https://www.linkedin.com/in/minxuan-cao-b522858a/
+        url: https://www.linkedin.com/in/hongbo-fang-358ba615b
   - name: Jeremy Lacomis
     position: PhD Software Engineering, 2017- (also <a href="https://squareslab.github.io/">SquaresLab</a>)
     img: jeremy.jpg
@@ -214,7 +222,7 @@ grads:
     - title: link
       url: https://www.linkedin.com/in/mvaliev/
   - name: David Widder
-    position: PhD Software Engineering, 2017-
+    position: PhD Software Engineering, 2017- (<a href="http://coexlab.com/#about">CoEx Lab</a>)
     img: david.jpg
     strudel: cream cheese & strawberry
     social:
@@ -226,23 +234,28 @@ grads:
         url: http://davidwidder.me
         
 undergrads:
-  - name: Yucen (Lily) Li
-    position: CMU, CS
-    img: lily.jpg
-    strudel: cinnamon walnut
+  - name: Cassandra Overney
+    position: REU 2019, Olin College of Engineering
+    img: cassandra.jpg
+    strudel: 
     social:
       - title: envelope #use for email address
-        url: mailto:yucenl@andrew.cmu.edu
-  - name: Adithya Raghuraman
-    position: CMU, ECE
-    img: Adithya.png
-    strudel: apple
+        url: mailto:cassandra.overney@students.olin.edu
+      - title: twitter
+        url: http://twitter.com/cass_overney
+  - name: Naveen Raman
+    position: REU 2019, University of Maryland, College Park
+    img: naveen.jpg
+    strudel: 
     social:
       - title: envelope #use for email address
-        url: mailto:araghura@andrew.cmu.edu
+        url: mailto:nav.j.raman@gmail.com
+#      - title: twitter
+#        url: http://twitter.com/cass_overney
+
+alumni:
   - name: Courtney Miller
     position: REU 2018, New College of Florida
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     img: CMillerHeadshot.jpg
     strudel: sour cherry
     social:
@@ -250,6 +263,13 @@ undergrads:
         url: mailto:courtney.miller17@ncf.edu
 #      - title: twitter
 #        url: http://twitter.com/handle
+  - name: Yucen (Lily) Li
+    position: CMU, CS
+    img: lily.jpg
+    strudel: cinnamon walnut
+    social:
+      - title: envelope #use for email address
+        url: mailto:yucenl@andrew.cmu.edu
   - name: Asher Trockman
     position: REU 2017, U. of Evansville
     img: asher.jpg
@@ -259,8 +279,24 @@ undergrads:
         url: mailto:asher.trockman@gmail.com
 #      - title: twitter
 #        url: http://twitter.com/handle
-
-alumni:
+  - name: Adithya Raghuraman
+    position: CMU, ECE
+    img: Adithya.png
+    strudel: apple
+    social:
+      - title: envelope #use for email address
+        url: mailto:araghura@andrew.cmu.edu
+  - name: Michelle Cao
+    position: MS Computer Science
+    img: michelle.jpg
+    strudel: apple
+    social:
+      - title: envelope #use for email address
+        url: mailto:minxuanc@andrew.cmu.edu
+#      - title: twitter
+#        url: http://twitter.com/handle
+      - title: link
+        url: https://www.linkedin.com/in/minxuan-cao-b522858a/
   - name: Sophie Rosas-Smith
     position: REU 2018, Wellesley College
     img: sophie_pic.jpg
