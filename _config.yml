@@ -237,7 +237,7 @@ undergrads:
   - name: Cassandra Overney
     position: REU 2019, Olin College of Engineering
     img: cassandra.jpg
-    strudel: 
+    strudel: cherry
     social:
       - title: envelope #use for email address
         url: mailto:cassandra.overney@students.olin.edu
