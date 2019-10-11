@@ -246,7 +246,7 @@ undergrads:
   - name: Naveen Raman
     position: REU 2019, University of Maryland, College Park
     img: naveen.jpg
-    strudel: 
+    strudel: apple
     social:
       - title: envelope #use for email address
         url: mailto:nav.j.raman@gmail.com
