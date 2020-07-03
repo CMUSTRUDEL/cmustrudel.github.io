@@ -14,3 +14,4 @@ thumb: strudel-square-003.jpg
 
 ![STRUDEL](/assets/img/info-donations.svg)
 
+More details about the research [here](../../papers/overney20donations.pdf).
