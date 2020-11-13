@@ -77,7 +77,7 @@ get involved in the developing process. After all, more often than not, some
 pieces of code are excessively confusing, especially we now have the luxury to
 sacrifice disk space for code clarity.
 
-Davide brought some brownies and Sophie brought some Chinese rice cake for the
+David brought some brownies and Sophie brought some Chinese rice cake for the
 dragon boat festival.
 
 #### Wednesday, May 23, 2018
