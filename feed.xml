@@ -5,24 +5,9 @@
     <description>The Socio-Technical Research Using Data Excavation Lab at Carnegie Mellon University</description>
     <link>http://cmustrudel.github.io/</link>
     <atom:link href="http://cmustrudel.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 26 May 2021 04:14:00 +0000</pubDate>
-    <lastBuildDate>Wed, 26 May 2021 04:14:00 +0000</lastBuildDate>
-    <generator>Jekyll v3.8.5</generator>
-    
-      <item>
-        <title>Announcement: Infographic: Donations in Open Source</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/img/info-donations.svg&quot; alt=&quot;STRUDEL&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;More details about the research &lt;a href=&quot;../../papers/overney20donations.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 18 Jun 2020 16:23:46 +0000</pubDate>
-        <link>http://cmustrudel.github.io/announcement/donations</link>
-        <guid isPermaLink="true">http://cmustrudel.github.io/announcement/donations</guid>
-        
-        
-        <category>Announcement</category>
-        
-      </item>
+    <pubDate>Thu, 05 Aug 2021 17:07:58 +0000</pubDate>
+    <lastBuildDate>Thu, 05 Aug 2021 17:07:58 +0000</lastBuildDate>
+    <generator>Jekyll v4.2.0</generator>
     
       <item>
         <title>Blog: Life @ CMU</title>
@@ -30,6 +15,10 @@
 cool space. 
 I’m writing down things I find interesting here.
 Hope this blog can tell you more about CMU.&lt;/p&gt;
+
+&lt;h4 id=&quot;jun-19-2021&quot;&gt;Jun 19, 2021&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/51282300833_210ca44016_k.jpg&quot; style=&quot;width: 400px;&quot; /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;sep-12-2019&quot;&gt;Sep 12, 2019.&lt;/h4&gt;
 
@@ -510,7 +499,7 @@ group of goats!&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/assets/img/pics/08-16-17-source.jpg&quot; style=&quot;width: 400px;&quot; /&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Thu, 12 Sep 2019 23:22:35 +0000</pubDate>
+        <pubDate>Thu, 01 Jul 2021 00:11:34 +0000</pubDate>
         <link>http://cmustrudel.github.io/blog/cmu/CMU-life</link>
         <guid isPermaLink="true">http://cmustrudel.github.io/blog/cmu/CMU-life</guid>
         
@@ -518,6 +507,21 @@ group of goats!&lt;/a&gt;&lt;/p&gt;
         <category>blog</category>
         
         <category>CMU</category>
+        
+      </item>
+    
+      <item>
+        <title>Announcement: Infographic: Donations in Open Source</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/img/info-donations.svg&quot; alt=&quot;STRUDEL&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;More details about the research &lt;a href=&quot;../../papers/overney20donations.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 18 Jun 2020 16:23:46 +0000</pubDate>
+        <link>http://cmustrudel.github.io/announcement/donations</link>
+        <guid isPermaLink="true">http://cmustrudel.github.io/announcement/donations</guid>
+        
+        
+        <category>Announcement</category>
         
       </item>
     
