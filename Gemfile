@@ -7,6 +7,7 @@ gem "rake", "~> 10.1.1"
 gem "rake-jekyll"
 gem 'jekyll-regex-replace'
 gem 'jekyll-scholar', '~> 5.9', '>= 5.9.1'
+gem "kramdown-parser-gfm"
 
 #require 'rbconfig'
 #if RbConfig::CONFIG['target_os'] =~ /darwin(1[0-3])/i
