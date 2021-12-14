@@ -157,6 +157,17 @@ affilfaculty:
 
 
 grads:
+    - name: Courtney Miller
+    position: PhD Software Engineering, 2021 - (also <a href="https://www.cs.cmu.edu/~ckaestne/">Kästner group</a>)
+    img: CMillerHeadshot.jpg
+    strudel: sour cherry
+    social:
+      - title: envelope #use for email address
+        url: mailto:courtneymiller@cmu.edu
+      - title: twitter
+        url: http://twitter.com/courtneyelta
+      - title: link
+        url: https://courtney-e-miller.github.io
   - name: Hongbo Fang
     position: PhD Societal Computing, 2019- (also <a href="https://herbsleb.org">Herbsleb group</a>)
     img: hongbo.jpg
@@ -234,7 +245,18 @@ grads:
         url: http://davidwidder.me
         
 undergrads:
-  - name: Cassandra Overney
+  - name: Theresa Lim
+    position: REU 2021, Princeton University 
+    img: theresa.jpg
+    strudel: apple
+#    social:
+#      - title: envelope #use for email address
+#        url: mailto:cassandra.overney@students.olin.edu
+#      - title: twitter
+#        url: http://twitter.com/cass_overney
+
+alumni:
+    - name: Cassandra Overney
     position: REU 2019, Olin College of Engineering
     img: cassandra.jpg
     strudel: cherry
@@ -252,26 +274,6 @@ undergrads:
         url: mailto:nav.j.raman@gmail.com
 #      - title: twitter
 #        url: http://twitter.com/cass_overney
-  - name: Theresa Lim
-    position: REU 2021, Princeton University 
-    img: theresa.jpg
-    strudel: apple
-    social:
-      - title: envelope #use for email address
-        url: mailto:cassandra.overney@students.olin.edu
-      - title: twitter
-        url: http://twitter.com/cass_overney
-
-alumni:
-  - name: Courtney Miller
-    position: REU 2018, New College of Florida
-    img: CMillerHeadshot.jpg
-    strudel: sour cherry
-    social:
-      - title: envelope #use for email address
-        url: mailto:courtney.miller17@ncf.edu
-#      - title: twitter
-#        url: http://twitter.com/handle
   - name: Yucen (Lily) Li
     position: CMU, CS
     img: lily.jpg
