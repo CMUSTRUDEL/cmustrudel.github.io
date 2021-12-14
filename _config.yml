@@ -252,6 +252,15 @@ undergrads:
         url: mailto:nav.j.raman@gmail.com
 #      - title: twitter
 #        url: http://twitter.com/cass_overney
+  - name: Theresa Lim
+    position: REU 2021, Princeton University 
+    img: theresa.jpg
+    strudel: apple
+    social:
+      - title: envelope #use for email address
+        url: mailto:cassandra.overney@students.olin.edu
+      - title: twitter
+        url: http://twitter.com/cass_overney
 
 alumni:
   - name: Courtney Miller
