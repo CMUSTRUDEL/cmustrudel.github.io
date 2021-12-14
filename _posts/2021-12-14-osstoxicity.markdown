@@ -12,6 +12,6 @@ thumb: strudel-square-003.jpg
 ---
 
 
-![STRUDEL](/assets/img/info-osstoxicity.jpg)
+![STRUDEL](/assets/img/info-osstoxicity.png)
 
 More details about the research [here](../../papers/osstoxicity22.pdf). 
