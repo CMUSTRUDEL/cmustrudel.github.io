@@ -157,7 +157,7 @@ affilfaculty:
 
 
 grads:
-    - name: Courtney Miller
+  - name: Courtney Miller
     position: PhD Software Engineering, 2021 - (also <a href="https://www.cs.cmu.edu/~ckaestne/">Kästner group</a>)
     img: CMillerHeadshot.jpg
     strudel: sour cherry
