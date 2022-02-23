@@ -256,7 +256,7 @@ undergrads:
 #        url: http://twitter.com/cass_overney
 
 alumni:
-    - name: Cassandra Overney
+  - name: Cassandra Overney
     position: REU 2019, Olin College of Engineering
     img: cassandra.jpg
     strudel: cherry
