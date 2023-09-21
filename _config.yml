@@ -179,17 +179,6 @@ grads:
         url: http://twitter.com/fang_hongbo
       - title: link
         url: https://www.linkedin.com/in/hongbo-fang-358ba615b
-  - name: Jeremy Lacomis
-    position: PhD Software Engineering, 2017- (also <a href="https://squareslab.github.io/">SquaresLab</a>)
-    img: jeremy.jpg
-    strudel: apple
-    social:
-      - title: envelope #use for email address
-        url: mailto:jlacomis@cmu.edu
-      - title: twitter
-        url: http://twitter.com/jlacomis
-      - title: link
-        url: https://www.cs.cmu.edu/~jlacomis/
   - name: Hemank Lamba
     position: PhD Societal Computing, 2014-
     img: hemank.jpg
@@ -256,6 +245,17 @@ undergrads:
 #        url: http://twitter.com/cass_overney
 
 alumni:
+  - name: Jeremy Lacomis
+    position: CMU Mark Stehlik Postdoctoral Teaching Fellow
+    img: jeremy.jpg
+    strudel: apple
+    social:
+      - title: envelope #use for email address
+        url: mailto:jlacomis@cmu.edu
+      - title: twitter
+        url: http://twitter.com/jlacomis
+      - title: link
+        url: https://www.cs.cmu.edu/~jlacomis/
   - name: Cassandra Overney
     position: REU 2019, Olin College of Engineering
     img: cassandra.jpg
