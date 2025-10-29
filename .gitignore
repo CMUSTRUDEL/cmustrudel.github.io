@@ -9,3 +9,8 @@ assets/img/members/.picasa.ini
 .DS_Store
 .icloud
 */Picasa Export
+Gemfile.lock
+/.jekyll-cache
+
+# Ignore text extractions from PDFs in papers folder
+papers/*.txt
