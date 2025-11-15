@@ -191,16 +191,16 @@ a:focus {
 }
 
 .mtb {
-	margin-top: 80px;
-	margin-bottom: 80px;
+	margin-top: 30px;
+	margin-bottom: 30px;
 }
 
 .mb {
-	margin-bottom: 60px;
+	margin-bottom: 20px;
 }
 
 .mt {
-	margin-top: 60px;
+	margin-top: 20px;
 }
 
 .hline {
@@ -535,4 +535,347 @@ div.bibtex pre {
 	overflow: auto;  
 /* 	width: 60%;  */
 	line-height: 1;
+}
+
+/*	################################################################
+	LAB PHOTOS & MODERN PEOPLE PAGE STYLING
+################################################################# */
+
+/* Lab Photos Carousel Section */
+.lab-photos-section {
+	margin-bottom: 40px;
+	padding: 20px 0;
+}
+
+.section-header {
+	margin-bottom: 25px;
+	text-align: center;
+}
+
+.section-title {
+	font-size: 1.75rem;
+	font-weight: 700;
+	color: {{ site.colors.secondary }};
+	margin-bottom: 10px;
+	letter-spacing: -0.01em;
+}
+
+.section-header .hline {
+	border-bottom: 2px solid {{ site.colors.primary }};
+	width: 60px;
+	margin: 0 auto 15px;
+}
+
+#labPhotosCarousel {
+	margin-top: 20px;
+	border-radius: var(--border-radius-lg);
+	overflow: hidden;
+	box-shadow: var(--shadow-lg);
+}
+
+#labPhotosCarousel .carousel-inner {
+	min-height: auto;
+}
+
+#labPhotosCarousel .item {
+	text-align: center;
+	background-color: #f5f5f5;
+}
+
+.lab-carousel-img {
+	width: 100% !important;
+	height: auto !important;
+	max-height: 600px !important;
+	object-fit: contain !important;
+	background-color: #f5f5f5;
+	display: block;
+	margin: 0 auto;
+}
+
+.carousel-caption {
+	background: linear-gradient(to top, rgba(0,0,0,0.7), transparent);
+	padding: 20px;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	text-align: left;
+}
+
+.carousel-caption h3 {
+	color: white;
+	font-size: 1.25rem;
+	font-weight: 600;
+	margin: 0;
+	text-shadow: 0 2px 4px rgba(0,0,0,0.5);
+}
+
+.carousel-indicators {
+	bottom: 15px;
+}
+
+.carousel-indicators li {
+	background-color: rgba(255,255,255,0.5);
+	border: 2px solid white;
+}
+
+.carousel-indicators .active {
+	background-color: {{ site.colors.primary }};
+	border-color: {{ site.colors.primary }};
+}
+
+/* Compact Member Tiles */
+.people-section {
+	margin-bottom: 30px;
+}
+
+.people-section .row {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.people-section .row > [class*='col-'] {
+	display: flex;
+	flex-direction: column;
+}
+
+.people-section .row > [class*='col-'] > .member-card-tile {
+	flex: 1;
+}
+
+.member-card-tile {
+	background: #fff;
+	border-radius: var(--border-radius);
+	padding: 12px;
+	margin-bottom: 20px;
+	text-align: center;
+	transition: all var(--transition-speed) var(--transition-easing);
+	border: 1px solid rgba(0,0,0,0.08);
+	box-shadow: var(--shadow-sm);
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	position: relative;
+	overflow: hidden;
+}
+
+.member-card-tile:hover {
+	box-shadow: var(--shadow-md);
+	transform: translateY(-3px);
+	border-color: rgba({{ site.colors.primary_rgb }}, 0.25);
+}
+
+.member-role-badge {
+	position: absolute;
+	top: 8px;
+	right: 8px;
+	background: {{ site.colors.primary }};
+	color: white;
+	padding: 4px 8px;
+	border-radius: 12px;
+	font-size: 0.65rem;
+	font-weight: 600;
+	text-transform: uppercase;
+	letter-spacing: 0.3px;
+	z-index: 10;
+	box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+	line-height: 1.2;
+}
+
+.member-image-wrapper {
+	margin-bottom: 10px;
+	position: relative;
+}
+
+.member-image {
+	width: 100%;
+	height: 200px;
+	object-fit: cover;
+	border-radius: var(--border-radius);
+	display: block;
+}
+
+.he-wrap {
+	border-radius: var(--border-radius);
+	overflow: hidden;
+	margin-bottom: 0;
+}
+
+.he-wrap img {
+	width: 100%;
+	height: 200px;
+	object-fit: cover;
+	display: block;
+}
+
+.member-info {
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+	padding-top: 5px;
+}
+
+.member-name {
+	font-size: 1rem;
+	font-weight: 700;
+	margin-bottom: 4px;
+	margin-top: 0;
+	color: {{ site.colors.secondary }};
+	line-height: 1.3;
+}
+
+.member-name a {
+	color: {{ site.colors.secondary }};
+	transition: color var(--transition-speed) var(--transition-easing);
+}
+
+.member-name a:hover {
+	color: {{ site.colors.primary }};
+	text-decoration: none;
+}
+
+.member-position {
+	font-size: 0.8rem;
+	color: #666;
+	margin-bottom: 8px;
+	line-height: 1.4;
+	flex: 1;
+}
+
+.member-strudel {
+	font-size: 0.75rem;
+	color: #888;
+	margin-top: auto;
+	margin-bottom: 0;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 4px;
+	padding-top: 6px;
+	border-top: 1px solid rgba(0,0,0,0.08);
+}
+
+.strudel-icon {
+	width: 16px;
+	height: 16px;
+	vertical-align: middle;
+}
+
+.member-strudel i {
+	font-style: italic;
+	color: #777;
+}
+
+.member-card-modern {
+	background: #fff;
+	border-radius: var(--border-radius-lg);
+	padding: 20px;
+	margin-bottom: 30px;
+	text-align: center;
+	transition: all var(--transition-speed) var(--transition-easing);
+	border: 1px solid rgba(0,0,0,0.08);
+	box-shadow: var(--shadow-sm);
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	position: relative;
+	overflow: hidden;
+}
+
+.member-card-modern::before {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	height: 4px;
+	background: linear-gradient(90deg, {{ site.colors.primary }}, {{ site.colors.link_hover }});
+	transform: scaleX(0);
+	transition: transform var(--transition-speed) var(--transition-easing);
+}
+
+.member-card-modern:hover::before {
+	transform: scaleX(1);
+}
+
+.member-card-modern:hover {
+	box-shadow: var(--shadow-lg);
+	transform: translateY(-5px);
+	border-color: rgba({{ site.colors.primary_rgb }}, 0.3);
+}
+
+/* Responsive adjustments */
+@media (max-width: 991px) {
+	.member-card-tile {
+		margin-bottom: 18px;
+		padding: 10px;
+	}
+	
+	.member-image,
+	.he-wrap img {
+		height: 180px;
+	}
+	
+	.member-role-badge {
+		font-size: 0.6rem;
+		padding: 3px 7px;
+	}
+}
+
+@media (max-width: 767px) {
+	.lab-photos-section {
+		margin-bottom: 30px;
+		padding: 15px 0;
+	}
+	
+	.section-title {
+		font-size: 1.5rem;
+	}
+	
+	.lab-carousel-img {
+		max-height: 400px !important;
+		object-fit: contain !important;
+		height: auto !important;
+	}
+	
+	.people-section {
+		margin-bottom: 25px;
+	}
+	
+	.member-card-tile {
+		margin-bottom: 15px;
+		padding: 10px;
+	}
+	
+	.member-image,
+	.he-wrap img {
+		height: 160px;
+	}
+	
+	.member-name {
+		font-size: 0.95rem;
+	}
+	
+	.member-position {
+		font-size: 0.75rem;
+	}
+	
+	.member-role-badge {
+		font-size: 0.55rem;
+		padding: 3px 6px;
+		top: 6px;
+		right: 6px;
+	}
+}
+
+@media (max-width: 480px) {
+	.lab-carousel-img {
+		max-height: 300px !important;
+		object-fit: contain !important;
+		height: auto !important;
+	}
+	
+	.member-image,
+	.he-wrap img {
+		height: 140px;
+	}
 }
