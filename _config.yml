@@ -23,7 +23,7 @@ markdown: kramdown
 permalink: /:categories/:title
 excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
 
-colors:  #in hex code if not noted else
+colors: #in hex code if not noted else
   primary: "#DC2624" #"#00b3fe" #"#F70031"
   primary_rgb: "220,38,36" #"0,179,254" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.
   secondary: "#384452" #"#33004D"
@@ -42,7 +42,7 @@ collections:
     permalink: /questions/:title/
 
 flickr:
-#  screen_name: STRUDEL
+  #  screen_name: STRUDEL
   api_key: 4aa00bb511e35bdb53c92f5c68ea4a6e
   api_secret: 4d53c51e4e15043f
   widths: [240, 320, 500, 640, 800, 1024]
@@ -51,7 +51,7 @@ flickr:
   figcaption: true
   license: true
   caption: true
-  
+
 ### CONTACT SETTINGS ###
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
@@ -68,13 +68,12 @@ social:
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines:
-    - Wean Hall 5115, Institute for Software Research
-    - School of Computer Science, Carnegie Mellon University
-    - 5000 Forbes Ave
-    - Pittsburgh, PA, 15213 USA
+      - Wean Hall 5115, Institute for Software Research
+      - School of Computer Science, Carnegie Mellon University
+      - 5000 Forbes Ave
+      - Pittsburgh, PA, 15213 USA
 email: hello@solidtheme.com
 tel: +1 412-2681048
-
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
 
@@ -100,8 +99,8 @@ affilfaculty:
     img: claire.jpg
     strudel: none
     social:
-#      - title: envelope #use for email address
-#        url: mailto:name@domain.com
+      #      - title: envelope #use for email address
+      #        url: mailto:name@domain.com
       - title: twitter
         url: https://twitter.com/clegoues
       - title: link
@@ -112,8 +111,8 @@ affilfaculty:
     img: christian.jpg
     strudel: apple / curd & raisins
     social:
-#      - title: envelope #use for email address
-#        url: mailto:name@domain.com
+      #      - title: envelope #use for email address
+      #        url: mailto:name@domain.com
       - title: twitter
         url: https://twitter.com/p0nk
       - title: link
@@ -124,8 +123,8 @@ affilfaculty:
     img: graham.jpg
     strudel: cherry
     social:
-#      - title: envelope #use for email address
-#        url: mailto:name@domain.com
+      #      - title: envelope #use for email address
+      #        url: mailto:name@domain.com
       - title: twitter
         url: https://twitter.com/gneubig
       - title: link
@@ -136,8 +135,8 @@ affilfaculty:
     img: jim.jpg
     strudel: sour cherry
     social:
-#      - title: envelope #use for email address
-#        url: mailto:name@domain.com
+      #      - title: envelope #use for email address
+      #        url: mailto:name@domain.com
       - title: twitter
         url: https://twitter.com/jherbsleb
       - title: link
@@ -154,9 +153,43 @@ affilfaculty:
         url: https://twitter.com/dnlklg
       - title: link
         url: http://daniel.klug.am
-
-
+  - name: Narayan Ramasubbu
+    position: Affiliate; UPitt, Katz
+    web: sites.pitt.edu/~narayanr/
+    img: narayan.jpg
+    strudel: s-TRUE-del Bavarian
+    social:
+      - title: envelope #use for email address
+        url: mailto:narayanr@pitt.edu
+      - title: twitter
+        url: https://x.com/pittchorus
+      - title: link
+        url: https://sites.google.com/site/narayanramasubbu/home
 grads:
+  - name: Shyam Agarwal
+    position: PhD Societal Computing, 2025 -
+    img: shyam.jpg
+    strudel: sour cherry
+    social:
+      - title: envelope #use for email address
+        url: mailto:shyamaga@andrew.cmu.edu
+      - title: twitter
+        url: https://x.com/Shy_Agarwal
+      - title: link
+        url: http://ashyagarwal.com/
+
+  - name: Hao He
+    position: PhD Software Engineering, 2023 - (also <a href="https://www.cs.cmu.edu/~ckaestne/">Kästner group</a>)
+    img: hao.jpg
+    strudel: sour cherry
+    social:
+      - title: envelope #use for email address
+        url: mailto:haohe@andrew.cmu.edu
+      # - title: twitter
+      #   url: https://twitter.com/username
+      - title: link
+        url: https://hehao98.github.io/
+
   - name: Courtney Miller
     position: PhD Software Engineering, 2021 - (also <a href="https://www.cs.cmu.edu/~ckaestne/">Kästner group</a>)
     img: CMillerHeadshot.jpg
@@ -168,10 +201,37 @@ grads:
         url: http://twitter.com/courtneyelta
       - title: link
         url: https://courtney-e-miller.github.io
+
+postdocs:
+  - name: Thomas Bock
+    position: Postdoctoral Researcher
+    img: thomas.jpg
+    strudel: apple
+    social:
+      - title: envelope #use for email address
+        url: mailto:bockthom@cmu.edu
+      # - title: twitter
+      #   url: http://twitter.com/jlacomis
+      - title: link
+        url: https://www.cs.cmu.edu/~thomasbo/
+
+  - name: Nandini Sharma
+    position: Postdoctoral Researcher
+    img: nandini.jpg
+    strudel: apple
+    social:
+      - title: envelope #use for email address
+        url: mailto:nandini2@andrew.cmu.edu
+      # - title: twitter
+      #   url: http://twitter.com/jlacomis
+      - title: link
+        url: https://nandsh.com/
+
+alumni:
   - name: Hongbo Fang
     position: PhD Societal Computing, 2019- (also <a href="https://herbsleb.org">Herbsleb group</a>)
     img: hongbo.jpg
-    strudel: 
+    strudel:
     social:
       - title: envelope #use for email address
         url: mailto:hongbofa@andrew.cmu.edu
@@ -197,8 +257,8 @@ grads:
     social:
       - title: envelope #use for email address
         url: mailto:dayen@andrew.cmu.edu
-#      - title: twitter
-#        url: http://twitter.com/handle
+      #      - title: twitter
+      #        url: http://twitter.com/handle
       - title: link
         url: https://dayenam.com/
   - name: Huilian (Sophie) Qiu
@@ -208,19 +268,19 @@ grads:
     social:
       - title: envelope #use for email address
         url: mailto:huilianq@andrew.cmu.edu
-#      - title: twitter
-#        url: http://twitter.com/handle
+  #      - title: twitter
+  #        url: http://twitter.com/handle
   - name: Marat Valiev
     position: PhD Societal Computing, 2016- (also <a href="http://herbsleb.org/index.html">Herbsleb group</a>)
     img: marat.jpg
     strudel: apple
     social:
-    - title: envelope #use for email address
-      url: mailto:marat@cmu.edu
-      #- title: twitter
-      #  url: http://twitter.com/davidthewid
-    - title: link
-      url: https://www.linkedin.com/in/mvaliev/
+      - title: envelope #use for email address
+        url: mailto:marat@cmu.edu
+        #- title: twitter
+        #  url: http://twitter.com/davidthewid
+      - title: link
+        url: https://www.linkedin.com/in/mvaliev/
   - name: David Widder
     position: PhD Software Engineering, 2017- (<a href="http://coexlab.com/#about">CoEx Lab</a>)
     img: david.jpg
@@ -232,19 +292,6 @@ grads:
         url: http://twitter.com/davidthewid
       - title: link
         url: http://davidwidder.me
-        
-undergrads:
-  - name: Theresa Lim
-    position: REU 2021, Princeton University 
-    img: theresa.jpg
-    strudel: apple
-#    social:
-#      - title: envelope #use for email address
-#        url: mailto:cassandra.overney@students.olin.edu
-#      - title: twitter
-#        url: http://twitter.com/cass_overney
-
-alumni:
   - name: Jeremy Lacomis
     position: CMU Mark Stehlik Postdoctoral Teaching Fellow
     img: jeremy.jpg
@@ -272,8 +319,8 @@ alumni:
     social:
       - title: envelope #use for email address
         url: mailto:nav.j.raman@gmail.com
-#      - title: twitter
-#        url: http://twitter.com/cass_overney
+  #      - title: twitter
+  #        url: http://twitter.com/cass_overney
   - name: Yucen (Lily) Li
     position: CMU, CS
     img: lily.jpg
@@ -288,8 +335,8 @@ alumni:
     social:
       - title: envelope #use for email address
         url: mailto:asher.trockman@gmail.com
-#      - title: twitter
-#        url: http://twitter.com/handle
+  #      - title: twitter
+  #        url: http://twitter.com/handle
   - name: Adithya Raghuraman
     position: CMU, ECE
     img: Adithya.png
@@ -304,8 +351,8 @@ alumni:
     social:
       - title: envelope #use for email address
         url: mailto:minxuanc@andrew.cmu.edu
-#      - title: twitter
-#        url: http://twitter.com/handle
+      #      - title: twitter
+      #        url: http://twitter.com/handle
       - title: link
         url: https://www.linkedin.com/in/minxuan-cao-b522858a/
   - name: Sophie Rosas-Smith
@@ -315,20 +362,20 @@ alumni:
     social:
       - title: envelope #use for email address
         url: mailto:srosassm@wellesley.edu
-#      - title: twitter
-#        url: http://twitter.com/handle
+  #      - title: twitter
+  #        url: http://twitter.com/handle
   - name: Jacob Hoffman
     position: REU 2017, CMU, CS
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     img: jacob.jpg
     strudel: strawberry & cream
     social:
-       - title: envelope #use for email address
-         url: mailto:jhoffma1@andrew.cmu.edu
-#      - title: twitter
-#        url: http://twitter.com/handle
-       - title: link
-         url: http://jacobhoffmanportfolio.tk
+      - title: envelope #use for email address
+        url: mailto:jhoffma1@andrew.cmu.edu
+      #      - title: twitter
+      #        url: http://twitter.com/handle
+      - title: link
+        url: http://jacobhoffmanportfolio.tk
   - name: Alan Jaffe
     position: CMU, CS
     img: alan.jpg
@@ -336,24 +383,24 @@ alumni:
     social:
       - title: envelope #use for email address
         url: mailto:apjaffe@andrew.cmu.edu
-#      - title: twitter
-#        url: http://twitter.com/handle
+  #      - title: twitter
+  #        url: http://twitter.com/handle
   - name: Raunak Agnihotri
     position: CMU, ECE
     img: raunak.jpg
     social:
       - title: envelope #use for email address
         url: mailto:raunak@cmu.edu
-#      - title: twitter
-#        url: http://twitter.com/handle
+  #      - title: twitter
+  #        url: http://twitter.com/handle
   - name: Anita Brown
     position: REU 2017, Bryn Mawr College
     img: anita.jpg
     social:
       - title: envelope #use for email address
         url: mailto:anitab1046@gmail.com
-#      - title: twitter
-#        url: http://twitter.com/handle
+  #      - title: twitter
+  #        url: http://twitter.com/handle
   - name: Alex Nolte
     position: Asst. Professor, University of Tartu, Estonia
     img: alex.jpg
@@ -364,8 +411,18 @@ alumni:
         url: mailto:alexander.nolte@ut.ee
       - title: link
         url: http://anolte.com/
-#
-#visitors:
+
+  - name: Theresa Lim
+    position: REU 2021, Princeton University
+    img: theresa.jpg
+    strudel: apple
+  #    social:
+  #      - title: envelope #use for email address
+  #        url: mailto:cassandra.overney@students.olin.edu
+  #      - title: twitter
+  #        url: http://twitter.com/cass_overney
+  #
+  #visitors:
   - name: Fabio Calefato
     position: Asst. Professor, University of Bari, Italy
     img: fabio.jpg
@@ -378,7 +435,6 @@ alumni:
         url: https://twitter.com/fcalefato
       - title: link
         url: http://collab.di.uniba.it/fabio/
-
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
 about: "We study complex socio-technical systems such as GitHub and Stack Overflow using data science methods."
@@ -406,16 +462,30 @@ scholar:
   bibliography: publications.bib
   bibliography_template: bib
 
-  bibliography_list_tag: 'div'
-  bibliography_item_tag: 'span'
+  bibliography_list_tag: "div"
+  bibliography_item_tag: "span"
 
   bibliography_list_attributes:
     reversed: "reversed"
 
   replace_strings: true
-  join_strings:    true
-  
-  bibtex_skip_fields: [code, data, tool, pdf, slides, poster, abbrv, month, month_numeric, acceptance, pubcls, pubtype]
+  join_strings: true
+
+  bibtex_skip_fields:
+    [
+      code,
+      data,
+      tool,
+      pdf,
+      slides,
+      poster,
+      abbrv,
+      month,
+      month_numeric,
+      acceptance,
+      pubcls,
+      pubtype,
+    ]
 
   #details_dir:    bibliography
   #details_layout: bibtex.html
