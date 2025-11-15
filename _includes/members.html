@@ -2,15 +2,17 @@
 <div class="container mtb">
   <div class="people-section">
     <div class="row">
-      <!-- Faculty -->
-      {% for member in site.faculty %}
+      <!-- Faculty - sorted by last name -->
+      {% assign sorted_faculty = site.faculty | sort: 'last_name' %} {% for
+      member in sorted_faculty %}
       <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
         <div class="member-card-tile">
           <div class="member-role-badge">Faculty</div>
           <div class="member-image-wrapper">
             <div class="he-wrap tpl6">
               <img src="{{ "/assets/img/members/" | prepend: site.baseurl }}{{
-              member.img }}" alt="{{ member.name }}" class="member-image">
+              member.img }}" alt="{{ member.name }}" class="member-image"
+              onerror="this.style.display='none'">
               <div class="he-view">
                 <div class="bg a0" data-animate="fadeIn">
                   <h3 class="a1" data-animate="fadeInDown">Contact Me:</h3>
@@ -45,15 +47,17 @@
       </div>
       {% endfor %}
 
-      <!-- Affiliated Faculty -->
-      {% for member in site.affilfaculty %}
+      <!-- Affiliated Faculty - sorted by last name -->
+      {% assign sorted_affilfaculty = site.affilfaculty | sort: 'last_name' %}
+      {% for member in sorted_affilfaculty %}
       <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
         <div class="member-card-tile">
           <div class="member-role-badge">Affiliated Faculty</div>
           <div class="member-image-wrapper">
             <div class="he-wrap tpl6">
               <img src="{{ "/assets/img/members/" | prepend: site.baseurl }}{{
-              member.img }}" alt="{{ member.name }}" class="member-image">
+              member.img }}" alt="{{ member.name }}" class="member-image"
+              onerror="this.style.display='none'">
               <div class="he-view">
                 <div class="bg a0" data-animate="fadeIn">
                   <h3 class="a1" data-animate="fadeInDown">Contact Me:</h3>
@@ -88,65 +92,17 @@
       </div>
       {% endfor %}
 
-      <!-- Graduate Students -->
-      {% for member in site.grads %}
-      <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
-        <div class="member-card-tile">
-          {% if member.position contains "PhD" %}
-          <div class="member-role-badge">PhD Student</div>
-          {% elsif member.position contains "MS" or member.position contains
-          "Master" %}
-          <div class="member-role-badge">MS Student</div>
-          {% else %}
-          <div class="member-role-badge">Graduate Student</div>
-          {% endif %}
-          <div class="member-image-wrapper">
-            <div class="he-wrap tpl6">
-              <img src="{{ "/assets/img/members/" | prepend: site.baseurl }}{{
-              member.img }}" alt="{{ member.name }}" class="member-image">
-              <div class="he-view">
-                <div class="bg a0" data-animate="fadeIn">
-                  <h3 class="a1" data-animate="fadeInDown">Contact Me:</h3>
-                  {% for entry in member.social %}
-                  <a
-                    href="{{ entry.url }}"
-                    class="dmbutton a2"
-                    data-animate="fadeInUp"
-                    aria-label="{{ entry.title }}"
-                    ><i class="fa fa-{{ entry.title }}"></i
-                  ></a>
-                  {% endfor %}
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="member-info">
-            <h4 class="member-name">
-              {% if member.web %}<a href="{{ member.web }}">{{ member.name }}</a
-              >{% else %}{{ member.name }}{% endif %}
-            </h4>
-            <p class="member-position">{{ member.position }}</p>
-            {% if member.strudel %}
-            <p class="member-strudel">
-              <img src="{{ "/assets/img/blog/thumbs/strudel-square-005.jpg" |
-              prepend: site.baseurl }}" alt="strudel" class="strudel-icon">
-              <i>{{ member.strudel }}</i>
-            </p>
-            {% endif %}
-          </div>
-        </div>
-      </div>
-      {% endfor %}
-
-      <!-- Postdocs -->
-      {% for member in site.postdocs %}
+      <!-- Postdocs - sorted by last name -->
+      {% assign sorted_postdocs = site.postdocs | sort: 'last_name' %} {% for
+      member in sorted_postdocs %}
       <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
         <div class="member-card-tile">
           <div class="member-role-badge">Postdoc</div>
           <div class="member-image-wrapper">
             <div class="he-wrap tpl6">
               <img src="{{ "/assets/img/members/" | prepend: site.baseurl }}{{
-              member.img }}" alt="{{ member.name }}" class="member-image">
+              member.img }}" alt="{{ member.name }}" class="member-image"
+              onerror="this.style.display='none'">
               <div class="he-view">
                 <div class="bg a0" data-animate="fadeIn">
                   <h3 class="a1" data-animate="fadeInDown">Contact Me:</h3>
@@ -181,15 +137,62 @@
       </div>
       {% endfor %}
 
-      <!-- Alumni -->
-      {% for member in site.alumni %}
+      <!-- PhD Students - sorted by last name -->
+      {% assign sorted_grads = site.grads | sort: 'last_name' %} {% for member
+      in sorted_grads %} {% if member.position contains "PhD" %}
+      <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
+        <div class="member-card-tile">
+          <div class="member-role-badge">PhD Student</div>
+          <div class="member-image-wrapper">
+            <div class="he-wrap tpl6">
+              <img src="{{ "/assets/img/members/" | prepend: site.baseurl }}{{
+              member.img }}" alt="{{ member.name }}" class="member-image"
+              onerror="this.style.display='none'">
+              <div class="he-view">
+                <div class="bg a0" data-animate="fadeIn">
+                  <h3 class="a1" data-animate="fadeInDown">Contact Me:</h3>
+                  {% for entry in member.social %}
+                  <a
+                    href="{{ entry.url }}"
+                    class="dmbutton a2"
+                    data-animate="fadeInUp"
+                    aria-label="{{ entry.title }}"
+                    ><i class="fa fa-{{ entry.title }}"></i
+                  ></a>
+                  {% endfor %}
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="member-info">
+            <h4 class="member-name">
+              {% if member.web %}<a href="{{ member.web }}">{{ member.name }}</a
+              >{% else %}{{ member.name }}{% endif %}
+            </h4>
+            <p class="member-position">{{ member.position }}</p>
+            {% if member.strudel %}
+            <p class="member-strudel">
+              <img src="{{ "/assets/img/blog/thumbs/strudel-square-005.jpg" |
+              prepend: site.baseurl }}" alt="strudel" class="strudel-icon">
+              <i>{{ member.strudel }}</i>
+            </p>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+      {% endif %} {% endfor %}
+
+      <!-- Alumni - sorted by last name -->
+      {% assign sorted_alumni = site.alumni | sort: 'last_name' %} {% for member
+      in sorted_alumni %}
       <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
         <div class="member-card-tile">
           <div class="member-role-badge">Alumni</div>
           <div class="member-image-wrapper">
             <div class="he-wrap tpl6">
               <img src="{{ "/assets/img/members/" | prepend: site.baseurl }}{{
-              member.img }}" alt="{{ member.name }}" class="member-image">
+              member.img }}" alt="{{ member.name }}" class="member-image"
+              onerror="this.style.display='none'">
               <div class="he-view">
                 <div class="bg a0" data-animate="fadeIn">
                   <h3 class="a1" data-animate="fadeInDown">Contact Me:</h3>
