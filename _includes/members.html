@@ -1,6 +1,10 @@
-<!-- All Members in One Grid -->
+<!-- Current Members Section -->
 <div class="container mtb">
   <div class="people-section">
+    <div class="section-header">
+      <h2 class="section-title">Current Members</h2>
+      <div class="hline"></div>
+    </div>
     <div class="row">
       <!-- Faculty - sorted by last name -->
       {% assign sorted_faculty = site.faculty | sort: 'last_name' %} {% for
@@ -181,7 +185,18 @@
         </div>
       </div>
       {% endif %} {% endfor %}
+    </div>
+  </div>
+</div>
 
+<!-- Alumni Section -->
+<div class="container mtb">
+  <div class="people-section">
+    <div class="section-header">
+      <h2 class="section-title">Alumni</h2>
+      <div class="hline"></div>
+    </div>
+    <div class="row">
       <!-- Alumni - sorted by last name -->
       {% assign sorted_alumni = site.alumni | sort: 'last_name' %} {% for member
       in sorted_alumni %}
