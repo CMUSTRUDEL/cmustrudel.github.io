@@ -95,20 +95,20 @@ faculty:
         url: http://bvasiles.github.io
 
 affilfaculty:
-  - name: Claire Le Goues
-    first_name: Claire
-    last_name: Le Goues
-    position: Affiliate; CMU, ISR
-    web: https://clairelegoues.com
-    img: claire.jpg
-    strudel: none
-    social:
-      #      - title: envelope #use for email address
-      #        url: mailto:name@domain.com
-      - title: twitter
-        url: https://twitter.com/clegoues
-      - title: link
-        url: https://clairelegoues.com
+  #   - name: Claire Le Goues
+  #     first_name: Claire
+  #     last_name: Le Goues
+  #     position: Affiliate; CMU, ISR
+  #     web: https://clairelegoues.com
+  #     img: claire.jpg
+  #     strudel: none
+  #     social:
+  #       #      - title: envelope #use for email address
+  #       #        url: mailto:name@domain.com
+  #       - title: twitter
+  #         url: https://twitter.com/clegoues
+  #       - title: link
+  #         url: https://clairelegoues.com
   - name: Christian Kästner
     first_name: Christian
     last_name: Kästner
@@ -123,20 +123,20 @@ affilfaculty:
         url: https://twitter.com/p0nk
       - title: link
         url: https://www.cs.cmu.edu/~ckaestne/
-  - name: Graham Neubig
-    first_name: Graham
-    last_name: Neubig
-    position: Affiliate; CMU, LTI
-    web: http://phontron.com
-    img: graham.jpg
-    strudel: cherry
-    social:
-      #      - title: envelope #use for email address
-      #        url: mailto:name@domain.com
-      - title: twitter
-        url: https://twitter.com/gneubig
-      - title: link
-        url: http://phontron.com
+  # - name: Graham Neubig
+  #   first_name: Graham
+  #   last_name: Neubig
+  #   position: Affiliate; CMU, LTI
+  #   web: http://phontron.com
+  #   img: graham.jpg
+  #   strudel: cherry
+  #   social:
+  #     #      - title: envelope #use for email address
+  #     #        url: mailto:name@domain.com
+  #     - title: twitter
+  #       url: https://twitter.com/gneubig
+  #     - title: link
+  #       url: http://phontron.com
   - name: Jim Herbsleb
     first_name: Jim
     last_name: Herbsleb
@@ -151,20 +151,20 @@ affilfaculty:
         url: https://twitter.com/jherbsleb
       - title: link
         url: http://herbsleb.org
-  - name: Daniel Klug
-    first_name: Daniel
-    last_name: Klug
-    position: Affiliate; CMU, ISR
-    web: http://daniel.klug.am
-    img: daniel.jpg
-    strudel: s-TRUE-del Bavarian
-    social:
-      - title: envelope #use for email address
-        url: mailto:dklug@cs.cmu.edu
-      - title: twitter
-        url: https://twitter.com/dnlklg
-      - title: link
-        url: http://daniel.klug.am
+  # - name: Daniel Klug
+  #   first_name: Daniel
+  #   last_name: Klug
+  #   position: Affiliate; CMU, ISR
+  #   web: http://daniel.klug.am
+  #   img: daniel.jpg
+  #   strudel: s-TRUE-del Bavarian
+  #   social:
+  #     - title: envelope #use for email address
+  #       url: mailto:dklug@cs.cmu.edu
+  #     - title: twitter
+  #       url: https://twitter.com/dnlklg
+  #     - title: link
+  #       url: http://daniel.klug.am
   - name: Narayan Ramasubbu
     first_name: Narayan
     last_name: Ramasubbu
