@@ -214,12 +214,12 @@ grads:
     img: CMillerHeadshot.jpg
     strudel: sour cherry
     social:
-      - title: envelope #use for email address
-        url: mailto:courtneymiller@cmu.edu
-      - title: twitter
-        url: http://twitter.com/courtneyelta
       - title: link
         url: https://courtney-e-miller.github.io
+      - title: linkedin
+        url: https://www.linkedin.com/in/courtney-e-miller/
+      - title: twitter
+        url: https://x.com/courtneyelta
 
 postdocs:
   - name: Thomas Bock
