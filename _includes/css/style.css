@@ -540,21 +540,23 @@ a.anchor{
 	overflow-x: hidden;
 	word-wrap: break-word;
 	overflow-wrap: break-word;
+	margin-bottom: 20px;
 }
 
 .refs-row table {
 	width: 100%;
 	max-width: 100%;
-	table-layout: auto;
+	table-layout: fixed;
 	border-collapse: collapse;
 }
 
 .refs-row .abbrv-cell {
-	min-width: 80px;
-	max-width: 120px;
-	width: auto;
-	padding-right: 15px;
+	width: 130px;
+	min-width: 130px;
+	max-width: 130px;
+	padding-right: 20px;
 	vertical-align: top;
+	text-align: left;
 }
 
 .refs-row .reference-cell {
@@ -562,6 +564,7 @@ a.anchor{
 	max-width: 100%;
 	word-wrap: break-word;
 	overflow-wrap: break-word;
+	vertical-align: top;
 }
 
 .refs-row .reference {
