@@ -1,0 +1,420 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    
+    <link rel="shortcut icon" href="/assets/ico/favicon.ico">
+    <title>STRUDEL - AI's Impact on the SDLC</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="/assets/css/bootstrap.css" rel="stylesheet">
+    <!-- Custom styles for this template -->
+    <link href="/assets/css/style.css" rel="stylesheet">
+    <link href="/assets/css/font-awesome.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    
+    <style>
+        /* Custom styles for this page */
+        #blue {
+            padding-top: 20px;
+            padding-bottom: 20px;
+            margin-bottom: 0px;
+        }
+        
+        #blue h3 {
+            margin-bottom: 0;
+            font-size: 1.9rem;
+            font-weight: 600;
+            letter-spacing: -0.02em;
+        }
+        
+        /* Main content */
+        .papers-section {
+            text-align: center;
+            margin-bottom: 3rem;
+            margin-top: 50px;
+            padding-bottom: 2.5rem;
+            border-bottom: 2px solid #e8e8e8;
+        }
+
+        .paper-item {
+            margin-bottom: 2.5rem;
+        }
+
+        .paper-item:last-of-type {
+            margin-bottom: 1.5rem;
+        }
+
+        .paper-title {
+            font-size: 1.5rem;
+            font-weight: 700;
+            line-height: 1.35;
+            margin-bottom: 0.75rem;
+            color: #2a2a2a;
+            max-width: 900px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .authors {
+            font-size: 1.05rem;
+            margin-bottom: 0.5rem;
+            color: #DC2624;
+            line-height: 1.5;
+            font-weight: 500;
+        }
+
+        .author {
+            display: inline;
+        }
+
+        .affiliation-num {
+            font-size: 0.7em;
+            vertical-align: super;
+            font-weight: 600;
+        }
+
+        .affiliations {
+            font-size: 1rem;
+            color: #555;
+            margin-top: 1.5rem;
+            margin-bottom: 2rem;
+            line-height: 1.6;
+        }
+
+        /* Buttons */
+        .button-group {
+            display: flex;
+            gap: 0.9rem;
+            margin-top: 2rem;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .btn-paper {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.75rem 2rem;
+            font-size: 1rem;
+            font-weight: 600;
+            text-decoration: none;
+            border-radius: 6px;
+            transition: all 0.2s ease;
+            border: none;
+            cursor: pointer;
+        }
+
+        .btn-primary-custom,
+        .btn-primary-custom:visited,
+        .btn-primary-custom:active,
+        .btn-primary-custom:focus {
+            background: #DC2624;
+            color: white !important;
+        }
+
+        .btn-primary-custom:hover {
+            background: #b51f1d;
+            transform: translateY(-2px);
+            box-shadow: 0 6px 16px rgba(220, 38, 36, 0.25);
+            color: white !important;
+            text-decoration: none;
+        }
+
+        .btn-secondary-custom,
+        .btn-secondary-custom:visited,
+        .btn-secondary-custom:active,
+        .btn-secondary-custom:focus {
+            background: #384452;
+            color: white !important;
+        }
+
+        .btn-secondary-custom:hover {
+            background: #2a3340;
+            transform: translateY(-2px);
+            box-shadow: 0 6px 16px rgba(56, 68, 82, 0.25);
+            color: white !important;
+            text-decoration: none;
+        }
+
+        /* Overview Section */
+        .overview {
+            margin-top: 3rem;
+            text-align: left;
+            max-width: 900px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .overview h3 {
+            font-size: 1.75rem;
+            margin-bottom: 1.5rem;
+            color: #2a2a2a;
+            font-weight: 700;
+            letter-spacing: -0.01em;
+        }
+
+        .overview p {
+            font-size: 1.1rem;
+            line-height: 1.75;
+            color: #3a3a3a;
+            margin-bottom: 1.5rem;
+        }
+
+        .overview p:last-child {
+            margin-bottom: 0;
+        }
+
+        .figure-wrapper {
+            text-align: center;
+            margin: 2.5rem 0;
+            padding: 1rem 0;
+        }
+
+        .figure-wrapper img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+            box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+            border: 1px solid #e5e5e5;
+        }
+
+        .figure-caption {
+            font-size: 0.95rem;
+            color: #666;
+            margin-top: 1.25rem;
+            font-style: italic;
+            line-height: 1.5;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            #blue h3 {
+                font-size: 1.5rem;
+            }
+            
+            .papers-section {
+                margin-top: 35px;
+            }
+            
+            .paper-title {
+                font-size: 1.25rem;
+            }
+
+            .authors {
+                font-size: 0.95rem;
+            }
+
+            .affiliations {
+                font-size: 0.9rem;
+            }
+
+            .button-group {
+                flex-direction: column;
+                align-items: center;
+                gap: 0.7rem;
+            }
+
+            .btn-paper {
+                width: 85%;
+                max-width: 280px;
+                justify-content: center;
+            }
+
+            .overview h3 {
+                font-size: 1.5rem;
+            }
+
+            .overview p {
+                font-size: 1rem;
+            }
+
+            .figure-wrapper {
+                margin: 2rem 0;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Fixed navbar -->
+    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="/">STRUDEL</a>
+        </div>
+        <div class="navbar-collapse collapse navbar-right">
+          <ul class="nav navbar-nav">
+            <li><a href="/">HOME</a></li>
+            <li><a href="/people/">PEOPLE</a></li>
+            <li><a href="/research/">RESEARCH</a></li>
+            <li><a href="/publications/">PUBLICATIONS</a></li>
+            <li><a href="/blog/">BLOG</a></li>
+            <li><a href="/contact/">CONTACT</a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+
+    <!-- Red header section -->
+    <div id="blue">
+        <div class="container">
+            <div class="row">
+                <h3>AI's Impact on the Software Development Lifecycle</h3>
+            </div>
+        </div>
+    </div>
+
+    <!-- Main content -->
+    <div class="container mt">
+        <div class="row">
+            <div class="col-lg-10 col-lg-offset-1">
+                
+                <!-- Papers Section -->
+                <section class="papers-section">
+                    <!-- Paper 1 -->
+                    <div class="paper-item">
+                        <h2 class="paper-title">AI IDEs or Autonomous Agents? Measuring the Impact of Coding Agents on Software Development</h2>
+                        <div class="authors">
+                            <span class="author">Shyam Agarwal<span class="affiliation-num">1</span></span>, 
+                            <span class="author">Hao He<span class="affiliation-num">1</span></span>, 
+                            <span class="author">Bogdan Vasilescu<span class="affiliation-num">1</span></span>
+                        </div>
+                        
+                        <!-- Paper 1 Buttons -->
+                        <div class="button-group">
+                            <a href="/papers/msr2026agarwal.pdf" class="btn-paper btn-primary-custom">
+                                <svg width="18" height="18" fill="currentColor" viewBox="0 0 16 16">
+                                    <path d="M14 14V4.5L9.5 0H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2zM9.5 3A1.5 1.5 0 0 0 11 4.5h2V14a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1h5.5v2z"/>
+                                </svg>
+                                Paper
+                            </a>
+                            <a href="https://github.com/shyamagarwal13/agentic-coding-impact" target="_blank" rel="noopener noreferrer" class="btn-paper btn-secondary-custom">
+                                <svg width="18" height="18" fill="currentColor" viewBox="0 0 16 16">
+                                    <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/>
+                                </svg>
+                                Code & Data
+                            </a>
+                        </div>
+                    </div>
+                    
+                    <!-- Paper 2 -->
+                    <div class="paper-item">
+                        <h2 class="paper-title">Speed at the Cost of Quality: How Cursor AI Increases Short-Term Velocity and Long-Term Complexity in Open-Source Projects</h2>
+                        <div class="authors">
+                            <span class="author">Hao He<span class="affiliation-num">1</span></span>, 
+                            <span class="author">Courtney Miller<span class="affiliation-num">1</span></span>, 
+                            <span class="author">Shyam Agarwal<span class="affiliation-num">1</span></span>, 
+                            <span class="author">Christian Kästner<span class="affiliation-num">1</span></span>, 
+                            <span class="author">Bogdan Vasilescu<span class="affiliation-num">1</span></span>
+                        </div>
+                        
+                        <!-- Paper 2 Buttons -->
+                        <div class="button-group">
+                            <a href="/papers/msr2026he.pdf" class="btn-paper btn-primary-custom">
+                                <svg width="18" height="18" fill="currentColor" viewBox="0 0 16 16">
+                                    <path d="M14 14V4.5L9.5 0H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2zM9.5 3A1.5 1.5 0 0 0 11 4.5h2V14a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1h5.5v2z"/>
+                                </svg>
+                                Paper
+                            </a>
+                            <a href="https://zenodo.org/records/18368662" target="_blank" rel="noopener noreferrer" class="btn-paper btn-secondary-custom">
+                                <svg width="18" height="18" fill="currentColor" viewBox="0 0 16 16">
+                                    <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/>
+                                </svg>
+                                Code & Data
+                            </a>
+                        </div>
+                    </div>
+                    
+                    <!-- Shared Affiliation -->
+                    <div class="affiliations">
+                        <span class="affiliation-num">1</span>Carnegie Mellon University
+                    </div>
+                </section>
+
+                <!-- Overview -->
+                <section class="overview">
+                    <h3>Overview of Research</h3>
+                    <p>
+                        We've all heard developer stories and marketing claims about AI coding tools speeding up software development. 
+                        And they do: We've studied this empirically using causal inference techniques across a large sample of GitHub 
+                        repositories, and the evidence is strong — development velocity (commits, lines added) increases when adopting 
+                        all the modern AI coding assistants.
+                    </p>
+                    <p>
+                        What was less well understood empirically is that <strong>this velocity increase tends to be short-lived, and 
+                        tends to come at the cost of code quality and technical debt</strong>: Static analysis warnings and code 
+                        complexity go up substantially and never recover during our observation window.
+                    </p>
+                    
+                    <div class="figure-wrapper">
+                        <img src="/assets/fig/ai-sdlc-impact-results.png" alt="Research findings showing the impact of AI coding tools on software development metrics">
+                        <p class="figure-caption">
+                            Impact of AI coding tools on software development: velocity increases but code quality decreases
+                        </p>
+                    </div>
+                    
+                    <p>
+                        These findings have important implications for software engineering practice. While AI coding assistants can 
+                        boost short-term productivity, teams must be aware of the potential long-term costs to code maintainability 
+                        and quality. Our research provides empirical evidence to inform better strategies for integrating AI tools 
+                        into software development workflows.
+                    </p>
+                    <p>
+                        Both papers were published at the <strong>International Conference on Mining Software Repositories (MSR) 2026</strong>, 
+                        part of ongoing research at Carnegie Mellon University's STRUDEL Lab to understand the socio-technical 
+                        implications of AI in software engineering.
+                    </p>
+                </section>
+
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <div id="footerwrap">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4">
+                    <h4>About</h4>
+                    <div class="hline-w"></div>
+                    <p>We study complex socio-technical systems such as GitHub and Stack Overflow using data science methods.</p>
+                </div>
+                <div class="col-lg-4">
+                    <h4>Social Links</h4>
+                    <div class="hline-w"></div>
+                    <p>
+                        <a href="https://www.facebook.com/cmustrudel/"><i class="fa fa-facebook"></i></a>
+                        <a href="https://twitter.com/cmustrudel"><i class="fa fa-twitter"></i></a>
+                        <a href="https://github.com/cmustrudel"><i class="fa fa-github"></i></a>
+                    </p>
+                </div>
+                <div class="col-lg-4">
+                    <h4>Contact</h4>
+                    <div class="hline-w"></div>
+                    <p>
+                        Software and Societal Systems Department<br/>
+                        School of Computer Science<br/>
+                        TCS Hall 430, 4665 Forbes Avenue Pittsburgh, PA 15213<br/>
+                    </p>
+                </div>
+            
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="/assets/js/bootstrap.min.js"></script>
+</body>
+</html>
