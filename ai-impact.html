@@ -359,30 +359,22 @@
                 <section class="overview">
                     <h3>Overview of Research</h3>
                     <p>
-                        We've all heard developer stories and marketing claims about AI coding tools speeding up software development. 
-                        And they do: We've studied this empirically using causal inference techniques across a large sample of GitHub 
-                        repositories, and the evidence is strong — development velocity (commits, lines added) increases when adopting 
-                        modern AI coding assistants.
+                        AI coding assistants and autonomous coding agents are widely promoted as major accelerators of software development. 
+                        Developer testimonials and product marketing often report large productivity gains, but rigorous longitudinal evidence 
+                        has been limited. In two recent empirical studies, we examine these claims using large-scale GitHub data and modern 
+                        causal inference methods.
                     </p>
                     <p>
-                        But here's what was less well understood: <strong>this velocity increase tends to be short-lived, and 
-                        tends to come at the cost of code quality and technical debt</strong>. Static analysis warnings and code 
-                        complexity go up substantially and never recover during our observation window.
-                    </p>
-                    
-                    <h4 style="margin-top: 2rem; margin-bottom: 1rem; font-size: 1.3rem; font-weight: 600;">What We Studied</h4>
-                    <p>
-                        We analyzed <strong>over 800 open-source GitHub repositories</strong> that adopted AI coding tools, comparing them to carefully matched control repositories. 
-                        We looked at two types of AI adoption: projects that jumped straight to autonomous coding agents (like Claude, Devin, or Cursor's Agent mode), 
-                        and projects that first used traditional AI assistants (like GitHub Copilot) before adopting agents.
+                        Both papers use the same core methodology: staggered difference-in-differences designs with carefully matched control 
+                        repositories, combined with repository-level quality metrics from static analysis. One study focuses on adoption of an 
+                        AI-native IDE assistant, Cursor, while the other examines autonomous coding agents that generate pull requests and 
+                        contribute code at the repository level.
                     </p>
                     <p>
-                        Using advanced causal inference methods (difference-in-differences with staggered adoption), we tracked what happened to these projects 
-                        over time, measuring both <strong>development velocity</strong> (how fast code gets written) and <strong>software quality</strong> (static analysis warnings, 
-                        code complexity, duplication, and documentation).
+                        Across both settings, we find strong and statistically significant short-term increases in development velocity after 
+                        adoption, measured through commits and lines of code added. In the Cursor study, velocity spikes are large but transient, 
+                        with lines added increasing several-fold in the first month and then tapering off.
                     </p>
-                    
-                    <h4 style="margin-top: 2rem; margin-bottom: 1rem; font-size: 1.3rem; font-weight: 600;">What We Found</h4>
                     
                     <div class="figure-wrapper">
                         <img src="/assets/fig/ai-sdlc-impact-results.png" alt="Research findings showing the impact of AI coding tools on software development metrics">
@@ -393,32 +385,21 @@
                     </div>
                     
                     <p>
-                        The results reveal a striking trade-off. For projects adopting coding agents as their <em>first</em> AI tool, we see impressive 
-                        velocity gains—commits increase by around 45% in the months right after adoption. But for projects that already used AI IDEs, 
-                        the productivity boost is minimal or nonexistent, suggesting <strong>diminishing returns from adding more AI assistance</strong>.
+                        What is less visible from anecdotal reports, but consistent across both papers, is the quality side of the story. In both 
+                        the IDE assistant and agent settings, adoption is followed by persistent increases in static analysis warnings and code 
+                        complexity, two widely used proxies for technical debt and maintainability risk. These increases do not revert during the 
+                        observation window.
                     </p>
                     <p>
-                        More concerning: <strong>code quality degrades across the board, regardless of prior AI experience</strong>. Static analysis warnings 
-                        increase by roughly 18%, and cognitive complexity rises by 39%. These aren't temporary blips—the quality issues persist 
-                        for the entire six-month observation period, indicating sustained technical debt accumulation.
-                    </p>
-                    
-                    <h4 style="margin-top: 2rem; margin-bottom: 1rem; font-size: 1.3rem; font-weight: 600;">Why This Matters</h4>
-                    <p>
-                        These findings challenge the "more AI equals better" narrative. Yes, AI coding tools can accelerate development, especially 
-                        for teams new to AI assistance. But the benefits fade quickly if you're already using AI tools, and the quality costs are 
-                        universal and persistent.
+                        The agent study further shows heterogeneous effects depending on prior AI exposure. Repositories that adopt agents as their 
+                        first AI tool see sizable velocity gains, while those already using AI IDE tools experience much smaller or short-lived 
+                        throughput improvements. Quality degradation signals, however, appear in both groups, with static analysis warnings and 
+                        cognitive complexity rising on the order of roughly twenty to forty percent on average.
                     </p>
                     <p>
-                        For software teams, this means: <strong>adopt AI tools strategically, not indiscriminately</strong>. The first AI tool you use 
-                        might give you a real productivity boost. But stacking AI agent upon AI assistant might just give you faster technical debt. 
-                        Either way, you'll need stronger code review processes and quality safeguards to catch the complexity and issues that AI-generated 
-                        code tends to introduce.
-                    </p>
-                    <p>
-                        Both papers were published at the <strong>International Conference on Mining Software Repositories (MSR) 2026</strong>, 
-                        part of ongoing research at Carnegie Mellon University's STRUDEL Lab to understand how AI tools are actually changing 
-                        software development—not just in controlled experiments, but in real-world open-source projects.
+                        Together, the two studies point to a consistent pattern: AI coding tools accelerate output in the short run, but without 
+                        stronger quality controls and review practices, they are associated with sustained increases in code complexity and technical 
+                        debt, which in turn are linked to later slowdowns in velocity.
                     </p>
                 </section>
 
