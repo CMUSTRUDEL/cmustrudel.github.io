@@ -195,6 +195,73 @@
             line-height: 1.5;
         }
 
+        /* In the news / media coverage */
+        @keyframes in-the-news-pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.78; }
+        }
+
+        .in-the-news {
+            background: linear-gradient(135deg, #f8f9fa 0%, #eef0f2 100%);
+            border-bottom: 1px solid #e0e0e0;
+            padding: 1.75rem 0 2rem;
+            margin-bottom: 0;
+            text-align: center;
+        }
+
+        .in-the-news .container {
+            max-width: 900px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .in-the-news-label {
+            font-size: 1.2rem;
+            font-weight: 700;
+            color: #2a2a2a;
+            margin: 0 0 1.25rem 0;
+            display: block;
+            text-align: center;
+            letter-spacing: 0.01em;
+            animation: in-the-news-pulse 2.5s ease-in-out infinite;
+        }
+
+        .in-the-news-list {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            text-align: center;
+        }
+
+        .in-the-news-list li {
+            margin-bottom: 0.7rem;
+            font-size: 1.05rem;
+            line-height: 1.5;
+            text-align: center;
+        }
+
+        .in-the-news-list li:last-child {
+            margin-bottom: 0;
+        }
+
+        .in-the-news-list a {
+            font-weight: 600;
+            color: #DC2624;
+            text-decoration: none;
+        }
+
+        .in-the-news-list a:hover {
+            color: #b51f1d;
+            text-decoration: underline;
+        }
+
+        .in-the-news-source {
+            font-size: 0.9rem;
+            font-weight: 600;
+            color: #555;
+            margin-right: 0.35em;
+        }
+
         /* Add spacing before footer for this page only */
         .container.mt {
             padding-bottom: 5rem;
@@ -202,6 +269,23 @@
 
         /* Responsive */
         @media (max-width: 768px) {
+            .in-the-news {
+                padding: 1.5rem 0 1.75rem;
+            }
+
+            .in-the-news-label {
+                font-size: 1.05rem;
+                margin-bottom: 0.85rem;
+            }
+
+            .in-the-news-list li {
+                font-size: 0.98rem;
+            }
+
+            .in-the-news-source {
+                font-size: 0.85rem;
+            }
+
             #blue h3 {
                 font-size: 1.5rem;
             }
@@ -285,6 +369,18 @@
             <div class="row">
                 <h3>AI's Impact on the Software Development Lifecycle</h3>
             </div>
+        </div>
+    </div>
+
+    <!-- In the news: replace placeholder URLs with your actual article links -->
+    <div class="in-the-news">
+        <div class="container">
+            <span class="in-the-news-label">Our research was recently featured in:</span>
+            <ul class="in-the-news-list">
+                <li><span class="in-the-news-source">[New York Times]</span> <a href="https://www.nytimes.com/2026/02/20/technology/ai-coding-software-jobs.html" target="_blank" rel="noopener noreferrer">A.I. Isn't Coming for Every White-Collar Job. At Least Not Yet.</a></li>
+                <li><span class="in-the-news-source">[CMU SCS News Story]</span> <a href="https://www.cs.cmu.edu/news/2026/hidden-cost-ai-speed" target="_blank" rel="noopener noreferrer">The Hidden Cost of AI Speed</a></li>
+                <li><span class="in-the-news-source">[New York Times]</span> <a href="https://www.nytimes.com/2026/03/12/technology/axiom-ai-code-funding.html?unlocked_article_code=1.S1A.QE_W.2aXSRM9XZiEh&smid=url-share" target="_blank" rel="noopener noreferrer">A.I. Writes Buggy Code. A Silicon Valley Start-Up Wants to Fix It</a></li>
+            </ul>
         </div>
     </div>
 
